@@ -210,19 +210,26 @@ function getQuestions(section, category, difficulty, count) {
   let pool = [];
 
   if (section === 'reading') {
-    (state.questions.reading || []).forEach(set => {
-      if (difficulty !== 'all' && set.difficulty !== difficulty) return;
-      set.questions.forEach(q => {
-        if (category !== 'all' && q.type !== category) return;
-        pool.push({
-          ...q,
-          section: 'reading',
-          category: q.type || 'reading',
-          difficulty: set.difficulty,
-          passage: set.passage,
-          passageTitle: set.title
-        });
-      });
+    // Keep full passage sets (not flattened)
+    pool = (state.questions.reading || []).filter(set => {
+      if (difficulty !== 'all' && set.difficulty !== difficulty) return false;
+      return true;
+    }).map(set => {
+      // Shuffle options for each question in the set
+      const questions = set.questions.map(q => shuffleOptions({
+        ...q,
+        section: 'reading',
+        category: q.type || 'reading',
+        difficulty: set.difficulty
+      }));
+      return {
+        id: set.id,
+        section: 'reading',
+        title: set.title,
+        passage: set.passage,
+        difficulty: set.difficulty,
+        questions
+      };
     });
   } else if (section === 'vocabulary') {
     pool = (state.questions.vocabulary || []).filter(q => {
@@ -241,14 +248,15 @@ function getQuestions(section, category, difficulty, count) {
   pool = shuffleArray(pool);
   const selected = pool.slice(0, Math.min(count, pool.length));
 
-  // Prepare each question with shuffled options
+  if (section === 'reading') {
+    return selected; // array of passage sets
+  }
+
   return selected.map(q => {
     if (section === 'vocabulary') {
-      // Generate options from other correct answers
       const { options, correctIndex } = generateVocabOptions(q.correct, state.questions.vocabulary);
       return { ...q, options, correct: correctIndex };
     } else {
-      // Shuffle existing options so correct answer is not always in same position
       return shuffleOptions(q);
     }
   });
@@ -262,18 +270,107 @@ function startQuiz(section, category, difficulty, count, mode) {
     return;
   }
 
-  state.currentQuiz = {
-    questions,
-    answers: new Array(questions.length).fill(null),
-    mode,
-    index: 0,
-    startTime: Date.now(),
-    section
-  };
-
-  showView('quiz');
-  renderQuestion();
+  if (section === 'reading') {
+    // Reading: one passage set at a time, all questions shown together
+    // For simplicity take first set (or cycle). Use count as number of passages.
+    const set = questions[0];
+    state.currentQuiz = {
+      isReadingSet: true,
+      passageSet: set,
+      questions: set.questions,
+      answers: new Array(set.questions.length).fill(null),
+      mode,
+      index: 0,
+      startTime: Date.now(),
+      section: 'reading'
+    };
+    showView('quiz');
+    renderReadingSet();
+  } else {
+    state.currentQuiz = {
+      isReadingSet: false,
+      questions,
+      answers: new Array(questions.length).fill(null),
+      mode,
+      index: 0,
+      startTime: Date.now(),
+      section
+    };
+    showView('quiz');
+    renderQuestion();
+  }
 }
+
+
+function renderReadingSet() {
+  const quiz = state.currentQuiz;
+  if (!quiz || !quiz.isReadingSet) return;
+
+  const set = quiz.passageSet;
+  const total = quiz.questions.length;
+  const answered = quiz.answers.filter(a => a !== null).length;
+
+  document.getElementById('quiz-progress-text').textContent = `Bacaan: ${answered} / ${total} dijawab`;
+  document.getElementById('quiz-progress-bar').style.width = `${(answered / total) * 100}%`;
+
+  // Passage always visible
+  const passageBox = document.getElementById('passage-box');
+  passageBox.classList.remove('hidden');
+  passageBox.innerHTML = `<strong>${set.title || 'Bacaan'}</strong><br><br>${set.passage}`;
+
+  // Hide single question text area, use options container for all questions
+  document.getElementById('question-text').innerHTML = '';
+  document.getElementById('feedback-box').classList.add('hidden');
+
+  const container = document.getElementById('options-container');
+  const letters = ['A', 'B', 'C', 'D'];
+
+  container.innerHTML = quiz.questions.map((q, qi) => {
+    const optsHtml = q.options.map((opt, oi) => {
+      let cls = 'option';
+      if (quiz.answers[qi] === oi) cls += ' selected';
+      if (quiz.mode === 'practice' && quiz.answers[qi] !== null) {
+        if (oi === q.correct) cls += ' correct';
+        else if (oi === quiz.answers[qi] && oi !== q.correct) cls += ' wrong';
+      }
+      return `<button class="${cls}" data-qi="${qi}" data-oi="${oi}">
+        <span class="letter">${letters[oi]}.</span>
+        <span>${opt}</span>
+      </button>`;
+    }).join('');
+
+    let feedback = '';
+    if (quiz.mode === 'practice' && quiz.answers[qi] !== null) {
+      const ok = quiz.answers[qi] === q.correct;
+      feedback = `<div class="feedback-box ${ok ? 'correct' : 'wrong'}" style="margin-top:0.5rem;margin-bottom:0.75rem">
+        <div class="title">${ok ? '✓ Benar' : '✗ Salah'}</div>
+        <div>${q.explanation || ''}</div>
+      </div>`;
+    }
+
+    return `<div class="reading-q-block" style="margin-bottom:1.5rem;padding-bottom:1rem;border-bottom:1px solid var(--border)">
+      <h4 style="margin-bottom:0.75rem;font-size:1.05rem">${qi + 1}. ${q.question}</h4>
+      <div class="options">${optsHtml}</div>
+      ${feedback}
+    </div>`;
+  }).join('');
+
+  container.querySelectorAll('.option').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const qi = parseInt(btn.dataset.qi, 10);
+      const oi = parseInt(btn.dataset.oi, 10);
+      quiz.answers[qi] = oi;
+      renderReadingSet();
+    });
+  });
+
+  // Buttons: no prev/next, only finish when all answered (or allow anytime)
+  document.getElementById('btn-prev').classList.add('hidden');
+  document.getElementById('btn-next').classList.add('hidden');
+  document.getElementById('btn-finish').classList.remove('hidden');
+  document.getElementById('btn-finish').textContent = 'Selesai';
+}
+
 
 function renderQuestion() {
   const quiz = state.currentQuiz;
@@ -323,10 +420,13 @@ function renderQuestion() {
   document.getElementById('feedback-box').classList.add('hidden');
 
   // Buttons
+  document.getElementById('btn-prev').classList.remove('hidden');
+  document.getElementById('btn-next').classList.remove('hidden');
   document.getElementById('btn-prev').disabled = i === 0;
   const isLast = i === total - 1;
   document.getElementById('btn-next').classList.toggle('hidden', isLast);
   document.getElementById('btn-finish').classList.toggle('hidden', !isLast);
+  document.getElementById('btn-finish').textContent = 'Selesai';
 
   // In practice mode after answering, show feedback
   if (quiz.mode === 'practice' && quiz.answers[i] !== null) {
@@ -336,12 +436,9 @@ function renderQuestion() {
 
 function selectOption(idx) {
   const quiz = state.currentQuiz;
-  if (!quiz) return;
+  if (!quiz || quiz.isReadingSet) return;
   quiz.answers[quiz.index] = idx;
-
-  // Re-render to update selected state
   renderQuestion();
-
   if (quiz.mode === 'practice') {
     showFeedback(quiz.questions[quiz.index], idx);
   }
