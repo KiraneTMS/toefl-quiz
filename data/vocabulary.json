@@ -5,7 +5,12 @@
     "category": "meaning",
     "difficulty": "easy",
     "question": "The word \"abundant\" most nearly means:",
-    "options": ["scarce", "plentiful", "dangerous", "ancient"],
+    "options": [
+      "scarce",
+      "plentiful",
+      "dangerous",
+      "ancient"
+    ],
     "correct": 1,
     "explanation": "\"Abundant\" means existing in large quantities; plentiful."
   },
@@ -15,7 +20,12 @@
     "category": "synonyms",
     "difficulty": "medium",
     "question": "Which word is closest in meaning to \"meticulous\"?",
-    "options": ["careless", "careful and precise", "quick", "emotional"],
+    "options": [
+      "careless",
+      "careful and precise",
+      "quick",
+      "emotional"
+    ],
     "correct": 1,
     "explanation": "\"Meticulous\" describes someone who pays great attention to detail; careful and precise."
   },
@@ -25,7 +35,12 @@
     "category": "context",
     "difficulty": "medium",
     "question": "In the sentence \"The professor's explanation was quite lucid,\" the word \"lucid\" means:",
-    "options": ["confusing", "clear and easy to understand", "long", "technical"],
+    "options": [
+      "confusing",
+      "clear and easy to understand",
+      "long",
+      "technical"
+    ],
     "correct": 1,
     "explanation": "\"Lucid\" means expressed clearly; easy to understand."
   },
@@ -35,7 +50,12 @@
     "category": "academic",
     "difficulty": "hard",
     "question": "The term \"hypothesis\" is best defined as:",
-    "options": ["a proven fact", "a proposed explanation that can be tested", "a final conclusion", "a random guess"],
+    "options": [
+      "a proven fact",
+      "a proposed explanation that can be tested",
+      "a final conclusion",
+      "a random guess"
+    ],
     "correct": 1,
     "explanation": "A hypothesis is a testable proposed explanation for a phenomenon."
   },
@@ -45,7 +65,12 @@
     "category": "synonyms",
     "difficulty": "easy",
     "question": "\"Beneficial\" is closest in meaning to:",
-    "options": ["harmful", "helpful", "expensive", "rare"],
+    "options": [
+      "harmful",
+      "helpful",
+      "expensive",
+      "rare"
+    ],
     "correct": 1,
     "explanation": "\"Beneficial\" means producing good results; helpful or advantageous."
   },
@@ -55,7 +80,12 @@
     "category": "meaning",
     "difficulty": "medium",
     "question": "What does \"inevitable\" mean?",
-    "options": ["unlikely", "certain to happen", "surprising", "optional"],
+    "options": [
+      "unlikely",
+      "certain to happen",
+      "surprising",
+      "optional"
+    ],
     "correct": 1,
     "explanation": "\"Inevitable\" means certain to occur; unavoidable."
   },
@@ -65,7 +95,12 @@
     "category": "context",
     "difficulty": "hard",
     "question": "\"The committee reached a consensus after hours of debate.\" The word \"consensus\" means:",
-    "options": ["disagreement", "general agreement", "a vote", "a compromise forced by the chair"],
+    "options": [
+      "disagreement",
+      "general agreement",
+      "a vote",
+      "a compromise forced by the chair"
+    ],
     "correct": 1,
     "explanation": "\"Consensus\" means general agreement among a group."
   },
@@ -75,7 +110,12 @@
     "category": "academic",
     "difficulty": "medium",
     "question": "In academic writing, \"to corroborate\" means:",
-    "options": ["to contradict", "to confirm or support with evidence", "to summarize", "to criticize"],
+    "options": [
+      "to contradict",
+      "to confirm or support with evidence",
+      "to summarize",
+      "to criticize"
+    ],
     "correct": 1,
     "explanation": "\"Corroborate\" means to confirm or give support to a statement or theory with evidence."
   },
@@ -85,7 +125,12 @@
     "category": "meaning",
     "difficulty": "easy",
     "question": "\"Scarce\" most nearly means:",
-    "options": ["plentiful", "rare or insufficient", "expensive", "ancient"],
+    "options": [
+      "plentiful",
+      "rare or insufficient",
+      "expensive",
+      "ancient"
+    ],
     "correct": 1,
     "explanation": "\"Scarce\" means insufficient or hard to find."
   },
@@ -95,7 +140,12 @@
     "category": "synonyms",
     "difficulty": "medium",
     "question": "Which word is closest in meaning to \"ambiguous\"?",
-    "options": ["clear", "having more than one possible meaning", "loud", "brief"],
+    "options": [
+      "clear",
+      "having more than one possible meaning",
+      "loud",
+      "brief"
+    ],
     "correct": 1,
     "explanation": "\"Ambiguous\" means open to more than one interpretation."
   },
@@ -105,7 +155,12 @@
     "category": "context",
     "difficulty": "easy",
     "question": "\"The evidence was compelling.\" The word \"compelling\" means:",
-    "options": ["weak", "convincing", "irrelevant", "outdated"],
+    "options": [
+      "weak",
+      "convincing",
+      "irrelevant",
+      "outdated"
+    ],
     "correct": 1,
     "explanation": "\"Compelling\" means convincing or forceful."
   },
@@ -115,7 +170,12 @@
     "category": "academic",
     "difficulty": "hard",
     "question": "\"Empirical\" evidence is based on:",
-    "options": ["theory alone", "observation or experiment", "personal opinion", "historical records only"],
+    "options": [
+      "theory alone",
+      "observation or experiment",
+      "personal opinion",
+      "historical records only"
+    ],
     "correct": 1,
     "explanation": "Empirical means based on observation or experience rather than theory."
   },
@@ -125,7 +185,12 @@
     "category": "meaning",
     "difficulty": "medium",
     "question": "\"Obsolete\" means:",
-    "options": ["modern", "no longer in use", "expensive", "complex"],
+    "options": [
+      "modern",
+      "no longer in use",
+      "expensive",
+      "complex"
+    ],
     "correct": 1,
     "explanation": "\"Obsolete\" means no longer produced or used; out of date."
   },
@@ -135,7 +200,12 @@
     "category": "synonyms",
     "difficulty": "hard",
     "question": "\"Pragmatic\" is closest in meaning to:",
-    "options": ["idealistic", "practical", "emotional", "theoretical"],
+    "options": [
+      "idealistic",
+      "practical",
+      "emotional",
+      "theoretical"
+    ],
     "correct": 1,
     "explanation": "\"Pragmatic\" means dealing with things sensibly and realistically; practical."
   },
@@ -145,7 +215,12 @@
     "category": "context",
     "difficulty": "medium",
     "question": "\"The results were consistent with previous studies.\" \"Consistent with\" means:",
-    "options": ["different from", "in agreement with", "better than", "unrelated to"],
+    "options": [
+      "different from",
+      "in agreement with",
+      "better than",
+      "unrelated to"
+    ],
     "correct": 1,
     "explanation": "\"Consistent with\" means in agreement or harmony with."
   },
@@ -155,7 +230,12 @@
     "category": "academic",
     "difficulty": "easy",
     "question": "A \"variable\" in an experiment is:",
-    "options": ["something that stays the same", "a factor that can change", "the final result", "a type of equipment"],
+    "options": [
+      "something that stays the same",
+      "a factor that can change",
+      "the final result",
+      "a type of equipment"
+    ],
     "correct": 1,
     "explanation": "A variable is any factor that can change or be changed in an experiment."
   },
@@ -165,7 +245,12 @@
     "category": "meaning",
     "difficulty": "hard",
     "question": "\"Ubiquitous\" means:",
-    "options": ["rare", "present everywhere", "dangerous", "temporary"],
+    "options": [
+      "rare",
+      "present everywhere",
+      "dangerous",
+      "temporary"
+    ],
     "correct": 1,
     "explanation": "\"Ubiquitous\" means present, appearing, or found everywhere."
   },
@@ -175,7 +260,12 @@
     "category": "synonyms",
     "difficulty": "easy",
     "question": "\"Accurate\" is closest in meaning to:",
-    "options": ["wrong", "correct", "fast", "long"],
+    "options": [
+      "wrong",
+      "correct",
+      "fast",
+      "long"
+    ],
     "correct": 1,
     "explanation": "\"Accurate\" means correct or precise."
   },
@@ -185,7 +275,12 @@
     "category": "context",
     "difficulty": "hard",
     "question": "\"The theory has been largely discredited.\" \"Discredited\" means:",
-    "options": ["proven correct", "shown to be false or unreliable", "widely accepted", "recently published"],
+    "options": [
+      "proven correct",
+      "shown to be false or unreliable",
+      "widely accepted",
+      "recently published"
+    ],
     "correct": 1,
     "explanation": "\"Discredited\" means to harm the reputation of; shown to be false."
   },
@@ -195,7 +290,12 @@
     "category": "academic",
     "difficulty": "medium",
     "question": "\"To synthesize\" information means:",
-    "options": ["to ignore it", "to combine it into a coherent whole", "to criticize it", "to memorize it"],
+    "options": [
+      "to ignore it",
+      "to combine it into a coherent whole",
+      "to criticize it",
+      "to memorize it"
+    ],
     "correct": 1,
     "explanation": "Synthesize means to combine different elements into a coherent whole."
   },
@@ -205,7 +305,12 @@
     "category": "meaning",
     "difficulty": "medium",
     "question": "\"Feasible\" means:",
-    "options": ["impossible", "possible and practical", "expensive", "theoretical"],
+    "options": [
+      "impossible",
+      "possible and practical",
+      "expensive",
+      "theoretical"
+    ],
     "correct": 1,
     "explanation": "\"Feasible\" means possible and practical to do easily or conveniently."
   },
@@ -215,7 +320,12 @@
     "category": "synonyms",
     "difficulty": "medium",
     "question": "\"Robust\" is closest in meaning to:",
-    "options": ["weak", "strong and healthy", "complicated", "temporary"],
+    "options": [
+      "weak",
+      "strong and healthy",
+      "complicated",
+      "temporary"
+    ],
     "correct": 1,
     "explanation": "\"Robust\" means strong and healthy; vigorous."
   },
@@ -225,7 +335,12 @@
     "category": "context",
     "difficulty": "easy",
     "question": "\"The policy had a profound impact.\" \"Profound\" means:",
-    "options": ["slight", "very great or intense", "temporary", "negative"],
+    "options": [
+      "slight",
+      "very great or intense",
+      "temporary",
+      "negative"
+    ],
     "correct": 1,
     "explanation": "\"Profound\" means very great or intense."
   },
@@ -235,7 +350,12 @@
     "category": "academic",
     "difficulty": "hard",
     "question": "\"A paradigm\" is:",
-    "options": ["a small example", "a typical example or pattern", "a contradiction", "a random event"],
+    "options": [
+      "a small example",
+      "a typical example or pattern",
+      "a contradiction",
+      "a random event"
+    ],
     "correct": 1,
     "explanation": "A paradigm is a typical example or pattern of something; a model."
   },
@@ -245,7 +365,12 @@
     "category": "meaning",
     "difficulty": "easy",
     "question": "\"Reluctant\" means:",
-    "options": ["eager", "unwilling", "happy", "confused"],
+    "options": [
+      "eager",
+      "unwilling",
+      "happy",
+      "confused"
+    ],
     "correct": 1,
     "explanation": "\"Reluctant\" means unwilling or hesitant."
   },
@@ -255,7 +380,12 @@
     "category": "synonyms",
     "difficulty": "hard",
     "question": "\"Intrinsic\" is closest in meaning to:",
-    "options": ["external", "belonging naturally; essential", "temporary", "artificial"],
+    "options": [
+      "external",
+      "belonging naturally; essential",
+      "temporary",
+      "artificial"
+    ],
     "correct": 1,
     "explanation": "\"Intrinsic\" means belonging naturally; essential."
   },
@@ -265,7 +395,12 @@
     "category": "context",
     "difficulty": "medium",
     "question": "\"The findings were preliminary.\" \"Preliminary\" means:",
-    "options": ["final", "coming before the main part", "incorrect", "detailed"],
+    "options": [
+      "final",
+      "coming before the main part",
+      "incorrect",
+      "detailed"
+    ],
     "correct": 1,
     "explanation": "\"Preliminary\" means preceding or done in preparation for something fuller."
   },
@@ -275,7 +410,12 @@
     "category": "academic",
     "difficulty": "medium",
     "question": "\"To refute\" an argument means:",
-    "options": ["to support it", "to prove it wrong", "to ignore it", "to summarize it"],
+    "options": [
+      "to support it",
+      "to prove it wrong",
+      "to ignore it",
+      "to summarize it"
+    ],
     "correct": 1,
     "explanation": "\"Refute\" means to prove a statement or theory to be wrong."
   },
@@ -285,7 +425,12 @@
     "category": "meaning",
     "difficulty": "hard",
     "question": "\"Ephemeral\" means:",
-    "options": ["lasting a long time", "lasting for a very short time", "extremely important", "difficult to understand"],
+    "options": [
+      "lasting a long time",
+      "lasting for a very short time",
+      "extremely important",
+      "difficult to understand"
+    ],
     "correct": 1,
     "explanation": "\"Ephemeral\" means lasting for a very short time."
   },
@@ -295,8 +440,763 @@
     "category": "synonyms",
     "difficulty": "easy",
     "question": "\"Essential\" is closest in meaning to:",
-    "options": ["optional", "necessary", "expensive", "complicated"],
+    "options": [
+      "optional",
+      "necessary",
+      "expensive",
+      "complicated"
+    ],
     "correct": 1,
     "explanation": "\"Essential\" means absolutely necessary; extremely important."
+  },
+  {
+    "id": "voc-031",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "The word \"achieve\" most nearly means:",
+    "options": [
+      "fail",
+      "succeed in doing",
+      "ignore",
+      "delay"
+    ],
+    "correct": 1,
+    "explanation": "\"Achieve\" means to successfully reach a goal or complete something."
+  },
+  {
+    "id": "voc-032",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Adequate\" is closest in meaning to:",
+    "options": [
+      "insufficient",
+      "enough",
+      "extra",
+      "rare"
+    ],
+    "correct": 1,
+    "explanation": "\"Adequate\" means enough or satisfactory for a particular purpose."
+  },
+  {
+    "id": "voc-033",
+    "section": "vocabulary",
+    "category": "synonyms",
+    "difficulty": "easy",
+    "question": "Which word is closest in meaning to \"analyze\"?",
+    "options": [
+      "ignore",
+      "examine carefully",
+      "create",
+      "destroy"
+    ],
+    "correct": 1,
+    "explanation": "\"Analyze\" means to examine something in detail in order to understand it."
+  },
+  {
+    "id": "voc-034",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Approximate\" most nearly means:",
+    "options": [
+      "exact",
+      "roughly correct",
+      "wrong",
+      "final"
+    ],
+    "correct": 1,
+    "explanation": "\"Approximate\" means close to the actual, but not completely accurate."
+  },
+  {
+    "id": "voc-035",
+    "section": "vocabulary",
+    "category": "context",
+    "difficulty": "easy",
+    "question": "\"The instructions were complex.\" The word \"complex\" means:",
+    "options": [
+      "simple",
+      "complicated",
+      "short",
+      "clear"
+    ],
+    "correct": 1,
+    "explanation": "\"Complex\" means consisting of many different parts; not easy to understand."
+  },
+  {
+    "id": "voc-036",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Concept\" is closest in meaning to:",
+    "options": [
+      "object",
+      "idea",
+      "person",
+      "place"
+    ],
+    "correct": 1,
+    "explanation": "\"Concept\" means an abstract idea or general notion."
+  },
+  {
+    "id": "voc-037",
+    "section": "vocabulary",
+    "category": "synonyms",
+    "difficulty": "easy",
+    "question": "Which word is closest in meaning to \"conclude\"?",
+    "options": [
+      "begin",
+      "finish or decide",
+      "continue",
+      "doubt"
+    ],
+    "correct": 1,
+    "explanation": "\"Conclude\" means to bring to an end or to reach a decision."
+  },
+  {
+    "id": "voc-038",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Contribute\" most nearly means:",
+    "options": [
+      "take away",
+      "give or add",
+      "destroy",
+      "hide"
+    ],
+    "correct": 1,
+    "explanation": "\"Contribute\" means to give something in order to help achieve a goal."
+  },
+  {
+    "id": "voc-039",
+    "section": "vocabulary",
+    "category": "context",
+    "difficulty": "easy",
+    "question": "\"She demonstrated great skill.\" The word \"demonstrated\" means:",
+    "options": [
+      "hid",
+      "showed",
+      "forgot",
+      "doubted"
+    ],
+    "correct": 1,
+    "explanation": "\"Demonstrate\" means to show or prove something clearly."
+  },
+  {
+    "id": "voc-040",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Distinct\" is closest in meaning to:",
+    "options": [
+      "similar",
+      "clearly different",
+      "hidden",
+      "weak"
+    ],
+    "correct": 1,
+    "explanation": "\"Distinct\" means recognizably different or clear."
+  },
+  {
+    "id": "voc-041",
+    "section": "vocabulary",
+    "category": "synonyms",
+    "difficulty": "easy",
+    "question": "Which word is closest in meaning to \"emphasize\"?",
+    "options": [
+      "ignore",
+      "give special importance to",
+      "reduce",
+      "hide"
+    ],
+    "correct": 1,
+    "explanation": "\"Emphasize\" means to give special importance or attention to something."
+  },
+  {
+    "id": "voc-042",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Establish\" most nearly means:",
+    "options": [
+      "destroy",
+      "set up or create",
+      "doubt",
+      "delay"
+    ],
+    "correct": 1,
+    "explanation": "\"Establish\" means to set up or create something on a firm basis."
+  },
+  {
+    "id": "voc-043",
+    "section": "vocabulary",
+    "category": "context",
+    "difficulty": "easy",
+    "question": "\"The evidence was sufficient.\" The word \"sufficient\" means:",
+    "options": [
+      "not enough",
+      "enough",
+      "extra",
+      "false"
+    ],
+    "correct": 1,
+    "explanation": "\"Sufficient\" means enough; adequate."
+  },
+  {
+    "id": "voc-044",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Factor\" is closest in meaning to:",
+    "options": [
+      "result",
+      "element that contributes",
+      "solution",
+      "problem"
+    ],
+    "correct": 1,
+    "explanation": "A \"factor\" is a circumstance or influence that contributes to a result."
+  },
+  {
+    "id": "voc-045",
+    "section": "vocabulary",
+    "category": "synonyms",
+    "difficulty": "easy",
+    "question": "Which word is closest in meaning to \"feature\"?",
+    "options": [
+      "problem",
+      "important characteristic",
+      "error",
+      "secret"
+    ],
+    "correct": 1,
+    "explanation": "A \"feature\" is a distinctive attribute or aspect of something."
+  },
+  {
+    "id": "voc-046",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Indicate\" most nearly means:",
+    "options": [
+      "hide",
+      "point out or show",
+      "ignore",
+      "deny"
+    ],
+    "correct": 1,
+    "explanation": "\"Indicate\" means to point out or show something."
+  },
+  {
+    "id": "voc-047",
+    "section": "vocabulary",
+    "category": "context",
+    "difficulty": "easy",
+    "question": "\"The method was effective.\" The word \"effective\" means:",
+    "options": [
+      "useless",
+      "successful in producing a result",
+      "expensive",
+      "complicated"
+    ],
+    "correct": 1,
+    "explanation": "\"Effective\" means successful in producing a desired result."
+  },
+  {
+    "id": "voc-048",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Maintain\" is closest in meaning to:",
+    "options": [
+      "destroy",
+      "keep or continue",
+      "start",
+      "forget"
+    ],
+    "correct": 1,
+    "explanation": "\"Maintain\" means to keep something in existence or at a certain level."
+  },
+  {
+    "id": "voc-049",
+    "section": "vocabulary",
+    "category": "synonyms",
+    "difficulty": "easy",
+    "question": "Which word is closest in meaning to \"obtain\"?",
+    "options": [
+      "lose",
+      "get or acquire",
+      "give",
+      "refuse"
+    ],
+    "correct": 1,
+    "explanation": "\"Obtain\" means to get or acquire something."
+  },
+  {
+    "id": "voc-050",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Occur\" most nearly means:",
+    "options": [
+      "stop",
+      "happen",
+      "prevent",
+      "plan"
+    ],
+    "correct": 1,
+    "explanation": "\"Occur\" means to happen or take place."
+  },
+  {
+    "id": "voc-051",
+    "section": "vocabulary",
+    "category": "context",
+    "difficulty": "easy",
+    "question": "\"The process was gradual.\" The word \"gradual\" means:",
+    "options": [
+      "sudden",
+      "happening slowly",
+      "complete",
+      "dangerous"
+    ],
+    "correct": 1,
+    "explanation": "\"Gradual\" means taking place slowly over time."
+  },
+  {
+    "id": "voc-052",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Range\" is closest in meaning to:",
+    "options": [
+      "single point",
+      "variety or extent",
+      "limit only",
+      "error"
+    ],
+    "correct": 1,
+    "explanation": "\"Range\" can mean the area of variation between limits, or a variety."
+  },
+  {
+    "id": "voc-053",
+    "section": "vocabulary",
+    "category": "synonyms",
+    "difficulty": "easy",
+    "question": "Which word is closest in meaning to \"require\"?",
+    "options": [
+      "suggest",
+      "need",
+      "ignore",
+      "optional"
+    ],
+    "correct": 1,
+    "explanation": "\"Require\" means to need something or make something necessary."
+  },
+  {
+    "id": "voc-054",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Significant\" most nearly means:",
+    "options": [
+      "unimportant",
+      "important or large enough to matter",
+      "small",
+      "hidden"
+    ],
+    "correct": 1,
+    "explanation": "\"Significant\" means sufficiently great or important to be worthy of attention."
+  },
+  {
+    "id": "voc-055",
+    "section": "vocabulary",
+    "category": "context",
+    "difficulty": "easy",
+    "question": "\"The source of the information was reliable.\" The word \"source\" means:",
+    "options": [
+      "result",
+      "origin or place something comes from",
+      "error",
+      "copy"
+    ],
+    "correct": 1,
+    "explanation": "A \"source\" is the place, person, or thing from which something comes."
+  },
+  {
+    "id": "voc-056",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Specific\" is closest in meaning to:",
+    "options": [
+      "general",
+      "clearly defined or particular",
+      "vague",
+      "common"
+    ],
+    "correct": 1,
+    "explanation": "\"Specific\" means clearly defined or identified; particular."
+  },
+  {
+    "id": "voc-057",
+    "section": "vocabulary",
+    "category": "synonyms",
+    "difficulty": "easy",
+    "question": "Which word is closest in meaning to \"structure\"?",
+    "options": [
+      "chaos",
+      "organization or arrangement",
+      "color",
+      "sound"
+    ],
+    "correct": 1,
+    "explanation": "\"Structure\" means the arrangement of parts or the way something is organized."
+  },
+  {
+    "id": "voc-058",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Theory\" most nearly means:",
+    "options": [
+      "proven fact only",
+      "idea or set of ideas intended to explain something",
+      "object",
+      "error"
+    ],
+    "correct": 1,
+    "explanation": "A \"theory\" is a system of ideas intended to explain something."
+  },
+  {
+    "id": "voc-059",
+    "section": "vocabulary",
+    "category": "context",
+    "difficulty": "easy",
+    "question": "\"The variation was noticeable.\" The word \"variation\" means:",
+    "options": [
+      "sameness",
+      "difference or change",
+      "strength",
+      "speed"
+    ],
+    "correct": 1,
+    "explanation": "\"Variation\" means a change or difference in condition or amount."
+  },
+  {
+    "id": "voc-060",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Assume\" is closest in meaning to:",
+    "options": [
+      "prove",
+      "suppose or accept as true",
+      "deny",
+      "measure"
+    ],
+    "correct": 1,
+    "explanation": "\"Assume\" means to accept something as true without proof."
+  },
+  {
+    "id": "voc-061",
+    "section": "vocabulary",
+    "category": "synonyms",
+    "difficulty": "easy",
+    "question": "Which word is closest in meaning to \"available\"?",
+    "options": [
+      "hidden",
+      "able to be used or obtained",
+      "expensive",
+      "broken"
+    ],
+    "correct": 1,
+    "explanation": "\"Available\" means able to be used or obtained; at someone's disposal."
+  },
+  {
+    "id": "voc-062",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Benefit\" most nearly means:",
+    "options": [
+      "harm",
+      "advantage or gain",
+      "cost",
+      "problem"
+    ],
+    "correct": 1,
+    "explanation": "A \"benefit\" is an advantage or profit gained from something."
+  },
+  {
+    "id": "voc-063",
+    "section": "vocabulary",
+    "category": "context",
+    "difficulty": "easy",
+    "question": "\"The category was clear.\" The word \"category\" means:",
+    "options": [
+      "individual item",
+      "class or group",
+      "error",
+      "solution"
+    ],
+    "correct": 1,
+    "explanation": "A \"category\" is a class or division of people or things with shared characteristics."
+  },
+  {
+    "id": "voc-064",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Chapter\" is closest in meaning to:",
+    "options": [
+      "whole book",
+      "main division of a book",
+      "author",
+      "cover"
+    ],
+    "correct": 1,
+    "explanation": "A \"chapter\" is a main division of a book or other written work."
+  },
+  {
+    "id": "voc-065",
+    "section": "vocabulary",
+    "category": "synonyms",
+    "difficulty": "easy",
+    "question": "Which word is closest in meaning to \"contrast\"?",
+    "options": [
+      "similarity",
+      "difference",
+      "agreement",
+      "copy"
+    ],
+    "correct": 1,
+    "explanation": "\"Contrast\" means the state of being noticeably different."
+  },
+  {
+    "id": "voc-066",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Create\" most nearly means:",
+    "options": [
+      "destroy",
+      "make or produce",
+      "hide",
+      "copy only"
+    ],
+    "correct": 1,
+    "explanation": "\"Create\" means to bring something into existence."
+  },
+  {
+    "id": "voc-067",
+    "section": "vocabulary",
+    "category": "context",
+    "difficulty": "easy",
+    "question": "\"The data was accurate.\" The word \"data\" means:",
+    "options": [
+      "opinions",
+      "facts or information",
+      "errors",
+      "questions"
+    ],
+    "correct": 1,
+    "explanation": "\"Data\" means facts and statistics collected for reference or analysis."
+  },
+  {
+    "id": "voc-068",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Define\" is closest in meaning to:",
+    "options": [
+      "confuse",
+      "explain the meaning of",
+      "hide",
+      "ignore"
+    ],
+    "correct": 1,
+    "explanation": "\"Define\" means to state or describe the exact nature or meaning of something."
+  },
+  {
+    "id": "voc-069",
+    "section": "vocabulary",
+    "category": "synonyms",
+    "difficulty": "easy",
+    "question": "Which word is closest in meaning to \"distribute\"?",
+    "options": [
+      "collect",
+      "give out or share",
+      "hide",
+      "destroy"
+    ],
+    "correct": 1,
+    "explanation": "\"Distribute\" means to give something out to several people or places."
+  },
+  {
+    "id": "voc-070",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Element\" most nearly means:",
+    "options": [
+      "whole system",
+      "basic part of something",
+      "result",
+      "problem"
+    ],
+    "correct": 1,
+    "explanation": "An \"element\" is a basic or essential part of something."
+  },
+  {
+    "id": "voc-071",
+    "section": "vocabulary",
+    "category": "context",
+    "difficulty": "easy",
+    "question": "\"The environment was peaceful.\" The word \"environment\" means:",
+    "options": [
+      "person",
+      "surroundings or conditions",
+      "book",
+      "tool"
+    ],
+    "correct": 1,
+    "explanation": "\"Environment\" means the surroundings or conditions in which a person or thing exists."
+  },
+  {
+    "id": "voc-072",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Evaluate\" is closest in meaning to:",
+    "options": [
+      "ignore",
+      "assess or judge",
+      "create",
+      "copy"
+    ],
+    "correct": 1,
+    "explanation": "\"Evaluate\" means to form an idea of the amount, number, or value of something."
+  },
+  {
+    "id": "voc-073",
+    "section": "vocabulary",
+    "category": "synonyms",
+    "difficulty": "easy",
+    "question": "Which word is closest in meaning to \"focus\"?",
+    "options": [
+      "ignore",
+      "concentrate attention on",
+      "spread",
+      "hide"
+    ],
+    "correct": 1,
+    "explanation": "\"Focus\" means to concentrate attention or effort on something."
+  },
+  {
+    "id": "voc-074",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Function\" most nearly means:",
+    "options": [
+      "appearance",
+      "purpose or role",
+      "color",
+      "size"
+    ],
+    "correct": 1,
+    "explanation": "\"Function\" means the purpose or activity of a person or thing."
+  },
+  {
+    "id": "voc-075",
+    "section": "vocabulary",
+    "category": "context",
+    "difficulty": "easy",
+    "question": "\"The impact was significant.\" The word \"impact\" means:",
+    "options": [
+      "small change",
+      "strong effect",
+      "beginning",
+      "end"
+    ],
+    "correct": 1,
+    "explanation": "\"Impact\" means a strong effect or influence."
+  },
+  {
+    "id": "voc-076",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Individual\" is closest in meaning to:",
+    "options": [
+      "group",
+      "single person or thing",
+      "system",
+      "idea"
+    ],
+    "correct": 1,
+    "explanation": "An \"individual\" is a single human being or a single thing."
+  },
+  {
+    "id": "voc-077",
+    "section": "vocabulary",
+    "category": "synonyms",
+    "difficulty": "easy",
+    "question": "Which word is closest in meaning to \"interpret\"?",
+    "options": [
+      "ignore",
+      "explain the meaning of",
+      "copy",
+      "destroy"
+    ],
+    "correct": 1,
+    "explanation": "\"Interpret\" means to explain the meaning of something."
+  },
+  {
+    "id": "voc-078",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Involve\" most nearly means:",
+    "options": [
+      "exclude",
+      "include or require as a necessary part",
+      "hide",
+      "finish"
+    ],
+    "correct": 1,
+    "explanation": "\"Involve\" means to include something as a necessary part or result."
+  },
+  {
+    "id": "voc-079",
+    "section": "vocabulary",
+    "category": "context",
+    "difficulty": "easy",
+    "question": "\"The issue was important.\" The word \"issue\" means:",
+    "options": [
+      "solution",
+      "topic or problem",
+      "answer",
+      "book"
+    ],
+    "correct": 1,
+    "explanation": "An \"issue\" is an important topic or problem for debate or discussion."
+  },
+  {
+    "id": "voc-080",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Major\" is closest in meaning to:",
+    "options": [
+      "minor",
+      "important or serious",
+      "small",
+      "hidden"
+    ],
+    "correct": 1,
+    "explanation": "\"Major\" means important, serious, or significant."
   }
 ]
