@@ -5,7 +5,12 @@
     "category": "subject-verb-agreement",
     "difficulty": "easy",
     "question": "The students / was / studying / in the library.",
-    "options": ["The students", "was", "studying", "in the library"],
+    "options": [
+      "The students",
+      "was",
+      "studying",
+      "in the library"
+    ],
     "correct": 1,
     "explanation": "\"Students\" is plural, so the correct verb is \"were\" instead of \"was\"."
   },
@@ -15,7 +20,12 @@
     "category": "verb-tenses",
     "difficulty": "medium",
     "question": "By the end of the semester, the students / will complete / all of the / required assignments.",
-    "options": ["By the end of the semester", "will complete", "all of the", "required assignments"],
+    "options": [
+      "By the end of the semester",
+      "will complete",
+      "all of the",
+      "required assignments"
+    ],
     "correct": 1,
     "explanation": "Future perfect \"will have completed\" is required because the action will be finished by a specific future time."
   },
@@ -25,7 +35,12 @@
     "category": "parallel-structure",
     "difficulty": "medium",
     "question": "She enjoys reading novels, / writing poetry, / and to play / the piano.",
-    "options": ["She enjoys reading novels", "writing poetry", "and to play", "the piano"],
+    "options": [
+      "She enjoys reading novels",
+      "writing poetry",
+      "and to play",
+      "the piano"
+    ],
     "correct": 2,
     "explanation": "Items in a series must be parallel. Change \"to play\" to \"playing\"."
   },
@@ -35,7 +50,12 @@
     "category": "relative-clauses",
     "difficulty": "hard",
     "question": "The book / which the professor recommended / it / was difficult to find.",
-    "options": ["The book", "which the professor recommended", "it", "was difficult to find"],
+    "options": [
+      "The book",
+      "which the professor recommended",
+      "it",
+      "was difficult to find"
+    ],
     "correct": 2,
     "explanation": "The relative clause already contains the object of \"recommended\". The pronoun \"it\" is redundant and must be removed."
   },
@@ -45,7 +65,12 @@
     "category": "prepositions",
     "difficulty": "easy",
     "question": "She is interested / on / learning more about / environmental science.",
-    "options": ["She is interested", "on", "learning more about", "environmental science"],
+    "options": [
+      "She is interested",
+      "on",
+      "learning more about",
+      "environmental science"
+    ],
     "correct": 1,
     "explanation": "The correct preposition is \"in\" (interested in), not \"on\"."
   },
@@ -55,7 +80,12 @@
     "category": "word-form",
     "difficulty": "medium",
     "question": "The sudden increase in temperature was / extreme / unexpected / and dangerous.",
-    "options": ["The sudden increase in temperature was", "extreme", "unexpected", "and dangerous"],
+    "options": [
+      "The sudden increase in temperature was",
+      "extreme",
+      "unexpected",
+      "and dangerous"
+    ],
     "correct": 1,
     "explanation": "An adverb is needed to modify the adjective \"unexpected\". Change \"extreme\" to \"extremely\"."
   },
@@ -65,9 +95,14 @@
     "category": "articles",
     "difficulty": "medium",
     "question": "He became / an / university professor / after completing his doctorate.",
-    "options": ["He became", "an", "university professor", "after completing his doctorate"],
+    "options": [
+      "He became",
+      "an",
+      "university professor",
+      "after completing his doctorate"
+    ],
     "correct": 1,
-    "explanation": "\"University\" begins with a consonant sound /juː/, so the correct article is \"a\", not \"an\"."
+    "explanation": "\"University\" begins with a consonant sound /ju\u02d0/, so the correct article is \"a\", not \"an\"."
   },
   {
     "id": "we-008",
@@ -75,8 +110,343 @@
     "category": "pronouns",
     "difficulty": "easy",
     "question": "Each of the applicants / must submit / their / application by Friday.",
-    "options": ["Each of the applicants", "must submit", "their", "application by Friday"],
+    "options": [
+      "Each of the applicants",
+      "must submit",
+      "their",
+      "application by Friday"
+    ],
     "correct": 2,
     "explanation": "\"Each\" is singular. In formal academic English preferred on TOEFL-style tests, use \"his or her\" (or rephrase)."
+  },
+  {
+    "id": "we-009",
+    "section": "written-expression",
+    "category": "subject-verb-agreement",
+    "difficulty": "medium",
+    "question": "Neither of the solutions / are / satisfactory / to the committee.",
+    "options": [
+      "Neither of the solutions",
+      "are",
+      "satisfactory",
+      "to the committee"
+    ],
+    "correct": 1,
+    "explanation": "\"Neither\" is singular, so the verb should be \"is\"."
+  },
+  {
+    "id": "we-010",
+    "section": "written-expression",
+    "category": "verb-tenses",
+    "difficulty": "easy",
+    "question": "She / works / in the laboratory / since 2019.",
+    "options": [
+      "She",
+      "works",
+      "in the laboratory",
+      "since 2019"
+    ],
+    "correct": 1,
+    "explanation": "With \"since\", use present perfect: \"has worked\"."
+  },
+  {
+    "id": "we-011",
+    "section": "written-expression",
+    "category": "parallel-structure",
+    "difficulty": "hard",
+    "question": "The manager is responsible for hiring staff, / managing budgets, / and to oversee / daily operations.",
+    "options": [
+      "The manager is responsible for hiring staff",
+      "managing budgets",
+      "and to oversee",
+      "daily operations"
+    ],
+    "correct": 2,
+    "explanation": "Parallel gerunds are required: hiring, managing, overseeing."
+  },
+  {
+    "id": "we-012",
+    "section": "written-expression",
+    "category": "word-form",
+    "difficulty": "easy",
+    "question": "The results of the study were / surprising / similar / to previous findings.",
+    "options": [
+      "The results of the study were",
+      "surprising",
+      "similar",
+      "to previous findings"
+    ],
+    "correct": 1,
+    "explanation": "An adverb is needed: \"surprisingly similar\"."
+  },
+  {
+    "id": "we-013",
+    "section": "written-expression",
+    "category": "prepositions",
+    "difficulty": "medium",
+    "question": "He is capable / to solve / complex problems / without assistance.",
+    "options": [
+      "He is capable",
+      "to solve",
+      "complex problems",
+      "without assistance"
+    ],
+    "correct": 1,
+    "explanation": "\"Capable of\" + gerund is the correct structure: \"capable of solving\"."
+  },
+  {
+    "id": "we-014",
+    "section": "written-expression",
+    "category": "articles",
+    "difficulty": "easy",
+    "question": "She is / a / honest person / who always tells the truth.",
+    "options": [
+      "She is",
+      "a",
+      "honest person",
+      "who always tells the truth"
+    ],
+    "correct": 1,
+    "explanation": "\"Honest\" begins with a vowel sound, so use \"an\"."
+  },
+  {
+    "id": "we-015",
+    "section": "written-expression",
+    "category": "relative-clauses",
+    "difficulty": "medium",
+    "question": "The professor / which / teaches biology / is retiring next year.",
+    "options": [
+      "The professor",
+      "which",
+      "teaches biology",
+      "is retiring next year"
+    ],
+    "correct": 1,
+    "explanation": "Use \"who\" for people, not \"which\"."
+  },
+  {
+    "id": "we-016",
+    "section": "written-expression",
+    "category": "pronouns",
+    "difficulty": "medium",
+    "question": "The team presented / their / findings / to the board of directors.",
+    "options": [
+      "The team presented",
+      "their",
+      "findings",
+      "to the board of directors"
+    ],
+    "correct": 1,
+    "explanation": "In formal academic style, a collective noun like \"team\" often takes the singular pronoun \"its\"."
+  },
+  {
+    "id": "we-017",
+    "section": "written-expression",
+    "category": "comparatives",
+    "difficulty": "medium",
+    "question": "This approach is / more better / than the traditional method / used previously.",
+    "options": [
+      "This approach is",
+      "more better",
+      "than the traditional method",
+      "used previously"
+    ],
+    "correct": 1,
+    "explanation": "\"Better\" is already comparative; do not use \"more better\". Use \"better\" alone."
+  },
+  {
+    "id": "we-018",
+    "section": "written-expression",
+    "category": "verb-tenses",
+    "difficulty": "hard",
+    "question": "If she / studied / harder last semester, / she would have passed the exam.",
+    "options": [
+      "If she",
+      "studied",
+      "harder last semester",
+      "she would have passed the exam"
+    ],
+    "correct": 1,
+    "explanation": "Third conditional requires past perfect: \"had studied\"."
+  },
+  {
+    "id": "we-019",
+    "section": "written-expression",
+    "category": "word-form",
+    "difficulty": "hard",
+    "question": "The researcher provided a / detail / analysis / of the experimental data.",
+    "options": [
+      "The researcher provided a",
+      "detail",
+      "analysis",
+      "of the experimental data"
+    ],
+    "correct": 1,
+    "explanation": "The adjective form \"detailed\" is required before the noun \"analysis\"."
+  },
+  {
+    "id": "we-020",
+    "section": "written-expression",
+    "category": "prepositions",
+    "difficulty": "easy",
+    "question": "They arrived / to / the airport / two hours early.",
+    "options": [
+      "They arrived",
+      "to",
+      "the airport",
+      "two hours early"
+    ],
+    "correct": 1,
+    "explanation": "The correct preposition is \"at\" (arrived at the airport)."
+  },
+  {
+    "id": "we-021",
+    "section": "written-expression",
+    "category": "subject-verb-agreement",
+    "difficulty": "hard",
+    "question": "The number of applicants / have increased / significantly / this year.",
+    "options": [
+      "The number of applicants",
+      "have increased",
+      "significantly",
+      "this year"
+    ],
+    "correct": 1,
+    "explanation": "\"The number\" is singular; use \"has increased\"."
+  },
+  {
+    "id": "we-022",
+    "section": "written-expression",
+    "category": "parallel-structure",
+    "difficulty": "easy",
+    "question": "He is intelligent, hardworking, / and has creativity /.",
+    "options": [
+      "He is intelligent",
+      "hardworking",
+      "and has creativity",
+      "."
+    ],
+    "correct": 2,
+    "explanation": "Keep parallel adjectives: intelligent, hardworking, and creative."
+  },
+  {
+    "id": "we-023",
+    "section": "written-expression",
+    "category": "articles",
+    "difficulty": "hard",
+    "question": "She plays / a / piano / every evening after dinner.",
+    "options": [
+      "She plays",
+      "a",
+      "piano",
+      "every evening after dinner"
+    ],
+    "correct": 1,
+    "explanation": "With musical instruments, use \"the\": \"plays the piano\"."
+  },
+  {
+    "id": "we-024",
+    "section": "written-expression",
+    "category": "relative-clauses",
+    "difficulty": "hard",
+    "question": "The theory / that the scientist proposed it / has been widely accepted / by the academic community.",
+    "options": [
+      "The theory",
+      "that the scientist proposed it",
+      "has been widely accepted",
+      "by the academic community"
+    ],
+    "correct": 1,
+    "explanation": "Remove the redundant \"it\": \"that the scientist proposed\"."
+  },
+  {
+    "id": "we-025",
+    "section": "written-expression",
+    "category": "pronouns",
+    "difficulty": "medium",
+    "question": "Everyone should bring / their / own laptop / to the workshop.",
+    "options": [
+      "Everyone should bring",
+      "their",
+      "own laptop",
+      "to the workshop"
+    ],
+    "correct": 1,
+    "explanation": "Formal style prefers \"his or her\" with singular \"everyone\", though \"their\" is widely accepted in modern usage."
+  },
+  {
+    "id": "we-026",
+    "section": "written-expression",
+    "category": "verb-tenses",
+    "difficulty": "medium",
+    "question": "When I arrived, they / already finished / the meeting / and left.",
+    "options": [
+      "When I arrived",
+      "already finished",
+      "the meeting",
+      "and left"
+    ],
+    "correct": 1,
+    "explanation": "Past perfect is needed: \"had already finished\"."
+  },
+  {
+    "id": "we-027",
+    "section": "written-expression",
+    "category": "word-form",
+    "difficulty": "medium",
+    "question": "The committee made an / importance / decision / regarding the budget.",
+    "options": [
+      "The committee made an",
+      "importance",
+      "decision",
+      "regarding the budget"
+    ],
+    "correct": 1,
+    "explanation": "The adjective \"important\" is required: \"an important decision\"."
+  },
+  {
+    "id": "we-028",
+    "section": "written-expression",
+    "category": "prepositions",
+    "difficulty": "hard",
+    "question": "She is accused / for / cheating / on the examination.",
+    "options": [
+      "She is accused",
+      "for",
+      "cheating",
+      "on the examination"
+    ],
+    "correct": 1,
+    "explanation": "The correct preposition is \"of\": \"accused of cheating\"."
+  },
+  {
+    "id": "we-029",
+    "section": "written-expression",
+    "category": "comparatives",
+    "difficulty": "easy",
+    "question": "This is the / most unique / opportunity / we have ever had.",
+    "options": [
+      "This is the",
+      "most unique",
+      "opportunity",
+      "we have ever had"
+    ],
+    "correct": 1,
+    "explanation": "\"Unique\" is absolute and should not take comparative or superlative forms. Use \"unique\" alone."
+  },
+  {
+    "id": "we-030",
+    "section": "written-expression",
+    "category": "subject-verb-agreement",
+    "difficulty": "easy",
+    "question": "There / is / many reasons / to support this proposal.",
+    "options": [
+      "There",
+      "is",
+      "many reasons",
+      "to support this proposal"
+    ],
+    "correct": 1,
+    "explanation": "\"Reasons\" is plural, so use \"are\"."
   }
 ]

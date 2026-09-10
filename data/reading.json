@@ -97,5 +97,211 @@
         "explanation": "The last sentence indicates that sacrificing sleep may reduce the ability to retain information."
       }
     ]
+  },
+  {
+    "id": "read-003",
+    "section": "reading",
+    "title": "The Benefits of Bilingualism",
+    "difficulty": "medium",
+    "passage": "Research over the past two decades has revealed numerous cognitive advantages associated with bilingualism. Bilingual individuals often demonstrate greater mental flexibility, better problem-solving skills, and improved attention control compared with monolinguals. These benefits appear to stem from the constant need to manage two language systems, which exercises the brain's executive functions. Studies also suggest that bilingualism may delay the onset of age-related cognitive decline, including symptoms of dementia. However, researchers caution that the degree of benefit can depend on factors such as the age of language acquisition, the frequency of use of both languages, and overall proficiency levels. Despite these positive findings, some educational systems still treat bilingualism as a potential disadvantage rather than an asset.",
+    "questions": [
+      {
+        "id": "read-003-q1",
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Bilingualism always causes confusion in children.",
+          "Bilingualism is associated with several cognitive advantages.",
+          "Monolinguals perform better on problem-solving tasks.",
+          "Learning a second language is only useful for travel."
+        ],
+        "correct": 1,
+        "explanation": "The passage focuses on the cognitive benefits of bilingualism."
+      },
+      {
+        "id": "read-003-q2",
+        "type": "detail",
+        "question": "According to the passage, bilingualism may help delay:",
+        "options": [
+          "language acquisition",
+          "age-related cognitive decline",
+          "attention control",
+          "educational opportunities"
+        ],
+        "correct": 1,
+        "explanation": "The passage states that bilingualism may delay the onset of age-related cognitive decline."
+      },
+      {
+        "id": "read-003-q3",
+        "type": "inference",
+        "question": "What can be inferred about some educational systems?",
+        "options": [
+          "They fully support bilingual education.",
+          "They may not fully recognize the advantages of bilingualism.",
+          "They require all students to learn two languages.",
+          "They focus only on cognitive development."
+        ],
+        "correct": 1,
+        "explanation": "The final sentence indicates that some systems still treat bilingualism as a potential disadvantage."
+      },
+      {
+        "id": "read-003-q4",
+        "type": "vocabulary",
+        "question": "The word \"onset\" in the passage is closest in meaning to:",
+        "options": ["end", "beginning", "prevention", "treatment"],
+        "correct": 1,
+        "explanation": "\"Onset\" means the beginning or start of something, especially something unpleasant."
+      }
+    ]
+  },
+  {
+    "id": "read-004",
+    "section": "reading",
+    "title": "Climate Change and Coral Reefs",
+    "difficulty": "hard",
+    "passage": "Coral reefs are among the most diverse and productive ecosystems on Earth, yet they face unprecedented threats from climate change. Rising ocean temperatures cause coral bleaching, a phenomenon in which corals expel the symbiotic algae that provide them with nutrients and color. If temperatures remain elevated for prolonged periods, the corals may die. Ocean acidification, another consequence of increased atmospheric carbon dioxide, reduces the availability of carbonate ions that corals need to build their skeletons. Scientists warn that without significant reductions in greenhouse gas emissions, many reefs could disappear by the middle of this century. Some researchers are exploring interventions such as selective breeding of heat-resistant corals and the creation of marine protected areas, but these measures alone cannot replace the need for global climate action.",
+    "questions": [
+      {
+        "id": "read-004-q1",
+        "type": "main-idea",
+        "question": "What is the primary concern discussed in the passage?",
+        "options": [
+          "The beauty of coral reefs",
+          "Threats to coral reefs from climate change",
+          "How to breed heat-resistant corals",
+          "The history of marine protected areas"
+        ],
+        "correct": 1,
+        "explanation": "The passage focuses on climate-related threats to coral reefs and possible responses."
+      },
+      {
+        "id": "read-004-q2",
+        "type": "detail",
+        "question": "What causes coral bleaching according to the passage?",
+        "options": [
+          "Ocean acidification",
+          "Rising ocean temperatures",
+          "Overfishing",
+          "Marine protected areas"
+        ],
+        "correct": 1,
+        "explanation": "The passage states that rising ocean temperatures cause coral bleaching."
+      },
+      {
+        "id": "read-004-q3",
+        "type": "inference",
+        "question": "What does the author suggest about local interventions such as selective breeding?",
+        "options": [
+          "They are sufficient to save all reefs.",
+          "They are unnecessary.",
+          "They cannot replace the need for global climate action.",
+          "They will solve ocean acidification."
+        ],
+        "correct": 2,
+        "explanation": "The last sentence indicates that these measures alone cannot replace global climate action."
+      },
+      {
+        "id": "read-004-q4",
+        "type": "vocabulary",
+        "question": "The word \"unprecedented\" in the passage is closest in meaning to:",
+        "options": ["common", "never experienced before", "gradual", "beneficial"],
+        "correct": 1,
+        "explanation": "\"Unprecedented\" means never done or known before."
+      }
+    ]
+  },
+  {
+    "id": "read-005",
+    "section": "reading",
+    "title": "The History of the Printing Press",
+    "difficulty": "easy",
+    "passage": "The invention of the printing press in the mid-15th century by Johannes Gutenberg revolutionized the spread of knowledge in Europe. Before the printing press, books were copied by hand, a slow and expensive process that limited access to written materials largely to the wealthy and the clergy. Gutenberg's movable-type system allowed for the rapid production of multiple copies of the same text. As a result, books became more affordable and literacy rates gradually increased. The printing press also facilitated the spread of new ideas during the Renaissance and the Reformation. Within a few decades, printing presses had been established in major cities across Europe, transforming communication and education forever.",
+    "questions": [
+      {
+        "id": "read-005-q1",
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Hand-copied books were always better than printed ones.",
+          "The printing press greatly increased access to knowledge.",
+          "Gutenberg was the only inventor of the printing press.",
+          "Literacy rates declined after the printing press was invented."
+        ],
+        "correct": 1,
+        "explanation": "The passage explains how the printing press made books more available and transformed knowledge sharing."
+      },
+      {
+        "id": "read-005-q2",
+        "type": "detail",
+        "question": "According to the passage, who limited access to books before the printing press?",
+        "options": [
+          "Only scientists",
+          "The wealthy and the clergy",
+          "All citizens equally",
+          "University students"
+        ],
+        "correct": 1,
+        "explanation": "The passage states that access was limited largely to the wealthy and the clergy."
+      },
+      {
+        "id": "read-005-q3",
+        "type": "vocabulary",
+        "question": "The word \"facilitated\" in the passage is closest in meaning to:",
+        "options": ["prevented", "made easier", "complicated", "ignored"],
+        "correct": 1,
+        "explanation": "\"Facilitated\" means made an action or process easier."
+      }
+    ]
+  },
+  {
+    "id": "read-006",
+    "section": "reading",
+    "title": "The Importance of Bees",
+    "difficulty": "medium",
+    "passage": "Bees play a critical role in global food production through the process of pollination. Approximately one-third of the food we eat depends on pollination by bees and other insects. In recent years, however, bee populations have declined dramatically in many parts of the world. Scientists attribute this decline to a combination of factors, including pesticide use, habitat loss, climate change, and the spread of parasites and diseases. The loss of bees could have serious consequences for agriculture and biodiversity. Efforts to protect bee populations include reducing pesticide use, planting wildflower habitats, and supporting research into bee health. Public awareness campaigns have also encouraged individuals to create bee-friendly gardens in urban and suburban areas.",
+    "questions": [
+      {
+        "id": "read-006-q1",
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Bees are dangerous insects that should be controlled.",
+          "Bee populations are declining and this threatens food production.",
+          "Pesticides are the only cause of bee decline.",
+          "Urban gardens cannot help bees."
+        ],
+        "correct": 1,
+        "explanation": "The passage discusses the importance of bees, the decline in their populations, and efforts to protect them."
+      },
+      {
+        "id": "read-006-q2",
+        "type": "detail",
+        "question": "According to the passage, about how much of our food depends on pollination?",
+        "options": ["One-tenth", "One-quarter", "One-third", "One-half"],
+        "correct": 2,
+        "explanation": "The passage states that approximately one-third of the food we eat depends on pollination."
+      },
+      {
+        "id": "read-006-q3",
+        "type": "inference",
+        "question": "What can be inferred about public awareness campaigns?",
+        "options": [
+          "They have completely solved the bee decline problem.",
+          "They encourage individual action to help bees.",
+          "They focus only on farmers.",
+          "They are not effective."
+        ],
+        "correct": 1,
+        "explanation": "The passage mentions that campaigns have encouraged people to create bee-friendly gardens."
+      },
+      {
+        "id": "read-006-q4",
+        "type": "vocabulary",
+        "question": "The word \"dramatically\" in the passage is closest in meaning to:",
+        "options": ["slightly", "suddenly and greatly", "slowly", "predictably"],
+        "correct": 1,
+        "explanation": "\"Dramatically\" here means to a very large and striking degree."
+      }
+    ]
   }
 ]

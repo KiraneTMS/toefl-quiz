@@ -35,12 +35,7 @@
     "category": "academic",
     "difficulty": "hard",
     "question": "The term \"hypothesis\" is best defined as:",
-    "options": [
-      "a proven fact",
-      "a proposed explanation that can be tested",
-      "a final conclusion",
-      "a random guess"
-    ],
+    "options": ["a proven fact", "a proposed explanation that can be tested", "a final conclusion", "a random guess"],
     "correct": 1,
     "explanation": "A hypothesis is a testable proposed explanation for a phenomenon."
   },
@@ -83,5 +78,225 @@
     "options": ["to contradict", "to confirm or support with evidence", "to summarize", "to criticize"],
     "correct": 1,
     "explanation": "\"Corroborate\" means to confirm or give support to a statement or theory with evidence."
+  },
+  {
+    "id": "voc-009",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Scarce\" most nearly means:",
+    "options": ["plentiful", "rare or insufficient", "expensive", "ancient"],
+    "correct": 1,
+    "explanation": "\"Scarce\" means insufficient or hard to find."
+  },
+  {
+    "id": "voc-010",
+    "section": "vocabulary",
+    "category": "synonyms",
+    "difficulty": "medium",
+    "question": "Which word is closest in meaning to \"ambiguous\"?",
+    "options": ["clear", "having more than one possible meaning", "loud", "brief"],
+    "correct": 1,
+    "explanation": "\"Ambiguous\" means open to more than one interpretation."
+  },
+  {
+    "id": "voc-011",
+    "section": "vocabulary",
+    "category": "context",
+    "difficulty": "easy",
+    "question": "\"The evidence was compelling.\" The word \"compelling\" means:",
+    "options": ["weak", "convincing", "irrelevant", "outdated"],
+    "correct": 1,
+    "explanation": "\"Compelling\" means convincing or forceful."
+  },
+  {
+    "id": "voc-012",
+    "section": "vocabulary",
+    "category": "academic",
+    "difficulty": "hard",
+    "question": "\"Empirical\" evidence is based on:",
+    "options": ["theory alone", "observation or experiment", "personal opinion", "historical records only"],
+    "correct": 1,
+    "explanation": "Empirical means based on observation or experience rather than theory."
+  },
+  {
+    "id": "voc-013",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "\"Obsolete\" means:",
+    "options": ["modern", "no longer in use", "expensive", "complex"],
+    "correct": 1,
+    "explanation": "\"Obsolete\" means no longer produced or used; out of date."
+  },
+  {
+    "id": "voc-014",
+    "section": "vocabulary",
+    "category": "synonyms",
+    "difficulty": "hard",
+    "question": "\"Pragmatic\" is closest in meaning to:",
+    "options": ["idealistic", "practical", "emotional", "theoretical"],
+    "correct": 1,
+    "explanation": "\"Pragmatic\" means dealing with things sensibly and realistically; practical."
+  },
+  {
+    "id": "voc-015",
+    "section": "vocabulary",
+    "category": "context",
+    "difficulty": "medium",
+    "question": "\"The results were consistent with previous studies.\" \"Consistent with\" means:",
+    "options": ["different from", "in agreement with", "better than", "unrelated to"],
+    "correct": 1,
+    "explanation": "\"Consistent with\" means in agreement or harmony with."
+  },
+  {
+    "id": "voc-016",
+    "section": "vocabulary",
+    "category": "academic",
+    "difficulty": "easy",
+    "question": "A \"variable\" in an experiment is:",
+    "options": ["something that stays the same", "a factor that can change", "the final result", "a type of equipment"],
+    "correct": 1,
+    "explanation": "A variable is any factor that can change or be changed in an experiment."
+  },
+  {
+    "id": "voc-017",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "\"Ubiquitous\" means:",
+    "options": ["rare", "present everywhere", "dangerous", "temporary"],
+    "correct": 1,
+    "explanation": "\"Ubiquitous\" means present, appearing, or found everywhere."
+  },
+  {
+    "id": "voc-018",
+    "section": "vocabulary",
+    "category": "synonyms",
+    "difficulty": "easy",
+    "question": "\"Accurate\" is closest in meaning to:",
+    "options": ["wrong", "correct", "fast", "long"],
+    "correct": 1,
+    "explanation": "\"Accurate\" means correct or precise."
+  },
+  {
+    "id": "voc-019",
+    "section": "vocabulary",
+    "category": "context",
+    "difficulty": "hard",
+    "question": "\"The theory has been largely discredited.\" \"Discredited\" means:",
+    "options": ["proven correct", "shown to be false or unreliable", "widely accepted", "recently published"],
+    "correct": 1,
+    "explanation": "\"Discredited\" means to harm the reputation of; shown to be false."
+  },
+  {
+    "id": "voc-020",
+    "section": "vocabulary",
+    "category": "academic",
+    "difficulty": "medium",
+    "question": "\"To synthesize\" information means:",
+    "options": ["to ignore it", "to combine it into a coherent whole", "to criticize it", "to memorize it"],
+    "correct": 1,
+    "explanation": "Synthesize means to combine different elements into a coherent whole."
+  },
+  {
+    "id": "voc-021",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "\"Feasible\" means:",
+    "options": ["impossible", "possible and practical", "expensive", "theoretical"],
+    "correct": 1,
+    "explanation": "\"Feasible\" means possible and practical to do easily or conveniently."
+  },
+  {
+    "id": "voc-022",
+    "section": "vocabulary",
+    "category": "synonyms",
+    "difficulty": "medium",
+    "question": "\"Robust\" is closest in meaning to:",
+    "options": ["weak", "strong and healthy", "complicated", "temporary"],
+    "correct": 1,
+    "explanation": "\"Robust\" means strong and healthy; vigorous."
+  },
+  {
+    "id": "voc-023",
+    "section": "vocabulary",
+    "category": "context",
+    "difficulty": "easy",
+    "question": "\"The policy had a profound impact.\" \"Profound\" means:",
+    "options": ["slight", "very great or intense", "temporary", "negative"],
+    "correct": 1,
+    "explanation": "\"Profound\" means very great or intense."
+  },
+  {
+    "id": "voc-024",
+    "section": "vocabulary",
+    "category": "academic",
+    "difficulty": "hard",
+    "question": "\"A paradigm\" is:",
+    "options": ["a small example", "a typical example or pattern", "a contradiction", "a random event"],
+    "correct": 1,
+    "explanation": "A paradigm is a typical example or pattern of something; a model."
+  },
+  {
+    "id": "voc-025",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "\"Reluctant\" means:",
+    "options": ["eager", "unwilling", "happy", "confused"],
+    "correct": 1,
+    "explanation": "\"Reluctant\" means unwilling or hesitant."
+  },
+  {
+    "id": "voc-026",
+    "section": "vocabulary",
+    "category": "synonyms",
+    "difficulty": "hard",
+    "question": "\"Intrinsic\" is closest in meaning to:",
+    "options": ["external", "belonging naturally; essential", "temporary", "artificial"],
+    "correct": 1,
+    "explanation": "\"Intrinsic\" means belonging naturally; essential."
+  },
+  {
+    "id": "voc-027",
+    "section": "vocabulary",
+    "category": "context",
+    "difficulty": "medium",
+    "question": "\"The findings were preliminary.\" \"Preliminary\" means:",
+    "options": ["final", "coming before the main part", "incorrect", "detailed"],
+    "correct": 1,
+    "explanation": "\"Preliminary\" means preceding or done in preparation for something fuller."
+  },
+  {
+    "id": "voc-028",
+    "section": "vocabulary",
+    "category": "academic",
+    "difficulty": "medium",
+    "question": "\"To refute\" an argument means:",
+    "options": ["to support it", "to prove it wrong", "to ignore it", "to summarize it"],
+    "correct": 1,
+    "explanation": "\"Refute\" means to prove a statement or theory to be wrong."
+  },
+  {
+    "id": "voc-029",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "\"Ephemeral\" means:",
+    "options": ["lasting a long time", "lasting for a very short time", "extremely important", "difficult to understand"],
+    "correct": 1,
+    "explanation": "\"Ephemeral\" means lasting for a very short time."
+  },
+  {
+    "id": "voc-030",
+    "section": "vocabulary",
+    "category": "synonyms",
+    "difficulty": "easy",
+    "question": "\"Essential\" is closest in meaning to:",
+    "options": ["optional", "necessary", "expensive", "complicated"],
+    "correct": 1,
+    "explanation": "\"Essential\" means absolutely necessary; extremely important."
   }
 ]
