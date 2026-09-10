@@ -1,0 +1,122 @@
+[
+  {
+    "id": "str-001",
+    "section": "structure",
+    "category": "subject-verb-agreement",
+    "difficulty": "easy",
+    "question": "The number of students who _____ registered for the advanced course has increased this semester.",
+    "options": ["has", "have", "are", "were"],
+    "correct": 0,
+    "explanation": "The subject is \"the number\" (singular), so the verb must be singular: \"has\"."
+  },
+  {
+    "id": "str-002",
+    "section": "structure",
+    "category": "subject-verb-agreement",
+    "difficulty": "medium",
+    "question": "Neither the professor nor the students _____ prepared for the sudden change in the schedule.",
+    "options": ["was", "were", "is", "has been"],
+    "correct": 1,
+    "explanation": "When subjects are joined by \"neither...nor\", the verb agrees with the closer subject (\"students\" → plural \"were\")."
+  },
+  {
+    "id": "str-003",
+    "section": "structure",
+    "category": "verb-tenses",
+    "difficulty": "easy",
+    "question": "By the time the lecture begins, the students _____ already seated for twenty minutes.",
+    "options": ["will have been", "will be", "are", "have been"],
+    "correct": 0,
+    "explanation": "Future perfect progressive is used for an action that will continue up to a point in the future."
+  },
+  {
+    "id": "str-004",
+    "section": "structure",
+    "category": "verb-tenses",
+    "difficulty": "medium",
+    "question": "She _____ in the laboratory since early this morning and still has not finished the experiment.",
+    "options": ["works", "has been working", "is working", "worked"],
+    "correct": 1,
+    "explanation": "Present perfect progressive emphasizes the duration of an action that began in the past and continues to the present."
+  },
+  {
+    "id": "str-005",
+    "section": "structure",
+    "category": "passive-voice",
+    "difficulty": "easy",
+    "question": "The research paper _____ by three independent reviewers before it was accepted.",
+    "options": ["was examined", "examined", "has examined", "was examining"],
+    "correct": 0,
+    "explanation": "The paper is the receiver of the action, so passive voice is required."
+  },
+  {
+    "id": "str-006",
+    "section": "structure",
+    "category": "relative-clauses",
+    "difficulty": "medium",
+    "question": "The scientist _____ theory revolutionized physics received the Nobel Prize in 1921.",
+    "options": ["who", "whose", "which", "whom"],
+    "correct": 1,
+    "explanation": "\"Whose\" shows possession and correctly modifies \"theory\"."
+  },
+  {
+    "id": "str-007",
+    "section": "structure",
+    "category": "reduced-clauses",
+    "difficulty": "hard",
+    "question": "The chapters _____ by the professor were particularly difficult for the first-year students.",
+    "options": ["taught", "teaching", "were taught", "they taught"],
+    "correct": 0,
+    "explanation": "\"Taught by the professor\" is a reduced relative clause modifying \"the chapters\"."
+  },
+  {
+    "id": "str-008",
+    "section": "structure",
+    "category": "reduced-clauses",
+    "difficulty": "medium",
+    "question": "_____ the results carefully, the researchers decided to repeat the experiment.",
+    "options": ["Having analyzed", "Analyzing", "Analyzed", "To analyze"],
+    "correct": 0,
+    "explanation": "Perfect participle \"Having analyzed\" indicates that the analysis was completed before the decision."
+  },
+  {
+    "id": "str-009",
+    "section": "structure",
+    "category": "conditionals",
+    "difficulty": "medium",
+    "question": "If the temperature _____ any higher, the chemical reaction would have accelerated dangerously.",
+    "options": ["rose", "had risen", "rises", "would rise"],
+    "correct": 1,
+    "explanation": "This is a third conditional (past unreal). The if-clause requires past perfect."
+  },
+  {
+    "id": "str-010",
+    "section": "structure",
+    "category": "parallel-structure",
+    "difficulty": "medium",
+    "question": "The committee recommended increasing the budget, hiring more staff, and _____ the current facilities.",
+    "options": ["to renovate", "renovating", "renovate", "renovation of"],
+    "correct": 1,
+    "explanation": "All items in the list must be parallel gerunds: increasing, hiring, renovating."
+  },
+  {
+    "id": "str-011",
+    "section": "structure",
+    "category": "gerunds-infinitives",
+    "difficulty": "easy",
+    "question": "The professor suggested _____ the assignment before the weekend.",
+    "options": ["to complete", "completing", "complete", "completed"],
+    "correct": 1,
+    "explanation": "\"Suggest\" is followed by a gerund, not an infinitive."
+  },
+  {
+    "id": "str-012",
+    "section": "structure",
+    "category": "comparatives",
+    "difficulty": "easy",
+    "question": "This year's enrollment is _____ than last year's.",
+    "options": ["higher", "more high", "highest", "the higher"],
+    "correct": 0,
+    "explanation": "\"Higher\" is the correct comparative form of the adjective \"high\"."
+  }
+]

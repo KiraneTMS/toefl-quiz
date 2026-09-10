@@ -1,0 +1,82 @@
+[
+  {
+    "id": "we-001",
+    "section": "written-expression",
+    "category": "subject-verb-agreement",
+    "difficulty": "easy",
+    "question": "The students / was / studying / in the library.",
+    "options": ["The students", "was", "studying", "in the library"],
+    "correct": 1,
+    "explanation": "\"Students\" is plural, so the correct verb is \"were\" instead of \"was\"."
+  },
+  {
+    "id": "we-002",
+    "section": "written-expression",
+    "category": "verb-tenses",
+    "difficulty": "medium",
+    "question": "By the end of the semester, the students / will complete / all of the / required assignments.",
+    "options": ["By the end of the semester", "will complete", "all of the", "required assignments"],
+    "correct": 1,
+    "explanation": "Future perfect \"will have completed\" is required because the action will be finished by a specific future time."
+  },
+  {
+    "id": "we-003",
+    "section": "written-expression",
+    "category": "parallel-structure",
+    "difficulty": "medium",
+    "question": "She enjoys reading novels, / writing poetry, / and to play / the piano.",
+    "options": ["She enjoys reading novels", "writing poetry", "and to play", "the piano"],
+    "correct": 2,
+    "explanation": "Items in a series must be parallel. Change \"to play\" to \"playing\"."
+  },
+  {
+    "id": "we-004",
+    "section": "written-expression",
+    "category": "relative-clauses",
+    "difficulty": "hard",
+    "question": "The book / which the professor recommended / it / was difficult to find.",
+    "options": ["The book", "which the professor recommended", "it", "was difficult to find"],
+    "correct": 2,
+    "explanation": "The relative clause already contains the object of \"recommended\". The pronoun \"it\" is redundant and must be removed."
+  },
+  {
+    "id": "we-005",
+    "section": "written-expression",
+    "category": "prepositions",
+    "difficulty": "easy",
+    "question": "She is interested / on / learning more about / environmental science.",
+    "options": ["She is interested", "on", "learning more about", "environmental science"],
+    "correct": 1,
+    "explanation": "The correct preposition is \"in\" (interested in), not \"on\"."
+  },
+  {
+    "id": "we-006",
+    "section": "written-expression",
+    "category": "word-form",
+    "difficulty": "medium",
+    "question": "The sudden increase in temperature was / extreme / unexpected / and dangerous.",
+    "options": ["The sudden increase in temperature was", "extreme", "unexpected", "and dangerous"],
+    "correct": 1,
+    "explanation": "An adverb is needed to modify the adjective \"unexpected\". Change \"extreme\" to \"extremely\"."
+  },
+  {
+    "id": "we-007",
+    "section": "written-expression",
+    "category": "articles",
+    "difficulty": "medium",
+    "question": "He became / an / university professor / after completing his doctorate.",
+    "options": ["He became", "an", "university professor", "after completing his doctorate"],
+    "correct": 1,
+    "explanation": "\"University\" begins with a consonant sound /juː/, so the correct article is \"a\", not \"an\"."
+  },
+  {
+    "id": "we-008",
+    "section": "written-expression",
+    "category": "pronouns",
+    "difficulty": "easy",
+    "question": "Each of the applicants / must submit / their / application by Friday.",
+    "options": ["Each of the applicants", "must submit", "their", "application by Friday"],
+    "correct": 2,
+    "explanation": "\"Each\" is singular. In formal academic English preferred on TOEFL-style tests, use \"his or her\" (or rephrase)."
+  }
+]

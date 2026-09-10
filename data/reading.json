@@ -1,0 +1,101 @@
+[
+  {
+    "id": "read-001",
+    "section": "reading",
+    "title": "Urbanization and Bird Populations",
+    "difficulty": "medium",
+    "passage": "The rapid growth of cities has significantly altered natural habitats around the world. As urban areas expand, many bird species lose the forests and wetlands they depend on for nesting and feeding. Some adaptable species, such as pigeons and sparrows, thrive in city environments because they can find food in parks and among human refuse. However, specialist species that require specific habitats often decline sharply. Researchers have found that cities with more green spaces and fewer high-rise buildings tend to support greater bird diversity. Conservation efforts now focus on creating urban wildlife corridors and protecting remaining natural areas within metropolitan regions.",
+    "questions": [
+      {
+        "id": "read-001-q1",
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Pigeons and sparrows are the only birds that can live in cities.",
+          "Urban expansion affects bird populations differently depending on the species.",
+          "All bird species are declining because of urbanization.",
+          "Green spaces in cities are useless for bird conservation."
+        ],
+        "correct": 1,
+        "explanation": "The passage discusses how urbanization harms some species while allowing others to thrive, and mentions conservation efforts."
+      },
+      {
+        "id": "read-001-q2",
+        "type": "detail",
+        "question": "According to the passage, which of the following helps support greater bird diversity in cities?",
+        "options": [
+          "Building more high-rise buildings",
+          "Reducing the number of parks",
+          "Having more green spaces",
+          "Eliminating all natural areas"
+        ],
+        "correct": 2,
+        "explanation": "The passage explicitly states that cities with more green spaces support greater bird diversity."
+      },
+      {
+        "id": "read-001-q3",
+        "type": "inference",
+        "question": "What can be inferred about specialist bird species?",
+        "options": [
+          "They adapt easily to city life.",
+          "They are less affected by urbanization than generalist species.",
+          "They are more vulnerable to habitat loss caused by urban growth.",
+          "They prefer living near human refuse."
+        ],
+        "correct": 2,
+        "explanation": "The passage says specialist species that require specific habitats often decline sharply when those habitats are lost."
+      },
+      {
+        "id": "read-001-q4",
+        "type": "vocabulary",
+        "question": "The word \"adaptable\" in the passage is closest in meaning to:",
+        "options": ["fragile", "flexible", "aggressive", "migratory"],
+        "correct": 1,
+        "explanation": "\"Adaptable\" means able to adjust to new conditions, i.e., flexible."
+      }
+    ]
+  },
+  {
+    "id": "read-002",
+    "section": "reading",
+    "title": "The Role of Sleep in Learning",
+    "difficulty": "medium",
+    "passage": "Scientists have long known that sleep plays an important role in memory and learning. During sleep, the brain processes information acquired during the day and consolidates it into long-term memory. Studies show that students who get adequate sleep after studying perform better on tests than those who stay awake all night. Different stages of sleep appear to support different types of learning. Slow-wave sleep is particularly important for factual memory, while REM sleep helps with procedural skills and creative problem solving. Despite this knowledge, many students sacrifice sleep in order to study longer, a practice that may actually reduce their ability to retain information.",
+    "questions": [
+      {
+        "id": "read-002-q1",
+        "type": "main-idea",
+        "question": "What is the primary purpose of the passage?",
+        "options": [
+          "To argue that students should never study at night",
+          "To explain how sleep contributes to memory and learning",
+          "To describe the different stages of sleep in detail",
+          "To criticize modern education systems"
+        ],
+        "correct": 1,
+        "explanation": "The passage focuses on the connection between sleep and learning/memory consolidation."
+      },
+      {
+        "id": "read-002-q2",
+        "type": "detail",
+        "question": "According to the passage, which type of sleep is especially important for factual memory?",
+        "options": ["REM sleep", "Slow-wave sleep", "Light sleep", "Dream sleep"],
+        "correct": 1,
+        "explanation": "The passage states that slow-wave sleep is particularly important for factual memory."
+      },
+      {
+        "id": "read-002-q3",
+        "type": "inference",
+        "question": "What does the author imply about students who stay awake all night to study?",
+        "options": [
+          "They will remember more information.",
+          "They may actually learn less effectively.",
+          "They perform better on creative tasks.",
+          "They have better procedural skills."
+        ],
+        "correct": 1,
+        "explanation": "The last sentence indicates that sacrificing sleep may reduce the ability to retain information."
+      }
+    ]
+  }
+]

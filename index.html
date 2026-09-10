@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TOEFL Quiz</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <div id="app">
+    <!-- Header -->
+    <header class="header">
+      <div class="container">
+        <h1 class="logo" onclick="showView('dashboard')">TOEFL QUIZ</h1>
+        <nav class="nav">
+          <button class="nav-btn" data-view="dashboard">Dashboard</button>
+          <button class="nav-btn" data-view="practice">Practice</button>
+          <button class="nav-btn" data-view="progress">Progress</button>
+          <button class="nav-btn" data-view="mistakes">Mistakes</button>
+        </nav>
+      </div>
+    </header>
+
+    <main class="main container">
+      <!-- DASHBOARD -->
+      <section id="view-dashboard" class="view active">
+        <h2>Welcome back</h2>
+        <p class="subtitle">Track your TOEFL-style practice and improve step by step.</p>
+
+        <div class="card highlight-card" id="latest-practice-card">
+          <h3>Latest Practice</h3>
+          <div id="latest-score">No practice yet</div>
+        </div>
+
+        <h3 class="section-title">Practice</h3>
+        <div class="grid-4">
+          <button class="section-card" onclick="startSection('structure')">
+            <span class="icon">📝</span>
+            <span>Structure</span>
+          </button>
+          <button class="section-card" onclick="startSection('written-expression')">
+            <span class="icon">✍️</span>
+            <span>Written Expression</span>
+          </button>
+          <button class="section-card" onclick="startSection('reading')">
+            <span class="icon">📖</span>
+            <span>Reading</span>
+          </button>
+          <button class="section-card" onclick="startSection('vocabulary')">
+            <span class="icon">📚</span>
+            <span>Vocabulary</span>
+          </button>
+        </div>
+
+        <div class="coming-soon">
+          <span>🎧 Listening</span>
+          <span class="badge">Coming Soon</span>
+        </div>
+
+        <h3 class="section-title">Your Progress</h3>
+        <div id="progress-overview" class="progress-bars"></div>
+
+        <div class="quick-actions">
+          <button class="btn primary" onclick="startQuickQuiz()">⚡ Quick Quiz (5 Qs)</button>
+          <button class="btn secondary" onclick="showView('practice')">Choose Practice</button>
+        </div>
+      </section>
+
+      <!-- PRACTICE SELECTOR -->
+      <section id="view-practice" class="view">
+        <h2>Practice Setup</h2>
+        <div class="setup-form">
+          <label>Section</label>
+          <select id="select-section">
+            <option value="structure">Structure</option>
+            <option value="written-expression">Written Expression</option>
+            <option value="reading">Reading</option>
+            <option value="vocabulary">Vocabulary</option>
+          </select>
+
+          <label>Category (optional)</label>
+          <select id="select-category">
+            <option value="all">All Categories</option>
+          </select>
+
+          <label>Difficulty</label>
+          <select id="select-difficulty">
+            <option value="all">All</option>
+            <option value="easy">Easy</option>
+            <option value="medium">Medium</option>
+            <option value="hard">Hard</option>
+          </select>
+
+          <label>Number of Questions</label>
+          <select id="select-count">
+            <option value="5">5</option>
+            <option value="10" selected>10</option>
+            <option value="15">15</option>
+            <option value="20">20</option>
+          </select>
+
+          <label>Mode</label>
+          <div class="mode-toggle">
+            <button class="mode-btn active" data-mode="practice">Practice (instant feedback)</button>
+            <button class="mode-btn" data-mode="test">Test (results at end)</button>
+          </div>
+
+          <button class="btn primary full" id="btn-start-practice">Start Practice</button>
+        </div>
+      </section>
+
+      <!-- QUIZ VIEW -->
+      <section id="view-quiz" class="view">
+        <div class="quiz-header">
+          <div id="quiz-progress-text">Question 1 / 10</div>
+          <div id="quiz-timer" class="timer hidden">00:00</div>
+        </div>
+        <div class="progress-bar-container">
+          <div id="quiz-progress-bar" class="progress-bar"></div>
+        </div>
+
+        <div id="passage-box" class="passage-box hidden"></div>
+
+        <div class="question-box">
+          <h3 id="question-text"></h3>
+          <div id="options-container" class="options"></div>
+        </div>
+
+        <div id="feedback-box" class="feedback-box hidden"></div>
+
+        <div class="quiz-actions">
+          <button class="btn secondary" id="btn-prev" disabled>Previous</button>
+          <button class="btn primary" id="btn-next">Next</button>
+          <button class="btn danger hidden" id="btn-finish">Finish</button>
+        </div>
+      </section>
+
+      <!-- RESULTS -->
+      <section id="view-results" class="view">
+        <h2>Results</h2>
+        <div class="score-circle" id="score-circle">
+          <span id="score-percent">0%</span>
+          <span id="score-fraction">0 / 0</span>
+        </div>
+
+        <div id="section-breakdown" class="breakdown"></div>
+
+        <div id="weak-areas" class="weak-areas"></div>
+
+        <div class="results-actions">
+          <button class="btn primary" onclick="showView('dashboard')">Back to Dashboard</button>
+          <button class="btn secondary" id="btn-review-mistakes">Review Mistakes</button>
+          <button class="btn secondary" onclick="showView('practice')">Practice Again</button>
+        </div>
+      </section>
+
+      <!-- PROGRESS -->
+      <section id="view-progress" class="view">
+        <h2>My Progress</h2>
+        <div id="overall-stats" class="stats-grid"></div>
+        <h3>Topic Performance</h3>
+        <div id="topic-performance" class="topic-list"></div>
+        <button class="btn danger small" onclick="resetProgress()">Reset All Progress</button>
+      </section>
+
+      <!-- MISTAKES -->
+      <section id="view-mistakes" class="view">
+        <h2>Mistake Review</h2>
+        <div id="mistakes-list"></div>
+        <p id="no-mistakes" class="empty-state hidden">No mistakes recorded yet. Great job!</p>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container">
+        <p>TOEFL-style practice • Original questions • Local progress only</p>
+      </div>
+    </footer>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,87 @@
+[
+  {
+    "id": "voc-001",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "The word \"abundant\" most nearly means:",
+    "options": ["scarce", "plentiful", "dangerous", "ancient"],
+    "correct": 1,
+    "explanation": "\"Abundant\" means existing in large quantities; plentiful."
+  },
+  {
+    "id": "voc-002",
+    "section": "vocabulary",
+    "category": "synonyms",
+    "difficulty": "medium",
+    "question": "Which word is closest in meaning to \"meticulous\"?",
+    "options": ["careless", "careful and precise", "quick", "emotional"],
+    "correct": 1,
+    "explanation": "\"Meticulous\" describes someone who pays great attention to detail; careful and precise."
+  },
+  {
+    "id": "voc-003",
+    "section": "vocabulary",
+    "category": "context",
+    "difficulty": "medium",
+    "question": "In the sentence \"The professor's explanation was quite lucid,\" the word \"lucid\" means:",
+    "options": ["confusing", "clear and easy to understand", "long", "technical"],
+    "correct": 1,
+    "explanation": "\"Lucid\" means expressed clearly; easy to understand."
+  },
+  {
+    "id": "voc-004",
+    "section": "vocabulary",
+    "category": "academic",
+    "difficulty": "hard",
+    "question": "The term \"hypothesis\" is best defined as:",
+    "options": [
+      "a proven fact",
+      "a proposed explanation that can be tested",
+      "a final conclusion",
+      "a random guess"
+    ],
+    "correct": 1,
+    "explanation": "A hypothesis is a testable proposed explanation for a phenomenon."
+  },
+  {
+    "id": "voc-005",
+    "section": "vocabulary",
+    "category": "synonyms",
+    "difficulty": "easy",
+    "question": "\"Beneficial\" is closest in meaning to:",
+    "options": ["harmful", "helpful", "expensive", "rare"],
+    "correct": 1,
+    "explanation": "\"Beneficial\" means producing good results; helpful or advantageous."
+  },
+  {
+    "id": "voc-006",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does \"inevitable\" mean?",
+    "options": ["unlikely", "certain to happen", "surprising", "optional"],
+    "correct": 1,
+    "explanation": "\"Inevitable\" means certain to occur; unavoidable."
+  },
+  {
+    "id": "voc-007",
+    "section": "vocabulary",
+    "category": "context",
+    "difficulty": "hard",
+    "question": "\"The committee reached a consensus after hours of debate.\" The word \"consensus\" means:",
+    "options": ["disagreement", "general agreement", "a vote", "a compromise forced by the chair"],
+    "correct": 1,
+    "explanation": "\"Consensus\" means general agreement among a group."
+  },
+  {
+    "id": "voc-008",
+    "section": "vocabulary",
+    "category": "academic",
+    "difficulty": "medium",
+    "question": "In academic writing, \"to corroborate\" means:",
+    "options": ["to contradict", "to confirm or support with evidence", "to summarize", "to criticize"],
+    "correct": 1,
+    "explanation": "\"Corroborate\" means to confirm or give support to a statement or theory with evidence."
+  }
+]
