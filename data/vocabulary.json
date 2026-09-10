@@ -2131,5 +2131,905 @@
     "question": "What does the word \"fit\" mean?",
     "correct": "Cocok / sehat",
     "explanation": "Fit = cocok. Contoh: This shirt does not fit."
+  },
+  {
+    "id": "voc-238",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"abandon\" mean?",
+    "correct": "Meninggalkan / melepaskan",
+    "explanation": "Abandon = meninggalkan. Contoh: They had to abandon the project."
+  },
+  {
+    "id": "voc-239",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"abstract\" mean?",
+    "correct": "Abstrak / tidak konkret",
+    "explanation": "Abstract = abstrak. Contoh: The concept is too abstract."
+  },
+  {
+    "id": "voc-240",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"accumulate\" mean?",
+    "correct": "Mengumpulkan / menumpuk",
+    "explanation": "Accumulate = mengumpulkan. Contoh: Dust can accumulate over time."
+  },
+  {
+    "id": "voc-241",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"accurate\" mean?",
+    "correct": "Akurat / tepat",
+    "explanation": "Accurate = akurat. Contoh: The data must be accurate."
+  },
+  {
+    "id": "voc-242",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"acknowledge\" mean?",
+    "correct": "Mengakui / mengakui keberadaan",
+    "explanation": "Acknowledge = mengakui. Contoh: He acknowledged his mistake."
+  },
+  {
+    "id": "voc-243",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"acquire\" mean?",
+    "correct": "Memperoleh / mendapatkan",
+    "explanation": "Acquire = memperoleh. Contoh: She acquired new skills."
+  },
+  {
+    "id": "voc-244",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"adapt\" mean?",
+    "correct": "Beradaptasi / menyesuaikan",
+    "explanation": "Adapt = beradaptasi. Contoh: Animals adapt to their environment."
+  },
+  {
+    "id": "voc-245",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"adjacent\" mean?",
+    "correct": "Berdekatan / berdampingan",
+    "explanation": "Adjacent = berdekatan. Contoh: The park is adjacent to the school."
+  },
+  {
+    "id": "voc-246",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"advocate\" mean?",
+    "correct": "Mendukung / menganjurkan",
+    "explanation": "Advocate = mendukung. Contoh: She advocates for education reform."
+  },
+  {
+    "id": "voc-247",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"allocate\" mean?",
+    "correct": "Mengalokasikan / membagikan",
+    "explanation": "Allocate = mengalokasikan. Contoh: The budget was allocated carefully."
+  },
+  {
+    "id": "voc-248",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"ambiguous\" mean?",
+    "correct": "Ambigu / bermakna ganda",
+    "explanation": "Ambiguous = ambigu. Contoh: The instruction was ambiguous."
+  },
+  {
+    "id": "voc-249",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"amend\" mean?",
+    "correct": "Mengubah / memperbaiki (dokumen)",
+    "explanation": "Amend = mengubah. Contoh: They amended the law."
+  },
+  {
+    "id": "voc-250",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"annual\" mean?",
+    "correct": "Tahunan",
+    "explanation": "Annual = tahunan. Contoh: The annual meeting is in June."
+  },
+  {
+    "id": "voc-251",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"anticipate\" mean?",
+    "correct": "Mengantisipasi / mengharapkan",
+    "explanation": "Anticipate = mengantisipasi. Contoh: We anticipate good results."
+  },
+  {
+    "id": "voc-252",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"apparent\" mean?",
+    "correct": "Tampak / jelas terlihat",
+    "explanation": "Apparent = tampak jelas. Contoh: The problem was apparent."
+  },
+  {
+    "id": "voc-253",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"arbitrary\" mean?",
+    "correct": "Sewenang-wenang / arbitrary",
+    "explanation": "Arbitrary = sewenang-wenang. Contoh: The decision seemed arbitrary."
+  },
+  {
+    "id": "voc-254",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"assemble\" mean?",
+    "correct": "Merakit / berkumpul",
+    "explanation": "Assemble = merakit / berkumpul. Contoh: Assemble the furniture carefully."
+  },
+  {
+    "id": "voc-255",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"assess\" mean?",
+    "correct": "Menilai / menilai",
+    "explanation": "Assess = menilai. Contoh: Teachers assess student progress."
+  },
+  {
+    "id": "voc-256",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"assign\" mean?",
+    "correct": "Menugaskan",
+    "explanation": "Assign = menugaskan. Contoh: The teacher assigned homework."
+  },
+  {
+    "id": "voc-257",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"assist\" mean?",
+    "correct": "Membantu",
+    "explanation": "Assist = membantu. Contoh: Can you assist me?"
+  },
+  {
+    "id": "voc-258",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"assume\" mean?",
+    "correct": "Mengasumsikan",
+    "explanation": "Assume = mengasumsikan. Contoh: Don't assume too much."
+  },
+  {
+    "id": "voc-259",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"assure\" mean?",
+    "correct": "Memastikan / meyakinkan",
+    "explanation": "Assure = memastikan. Contoh: I assure you it is safe."
+  },
+  {
+    "id": "voc-260",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"attain\" mean?",
+    "correct": "Mencapai",
+    "explanation": "Attain = mencapai. Contoh: She attained her goals."
+  },
+  {
+    "id": "voc-261",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"attribute\" mean?",
+    "correct": "Mengatribusikan / ciri",
+    "explanation": "Attribute = mengatribusikan. Contoh: They attribute success to hard work."
+  },
+  {
+    "id": "voc-262",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"authority\" mean?",
+    "correct": "Otoritas / wewenang",
+    "explanation": "Authority = otoritas. Contoh: She is an authority on the topic."
+  },
+  {
+    "id": "voc-263",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"benefit\" mean?",
+    "correct": "Manfaat",
+    "explanation": "Benefit = manfaat. Contoh: Exercise has many benefits."
+  },
+  {
+    "id": "voc-264",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"bias\" mean?",
+    "correct": "Bias / prasangka",
+    "explanation": "Bias = bias. Contoh: Avoid bias in research."
+  },
+  {
+    "id": "voc-265",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"brief\" mean?",
+    "correct": "Singkat",
+    "explanation": "Brief = singkat. Contoh: Give a brief summary."
+  },
+  {
+    "id": "voc-266",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"capable\" mean?",
+    "correct": "Mampu / cakap",
+    "explanation": "Capable = mampu. Contoh: She is capable of solving it."
+  },
+  {
+    "id": "voc-267",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"cease\" mean?",
+    "correct": "Berhenti / menghentikan",
+    "explanation": "Cease = berhenti. Contoh: The noise finally ceased."
+  },
+  {
+    "id": "voc-268",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"clarify\" mean?",
+    "correct": "Memperjelas",
+    "explanation": "Clarify = memperjelas. Contoh: Please clarify your point."
+  },
+  {
+    "id": "voc-269",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"coherence\" mean?",
+    "correct": "Kekoherenan / keterpaduan",
+    "explanation": "Coherence = kekoherenan. Contoh: The essay lacks coherence."
+  },
+  {
+    "id": "voc-270",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"coincide\" mean?",
+    "correct": "Bertepatan",
+    "explanation": "Coincide = bertepatan. Contoh: The events coincided."
+  },
+  {
+    "id": "voc-271",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"collapse\" mean?",
+    "correct": "Runtuh / ambruk",
+    "explanation": "Collapse = runtuh. Contoh: The building collapsed."
+  },
+  {
+    "id": "voc-272",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"colleague\" mean?",
+    "correct": "Rekan kerja",
+    "explanation": "Colleague = rekan kerja. Contoh: My colleague helped me."
+  },
+  {
+    "id": "voc-273",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"commence\" mean?",
+    "correct": "Memulai",
+    "explanation": "Commence = memulai. Contoh: The ceremony will commence at noon."
+  },
+  {
+    "id": "voc-274",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"compatible\" mean?",
+    "correct": "Kompatibel / cocok",
+    "explanation": "Compatible = kompatibel. Contoh: The software is compatible."
+  },
+  {
+    "id": "voc-275",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"compile\" mean?",
+    "correct": "Mengompilasi / mengumpulkan",
+    "explanation": "Compile = mengompilasi. Contoh: Compile the data first."
+  },
+  {
+    "id": "voc-276",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"complement\" mean?",
+    "correct": "Melengkapi",
+    "explanation": "Complement = melengkapi. Contoh: The sauce complements the dish."
+  },
+  {
+    "id": "voc-277",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"comprehensive\" mean?",
+    "correct": "Komprehensif / menyeluruh",
+    "explanation": "Comprehensive = komprehensif. Contoh: A comprehensive review is needed."
+  },
+  {
+    "id": "voc-278",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"comprise\" mean?",
+    "correct": "Terdiri dari",
+    "explanation": "Comprise = terdiri dari. Contoh: The team comprises five members."
+  },
+  {
+    "id": "voc-279",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"conceal\" mean?",
+    "correct": "Menyembunyikan",
+    "explanation": "Conceal = menyembunyikan. Contoh: He tried to conceal the truth."
+  },
+  {
+    "id": "voc-280",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"conceive\" mean?",
+    "correct": "Menggagas / membayangkan",
+    "explanation": "Conceive = menggagas. Contoh: It is hard to conceive such an idea."
+  },
+  {
+    "id": "voc-281",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"conclude\" mean?",
+    "correct": "Menyimpulkan",
+    "explanation": "Conclude = menyimpulkan. Contoh: We can conclude that..."
+  },
+  {
+    "id": "voc-282",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"concurrent\" mean?",
+    "correct": "Bersamaan",
+    "explanation": "Concurrent = bersamaan. Contoh: Concurrent events occurred."
+  },
+  {
+    "id": "voc-283",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"conduct\" mean?",
+    "correct": "Melakukan / memimpin",
+    "explanation": "Conduct = melakukan. Contoh: They conducted a survey."
+  },
+  {
+    "id": "voc-284",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"confer\" mean?",
+    "correct": "Memberikan / berunding",
+    "explanation": "Confer = memberikan. Contoh: The university conferred a degree."
+  },
+  {
+    "id": "voc-285",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"confine\" mean?",
+    "correct": "Membatasi / mengurung",
+    "explanation": "Confine = membatasi. Contoh: Confine the discussion to the topic."
+  },
+  {
+    "id": "voc-286",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"confirm\" mean?",
+    "correct": "Mengonfirmasi",
+    "explanation": "Confirm = mengonfirmasi. Contoh: Please confirm your attendance."
+  },
+  {
+    "id": "voc-287",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "medium",
+    "question": "What does the word \"conflict\" mean?",
+    "correct": "Konflik",
+    "explanation": "Conflict = konflik. Contoh: There was a conflict of interest."
+  },
+  {
+    "id": "voc-288",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"conscientious\" mean?",
+    "correct": "Teliti / berkesadaran",
+    "explanation": "Conscientious = teliti / tekun. Contoh: She is a conscientious student."
+  },
+  {
+    "id": "voc-289",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"consecutive\" mean?",
+    "correct": "Berturut-turut",
+    "explanation": "Consecutive = berturut-turut. Contoh: Three consecutive days of rain."
+  },
+  {
+    "id": "voc-290",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"consensus\" mean?",
+    "correct": "Konsensus / kesepakatan bersama",
+    "explanation": "Consensus = konsensus. Contoh: They reached a consensus."
+  },
+  {
+    "id": "voc-291",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"consequent\" mean?",
+    "correct": "Akibat / konsekuen",
+    "explanation": "Consequent = akibat. Contoh: The consequent damage was severe."
+  },
+  {
+    "id": "voc-292",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"considerable\" mean?",
+    "correct": "Cukup besar / cukup banyak",
+    "explanation": "Considerable = cukup besar. Contoh: A considerable amount of time."
+  },
+  {
+    "id": "voc-293",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"consist\" mean?",
+    "correct": "Terdiri",
+    "explanation": "Consist = terdiri. Contoh: The exam consists of three parts."
+  },
+  {
+    "id": "voc-294",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"consolidate\" mean?",
+    "correct": "Mengonsolidasikan / memperkuat",
+    "explanation": "Consolidate = mengonsolidasikan. Contoh: Consolidate your knowledge."
+  },
+  {
+    "id": "voc-295",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"constitute\" mean?",
+    "correct": "Membentuk / merupakan",
+    "explanation": "Constitute = membentuk. Contoh: These factors constitute a risk."
+  },
+  {
+    "id": "voc-296",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"constrain\" mean?",
+    "correct": "Membatasi / mengekang",
+    "explanation": "Constrain = membatasi. Contoh: Time constraints limited the project."
+  },
+  {
+    "id": "voc-297",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"construct\" mean?",
+    "correct": "Membangun / menyusun",
+    "explanation": "Construct = membangun. Contoh: Construct a clear argument."
+  },
+  {
+    "id": "voc-298",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"consult\" mean?",
+    "correct": "Berkonsultasi",
+    "explanation": "Consult = berkonsultasi. Contoh: Consult your teacher."
+  },
+  {
+    "id": "voc-299",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"consume\" mean?",
+    "correct": "Mengonsumsi",
+    "explanation": "Consume = mengonsumsi. Contoh: Consume less energy."
+  },
+  {
+    "id": "voc-300",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"contact\" mean?",
+    "correct": "Kontak / menghubungi",
+    "explanation": "Contact = kontak. Contoh: Contact the office for details."
+  },
+  {
+    "id": "voc-301",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"contemporary\" mean?",
+    "correct": "Kontemporer / sezaman",
+    "explanation": "Contemporary = kontemporer. Contoh: Contemporary art is diverse."
+  },
+  {
+    "id": "voc-302",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"context\" mean?",
+    "correct": "Konteks",
+    "explanation": "Context = konteks. Contoh: Consider the historical context."
+  },
+  {
+    "id": "voc-303",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"contract\" mean?",
+    "correct": "Kontrak / menyusut",
+    "explanation": "Contract = kontrak / menyusut. Contoh: Sign the contract."
+  },
+  {
+    "id": "voc-304",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"contradict\" mean?",
+    "correct": "Bertentangan",
+    "explanation": "Contradict = bertentangan. Contoh: The results contradict the theory."
+  },
+  {
+    "id": "voc-305",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"contrary\" mean?",
+    "correct": "Bertolak belakang",
+    "explanation": "Contrary = bertolak belakang. Contoh: On the contrary, it helped."
+  },
+  {
+    "id": "voc-306",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"contrast\" mean?",
+    "correct": "Kontras / perbedaan",
+    "explanation": "Contrast = kontras. Contoh: In contrast to earlier findings..."
+  },
+  {
+    "id": "voc-307",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"contribute\" mean?",
+    "correct": "Berkontribusi",
+    "explanation": "Contribute = berkontribusi. Contoh: Everyone can contribute."
+  },
+  {
+    "id": "voc-308",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"controversy\" mean?",
+    "correct": "Kontroversi",
+    "explanation": "Controversy = kontroversi. Contoh: The decision caused controversy."
+  },
+  {
+    "id": "voc-309",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"convene\" mean?",
+    "correct": "Mengadakan / berkumpul",
+    "explanation": "Convene = mengadakan. Contoh: The committee will convene tomorrow."
+  },
+  {
+    "id": "voc-310",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"converse\" mean?",
+    "correct": "Berbicara / sebaliknya",
+    "explanation": "Converse = berbicara / sebaliknya. Contoh: The converse is also true."
+  },
+  {
+    "id": "voc-311",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"convert\" mean?",
+    "correct": "Mengubah / mengonversi",
+    "explanation": "Convert = mengubah. Contoh: Convert the file format."
+  },
+  {
+    "id": "voc-312",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"convince\" mean?",
+    "correct": "Meyakinkan",
+    "explanation": "Convince = meyakinkan. Contoh: She convinced the jury."
+  },
+  {
+    "id": "voc-313",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"cooperate\" mean?",
+    "correct": "Bekerja sama",
+    "explanation": "Cooperate = bekerja sama. Contoh: Teams must cooperate."
+  },
+  {
+    "id": "voc-314",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"coordinate\" mean?",
+    "correct": "Mengoordinasikan",
+    "explanation": "Coordinate = mengoordinasikan. Contoh: Coordinate the activities."
+  },
+  {
+    "id": "voc-315",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"core\" mean?",
+    "correct": "Inti",
+    "explanation": "Core = inti. Contoh: The core idea is simple."
+  },
+  {
+    "id": "voc-316",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"corporate\" mean?",
+    "correct": "Korporat / perusahaan",
+    "explanation": "Corporate = korporat. Contoh: Corporate culture matters."
+  },
+  {
+    "id": "voc-317",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"correspond\" mean?",
+    "correct": "Berkorespondensi / sesuai",
+    "explanation": "Correspond = sesuai. Contoh: The results correspond to the prediction."
+  },
+  {
+    "id": "voc-318",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"criteria\" mean?",
+    "correct": "Kriteria",
+    "explanation": "Criteria = kriteria. Contoh: Use clear criteria for evaluation."
+  },
+  {
+    "id": "voc-319",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"crucial\" mean?",
+    "correct": "Krusial / sangat penting",
+    "explanation": "Crucial = krusial. Contoh: Timing is crucial."
+  },
+  {
+    "id": "voc-320",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"culture\" mean?",
+    "correct": "Budaya",
+    "explanation": "Culture = budaya. Contoh: Language reflects culture."
+  },
+  {
+    "id": "voc-321",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"currency\" mean?",
+    "correct": "Mata uang / keberlakuan",
+    "explanation": "Currency = mata uang. Contoh: Foreign currency exchange."
+  },
+  {
+    "id": "voc-322",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"cycle\" mean?",
+    "correct": "Siklus",
+    "explanation": "Cycle = siklus. Contoh: The water cycle is continuous."
+  },
+  {
+    "id": "voc-323",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"data\" mean?",
+    "correct": "Data",
+    "explanation": "Data = data. Contoh: Analyze the data carefully."
+  },
+  {
+    "id": "voc-324",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"debate\" mean?",
+    "correct": "Debat",
+    "explanation": "Debate = debat. Contoh: There is an ongoing debate."
+  },
+  {
+    "id": "voc-325",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"decade\" mean?",
+    "correct": "Dekade / sepuluh tahun",
+    "explanation": "Decade = dekade. Contoh: Over the past decade..."
+  },
+  {
+    "id": "voc-326",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"decline\" mean?",
+    "correct": "Menurun / menolak",
+    "explanation": "Decline = menurun. Contoh: Sales declined sharply."
+  },
+  {
+    "id": "voc-327",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"deduce\" mean?",
+    "correct": "Menyimpulkan (logis)",
+    "explanation": "Deduce = menyimpulkan. Contoh: We can deduce the cause."
+  },
+  {
+    "id": "voc-328",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"definite\" mean?",
+    "correct": "Pasti / definit",
+    "explanation": "Definite = pasti. Contoh: There is no definite answer yet."
+  },
+  {
+    "id": "voc-329",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"demonstrate\" mean?",
+    "correct": "Menunjukkan / mendemonstrasikan",
+    "explanation": "Demonstrate = menunjukkan. Contoh: Demonstrate your understanding."
+  },
+  {
+    "id": "voc-330",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"denote\" mean?",
+    "correct": "Menunjukkan / menandakan",
+    "explanation": "Denote = menandakan. Contoh: The symbol denotes danger."
+  },
+  {
+    "id": "voc-331",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"deny\" mean?",
+    "correct": "Menyangkal",
+    "explanation": "Deny = menyangkal. Contoh: He denied the accusation."
+  },
+  {
+    "id": "voc-332",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"depress\" mean?",
+    "correct": "Menekan / membuat depresi",
+    "explanation": "Depress = menekan. Contoh: The news depressed him."
+  },
+  {
+    "id": "voc-333",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"derive\" mean?",
+    "correct": "Berasal / memperoleh",
+    "explanation": "Derive = berasal. Contoh: The word derives from Latin."
+  },
+  {
+    "id": "voc-334",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"design\" mean?",
+    "correct": "Desain / merancang",
+    "explanation": "Design = desain. Contoh: Design a better system."
+  },
+  {
+    "id": "voc-335",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"despite\" mean?",
+    "correct": "Meskipun",
+    "explanation": "Despite = meskipun. Contoh: Despite the rain, they continued."
+  },
+  {
+    "id": "voc-336",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"detect\" mean?",
+    "correct": "Mendeteksi",
+    "explanation": "Detect = mendeteksi. Contoh: Sensors detect movement."
+  },
+  {
+    "id": "voc-337",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"determine\" mean?",
+    "correct": "Menentukan",
+    "explanation": "Determine = menentukan. Contoh: Determine the cause of the error."
   }
 ]
