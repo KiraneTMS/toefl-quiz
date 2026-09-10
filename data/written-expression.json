@@ -448,5 +448,305 @@
     ],
     "correct": 1,
     "explanation": "\"Reasons\" is plural, so use \"are\"."
+  },
+  {
+    "id": "we-031",
+    "section": "written-expression",
+    "category": "subject-verb-agreement",
+    "difficulty": "easy",
+    "question": "The information / are / available / on the website.",
+    "options": [
+      "The information",
+      "are",
+      "available",
+      "on the website"
+    ],
+    "correct": 1,
+    "explanation": "\"Information\" is uncountable and takes a singular verb: \"is\"."
+  },
+  {
+    "id": "we-032",
+    "section": "written-expression",
+    "category": "verb-tenses",
+    "difficulty": "easy",
+    "question": "She / go / to the gym / every morning.",
+    "options": [
+      "She",
+      "go",
+      "to the gym",
+      "every morning"
+    ],
+    "correct": 1,
+    "explanation": "Third-person singular requires \"goes\"."
+  },
+  {
+    "id": "we-033",
+    "section": "written-expression",
+    "category": "parallel-structure",
+    "difficulty": "medium",
+    "question": "He likes swimming, / hiking, / and to bike / on weekends.",
+    "options": [
+      "He likes swimming",
+      "hiking",
+      "and to bike",
+      "on weekends"
+    ],
+    "correct": 2,
+    "explanation": "Keep parallel gerunds: swimming, hiking, and biking."
+  },
+  {
+    "id": "we-034",
+    "section": "written-expression",
+    "category": "word-form",
+    "difficulty": "easy",
+    "question": "She is a / success / businesswoman / in her field.",
+    "options": [
+      "She is a",
+      "success",
+      "businesswoman",
+      "in her field"
+    ],
+    "correct": 1,
+    "explanation": "The adjective \"successful\" is needed before the noun."
+  },
+  {
+    "id": "we-035",
+    "section": "written-expression",
+    "category": "prepositions",
+    "difficulty": "easy",
+    "question": "He is afraid / from / spiders / and insects.",
+    "options": [
+      "He is afraid",
+      "from",
+      "spiders",
+      "and insects"
+    ],
+    "correct": 1,
+    "explanation": "The correct preposition is \"of\": afraid of."
+  },
+  {
+    "id": "we-036",
+    "section": "written-expression",
+    "category": "articles",
+    "difficulty": "easy",
+    "question": "She bought / a / apple / at the market.",
+    "options": [
+      "She bought",
+      "a",
+      "apple",
+      "at the market"
+    ],
+    "correct": 1,
+    "explanation": "\"Apple\" begins with a vowel sound; use \"an\"."
+  },
+  {
+    "id": "we-037",
+    "section": "written-expression",
+    "category": "relative-clauses",
+    "difficulty": "medium",
+    "question": "The car / who / was parked outside / belongs to my neighbor.",
+    "options": [
+      "The car",
+      "who",
+      "was parked outside",
+      "belongs to my neighbor"
+    ],
+    "correct": 1,
+    "explanation": "Use \"which\" or \"that\" for things, not \"who\"."
+  },
+  {
+    "id": "we-038",
+    "section": "written-expression",
+    "category": "pronouns",
+    "difficulty": "easy",
+    "question": "Me and my friend / went / to the library / yesterday.",
+    "options": [
+      "Me and my friend",
+      "went",
+      "to the library",
+      "yesterday"
+    ],
+    "correct": 0,
+    "explanation": "Use subject pronoun \"I\": \"My friend and I\"."
+  },
+  {
+    "id": "we-039",
+    "section": "written-expression",
+    "category": "comparatives",
+    "difficulty": "easy",
+    "question": "This test is / more easier / than / the previous one.",
+    "options": [
+      "This test is",
+      "more easier",
+      "than",
+      "the previous one"
+    ],
+    "correct": 1,
+    "explanation": "\"Easier\" is already comparative; do not use \"more easier\"."
+  },
+  {
+    "id": "we-040",
+    "section": "written-expression",
+    "category": "verb-tenses",
+    "difficulty": "medium",
+    "question": "They / live / here / since 2018.",
+    "options": [
+      "They",
+      "live",
+      "here",
+      "since 2018"
+    ],
+    "correct": 1,
+    "explanation": "With \"since\", use present perfect: \"have lived\"."
+  },
+  {
+    "id": "we-041",
+    "section": "written-expression",
+    "category": "word-form",
+    "difficulty": "medium",
+    "question": "The solution was / complete / different / from the first one.",
+    "options": [
+      "The solution was",
+      "complete",
+      "different",
+      "from the first one"
+    ],
+    "correct": 1,
+    "explanation": "Use the adverb \"completely\" to modify the adjective \"different\"."
+  },
+  {
+    "id": "we-042",
+    "section": "written-expression",
+    "category": "prepositions",
+    "difficulty": "medium",
+    "question": "She depends / of / her parents / for financial support.",
+    "options": [
+      "She depends",
+      "of",
+      "her parents",
+      "for financial support"
+    ],
+    "correct": 1,
+    "explanation": "The correct preposition is \"on\": depends on."
+  },
+  {
+    "id": "we-043",
+    "section": "written-expression",
+    "category": "subject-verb-agreement",
+    "difficulty": "medium",
+    "question": "A number of students / is / absent / today.",
+    "options": [
+      "A number of students",
+      "is",
+      "absent",
+      "today"
+    ],
+    "correct": 1,
+    "explanation": "\"A number of\" takes a plural verb: \"are\"."
+  },
+  {
+    "id": "we-044",
+    "section": "written-expression",
+    "category": "parallel-structure",
+    "difficulty": "hard",
+    "question": "The job involves writing reports, / attending meetings, / and to manage / the team.",
+    "options": [
+      "The job involves writing reports",
+      "attending meetings",
+      "and to manage",
+      "the team"
+    ],
+    "correct": 2,
+    "explanation": "Parallel gerunds: writing, attending, and managing."
+  },
+  {
+    "id": "we-045",
+    "section": "written-expression",
+    "category": "articles",
+    "difficulty": "medium",
+    "question": "He is / the / honest man / I have ever met.",
+    "options": [
+      "He is",
+      "the",
+      "honest man",
+      "I have ever met"
+    ],
+    "correct": 1,
+    "explanation": "Use \"an\" before \"honest\" (vowel sound)."
+  },
+  {
+    "id": "we-046",
+    "section": "written-expression",
+    "category": "relative-clauses",
+    "difficulty": "hard",
+    "question": "The students / which / the teacher praised / were very happy.",
+    "options": [
+      "The students",
+      "which",
+      "the teacher praised",
+      "were very happy"
+    ],
+    "correct": 1,
+    "explanation": "Use \"whom\" or \"that\" for people as object; \"which\" is for things."
+  },
+  {
+    "id": "we-047",
+    "section": "written-expression",
+    "category": "pronouns",
+    "difficulty": "medium",
+    "question": "The company will announce / it's / decision / tomorrow.",
+    "options": [
+      "The company will announce",
+      "it's",
+      "decision",
+      "tomorrow"
+    ],
+    "correct": 1,
+    "explanation": "Possessive is \"its\" (no apostrophe). \"It's\" means \"it is\"."
+  },
+  {
+    "id": "we-048",
+    "section": "written-expression",
+    "category": "verb-tenses",
+    "difficulty": "hard",
+    "question": "If I / knew / about the problem earlier, / I would have helped.",
+    "options": [
+      "If I",
+      "knew",
+      "about the problem earlier",
+      "I would have helped"
+    ],
+    "correct": 1,
+    "explanation": "Third conditional needs past perfect: \"had known\"."
+  },
+  {
+    "id": "we-049",
+    "section": "written-expression",
+    "category": "word-form",
+    "difficulty": "hard",
+    "question": "Her / perform / in the exam / was excellent.",
+    "options": [
+      "Her",
+      "perform",
+      "in the exam",
+      "was excellent"
+    ],
+    "correct": 1,
+    "explanation": "The noun form \"performance\" is required."
+  },
+  {
+    "id": "we-050",
+    "section": "written-expression",
+    "category": "prepositions",
+    "difficulty": "hard",
+    "question": "He is interested / for / learning / foreign languages.",
+    "options": [
+      "He is interested",
+      "for",
+      "learning",
+      "foreign languages"
+    ],
+    "correct": 1,
+    "explanation": "The correct preposition is \"in\": interested in."
   }
 ]

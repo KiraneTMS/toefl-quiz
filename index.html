@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,15 +8,14 @@
 </head>
 <body>
   <div id="app">
-    <!-- Header -->
     <header class="header">
       <div class="container">
         <h1 class="logo" onclick="showView('dashboard')">TOEFL QUIZ</h1>
         <nav class="nav">
-          <button class="nav-btn" data-view="dashboard">Dashboard</button>
-          <button class="nav-btn" data-view="practice">Practice</button>
+          <button class="nav-btn" data-view="dashboard">Beranda</button>
+          <button class="nav-btn" data-view="practice">Latihan</button>
           <button class="nav-btn" data-view="progress">Progress</button>
-          <button class="nav-btn" data-view="mistakes">Mistakes</button>
+          <button class="nav-btn" data-view="mistakes">Kesalahan</button>
         </nav>
       </div>
     </header>
@@ -24,15 +23,15 @@
     <main class="main container">
       <!-- DASHBOARD -->
       <section id="view-dashboard" class="view active">
-        <h2>Welcome back</h2>
-        <p class="subtitle">Track your TOEFL-style practice and improve step by step.</p>
+        <h2>Selamat datang kembali</h2>
+        <p class="subtitle">Lacak latihan TOEFL-mu dan tingkatkan kemampuan langkah demi langkah.</p>
 
         <div class="card highlight-card" id="latest-practice-card">
-          <h3>Latest Practice</h3>
-          <div id="latest-score">No practice yet</div>
+          <h3>Latihan Terakhir</h3>
+          <div id="latest-score">Belum ada latihan</div>
         </div>
 
-        <h3 class="section-title">Practice</h3>
+        <h3 class="section-title">Latihan</h3>
         <div class="grid-4">
           <button class="section-card" onclick="startSection('structure')">
             <span class="icon">📝</span>
@@ -54,23 +53,23 @@
 
         <div class="coming-soon">
           <span>🎧 Listening</span>
-          <span class="badge">Coming Soon</span>
+          <span class="badge">Segera Hadir</span>
         </div>
 
-        <h3 class="section-title">Your Progress</h3>
+        <h3 class="section-title">Progress Kamu</h3>
         <div id="progress-overview" class="progress-bars"></div>
 
         <div class="quick-actions">
-          <button class="btn primary" onclick="startQuickQuiz()">⚡ Quick Quiz (5 Qs)</button>
-          <button class="btn secondary" onclick="showView('practice')">Choose Practice</button>
+          <button class="btn primary" onclick="startQuickQuiz()">⚡ Kuis Cepat (5 Soal)</button>
+          <button class="btn secondary" onclick="showView('practice')">Pilih Latihan</button>
         </div>
       </section>
 
       <!-- PRACTICE SELECTOR -->
       <section id="view-practice" class="view">
-        <h2>Practice Setup</h2>
+        <h2>Pengaturan Latihan</h2>
         <div class="setup-form">
-          <label>Section</label>
+          <label>Bagian</label>
           <select id="select-section">
             <option value="structure">Structure</option>
             <option value="written-expression">Written Expression</option>
@@ -78,20 +77,20 @@
             <option value="vocabulary">Vocabulary</option>
           </select>
 
-          <label>Category (optional)</label>
+          <label>Kategori (opsional)</label>
           <select id="select-category">
-            <option value="all">All Categories</option>
+            <option value="all">Semua Kategori</option>
           </select>
 
-          <label>Difficulty</label>
+          <label>Tingkat Kesulitan</label>
           <select id="select-difficulty">
-            <option value="all">All</option>
-            <option value="easy">Easy</option>
-            <option value="medium">Medium</option>
-            <option value="hard">Hard</option>
+            <option value="all">Semua</option>
+            <option value="easy">Mudah</option>
+            <option value="medium">Sedang</option>
+            <option value="hard">Sulit</option>
           </select>
 
-          <label>Number of Questions</label>
+          <label>Jumlah Soal</label>
           <select id="select-count">
             <option value="5">5</option>
             <option value="10" selected>10</option>
@@ -101,18 +100,18 @@
 
           <label>Mode</label>
           <div class="mode-toggle">
-            <button class="mode-btn active" data-mode="practice">Practice (instant feedback)</button>
-            <button class="mode-btn" data-mode="test">Test (results at end)</button>
+            <button class="mode-btn active" data-mode="practice">Latihan (langsung koreksi)</button>
+            <button class="mode-btn" data-mode="test">Tes (hasil di akhir)</button>
           </div>
 
-          <button class="btn primary full" id="btn-start-practice">Start Practice</button>
+          <button class="btn primary full" id="btn-start-practice">Mulai Latihan</button>
         </div>
       </section>
 
       <!-- QUIZ VIEW -->
       <section id="view-quiz" class="view">
         <div class="quiz-header">
-          <div id="quiz-progress-text">Question 1 / 10</div>
+          <div id="quiz-progress-text">Soal 1 / 10</div>
           <div id="quiz-timer" class="timer hidden">00:00</div>
         </div>
         <div class="progress-bar-container">
@@ -129,51 +128,50 @@
         <div id="feedback-box" class="feedback-box hidden"></div>
 
         <div class="quiz-actions">
-          <button class="btn secondary" id="btn-prev" disabled>Previous</button>
-          <button class="btn primary" id="btn-next">Next</button>
-          <button class="btn danger hidden" id="btn-finish">Finish</button>
+          <button class="btn secondary" id="btn-prev" disabled>Sebelumnya</button>
+          <button class="btn primary" id="btn-next">Berikutnya</button>
+          <button class="btn danger hidden" id="btn-finish">Selesai</button>
         </div>
       </section>
 
       <!-- RESULTS -->
       <section id="view-results" class="view">
-        <h2>Results</h2>
+        <h2>Hasil</h2>
         <div class="score-circle" id="score-circle">
           <span id="score-percent">0%</span>
           <span id="score-fraction">0 / 0</span>
         </div>
 
         <div id="section-breakdown" class="breakdown"></div>
-
         <div id="weak-areas" class="weak-areas"></div>
 
         <div class="results-actions">
-          <button class="btn primary" onclick="showView('dashboard')">Back to Dashboard</button>
-          <button class="btn secondary" id="btn-review-mistakes">Review Mistakes</button>
-          <button class="btn secondary" onclick="showView('practice')">Practice Again</button>
+          <button class="btn primary" onclick="showView('dashboard')">Kembali ke Beranda</button>
+          <button class="btn secondary" id="btn-review-mistakes">Lihat Kesalahan</button>
+          <button class="btn secondary" onclick="showView('practice')">Latihan Lagi</button>
         </div>
       </section>
 
       <!-- PROGRESS -->
       <section id="view-progress" class="view">
-        <h2>My Progress</h2>
+        <h2>Progress Saya</h2>
         <div id="overall-stats" class="stats-grid"></div>
-        <h3>Topic Performance</h3>
+        <h3>Performa Topik</h3>
         <div id="topic-performance" class="topic-list"></div>
-        <button class="btn danger small" onclick="resetProgress()">Reset All Progress</button>
+        <button class="btn danger small" onclick="resetProgress()">Reset Semua Progress</button>
       </section>
 
       <!-- MISTAKES -->
       <section id="view-mistakes" class="view">
-        <h2>Mistake Review</h2>
+        <h2>Tinjauan Kesalahan</h2>
         <div id="mistakes-list"></div>
-        <p id="no-mistakes" class="empty-state hidden">No mistakes recorded yet. Great job!</p>
+        <p id="no-mistakes" class="empty-state hidden">Belum ada kesalahan tercatat. Kerja bagus!</p>
       </section>
     </main>
 
     <footer class="footer">
       <div class="container">
-        <p>TOEFL-style practice • Original questions • Local progress only</p>
+        <p>Latihan bergaya TOEFL • Soal original • Progress disimpan lokal</p>
       </div>
     </footer>
   </div>

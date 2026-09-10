@@ -5,7 +5,12 @@
     "category": "subject-verb-agreement",
     "difficulty": "easy",
     "question": "The number of students who _____ registered for the advanced course has increased this semester.",
-    "options": ["has", "have", "are", "were"],
+    "options": [
+      "has",
+      "have",
+      "are",
+      "were"
+    ],
     "correct": 0,
     "explanation": "The subject is \"the number\" (singular), so the verb must be singular: \"has\"."
   },
@@ -15,9 +20,14 @@
     "category": "subject-verb-agreement",
     "difficulty": "medium",
     "question": "Neither the professor nor the students _____ prepared for the sudden change in the schedule.",
-    "options": ["was", "were", "is", "has been"],
+    "options": [
+      "was",
+      "were",
+      "is",
+      "has been"
+    ],
     "correct": 1,
-    "explanation": "When subjects are joined by \"neither...nor\", the verb agrees with the closer subject (\"students\" → plural \"were\")."
+    "explanation": "When subjects are joined by \"neither...nor\", the verb agrees with the closer subject (\"students\" \u2192 plural \"were\")."
   },
   {
     "id": "str-003",
@@ -25,7 +35,12 @@
     "category": "verb-tenses",
     "difficulty": "easy",
     "question": "By the time the lecture begins, the students _____ already seated for twenty minutes.",
-    "options": ["will have been", "will be", "are", "have been"],
+    "options": [
+      "will have been",
+      "will be",
+      "are",
+      "have been"
+    ],
     "correct": 0,
     "explanation": "Future perfect progressive is used for an action that will continue up to a point in the future."
   },
@@ -35,7 +50,12 @@
     "category": "verb-tenses",
     "difficulty": "medium",
     "question": "She _____ in the laboratory since early this morning and still has not finished the experiment.",
-    "options": ["works", "has been working", "is working", "worked"],
+    "options": [
+      "works",
+      "has been working",
+      "is working",
+      "worked"
+    ],
     "correct": 1,
     "explanation": "Present perfect progressive emphasizes the duration of an action that began in the past and continues to the present."
   },
@@ -45,7 +65,12 @@
     "category": "passive-voice",
     "difficulty": "easy",
     "question": "The research paper _____ by three independent reviewers before it was accepted.",
-    "options": ["was examined", "examined", "has examined", "was examining"],
+    "options": [
+      "was examined",
+      "examined",
+      "has examined",
+      "was examining"
+    ],
     "correct": 0,
     "explanation": "The paper is the receiver of the action, so passive voice is required."
   },
@@ -55,7 +80,12 @@
     "category": "relative-clauses",
     "difficulty": "medium",
     "question": "The scientist _____ theory revolutionized physics received the Nobel Prize in 1921.",
-    "options": ["who", "whose", "which", "whom"],
+    "options": [
+      "who",
+      "whose",
+      "which",
+      "whom"
+    ],
     "correct": 1,
     "explanation": "\"Whose\" shows possession and correctly modifies \"theory\"."
   },
@@ -65,7 +95,12 @@
     "category": "reduced-clauses",
     "difficulty": "hard",
     "question": "The chapters _____ by the professor were particularly difficult for the first-year students.",
-    "options": ["taught", "teaching", "were taught", "they taught"],
+    "options": [
+      "taught",
+      "teaching",
+      "were taught",
+      "they taught"
+    ],
     "correct": 0,
     "explanation": "\"Taught by the professor\" is a reduced relative clause modifying \"the chapters\"."
   },
@@ -75,7 +110,12 @@
     "category": "reduced-clauses",
     "difficulty": "medium",
     "question": "_____ the results carefully, the researchers decided to repeat the experiment.",
-    "options": ["Having analyzed", "Analyzing", "Analyzed", "To analyze"],
+    "options": [
+      "Having analyzed",
+      "Analyzing",
+      "Analyzed",
+      "To analyze"
+    ],
     "correct": 0,
     "explanation": "Perfect participle \"Having analyzed\" indicates that the analysis was completed before the decision."
   },
@@ -85,7 +125,12 @@
     "category": "conditionals",
     "difficulty": "medium",
     "question": "If the temperature _____ any higher, the chemical reaction would have accelerated dangerously.",
-    "options": ["rose", "had risen", "rises", "would rise"],
+    "options": [
+      "rose",
+      "had risen",
+      "rises",
+      "would rise"
+    ],
     "correct": 1,
     "explanation": "This is a third conditional (past unreal). The if-clause requires past perfect."
   },
@@ -95,7 +140,12 @@
     "category": "parallel-structure",
     "difficulty": "medium",
     "question": "The committee recommended increasing the budget, hiring more staff, and _____ the current facilities.",
-    "options": ["to renovate", "renovating", "renovate", "renovation of"],
+    "options": [
+      "to renovate",
+      "renovating",
+      "renovate",
+      "renovation of"
+    ],
     "correct": 1,
     "explanation": "All items in the list must be parallel gerunds: increasing, hiring, renovating."
   },
@@ -105,7 +155,12 @@
     "category": "gerunds-infinitives",
     "difficulty": "easy",
     "question": "The professor suggested _____ the assignment before the weekend.",
-    "options": ["to complete", "completing", "complete", "completed"],
+    "options": [
+      "to complete",
+      "completing",
+      "complete",
+      "completed"
+    ],
     "correct": 1,
     "explanation": "\"Suggest\" is followed by a gerund, not an infinitive."
   },
@@ -115,7 +170,12 @@
     "category": "comparatives",
     "difficulty": "easy",
     "question": "This year's enrollment is _____ than last year's.",
-    "options": ["higher", "more high", "highest", "the higher"],
+    "options": [
+      "higher",
+      "more high",
+      "highest",
+      "the higher"
+    ],
     "correct": 0,
     "explanation": "\"Higher\" is the correct comparative form of the adjective \"high\"."
   },
@@ -125,7 +185,12 @@
     "category": "subject-verb-agreement",
     "difficulty": "hard",
     "question": "A series of experiments _____ conducted to test the new hypothesis.",
-    "options": ["was", "were", "have", "are"],
+    "options": [
+      "was",
+      "were",
+      "have",
+      "are"
+    ],
     "correct": 0,
     "explanation": "\"A series\" is singular, so the verb is \"was\"."
   },
@@ -135,7 +200,12 @@
     "category": "subject-verb-agreement",
     "difficulty": "medium",
     "question": "The data from the recent surveys _____ that student motivation has declined.",
-    "options": ["show", "shows", "showing", "have shown"],
+    "options": [
+      "show",
+      "shows",
+      "showing",
+      "have shown"
+    ],
     "correct": 0,
     "explanation": "\"Data\" is often treated as plural in academic English, so \"show\" is preferred."
   },
@@ -145,7 +215,12 @@
     "category": "verb-tenses",
     "difficulty": "hard",
     "question": "She _____ the report by the time the director returns from the conference.",
-    "options": ["will finish", "will have finished", "finishes", "has finished"],
+    "options": [
+      "will finish",
+      "will have finished",
+      "finishes",
+      "has finished"
+    ],
     "correct": 1,
     "explanation": "Future perfect is used for an action completed before another future event."
   },
@@ -155,7 +230,12 @@
     "category": "verb-tenses",
     "difficulty": "medium",
     "question": "While the students _____ the experiment, the fire alarm suddenly rang.",
-    "options": ["conducted", "were conducting", "have conducted", "conduct"],
+    "options": [
+      "conducted",
+      "were conducting",
+      "have conducted",
+      "conduct"
+    ],
     "correct": 1,
     "explanation": "Past progressive is used for an ongoing action interrupted by another event."
   },
@@ -165,7 +245,12 @@
     "category": "passive-voice",
     "difficulty": "medium",
     "question": "The results of the study _____ in a prestigious journal next month.",
-    "options": ["will publish", "will be published", "are publishing", "have published"],
+    "options": [
+      "will publish",
+      "will be published",
+      "are publishing",
+      "have published"
+    ],
     "correct": 1,
     "explanation": "The results are the receiver of the action; passive voice is required."
   },
@@ -175,7 +260,12 @@
     "category": "passive-voice",
     "difficulty": "hard",
     "question": "The ancient manuscript is believed _____ in the early 12th century.",
-    "options": ["to write", "to have been written", "written", "having written"],
+    "options": [
+      "to write",
+      "to have been written",
+      "written",
+      "having written"
+    ],
     "correct": 1,
     "explanation": "Perfect infinitive passive is used after \"is believed\" for a past action."
   },
@@ -185,7 +275,12 @@
     "category": "relative-clauses",
     "difficulty": "easy",
     "question": "The students _____ attended the seminar found it extremely useful.",
-    "options": ["which", "who", "whose", "whom"],
+    "options": [
+      "which",
+      "who",
+      "whose",
+      "whom"
+    ],
     "correct": 1,
     "explanation": "\"Who\" is the correct relative pronoun for people as subject."
   },
@@ -195,7 +290,12 @@
     "category": "relative-clauses",
     "difficulty": "hard",
     "question": "The university _____ I graduated has an excellent reputation for research.",
-    "options": ["which", "where", "that", "whom"],
+    "options": [
+      "which",
+      "where",
+      "that",
+      "whom"
+    ],
     "correct": 1,
     "explanation": "\"Where\" is used for places when indicating location."
   },
@@ -205,7 +305,12 @@
     "category": "reduced-clauses",
     "difficulty": "medium",
     "question": "_____ in a foreign country can be both exciting and challenging.",
-    "options": ["Live", "Living", "Lived", "To living"],
+    "options": [
+      "Live",
+      "Living",
+      "Lived",
+      "To living"
+    ],
     "correct": 1,
     "explanation": "A gerund phrase can function as the subject of a sentence."
   },
@@ -215,9 +320,14 @@
     "category": "reduced-clauses",
     "difficulty": "hard",
     "question": "The proposal _____ by the committee was later approved by the board.",
-    "options": ["discussing", "discussed", "was discussed", "to discuss"],
+    "options": [
+      "discussing",
+      "discussed",
+      "was discussed",
+      "to discuss"
+    ],
     "correct": 1,
-    "explanation": "Reduced passive relative clause: \"which was discussed\" → \"discussed\"."
+    "explanation": "Reduced passive relative clause: \"which was discussed\" \u2192 \"discussed\"."
   },
   {
     "id": "str-023",
@@ -225,7 +335,12 @@
     "category": "conditionals",
     "difficulty": "easy",
     "question": "If it rains tomorrow, the outdoor ceremony _____.",
-    "options": ["will cancel", "will be canceled", "cancels", "is canceled"],
+    "options": [
+      "will cancel",
+      "will be canceled",
+      "cancels",
+      "is canceled"
+    ],
     "correct": 1,
     "explanation": "First conditional uses present simple in the if-clause and future in the main clause; passive is needed here."
   },
@@ -235,7 +350,12 @@
     "category": "conditionals",
     "difficulty": "hard",
     "question": "Had the researchers known about the error, they _____ the experiment earlier.",
-    "options": ["would stop", "would have stopped", "stopped", "had stopped"],
+    "options": [
+      "would stop",
+      "would have stopped",
+      "stopped",
+      "had stopped"
+    ],
     "correct": 1,
     "explanation": "Inverted third conditional: \"Had they known\" = \"If they had known\"."
   },
@@ -245,7 +365,12 @@
     "category": "parallel-structure",
     "difficulty": "easy",
     "question": "She likes to swim, to hike, and _____.",
-    "options": ["biking", "to bike", "bike", "biked"],
+    "options": [
+      "biking",
+      "to bike",
+      "bike",
+      "biked"
+    ],
     "correct": 1,
     "explanation": "All items must be parallel infinitives: to swim, to hike, to bike."
   },
@@ -255,7 +380,12 @@
     "category": "parallel-structure",
     "difficulty": "hard",
     "question": "The job requires attention to detail, the ability to work under pressure, and _____.",
-    "options": ["being a good communicator", "to communicate well", "good communication skills", "communicate effectively"],
+    "options": [
+      "being a good communicator",
+      "to communicate well",
+      "good communication skills",
+      "communicate effectively"
+    ],
     "correct": 2,
     "explanation": "Parallel noun phrases: attention, ability, skills."
   },
@@ -265,7 +395,12 @@
     "category": "gerunds-infinitives",
     "difficulty": "medium",
     "question": "He finally admitted _____ the confidential document.",
-    "options": ["to take", "taking", "take", "taken"],
+    "options": [
+      "to take",
+      "taking",
+      "take",
+      "taken"
+    ],
     "correct": 1,
     "explanation": "\"Admit\" is followed by a gerund."
   },
@@ -275,7 +410,12 @@
     "category": "gerunds-infinitives",
     "difficulty": "hard",
     "question": "The manager made the employees _____ overtime during the busy season.",
-    "options": ["to work", "working", "work", "worked"],
+    "options": [
+      "to work",
+      "working",
+      "work",
+      "worked"
+    ],
     "correct": 2,
     "explanation": "After \"make\" (causative), the bare infinitive is used."
   },
@@ -285,7 +425,12 @@
     "category": "comparatives",
     "difficulty": "medium",
     "question": "This method is _____ efficient than the previous one.",
-    "options": ["more", "much", "most", "very"],
+    "options": [
+      "more",
+      "much",
+      "most",
+      "very"
+    ],
     "correct": 0,
     "explanation": "\"More\" is used to form the comparative of longer adjectives."
   },
@@ -295,7 +440,12 @@
     "category": "comparatives",
     "difficulty": "hard",
     "question": "The more you practice, _____ you will become.",
-    "options": ["the better", "better", "the best", "more better"],
+    "options": [
+      "the better",
+      "better",
+      "the best",
+      "more better"
+    ],
     "correct": 0,
     "explanation": "The correlative comparative structure is \"the more... the better\"."
   },
@@ -305,7 +455,12 @@
     "category": "noun-clauses",
     "difficulty": "medium",
     "question": "I do not know _____ the meeting will start.",
-    "options": ["when", "what", "which", "who"],
+    "options": [
+      "when",
+      "what",
+      "which",
+      "who"
+    ],
     "correct": 0,
     "explanation": "\"When\" introduces a noun clause functioning as the object of \"know\"."
   },
@@ -315,7 +470,12 @@
     "category": "noun-clauses",
     "difficulty": "hard",
     "question": "_____ the experiment failed remains a mystery to the research team.",
-    "options": ["Why", "What", "Which", "How that"],
+    "options": [
+      "Why",
+      "What",
+      "Which",
+      "How that"
+    ],
     "correct": 0,
     "explanation": "\"Why\" introduces a noun clause that functions as the subject of the sentence."
   },
@@ -325,7 +485,12 @@
     "category": "auxiliaries",
     "difficulty": "easy",
     "question": "You _____ finish the assignment by Friday if you want full credit.",
-    "options": ["must", "must to", "have", "ought"],
+    "options": [
+      "must",
+      "must to",
+      "have",
+      "ought"
+    ],
     "correct": 0,
     "explanation": "\"Must\" is a modal auxiliary that does not take \"to\"."
   },
@@ -335,7 +500,12 @@
     "category": "auxiliaries",
     "difficulty": "medium",
     "question": "She _____ have left already; her coat is gone.",
-    "options": ["must", "should", "can", "would"],
+    "options": [
+      "must",
+      "should",
+      "can",
+      "would"
+    ],
     "correct": 0,
     "explanation": "\"Must have\" expresses a logical conclusion about a past event."
   },
@@ -345,7 +515,12 @@
     "category": "prepositions",
     "difficulty": "easy",
     "question": "The professor is known _____ his rigorous grading standards.",
-    "options": ["for", "as", "by", "with"],
+    "options": [
+      "for",
+      "as",
+      "by",
+      "with"
+    ],
     "correct": 0,
     "explanation": "\"Known for\" is the correct collocation when referring to a characteristic."
   },
@@ -355,7 +530,12 @@
     "category": "prepositions",
     "difficulty": "medium",
     "question": "She succeeded _____ solving the complex mathematical problem.",
-    "options": ["in", "on", "at", "to"],
+    "options": [
+      "in",
+      "on",
+      "at",
+      "to"
+    ],
     "correct": 0,
     "explanation": "\"Succeed in\" is the correct preposition + gerund combination."
   },
@@ -365,7 +545,12 @@
     "category": "subject-verb-agreement",
     "difficulty": "medium",
     "question": "Each of the candidates _____ required to submit a portfolio.",
-    "options": ["is", "are", "have", "were"],
+    "options": [
+      "is",
+      "are",
+      "have",
+      "were"
+    ],
     "correct": 0,
     "explanation": "\"Each\" is singular and takes a singular verb."
   },
@@ -375,7 +560,12 @@
     "category": "verb-tenses",
     "difficulty": "easy",
     "question": "They _____ in this city for more than ten years.",
-    "options": ["live", "have lived", "are living", "lived"],
+    "options": [
+      "live",
+      "have lived",
+      "are living",
+      "lived"
+    ],
     "correct": 1,
     "explanation": "Present perfect is used for a situation that started in the past and continues to the present."
   },
@@ -385,7 +575,12 @@
     "category": "passive-voice",
     "difficulty": "easy",
     "question": "The new library _____ last year.",
-    "options": ["built", "was built", "has built", "building"],
+    "options": [
+      "built",
+      "was built",
+      "has built",
+      "building"
+    ],
     "correct": 1,
     "explanation": "Passive voice is needed because the library is the receiver of the action."
   },
@@ -395,7 +590,12 @@
     "category": "relative-clauses",
     "difficulty": "medium",
     "question": "The book _____ I borrowed from the library is overdue.",
-    "options": ["who", "which", "whose", "whom"],
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
     "correct": 1,
     "explanation": "\"Which\" (or \"that\") is used for things."
   },
@@ -405,7 +605,12 @@
     "category": "conditionals",
     "difficulty": "medium",
     "question": "If I _____ you, I would accept the scholarship offer.",
-    "options": ["am", "was", "were", "had been"],
+    "options": [
+      "am",
+      "was",
+      "were",
+      "had been"
+    ],
     "correct": 2,
     "explanation": "Second conditional uses \"were\" for all persons in formal English."
   },
@@ -415,7 +620,12 @@
     "category": "gerunds-infinitives",
     "difficulty": "medium",
     "question": "She is looking forward _____ from you soon.",
-    "options": ["to hear", "to hearing", "hearing", "hear"],
+    "options": [
+      "to hear",
+      "to hearing",
+      "hearing",
+      "hear"
+    ],
     "correct": 1,
     "explanation": "\"Look forward to\" is followed by a gerund."
   },
@@ -425,7 +635,12 @@
     "category": "parallel-structure",
     "difficulty": "medium",
     "question": "The course covers grammar, vocabulary, and _____.",
-    "options": ["how to write essays", "essay writing", "to write essays", "written essays"],
+    "options": [
+      "how to write essays",
+      "essay writing",
+      "to write essays",
+      "written essays"
+    ],
     "correct": 1,
     "explanation": "Parallel noun forms: grammar, vocabulary, essay writing."
   },
@@ -435,7 +650,12 @@
     "category": "comparatives",
     "difficulty": "easy",
     "question": "Of the two theories, this one is _____.",
-    "options": ["more convincing", "most convincing", "the more convincing", "convincing more"],
+    "options": [
+      "more convincing",
+      "most convincing",
+      "the more convincing",
+      "convincing more"
+    ],
     "correct": 0,
     "explanation": "When comparing two items, use the comparative form."
   },
@@ -445,7 +665,12 @@
     "category": "noun-clauses",
     "difficulty": "medium",
     "question": "The question is _____ we can finish the project on time.",
-    "options": ["that", "whether", "what", "which"],
+    "options": [
+      "that",
+      "whether",
+      "what",
+      "which"
+    ],
     "correct": 1,
     "explanation": "\"Whether\" introduces a noun clause expressing uncertainty."
   },
@@ -455,7 +680,12 @@
     "category": "auxiliaries",
     "difficulty": "hard",
     "question": "You _____ have told me about the change in the schedule earlier.",
-    "options": ["should", "must", "can", "will"],
+    "options": [
+      "should",
+      "must",
+      "can",
+      "will"
+    ],
     "correct": 0,
     "explanation": "\"Should have\" expresses past advice or mild criticism."
   },
@@ -465,7 +695,12 @@
     "category": "prepositions",
     "difficulty": "medium",
     "question": "The results depend _____ the accuracy of the measurements.",
-    "options": ["on", "in", "of", "at"],
+    "options": [
+      "on",
+      "in",
+      "of",
+      "at"
+    ],
     "correct": 0,
     "explanation": "\"Depend on\" is the correct collocation."
   },
@@ -475,7 +710,12 @@
     "category": "reduced-clauses",
     "difficulty": "medium",
     "question": "_____ the noise, she continued studying.",
-    "options": ["Despite", "Although", "In spite", "Even"],
+    "options": [
+      "Despite",
+      "Although",
+      "In spite",
+      "Even"
+    ],
     "correct": 0,
     "explanation": "\"Despite\" is followed by a noun or gerund, not a clause."
   },
@@ -485,7 +725,12 @@
     "category": "subject-verb-agreement",
     "difficulty": "hard",
     "question": "The faculty, along with the administration, _____ decided to postpone the event.",
-    "options": ["has", "have", "are", "were"],
+    "options": [
+      "has",
+      "have",
+      "are",
+      "were"
+    ],
     "correct": 0,
     "explanation": "The subject is \"the faculty\" (singular collective); \"along with...\" does not affect agreement."
   },
@@ -495,8 +740,463 @@
     "category": "verb-tenses",
     "difficulty": "hard",
     "question": "By next July, she _____ at the university for five years.",
-    "options": ["will teach", "will have been teaching", "teaches", "has taught"],
+    "options": [
+      "will teach",
+      "will have been teaching",
+      "teaches",
+      "has taught"
+    ],
     "correct": 1,
     "explanation": "Future perfect progressive emphasizes duration up to a future point."
+  },
+  {
+    "id": "str-051",
+    "section": "structure",
+    "category": "subject-verb-agreement",
+    "difficulty": "easy",
+    "question": "The news about the scholarship _____ surprising to everyone.",
+    "options": [
+      "were",
+      "was",
+      "are",
+      "have been"
+    ],
+    "correct": 1,
+    "explanation": "\"News\" is singular, so the verb is \"was\"."
+  },
+  {
+    "id": "str-052",
+    "section": "structure",
+    "category": "subject-verb-agreement",
+    "difficulty": "medium",
+    "question": "One of the students _____ already submitted the assignment.",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "correct": 1,
+    "explanation": "\"One\" is singular; the verb agrees with \"one\", not \"students\"."
+  },
+  {
+    "id": "str-053",
+    "section": "structure",
+    "category": "verb-tenses",
+    "difficulty": "easy",
+    "question": "She _____ to the library every afternoon last semester.",
+    "options": [
+      "goes",
+      "went",
+      "has gone",
+      "is going"
+    ],
+    "correct": 1,
+    "explanation": "Past simple is used for completed actions in the past."
+  },
+  {
+    "id": "str-054",
+    "section": "structure",
+    "category": "verb-tenses",
+    "difficulty": "medium",
+    "question": "I _____ this book for three weeks and still have not finished it.",
+    "options": [
+      "read",
+      "have been reading",
+      "am reading",
+      "was reading"
+    ],
+    "correct": 1,
+    "explanation": "Present perfect progressive shows duration from past to present."
+  },
+  {
+    "id": "str-055",
+    "section": "structure",
+    "category": "passive-voice",
+    "difficulty": "easy",
+    "question": "The letters _____ yesterday.",
+    "options": [
+      "sent",
+      "were sent",
+      "have sent",
+      "sending"
+    ],
+    "correct": 1,
+    "explanation": "Passive voice is needed; the letters received the action."
+  },
+  {
+    "id": "str-056",
+    "section": "structure",
+    "category": "passive-voice",
+    "difficulty": "medium",
+    "question": "The project _____ by the end of this month.",
+    "options": [
+      "will complete",
+      "will be completed",
+      "completes",
+      "is completing"
+    ],
+    "correct": 1,
+    "explanation": "Future passive is required because the project is the receiver of the action."
+  },
+  {
+    "id": "str-057",
+    "section": "structure",
+    "category": "relative-clauses",
+    "difficulty": "easy",
+    "question": "The teacher _____ helped me is retiring next year.",
+    "options": [
+      "which",
+      "who",
+      "whose",
+      "whom"
+    ],
+    "correct": 1,
+    "explanation": "\"Who\" is used for people as the subject of the relative clause."
+  },
+  {
+    "id": "str-058",
+    "section": "structure",
+    "category": "relative-clauses",
+    "difficulty": "medium",
+    "question": "This is the book _____ I was talking about.",
+    "options": [
+      "who",
+      "whose",
+      "that",
+      "whom"
+    ],
+    "correct": 2,
+    "explanation": "\"That\" (or \"which\") is used for things."
+  },
+  {
+    "id": "str-059",
+    "section": "structure",
+    "category": "reduced-clauses",
+    "difficulty": "medium",
+    "question": "_____ the experiment, the students recorded their observations.",
+    "options": [
+      "Complete",
+      "Completing",
+      "Completed",
+      "To complete"
+    ],
+    "correct": 1,
+    "explanation": "Present participle introduces a reduced adverbial clause of time."
+  },
+  {
+    "id": "str-060",
+    "section": "structure",
+    "category": "conditionals",
+    "difficulty": "easy",
+    "question": "If you heat water to 100\u00b0C, it _____.",
+    "options": [
+      "boils",
+      "boiled",
+      "will boil",
+      "would boil"
+    ],
+    "correct": 0,
+    "explanation": "Zero conditional uses present simple in both clauses for general truths."
+  },
+  {
+    "id": "str-061",
+    "section": "structure",
+    "category": "conditionals",
+    "difficulty": "medium",
+    "question": "If I _____ more time, I would learn another language.",
+    "options": [
+      "have",
+      "had",
+      "has",
+      "will have"
+    ],
+    "correct": 1,
+    "explanation": "Second conditional uses past simple in the if-clause for unreal present situations."
+  },
+  {
+    "id": "str-062",
+    "section": "structure",
+    "category": "parallel-structure",
+    "difficulty": "easy",
+    "question": "She wants to travel, to study, and _____.",
+    "options": [
+      "working",
+      "to work",
+      "work",
+      "worked"
+    ],
+    "correct": 1,
+    "explanation": "Parallel infinitives: to travel, to study, to work."
+  },
+  {
+    "id": "str-063",
+    "section": "structure",
+    "category": "gerunds-infinitives",
+    "difficulty": "easy",
+    "question": "I enjoy _____ novels in my free time.",
+    "options": [
+      "to read",
+      "reading",
+      "read",
+      "reads"
+    ],
+    "correct": 1,
+    "explanation": "\"Enjoy\" is followed by a gerund."
+  },
+  {
+    "id": "str-064",
+    "section": "structure",
+    "category": "gerunds-infinitives",
+    "difficulty": "medium",
+    "question": "He decided _____ the scholarship offer.",
+    "options": [
+      "accepting",
+      "to accept",
+      "accept",
+      "accepted"
+    ],
+    "correct": 1,
+    "explanation": "\"Decide\" is followed by an infinitive."
+  },
+  {
+    "id": "str-065",
+    "section": "structure",
+    "category": "comparatives",
+    "difficulty": "easy",
+    "question": "This book is _____ than the one I read last week.",
+    "options": [
+      "interesting",
+      "more interesting",
+      "most interesting",
+      "interestinger"
+    ],
+    "correct": 1,
+    "explanation": "Longer adjectives form the comparative with \"more\"."
+  },
+  {
+    "id": "str-066",
+    "section": "structure",
+    "category": "comparatives",
+    "difficulty": "medium",
+    "question": "She is the _____ student in the class.",
+    "options": [
+      "more intelligent",
+      "most intelligent",
+      "intelligent",
+      "intelligenter"
+    ],
+    "correct": 1,
+    "explanation": "Superlative of longer adjectives uses \"most\"."
+  },
+  {
+    "id": "str-067",
+    "section": "structure",
+    "category": "noun-clauses",
+    "difficulty": "easy",
+    "question": "I wonder _____ she will come to the meeting.",
+    "options": [
+      "that",
+      "whether",
+      "what",
+      "which"
+    ],
+    "correct": 1,
+    "explanation": "\"Whether\" introduces a noun clause expressing uncertainty."
+  },
+  {
+    "id": "str-068",
+    "section": "structure",
+    "category": "auxiliaries",
+    "difficulty": "easy",
+    "question": "You _____ see a doctor if you feel sick.",
+    "options": [
+      "should",
+      "should to",
+      "must to",
+      "ought"
+    ],
+    "correct": 0,
+    "explanation": "\"Should\" is a modal and does not take \"to\"."
+  },
+  {
+    "id": "str-069",
+    "section": "structure",
+    "category": "prepositions",
+    "difficulty": "easy",
+    "question": "She is good _____ mathematics.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "for"
+    ],
+    "correct": 1,
+    "explanation": "\"Good at\" is the correct collocation for skills."
+  },
+  {
+    "id": "str-070",
+    "section": "structure",
+    "category": "prepositions",
+    "difficulty": "medium",
+    "question": "The book consists _____ ten chapters.",
+    "options": [
+      "in",
+      "of",
+      "on",
+      "with"
+    ],
+    "correct": 1,
+    "explanation": "\"Consist of\" is the correct preposition."
+  },
+  {
+    "id": "str-071",
+    "section": "structure",
+    "category": "subject-verb-agreement",
+    "difficulty": "hard",
+    "question": "Mathematics _____ his favorite subject.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have been"
+    ],
+    "correct": 1,
+    "explanation": "Academic subjects ending in -ics take singular verbs."
+  },
+  {
+    "id": "str-072",
+    "section": "structure",
+    "category": "verb-tenses",
+    "difficulty": "hard",
+    "question": "By the time he arrives, we _____ the presentation.",
+    "options": [
+      "finish",
+      "will finish",
+      "will have finished",
+      "finished"
+    ],
+    "correct": 2,
+    "explanation": "Future perfect is used for an action completed before a future time."
+  },
+  {
+    "id": "str-073",
+    "section": "structure",
+    "category": "passive-voice",
+    "difficulty": "hard",
+    "question": "The document is said _____ last week.",
+    "options": [
+      "to sign",
+      "to have been signed",
+      "signing",
+      "signed"
+    ],
+    "correct": 1,
+    "explanation": "Perfect passive infinitive is used after \"is said\" for a past action."
+  },
+  {
+    "id": "str-074",
+    "section": "structure",
+    "category": "relative-clauses",
+    "difficulty": "hard",
+    "question": "The man _____ car was stolen reported it to the police.",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "correct": 2,
+    "explanation": "\"Whose\" shows possession."
+  },
+  {
+    "id": "str-075",
+    "section": "structure",
+    "category": "reduced-clauses",
+    "difficulty": "hard",
+    "question": "_____ by the noise, she closed the window.",
+    "options": [
+      "Annoying",
+      "Annoyed",
+      "To annoy",
+      "Annoy"
+    ],
+    "correct": 1,
+    "explanation": "Past participle is used for reduced passive clauses."
+  },
+  {
+    "id": "str-076",
+    "section": "structure",
+    "category": "conditionals",
+    "difficulty": "hard",
+    "question": "If she _____ the truth, she would not have been so angry.",
+    "options": [
+      "knows",
+      "knew",
+      "had known",
+      "would know"
+    ],
+    "correct": 2,
+    "explanation": "Third conditional requires past perfect in the if-clause."
+  },
+  {
+    "id": "str-077",
+    "section": "structure",
+    "category": "parallel-structure",
+    "difficulty": "hard",
+    "question": "The course aims to improve speaking, listening, and _____.",
+    "options": [
+      "to write",
+      "writing",
+      "write",
+      "written"
+    ],
+    "correct": 1,
+    "explanation": "Parallel gerunds: speaking, listening, writing."
+  },
+  {
+    "id": "str-078",
+    "section": "structure",
+    "category": "gerunds-infinitives",
+    "difficulty": "hard",
+    "question": "The teacher had the students _____ the essay again.",
+    "options": [
+      "to rewrite",
+      "rewriting",
+      "rewrite",
+      "rewrote"
+    ],
+    "correct": 2,
+    "explanation": "After causative \"have\", the bare infinitive is used."
+  },
+  {
+    "id": "str-079",
+    "section": "structure",
+    "category": "noun-clauses",
+    "difficulty": "medium",
+    "question": "_____ he said surprised everyone in the room.",
+    "options": [
+      "That",
+      "What",
+      "Which",
+      "Who"
+    ],
+    "correct": 1,
+    "explanation": "\"What\" introduces a noun clause functioning as the subject."
+  },
+  {
+    "id": "str-080",
+    "section": "structure",
+    "category": "auxiliaries",
+    "difficulty": "medium",
+    "question": "She _____ have arrived by now; the train was on time.",
+    "options": [
+      "should",
+      "must",
+      "can",
+      "would"
+    ],
+    "correct": 1,
+    "explanation": "\"Must have\" expresses a logical deduction about the past."
   }
 ]

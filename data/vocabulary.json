@@ -4,1199 +4,872 @@
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "The word \"abundant\" most nearly means:",
-    "options": [
-      "scarce",
-      "plentiful",
-      "dangerous",
-      "ancient"
-    ],
-    "correct": 1,
-    "explanation": "\"Abundant\" means existing in large quantities; plentiful."
+    "question": "What does the word \"achieve\" mean?",
+    "correct": "Berhasil mencapai tujuan",
+    "explanation": "Achieve = berhasil mencapai tujuan. Contoh: She achieved her dream of becoming a doctor."
   },
   {
     "id": "voc-002",
     "section": "vocabulary",
-    "category": "synonyms",
-    "difficulty": "medium",
-    "question": "Which word is closest in meaning to \"meticulous\"?",
-    "options": [
-      "careless",
-      "careful and precise",
-      "quick",
-      "emotional"
-    ],
-    "correct": 1,
-    "explanation": "\"Meticulous\" describes someone who pays great attention to detail; careful and precise."
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"adequate\" mean?",
+    "correct": "Cukup / memadai",
+    "explanation": "Adequate = cukup / memadai. Contoh: The food was adequate for everyone."
   },
   {
     "id": "voc-003",
     "section": "vocabulary",
-    "category": "context",
-    "difficulty": "medium",
-    "question": "In the sentence \"The professor's explanation was quite lucid,\" the word \"lucid\" means:",
-    "options": [
-      "confusing",
-      "clear and easy to understand",
-      "long",
-      "technical"
-    ],
-    "correct": 1,
-    "explanation": "\"Lucid\" means expressed clearly; easy to understand."
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"analyze\" mean?",
+    "correct": "Menganalisis",
+    "explanation": "Analyze = menganalisis. Contoh: Scientists analyze the results of the experiment."
   },
   {
     "id": "voc-004",
     "section": "vocabulary",
-    "category": "academic",
-    "difficulty": "hard",
-    "question": "The term \"hypothesis\" is best defined as:",
-    "options": [
-      "a proven fact",
-      "a proposed explanation that can be tested",
-      "a final conclusion",
-      "a random guess"
-    ],
-    "correct": 1,
-    "explanation": "A hypothesis is a testable proposed explanation for a phenomenon."
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"approximate\" mean?",
+    "correct": "Kira-kira / mendekati",
+    "explanation": "Approximate = kira-kira / mendekati. Contoh: The approximate time is 3 o'clock."
   },
   {
     "id": "voc-005",
     "section": "vocabulary",
-    "category": "synonyms",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Beneficial\" is closest in meaning to:",
-    "options": [
-      "harmful",
-      "helpful",
-      "expensive",
-      "rare"
-    ],
-    "correct": 1,
-    "explanation": "\"Beneficial\" means producing good results; helpful or advantageous."
+    "question": "What does the word \"complex\" mean?",
+    "correct": "Rumit / kompleks",
+    "explanation": "Complex = rumit. Contoh: The instructions were too complex."
   },
   {
     "id": "voc-006",
     "section": "vocabulary",
     "category": "meaning",
-    "difficulty": "medium",
-    "question": "What does \"inevitable\" mean?",
-    "options": [
-      "unlikely",
-      "certain to happen",
-      "surprising",
-      "optional"
-    ],
-    "correct": 1,
-    "explanation": "\"Inevitable\" means certain to occur; unavoidable."
+    "difficulty": "easy",
+    "question": "What does the word \"concept\" mean?",
+    "correct": "Konsep / gagasan",
+    "explanation": "Concept = konsep / gagasan. Contoh: The concept of freedom is important."
   },
   {
     "id": "voc-007",
     "section": "vocabulary",
-    "category": "context",
-    "difficulty": "hard",
-    "question": "\"The committee reached a consensus after hours of debate.\" The word \"consensus\" means:",
-    "options": [
-      "disagreement",
-      "general agreement",
-      "a vote",
-      "a compromise forced by the chair"
-    ],
-    "correct": 1,
-    "explanation": "\"Consensus\" means general agreement among a group."
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"conclude\" mean?",
+    "correct": "Menyimpulkan / mengakhiri",
+    "explanation": "Conclude = menyimpulkan / mengakhiri. Contoh: We concluded the meeting at 5 PM."
   },
   {
     "id": "voc-008",
     "section": "vocabulary",
-    "category": "academic",
-    "difficulty": "medium",
-    "question": "In academic writing, \"to corroborate\" means:",
-    "options": [
-      "to contradict",
-      "to confirm or support with evidence",
-      "to summarize",
-      "to criticize"
-    ],
-    "correct": 1,
-    "explanation": "\"Corroborate\" means to confirm or give support to a statement or theory with evidence."
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"contribute\" mean?",
+    "correct": "Berkontribusi / menyumbang",
+    "explanation": "Contribute = berkontribusi. Contoh: Everyone contributed ideas."
   },
   {
     "id": "voc-009",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Scarce\" most nearly means:",
-    "options": [
-      "plentiful",
-      "rare or insufficient",
-      "expensive",
-      "ancient"
-    ],
-    "correct": 1,
-    "explanation": "\"Scarce\" means insufficient or hard to find."
+    "question": "What does the word \"demonstrate\" mean?",
+    "correct": "Menunjukkan / membuktikan",
+    "explanation": "Demonstrate = menunjukkan. Contoh: She demonstrated how to use the machine."
   },
   {
     "id": "voc-010",
     "section": "vocabulary",
-    "category": "synonyms",
-    "difficulty": "medium",
-    "question": "Which word is closest in meaning to \"ambiguous\"?",
-    "options": [
-      "clear",
-      "having more than one possible meaning",
-      "loud",
-      "brief"
-    ],
-    "correct": 1,
-    "explanation": "\"Ambiguous\" means open to more than one interpretation."
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"distinct\" mean?",
+    "correct": "Berbeda jelas / khas",
+    "explanation": "Distinct = berbeda jelas. Contoh: Each student has a distinct personality."
   },
   {
     "id": "voc-011",
     "section": "vocabulary",
-    "category": "context",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "\"The evidence was compelling.\" The word \"compelling\" means:",
-    "options": [
-      "weak",
-      "convincing",
-      "irrelevant",
-      "outdated"
-    ],
-    "correct": 1,
-    "explanation": "\"Compelling\" means convincing or forceful."
+    "question": "What does the word \"emphasize\" mean?",
+    "correct": "Menekankan",
+    "explanation": "Emphasize = menekankan. Contoh: The teacher emphasized the importance of practice."
   },
   {
     "id": "voc-012",
     "section": "vocabulary",
-    "category": "academic",
-    "difficulty": "hard",
-    "question": "\"Empirical\" evidence is based on:",
-    "options": [
-      "theory alone",
-      "observation or experiment",
-      "personal opinion",
-      "historical records only"
-    ],
-    "correct": 1,
-    "explanation": "Empirical means based on observation or experience rather than theory."
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"establish\" mean?",
+    "correct": "Mendirikan / menetapkan",
+    "explanation": "Establish = mendirikan. Contoh: They established a new company."
   },
   {
     "id": "voc-013",
     "section": "vocabulary",
     "category": "meaning",
-    "difficulty": "medium",
-    "question": "\"Obsolete\" means:",
-    "options": [
-      "modern",
-      "no longer in use",
-      "expensive",
-      "complex"
-    ],
-    "correct": 1,
-    "explanation": "\"Obsolete\" means no longer produced or used; out of date."
+    "difficulty": "easy",
+    "question": "What does the word \"sufficient\" mean?",
+    "correct": "Cukup",
+    "explanation": "Sufficient = cukup. Contoh: We have sufficient time to finish."
   },
   {
     "id": "voc-014",
     "section": "vocabulary",
-    "category": "synonyms",
-    "difficulty": "hard",
-    "question": "\"Pragmatic\" is closest in meaning to:",
-    "options": [
-      "idealistic",
-      "practical",
-      "emotional",
-      "theoretical"
-    ],
-    "correct": 1,
-    "explanation": "\"Pragmatic\" means dealing with things sensibly and realistically; practical."
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"factor\" mean?",
+    "correct": "Faktor / unsur yang memengaruhi",
+    "explanation": "Factor = faktor. Contoh: Hard work is an important factor in success."
   },
   {
     "id": "voc-015",
     "section": "vocabulary",
-    "category": "context",
-    "difficulty": "medium",
-    "question": "\"The results were consistent with previous studies.\" \"Consistent with\" means:",
-    "options": [
-      "different from",
-      "in agreement with",
-      "better than",
-      "unrelated to"
-    ],
-    "correct": 1,
-    "explanation": "\"Consistent with\" means in agreement or harmony with."
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"feature\" mean?",
+    "correct": "Fitur / ciri khas",
+    "explanation": "Feature = fitur / ciri khas. Contoh: The new phone has many useful features."
   },
   {
     "id": "voc-016",
     "section": "vocabulary",
-    "category": "academic",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "A \"variable\" in an experiment is:",
-    "options": [
-      "something that stays the same",
-      "a factor that can change",
-      "the final result",
-      "a type of equipment"
-    ],
-    "correct": 1,
-    "explanation": "A variable is any factor that can change or be changed in an experiment."
+    "question": "What does the word \"indicate\" mean?",
+    "correct": "Menunjukkan / menandakan",
+    "explanation": "Indicate = menunjukkan. Contoh: The results indicate improvement."
   },
   {
     "id": "voc-017",
     "section": "vocabulary",
     "category": "meaning",
-    "difficulty": "hard",
-    "question": "\"Ubiquitous\" means:",
-    "options": [
-      "rare",
-      "present everywhere",
-      "dangerous",
-      "temporary"
-    ],
-    "correct": 1,
-    "explanation": "\"Ubiquitous\" means present, appearing, or found everywhere."
+    "difficulty": "easy",
+    "question": "What does the word \"effective\" mean?",
+    "correct": "Efektif / berhasil",
+    "explanation": "Effective = efektif. Contoh: This method is very effective."
   },
   {
     "id": "voc-018",
     "section": "vocabulary",
-    "category": "synonyms",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Accurate\" is closest in meaning to:",
-    "options": [
-      "wrong",
-      "correct",
-      "fast",
-      "long"
-    ],
-    "correct": 1,
-    "explanation": "\"Accurate\" means correct or precise."
+    "question": "What does the word \"maintain\" mean?",
+    "correct": "Mempertahankan / menjaga",
+    "explanation": "Maintain = mempertahankan. Contoh: You should maintain a healthy diet."
   },
   {
     "id": "voc-019",
     "section": "vocabulary",
-    "category": "context",
-    "difficulty": "hard",
-    "question": "\"The theory has been largely discredited.\" \"Discredited\" means:",
-    "options": [
-      "proven correct",
-      "shown to be false or unreliable",
-      "widely accepted",
-      "recently published"
-    ],
-    "correct": 1,
-    "explanation": "\"Discredited\" means to harm the reputation of; shown to be false."
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"obtain\" mean?",
+    "correct": "Mendapatkan / memperoleh",
+    "explanation": "Obtain = mendapatkan. Contoh: She obtained a scholarship."
   },
   {
     "id": "voc-020",
     "section": "vocabulary",
-    "category": "academic",
-    "difficulty": "medium",
-    "question": "\"To synthesize\" information means:",
-    "options": [
-      "to ignore it",
-      "to combine it into a coherent whole",
-      "to criticize it",
-      "to memorize it"
-    ],
-    "correct": 1,
-    "explanation": "Synthesize means to combine different elements into a coherent whole."
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"occur\" mean?",
+    "correct": "Terjadi",
+    "explanation": "Occur = terjadi. Contoh: Accidents can occur at any time."
   },
   {
     "id": "voc-021",
     "section": "vocabulary",
     "category": "meaning",
-    "difficulty": "medium",
-    "question": "\"Feasible\" means:",
-    "options": [
-      "impossible",
-      "possible and practical",
-      "expensive",
-      "theoretical"
-    ],
-    "correct": 1,
-    "explanation": "\"Feasible\" means possible and practical to do easily or conveniently."
+    "difficulty": "easy",
+    "question": "What does the word \"gradual\" mean?",
+    "correct": "Bertahap / perlahan",
+    "explanation": "Gradual = bertahap. Contoh: There was a gradual improvement."
   },
   {
     "id": "voc-022",
     "section": "vocabulary",
-    "category": "synonyms",
-    "difficulty": "medium",
-    "question": "\"Robust\" is closest in meaning to:",
-    "options": [
-      "weak",
-      "strong and healthy",
-      "complicated",
-      "temporary"
-    ],
-    "correct": 1,
-    "explanation": "\"Robust\" means strong and healthy; vigorous."
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"require\" mean?",
+    "correct": "Membutuhkan / mensyaratkan",
+    "explanation": "Require = membutuhkan. Contoh: This job requires experience."
   },
   {
     "id": "voc-023",
     "section": "vocabulary",
-    "category": "context",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "\"The policy had a profound impact.\" \"Profound\" means:",
-    "options": [
-      "slight",
-      "very great or intense",
-      "temporary",
-      "negative"
-    ],
-    "correct": 1,
-    "explanation": "\"Profound\" means very great or intense."
+    "question": "What does the word \"significant\" mean?",
+    "correct": "Signifikan / penting",
+    "explanation": "Significant = signifikan / penting. Contoh: There was a significant increase."
   },
   {
     "id": "voc-024",
     "section": "vocabulary",
-    "category": "academic",
-    "difficulty": "hard",
-    "question": "\"A paradigm\" is:",
-    "options": [
-      "a small example",
-      "a typical example or pattern",
-      "a contradiction",
-      "a random event"
-    ],
-    "correct": 1,
-    "explanation": "A paradigm is a typical example or pattern of something; a model."
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"source\" mean?",
+    "correct": "Sumber",
+    "explanation": "Source = sumber. Contoh: The internet is a common source of information."
   },
   {
     "id": "voc-025",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Reluctant\" means:",
-    "options": [
-      "eager",
-      "unwilling",
-      "happy",
-      "confused"
-    ],
-    "correct": 1,
-    "explanation": "\"Reluctant\" means unwilling or hesitant."
+    "question": "What does the word \"specific\" mean?",
+    "correct": "Spesifik / tertentu",
+    "explanation": "Specific = spesifik. Contoh: Please give a specific example."
   },
   {
     "id": "voc-026",
     "section": "vocabulary",
-    "category": "synonyms",
-    "difficulty": "hard",
-    "question": "\"Intrinsic\" is closest in meaning to:",
-    "options": [
-      "external",
-      "belonging naturally; essential",
-      "temporary",
-      "artificial"
-    ],
-    "correct": 1,
-    "explanation": "\"Intrinsic\" means belonging naturally; essential."
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"structure\" mean?",
+    "correct": "Struktur / susunan",
+    "explanation": "Structure = struktur. Contoh: The structure of the essay is clear."
   },
   {
     "id": "voc-027",
     "section": "vocabulary",
-    "category": "context",
-    "difficulty": "medium",
-    "question": "\"The findings were preliminary.\" \"Preliminary\" means:",
-    "options": [
-      "final",
-      "coming before the main part",
-      "incorrect",
-      "detailed"
-    ],
-    "correct": 1,
-    "explanation": "\"Preliminary\" means preceding or done in preparation for something fuller."
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"theory\" mean?",
+    "correct": "Teori",
+    "explanation": "Theory = teori. Contoh: Darwin's theory of evolution is famous."
   },
   {
     "id": "voc-028",
     "section": "vocabulary",
-    "category": "academic",
-    "difficulty": "medium",
-    "question": "\"To refute\" an argument means:",
-    "options": [
-      "to support it",
-      "to prove it wrong",
-      "to ignore it",
-      "to summarize it"
-    ],
-    "correct": 1,
-    "explanation": "\"Refute\" means to prove a statement or theory to be wrong."
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"assume\" mean?",
+    "correct": "Mengasumsikan / mengira",
+    "explanation": "Assume = mengasumsikan. Contoh: Don't assume that he is wrong."
   },
   {
     "id": "voc-029",
     "section": "vocabulary",
     "category": "meaning",
-    "difficulty": "hard",
-    "question": "\"Ephemeral\" means:",
-    "options": [
-      "lasting a long time",
-      "lasting for a very short time",
-      "extremely important",
-      "difficult to understand"
-    ],
-    "correct": 1,
-    "explanation": "\"Ephemeral\" means lasting for a very short time."
+    "difficulty": "easy",
+    "question": "What does the word \"available\" mean?",
+    "correct": "Tersedia",
+    "explanation": "Available = tersedia. Contoh: The book is available in the library."
   },
   {
     "id": "voc-030",
     "section": "vocabulary",
-    "category": "synonyms",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Essential\" is closest in meaning to:",
-    "options": [
-      "optional",
-      "necessary",
-      "expensive",
-      "complicated"
-    ],
-    "correct": 1,
-    "explanation": "\"Essential\" means absolutely necessary; extremely important."
+    "question": "What does the word \"benefit\" mean?",
+    "correct": "Manfaat / keuntungan",
+    "explanation": "Benefit = manfaat. Contoh: Exercise has many health benefits."
   },
   {
     "id": "voc-031",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "The word \"achieve\" most nearly means:",
-    "options": [
-      "fail",
-      "succeed in doing",
-      "ignore",
-      "delay"
-    ],
-    "correct": 1,
-    "explanation": "\"Achieve\" means to successfully reach a goal or complete something."
+    "question": "What does the word \"category\" mean?",
+    "correct": "Kategori / golongan",
+    "explanation": "Category = kategori. Contoh: This book belongs to the science category."
   },
   {
     "id": "voc-032",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Adequate\" is closest in meaning to:",
-    "options": [
-      "insufficient",
-      "enough",
-      "extra",
-      "rare"
-    ],
-    "correct": 1,
-    "explanation": "\"Adequate\" means enough or satisfactory for a particular purpose."
+    "question": "What does the word \"contrast\" mean?",
+    "correct": "Kontras / perbedaan",
+    "explanation": "Contrast = kontras / perbedaan. Contoh: There is a clear contrast."
   },
   {
     "id": "voc-033",
     "section": "vocabulary",
-    "category": "synonyms",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "Which word is closest in meaning to \"analyze\"?",
-    "options": [
-      "ignore",
-      "examine carefully",
-      "create",
-      "destroy"
-    ],
-    "correct": 1,
-    "explanation": "\"Analyze\" means to examine something in detail in order to understand it."
+    "question": "What does the word \"create\" mean?",
+    "correct": "Menciptakan",
+    "explanation": "Create = menciptakan. Contoh: Artists create beautiful paintings."
   },
   {
     "id": "voc-034",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Approximate\" most nearly means:",
-    "options": [
-      "exact",
-      "roughly correct",
-      "wrong",
-      "final"
-    ],
-    "correct": 1,
-    "explanation": "\"Approximate\" means close to the actual, but not completely accurate."
+    "question": "What does the word \"data\" mean?",
+    "correct": "Data / informasi",
+    "explanation": "Data = data / informasi. Contoh: The data shows a clear pattern."
   },
   {
     "id": "voc-035",
     "section": "vocabulary",
-    "category": "context",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "\"The instructions were complex.\" The word \"complex\" means:",
-    "options": [
-      "simple",
-      "complicated",
-      "short",
-      "clear"
-    ],
-    "correct": 1,
-    "explanation": "\"Complex\" means consisting of many different parts; not easy to understand."
+    "question": "What does the word \"define\" mean?",
+    "correct": "Mendefinisikan",
+    "explanation": "Define = mendefinisikan. Contoh: Can you define this word?"
   },
   {
     "id": "voc-036",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Concept\" is closest in meaning to:",
-    "options": [
-      "object",
-      "idea",
-      "person",
-      "place"
-    ],
-    "correct": 1,
-    "explanation": "\"Concept\" means an abstract idea or general notion."
+    "question": "What does the word \"distribute\" mean?",
+    "correct": "Mendistribusikan / membagikan",
+    "explanation": "Distribute = mendistribusikan. Contoh: They distribute food to the poor."
   },
   {
     "id": "voc-037",
     "section": "vocabulary",
-    "category": "synonyms",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "Which word is closest in meaning to \"conclude\"?",
-    "options": [
-      "begin",
-      "finish or decide",
-      "continue",
-      "doubt"
-    ],
-    "correct": 1,
-    "explanation": "\"Conclude\" means to bring to an end or to reach a decision."
+    "question": "What does the word \"element\" mean?",
+    "correct": "Unsur / elemen",
+    "explanation": "Element = unsur / elemen. Contoh: Trust is an important element of friendship."
   },
   {
     "id": "voc-038",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Contribute\" most nearly means:",
-    "options": [
-      "take away",
-      "give or add",
-      "destroy",
-      "hide"
-    ],
-    "correct": 1,
-    "explanation": "\"Contribute\" means to give something in order to help achieve a goal."
+    "question": "What does the word \"environment\" mean?",
+    "correct": "Lingkungan",
+    "explanation": "Environment = lingkungan. Contoh: We must protect the environment."
   },
   {
     "id": "voc-039",
     "section": "vocabulary",
-    "category": "context",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "\"She demonstrated great skill.\" The word \"demonstrated\" means:",
-    "options": [
-      "hid",
-      "showed",
-      "forgot",
-      "doubted"
-    ],
-    "correct": 1,
-    "explanation": "\"Demonstrate\" means to show or prove something clearly."
+    "question": "What does the word \"evaluate\" mean?",
+    "correct": "Mengevaluasi / menilai",
+    "explanation": "Evaluate = mengevaluasi. Contoh: Teachers evaluate students' work."
   },
   {
     "id": "voc-040",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Distinct\" is closest in meaning to:",
-    "options": [
-      "similar",
-      "clearly different",
-      "hidden",
-      "weak"
-    ],
-    "correct": 1,
-    "explanation": "\"Distinct\" means recognizably different or clear."
+    "question": "What does the word \"focus\" mean?",
+    "correct": "Fokus / memusatkan perhatian",
+    "explanation": "Focus = fokus. Contoh: Please focus on your studies."
   },
   {
     "id": "voc-041",
     "section": "vocabulary",
-    "category": "synonyms",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "Which word is closest in meaning to \"emphasize\"?",
-    "options": [
-      "ignore",
-      "give special importance to",
-      "reduce",
-      "hide"
-    ],
-    "correct": 1,
-    "explanation": "\"Emphasize\" means to give special importance or attention to something."
+    "question": "What does the word \"function\" mean?",
+    "correct": "Fungsi / peran",
+    "explanation": "Function = fungsi / peran. Contoh: The function of the heart is to pump blood."
   },
   {
     "id": "voc-042",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Establish\" most nearly means:",
-    "options": [
-      "destroy",
-      "set up or create",
-      "doubt",
-      "delay"
-    ],
-    "correct": 1,
-    "explanation": "\"Establish\" means to set up or create something on a firm basis."
+    "question": "What does the word \"impact\" mean?",
+    "correct": "Dampak / pengaruh",
+    "explanation": "Impact = dampak / pengaruh. Contoh: The new law will have a big impact."
   },
   {
     "id": "voc-043",
     "section": "vocabulary",
-    "category": "context",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "\"The evidence was sufficient.\" The word \"sufficient\" means:",
-    "options": [
-      "not enough",
-      "enough",
-      "extra",
-      "false"
-    ],
-    "correct": 1,
-    "explanation": "\"Sufficient\" means enough; adequate."
+    "question": "What does the word \"individual\" mean?",
+    "correct": "Individu / perseorangan",
+    "explanation": "Individual = individu. Contoh: Each individual has rights."
   },
   {
     "id": "voc-044",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Factor\" is closest in meaning to:",
-    "options": [
-      "result",
-      "element that contributes",
-      "solution",
-      "problem"
-    ],
-    "correct": 1,
-    "explanation": "A \"factor\" is a circumstance or influence that contributes to a result."
+    "question": "What does the word \"interpret\" mean?",
+    "correct": "Menafsirkan / mengartikan",
+    "explanation": "Interpret = menafsirkan. Contoh: How do you interpret this sentence?"
   },
   {
     "id": "voc-045",
     "section": "vocabulary",
-    "category": "synonyms",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "Which word is closest in meaning to \"feature\"?",
-    "options": [
-      "problem",
-      "important characteristic",
-      "error",
-      "secret"
-    ],
-    "correct": 1,
-    "explanation": "A \"feature\" is a distinctive attribute or aspect of something."
+    "question": "What does the word \"involve\" mean?",
+    "correct": "Melibatkan",
+    "explanation": "Involve = melibatkan. Contoh: The job involves a lot of travel."
   },
   {
     "id": "voc-046",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Indicate\" most nearly means:",
-    "options": [
-      "hide",
-      "point out or show",
-      "ignore",
-      "deny"
-    ],
-    "correct": 1,
-    "explanation": "\"Indicate\" means to point out or show something."
+    "question": "What does the word \"issue\" mean?",
+    "correct": "Isu / masalah",
+    "explanation": "Issue = isu / masalah. Contoh: Climate change is a global issue."
   },
   {
     "id": "voc-047",
     "section": "vocabulary",
-    "category": "context",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "\"The method was effective.\" The word \"effective\" means:",
-    "options": [
-      "useless",
-      "successful in producing a result",
-      "expensive",
-      "complicated"
-    ],
-    "correct": 1,
-    "explanation": "\"Effective\" means successful in producing a desired result."
+    "question": "What does the word \"major\" mean?",
+    "correct": "Utama / besar",
+    "explanation": "Major = utama / besar. Contoh: This is a major problem."
   },
   {
     "id": "voc-048",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Maintain\" is closest in meaning to:",
-    "options": [
-      "destroy",
-      "keep or continue",
-      "start",
-      "forget"
-    ],
-    "correct": 1,
-    "explanation": "\"Maintain\" means to keep something in existence or at a certain level."
+    "question": "What does the word \"method\" mean?",
+    "correct": "Metode / cara",
+    "explanation": "Method = metode / cara. Contoh: This teaching method is effective."
   },
   {
     "id": "voc-049",
     "section": "vocabulary",
-    "category": "synonyms",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "Which word is closest in meaning to \"obtain\"?",
-    "options": [
-      "lose",
-      "get or acquire",
-      "give",
-      "refuse"
-    ],
-    "correct": 1,
-    "explanation": "\"Obtain\" means to get or acquire something."
+    "question": "What does the word \"period\" mean?",
+    "correct": "Periode / jangka waktu",
+    "explanation": "Period = periode. Contoh: She studied abroad for a period of two years."
   },
   {
     "id": "voc-050",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Occur\" most nearly means:",
-    "options": [
-      "stop",
-      "happen",
-      "prevent",
-      "plan"
-    ],
-    "correct": 1,
-    "explanation": "\"Occur\" means to happen or take place."
+    "question": "What does the word \"process\" mean?",
+    "correct": "Proses",
+    "explanation": "Process = proses. Contoh: Learning a language is a long process."
   },
   {
     "id": "voc-051",
     "section": "vocabulary",
-    "category": "context",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "\"The process was gradual.\" The word \"gradual\" means:",
-    "options": [
-      "sudden",
-      "happening slowly",
-      "complete",
-      "dangerous"
-    ],
-    "correct": 1,
-    "explanation": "\"Gradual\" means taking place slowly over time."
+    "question": "What does the word \"research\" mean?",
+    "correct": "Penelitian",
+    "explanation": "Research = penelitian. Contoh: She is doing research on climate change."
   },
   {
     "id": "voc-052",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Range\" is closest in meaning to:",
-    "options": [
-      "single point",
-      "variety or extent",
-      "limit only",
-      "error"
-    ],
-    "correct": 1,
-    "explanation": "\"Range\" can mean the area of variation between limits, or a variety."
+    "question": "What does the word \"role\" mean?",
+    "correct": "Peran",
+    "explanation": "Role = peran. Contoh: Parents play an important role in education."
   },
   {
     "id": "voc-053",
     "section": "vocabulary",
-    "category": "synonyms",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "Which word is closest in meaning to \"require\"?",
-    "options": [
-      "suggest",
-      "need",
-      "ignore",
-      "optional"
-    ],
-    "correct": 1,
-    "explanation": "\"Require\" means to need something or make something necessary."
+    "question": "What does the word \"section\" mean?",
+    "correct": "Bagian",
+    "explanation": "Section = bagian. Contoh: Read the next section of the text."
   },
   {
     "id": "voc-054",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Significant\" most nearly means:",
-    "options": [
-      "unimportant",
-      "important or large enough to matter",
-      "small",
-      "hidden"
-    ],
-    "correct": 1,
-    "explanation": "\"Significant\" means sufficiently great or important to be worthy of attention."
+    "question": "What does the word \"select\" mean?",
+    "correct": "Memilih",
+    "explanation": "Select = memilih. Contoh: Please select the correct answer."
   },
   {
     "id": "voc-055",
     "section": "vocabulary",
-    "category": "context",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "\"The source of the information was reliable.\" The word \"source\" means:",
-    "options": [
-      "result",
-      "origin or place something comes from",
-      "error",
-      "copy"
-    ],
-    "correct": 1,
-    "explanation": "A \"source\" is the place, person, or thing from which something comes."
+    "question": "What does the word \"similar\" mean?",
+    "correct": "Mirip / serupa",
+    "explanation": "Similar = mirip / serupa. Contoh: The two ideas are similar."
   },
   {
     "id": "voc-056",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Specific\" is closest in meaning to:",
-    "options": [
-      "general",
-      "clearly defined or particular",
-      "vague",
-      "common"
-    ],
-    "correct": 1,
-    "explanation": "\"Specific\" means clearly defined or identified; particular."
+    "question": "What does the word \"strategy\" mean?",
+    "correct": "Strategi / rencana",
+    "explanation": "Strategy = strategi. Contoh: We need a good study strategy."
   },
   {
     "id": "voc-057",
     "section": "vocabulary",
-    "category": "synonyms",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "Which word is closest in meaning to \"structure\"?",
-    "options": [
-      "chaos",
-      "organization or arrangement",
-      "color",
-      "sound"
-    ],
-    "correct": 1,
-    "explanation": "\"Structure\" means the arrangement of parts or the way something is organized."
+    "question": "What does the word \"task\" mean?",
+    "correct": "Tugas",
+    "explanation": "Task = tugas. Contoh: Completing the report is my main task today."
   },
   {
     "id": "voc-058",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Theory\" most nearly means:",
-    "options": [
-      "proven fact only",
-      "idea or set of ideas intended to explain something",
-      "object",
-      "error"
-    ],
-    "correct": 1,
-    "explanation": "A \"theory\" is a system of ideas intended to explain something."
+    "question": "What does the word \"technique\" mean?",
+    "correct": "Teknik / cara",
+    "explanation": "Technique = teknik / cara. Contoh: She uses a special reading technique."
   },
   {
     "id": "voc-059",
     "section": "vocabulary",
-    "category": "context",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "\"The variation was noticeable.\" The word \"variation\" means:",
-    "options": [
-      "sameness",
-      "difference or change",
-      "strength",
-      "speed"
-    ],
-    "correct": 1,
-    "explanation": "\"Variation\" means a change or difference in condition or amount."
+    "question": "What does the word \"trend\" mean?",
+    "correct": "Tren / kecenderungan",
+    "explanation": "Trend = tren. Contoh: There is a growing trend toward online learning."
   },
   {
     "id": "voc-060",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Assume\" is closest in meaning to:",
-    "options": [
-      "prove",
-      "suppose or accept as true",
-      "deny",
-      "measure"
-    ],
-    "correct": 1,
-    "explanation": "\"Assume\" means to accept something as true without proof."
+    "question": "What does the word \"vary\" mean?",
+    "correct": "Bervariasi / berbeda-beda",
+    "explanation": "Vary = bervariasi. Contoh: Prices vary depending on the season."
   },
   {
     "id": "voc-061",
     "section": "vocabulary",
-    "category": "synonyms",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "Which word is closest in meaning to \"available\"?",
-    "options": [
-      "hidden",
-      "able to be used or obtained",
-      "expensive",
-      "broken"
-    ],
-    "correct": 1,
-    "explanation": "\"Available\" means able to be used or obtained; at someone's disposal."
+    "question": "What does the word \"approach\" mean?",
+    "correct": "Pendekatan / cara mendekati",
+    "explanation": "Approach = pendekatan. Contoh: We need a different approach."
   },
   {
     "id": "voc-062",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Benefit\" most nearly means:",
-    "options": [
-      "harm",
-      "advantage or gain",
-      "cost",
-      "problem"
-    ],
-    "correct": 1,
-    "explanation": "A \"benefit\" is an advantage or profit gained from something."
+    "question": "What does the word \"area\" mean?",
+    "correct": "Area / bidang",
+    "explanation": "Area = area / bidang. Contoh: This is my area of expertise."
   },
   {
     "id": "voc-063",
     "section": "vocabulary",
-    "category": "context",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "\"The category was clear.\" The word \"category\" means:",
-    "options": [
-      "individual item",
-      "class or group",
-      "error",
-      "solution"
-    ],
-    "correct": 1,
-    "explanation": "A \"category\" is a class or division of people or things with shared characteristics."
+    "question": "What does the word \"authority\" mean?",
+    "correct": "Otoritas / wewenang",
+    "explanation": "Authority = otoritas. Contoh: She is an authority on the subject."
   },
   {
     "id": "voc-064",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Chapter\" is closest in meaning to:",
-    "options": [
-      "whole book",
-      "main division of a book",
-      "author",
-      "cover"
-    ],
-    "correct": 1,
-    "explanation": "A \"chapter\" is a main division of a book or other written work."
+    "question": "What does the word \"available\" mean?",
+    "correct": "Tersedia",
+    "explanation": "Available = tersedia. Contoh: Tickets are still available."
   },
   {
     "id": "voc-065",
     "section": "vocabulary",
-    "category": "synonyms",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "Which word is closest in meaning to \"contrast\"?",
-    "options": [
-      "similarity",
-      "difference",
-      "agreement",
-      "copy"
-    ],
-    "correct": 1,
-    "explanation": "\"Contrast\" means the state of being noticeably different."
+    "question": "What does the word \"aware\" mean?",
+    "correct": "Sadar / menyadari",
+    "explanation": "Aware = sadar. Contoh: He is aware of the problem."
   },
   {
     "id": "voc-066",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Create\" most nearly means:",
-    "options": [
-      "destroy",
-      "make or produce",
-      "hide",
-      "copy only"
-    ],
-    "correct": 1,
-    "explanation": "\"Create\" means to bring something into existence."
+    "question": "What does the word \"challenge\" mean?",
+    "correct": "Tantangan",
+    "explanation": "Challenge = tantangan. Contoh: Learning English is a challenge."
   },
   {
     "id": "voc-067",
     "section": "vocabulary",
-    "category": "context",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "\"The data was accurate.\" The word \"data\" means:",
-    "options": [
-      "opinions",
-      "facts or information",
-      "errors",
-      "questions"
-    ],
-    "correct": 1,
-    "explanation": "\"Data\" means facts and statistics collected for reference or analysis."
+    "question": "What does the word \"community\" mean?",
+    "correct": "Komunitas / masyarakat",
+    "explanation": "Community = komunitas. Contoh: She is active in the local community."
   },
   {
     "id": "voc-068",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Define\" is closest in meaning to:",
-    "options": [
-      "confuse",
-      "explain the meaning of",
-      "hide",
-      "ignore"
-    ],
-    "correct": 1,
-    "explanation": "\"Define\" means to state or describe the exact nature or meaning of something."
+    "question": "What does the word \"consequence\" mean?",
+    "correct": "Konsekuensi / akibat",
+    "explanation": "Consequence = konsekuensi. Contoh: Every action has a consequence."
   },
   {
     "id": "voc-069",
     "section": "vocabulary",
-    "category": "synonyms",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "Which word is closest in meaning to \"distribute\"?",
-    "options": [
-      "collect",
-      "give out or share",
-      "hide",
-      "destroy"
-    ],
-    "correct": 1,
-    "explanation": "\"Distribute\" means to give something out to several people or places."
+    "question": "What does the word \"context\" mean?",
+    "correct": "Konteks",
+    "explanation": "Context = konteks. Contoh: You need to understand the context."
   },
   {
     "id": "voc-070",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Element\" most nearly means:",
-    "options": [
-      "whole system",
-      "basic part of something",
-      "result",
-      "problem"
-    ],
-    "correct": 1,
-    "explanation": "An \"element\" is a basic or essential part of something."
+    "question": "What does the word \"culture\" mean?",
+    "correct": "Budaya",
+    "explanation": "Culture = budaya. Contoh: Language is part of culture."
   },
   {
     "id": "voc-071",
     "section": "vocabulary",
-    "category": "context",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "\"The environment was peaceful.\" The word \"environment\" means:",
-    "options": [
-      "person",
-      "surroundings or conditions",
-      "book",
-      "tool"
-    ],
-    "correct": 1,
-    "explanation": "\"Environment\" means the surroundings or conditions in which a person or thing exists."
+    "question": "What does the word \"debate\" mean?",
+    "correct": "Debat / perdebatan",
+    "explanation": "Debate = debat. Contoh: There is an ongoing debate about the issue."
   },
   {
     "id": "voc-072",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Evaluate\" is closest in meaning to:",
-    "options": [
-      "ignore",
-      "assess or judge",
-      "create",
-      "copy"
-    ],
-    "correct": 1,
-    "explanation": "\"Evaluate\" means to form an idea of the amount, number, or value of something."
+    "question": "What does the word \"economy\" mean?",
+    "correct": "Ekonomi",
+    "explanation": "Economy = ekonomi. Contoh: The economy is growing."
   },
   {
     "id": "voc-073",
     "section": "vocabulary",
-    "category": "synonyms",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "Which word is closest in meaning to \"focus\"?",
-    "options": [
-      "ignore",
-      "concentrate attention on",
-      "spread",
-      "hide"
-    ],
-    "correct": 1,
-    "explanation": "\"Focus\" means to concentrate attention or effort on something."
+    "question": "What does the word \"evidence\" mean?",
+    "correct": "Bukti",
+    "explanation": "Evidence = bukti. Contoh: There is no evidence to support the claim."
   },
   {
     "id": "voc-074",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Function\" most nearly means:",
-    "options": [
-      "appearance",
-      "purpose or role",
-      "color",
-      "size"
-    ],
-    "correct": 1,
-    "explanation": "\"Function\" means the purpose or activity of a person or thing."
+    "question": "What does the word \"goal\" mean?",
+    "correct": "Tujuan",
+    "explanation": "Goal = tujuan. Contoh: My goal is to improve my English."
   },
   {
     "id": "voc-075",
     "section": "vocabulary",
-    "category": "context",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "\"The impact was significant.\" The word \"impact\" means:",
-    "options": [
-      "small change",
-      "strong effect",
-      "beginning",
-      "end"
-    ],
-    "correct": 1,
-    "explanation": "\"Impact\" means a strong effect or influence."
+    "question": "What does the word \"identify\" mean?",
+    "correct": "Mengidentifikasi",
+    "explanation": "Identify = mengidentifikasi. Contoh: Can you identify the main idea?"
   },
   {
     "id": "voc-076",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Individual\" is closest in meaning to:",
-    "options": [
-      "group",
-      "single person or thing",
-      "system",
-      "idea"
-    ],
-    "correct": 1,
-    "explanation": "An \"individual\" is a single human being or a single thing."
+    "question": "What does the word \"income\" mean?",
+    "correct": "Pendapatan",
+    "explanation": "Income = pendapatan. Contoh: His income increased last year."
   },
   {
     "id": "voc-077",
     "section": "vocabulary",
-    "category": "synonyms",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "Which word is closest in meaning to \"interpret\"?",
-    "options": [
-      "ignore",
-      "explain the meaning of",
-      "copy",
-      "destroy"
-    ],
-    "correct": 1,
-    "explanation": "\"Interpret\" means to explain the meaning of something."
+    "question": "What does the word \"instance\" mean?",
+    "correct": "Contoh / instance",
+    "explanation": "Instance = contoh. Contoh: For instance, many students study at night."
   },
   {
     "id": "voc-078",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Involve\" most nearly means:",
-    "options": [
-      "exclude",
-      "include or require as a necessary part",
-      "hide",
-      "finish"
-    ],
-    "correct": 1,
-    "explanation": "\"Involve\" means to include something as a necessary part or result."
+    "question": "What does the word \"item\" mean?",
+    "correct": "Item / butir",
+    "explanation": "Item = item / butir. Contoh: Please check each item carefully."
   },
   {
     "id": "voc-079",
     "section": "vocabulary",
-    "category": "context",
+    "category": "meaning",
     "difficulty": "easy",
-    "question": "\"The issue was important.\" The word \"issue\" means:",
-    "options": [
-      "solution",
-      "topic or problem",
-      "answer",
-      "book"
-    ],
-    "correct": 1,
-    "explanation": "An \"issue\" is an important topic or problem for debate or discussion."
+    "question": "What does the word \"legal\" mean?",
+    "correct": "Legal / sah",
+    "explanation": "Legal = legal / sah. Contoh: Is this activity legal?"
   },
   {
     "id": "voc-080",
     "section": "vocabulary",
     "category": "meaning",
     "difficulty": "easy",
-    "question": "\"Major\" is closest in meaning to:",
-    "options": [
-      "minor",
-      "important or serious",
-      "small",
-      "hidden"
-    ],
-    "correct": 1,
-    "explanation": "\"Major\" means important, serious, or significant."
+    "question": "What does the word \"media\" mean?",
+    "correct": "Media",
+    "explanation": "Media = media. Contoh: Social media is very popular."
+  },
+  {
+    "id": "voc-081",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"percent\" mean?",
+    "correct": "Persen",
+    "explanation": "Percent = persen. Contoh: 50 percent of the students passed."
+  },
+  {
+    "id": "voc-082",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"policy\" mean?",
+    "correct": "Kebijakan",
+    "explanation": "Policy = kebijakan. Contoh: The company has a new policy."
+  },
+  {
+    "id": "voc-083",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"positive\" mean?",
+    "correct": "Positif",
+    "explanation": "Positive = positif. Contoh: She has a positive attitude."
+  },
+  {
+    "id": "voc-084",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"potential\" mean?",
+    "correct": "Potensi",
+    "explanation": "Potential = potensi. Contoh: He has great potential."
+  },
+  {
+    "id": "voc-085",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"previous\" mean?",
+    "correct": "Sebelumnya",
+    "explanation": "Previous = sebelumnya. Contoh: Please read the previous chapter."
+  },
+  {
+    "id": "voc-086",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"primary\" mean?",
+    "correct": "Utama / primer",
+    "explanation": "Primary = utama. Contoh: The primary goal is to learn."
+  },
+  {
+    "id": "voc-087",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"range\" mean?",
+    "correct": "Rentang / jangkauan",
+    "explanation": "Range = rentang. Contoh: The price range is wide."
+  },
+  {
+    "id": "voc-088",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"region\" mean?",
+    "correct": "Wilayah / region",
+    "explanation": "Region = wilayah. Contoh: This region is known for its food."
+  },
+  {
+    "id": "voc-089",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"resource\" mean?",
+    "correct": "Sumber daya",
+    "explanation": "Resource = sumber daya. Contoh: Water is an important resource."
+  },
+  {
+    "id": "voc-090",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"response\" mean?",
+    "correct": "Respons / tanggapan",
+    "explanation": "Response = respons. Contoh: What is your response to this idea?"
+  },
+  {
+    "id": "voc-091",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"security\" mean?",
+    "correct": "Keamanan",
+    "explanation": "Security = keamanan. Contoh: Security is a major concern."
+  },
+  {
+    "id": "voc-092",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"series\" mean?",
+    "correct": "Seri / rangkaian",
+    "explanation": "Series = seri. Contoh: This is part of a series of lectures."
+  },
+  {
+    "id": "voc-093",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"site\" mean?",
+    "correct": "Situs / lokasi",
+    "explanation": "Site = situs / lokasi. Contoh: The construction site is closed."
+  },
+  {
+    "id": "voc-094",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"solution\" mean?",
+    "correct": "Solusi / penyelesaian",
+    "explanation": "Solution = solusi. Contoh: We need a better solution."
+  },
+  {
+    "id": "voc-095",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"survey\" mean?",
+    "correct": "Survei",
+    "explanation": "Survey = survei. Contoh: They conducted a survey."
+  },
+  {
+    "id": "voc-096",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"text\" mean?",
+    "correct": "Teks",
+    "explanation": "Text = teks. Contoh: Please read the text carefully."
+  },
+  {
+    "id": "voc-097",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"tradition\" mean?",
+    "correct": "Tradisi",
+    "explanation": "Tradition = tradisi. Contoh: This is an old tradition."
   }
 ]

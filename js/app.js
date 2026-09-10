@@ -46,7 +46,7 @@ function loadProgress() {
       vocabulary: { correct: 0, total: 0 }
     },
     categories: {},
-    mistakes: [],
+    kesalahans: [],
     history: []
   };
 }
@@ -56,7 +56,7 @@ function saveProgress() {
 }
 
 function resetProgress() {
-  if (confirm('Reset all progress and mistakes? This cannot be undone.')) {
+  if (confirm('Reset semua progress dan kesalahan? Tindakan ini tidak bisa dibatalkan.')) {
     state.progress = {
       overall: { correct: 0, total: 0 },
       sections: {
@@ -66,7 +66,7 @@ function resetProgress() {
         vocabulary: { correct: 0, total: 0 }
       },
       categories: {},
-      mistakes: [],
+      kesalahans: [],
       history: []
     };
     saveProgress();
@@ -87,7 +87,7 @@ function showView(name) {
   });
 
   if (name === 'progress') renderProgress();
-  if (name === 'mistakes') renderMistakes();
+  if (name === 'kesalahans') renderMistakes();
   if (name === 'dashboard') renderDashboard();
 }
 
@@ -103,7 +103,7 @@ function renderDashboard() {
   if (latest) {
     latestEl.innerHTML = `${latest.correct} / ${latest.total}<br><small style="font-size:0.9rem;color:var(--text-muted)">${latest.percent}% • ${latest.section}</small>`;
   } else {
-    latestEl.textContent = 'No practice yet';
+    latestEl.textContent = 'Belum ada latihan';
   }
 
   const overview = document.getElementById('progress-overview');
@@ -140,7 +140,7 @@ function populateCategorySelect() {
       if (q.category) cats.add(q.category);
       if (q.questions) q.questions.forEach(qq => { if (qq.type) cats.add(qq.type); });
     });
-    catSel.innerHTML = '<option value="all">All Categories</option>' +
+    catSel.innerHTML = '<option value="all">Semua Kategori</option>' +
       [...cats].sort().map(c => `<option value="${c}">${c.replace(/-/g, ' ')}</option>`).join('');
   }
 
@@ -175,11 +175,41 @@ function startQuickQuiz() {
 }
 
 // ---------- Build question list ----------
+function shuffleArray(arr) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+// For vocabulary (no options in JSON): generate 4 choices from other correct answers
+function generateVocabOptions(correctAnswer, allVocab) {
+  const allMeanings = allVocab.map(q => q.correct).filter(m => m && m !== correctAnswer);
+  const unique = [...new Set(allMeanings)];
+  const distractors = shuffleArray(unique).slice(0, 3);
+  const options = shuffleArray([correctAnswer, ...distractors]);
+  const correctIndex = options.indexOf(correctAnswer);
+  return { options, correctIndex };
+}
+
+// For normal questions that already have options: shuffle them
+function shuffleOptions(q) {
+  if (!q.options || !Array.isArray(q.options)) return q;
+  const pairs = q.options.map((opt, i) => ({ opt, isCorrect: i === q.correct }));
+  const shuffled = shuffleArray(pairs);
+  return {
+    ...q,
+    options: shuffled.map(p => p.opt),
+    correct: shuffled.findIndex(p => p.isCorrect)
+  };
+}
+
 function getQuestions(section, category, difficulty, count) {
   let pool = [];
 
   if (section === 'reading') {
-    // Flatten reading sets
     (state.questions.reading || []).forEach(set => {
       if (difficulty !== 'all' && set.difficulty !== difficulty) return;
       set.questions.forEach(q => {
@@ -194,6 +224,12 @@ function getQuestions(section, category, difficulty, count) {
         });
       });
     });
+  } else if (section === 'vocabulary') {
+    pool = (state.questions.vocabulary || []).filter(q => {
+      if (category !== 'all' && q.category !== category) return false;
+      if (difficulty !== 'all' && q.difficulty !== difficulty) return false;
+      return true;
+    });
   } else {
     pool = (state.questions[section] || []).filter(q => {
       if (category !== 'all' && q.category !== category) return false;
@@ -202,20 +238,27 @@ function getQuestions(section, category, difficulty, count) {
     });
   }
 
-  // Shuffle
-  for (let i = pool.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [pool[i], pool[j]] = [pool[j], pool[i]];
-  }
+  pool = shuffleArray(pool);
+  const selected = pool.slice(0, Math.min(count, pool.length));
 
-  return pool.slice(0, Math.min(count, pool.length));
+  // Prepare each question with shuffled options
+  return selected.map(q => {
+    if (section === 'vocabulary') {
+      // Generate options from other correct answers
+      const { options, correctIndex } = generateVocabOptions(q.correct, state.questions.vocabulary);
+      return { ...q, options, correct: correctIndex };
+    } else {
+      // Shuffle existing options so correct answer is not always in same position
+      return shuffleOptions(q);
+    }
+  });
 }
 
 // ---------- Quiz engine ----------
 function startQuiz(section, category, difficulty, count, mode) {
   const questions = getQuestions(section, category, difficulty, count);
   if (questions.length === 0) {
-    alert('No questions match the selected filters. Try different options.');
+    alert('Tidak ada soal yang cocok dengan filter. Coba opsi lain.');
     return;
   }
 
@@ -240,19 +283,19 @@ function renderQuestion() {
   const q = quiz.questions[i];
   const total = quiz.questions.length;
 
-  document.getElementById('quiz-progress-text').textContent = `Question ${i + 1} / ${total}`;
+  document.getElementById('quiz-progress-text').textContent = `Soal ${i + 1} / ${total}`;
   document.getElementById('quiz-progress-bar').style.width = `${((i + 1) / total) * 100}%`;
 
   // Passage
   const passageBox = document.getElementById('passage-box');
   if (q.passage) {
     passageBox.classList.remove('hidden');
-    passageBox.innerHTML = `<strong>${q.passageTitle || 'Passage'}</strong><br><br>${q.passage}`;
+    passageBox.innerHTML = `<strong>${q.passageTitle || 'Bacaan'}</strong><br><br>${q.passage}`;
   } else {
     passageBox.classList.add('hidden');
   }
 
-  // Question text
+  // Soal text
   let qText = q.question;
   // For written expression, show with slashes highlighted
   if (q.section === 'written-expression') {
@@ -310,7 +353,7 @@ function showFeedback(q, chosen) {
   box.classList.remove('hidden', 'correct', 'wrong');
   box.classList.add(correct ? 'correct' : 'wrong');
   box.innerHTML = `
-    <div class="title">${correct ? '✓ Correct' : '✗ Incorrect'}</div>
+    <div class="title">${correct ? '✓ Benar' : '✗ Salah'}</div>
     <div>${q.explanation || ''}</div>
   `;
 
@@ -334,7 +377,7 @@ document.getElementById('btn-next').addEventListener('click', () => {
   const quiz = state.currentQuiz;
   if (!quiz) return;
   if (quiz.answers[quiz.index] === null) {
-    alert('Please select an answer.');
+    alert('Silakan pilih jawaban.');
     return;
   }
   if (quiz.index < quiz.questions.length - 1) {
@@ -347,7 +390,7 @@ document.getElementById('btn-finish').addEventListener('click', () => {
   const quiz = state.currentQuiz;
   if (!quiz) return;
   if (quiz.answers[quiz.index] === null) {
-    alert('Please select an answer.');
+    alert('Silakan pilih jawaban.');
     return;
   }
   finishQuiz();
@@ -357,14 +400,14 @@ function finishQuiz() {
   const quiz = state.currentQuiz;
   let correctCount = 0;
   const weak = {};
-  const mistakesThis = [];
+  const kesalahansThis = [];
 
   quiz.questions.forEach((q, i) => {
     const chosen = quiz.answers[i];
     const isCorrect = chosen === q.correct;
     if (isCorrect) correctCount++;
     else {
-      mistakesThis.push({
+      kesalahansThis.push({
         question: q.question,
         options: q.options,
         chosen,
@@ -391,8 +434,8 @@ function finishQuiz() {
     if (isCorrect) state.progress.categories[cat].correct++;
   });
 
-  // Save mistakes (keep last 50)
-  state.progress.mistakes = [...mistakesThis, ...state.progress.mistakes].slice(0, 50);
+  // Save kesalahans (keep last 50)
+  state.progress.kesalahans = [...kesalahansThis, ...state.progress.kesalahans].slice(0, 50);
 
   const percent = Math.round((correctCount / quiz.questions.length) * 100);
   state.progress.history.push({
@@ -414,7 +457,7 @@ function finishQuiz() {
   const breakdown = document.getElementById('section-breakdown');
   breakdown.innerHTML = `
     <div class="breakdown-item">
-      <span>Section: ${quiz.section.replace(/-/g, ' ')}</span>
+      <span>Bagian: ${quiz.section.replace(/-/g, ' ')}</span>
       <span>${correctCount} / ${quiz.questions.length}</span>
     </div>
   `;
@@ -422,19 +465,19 @@ function finishQuiz() {
   // Weak areas
   const weakEl = document.getElementById('weak-areas');
   if (Object.keys(weak).length) {
-    weakEl.innerHTML = '<h3>Weak Areas (this session)</h3>' +
+    weakEl.innerHTML = '<h3>Area Lemah (sesi ini)</h3>' +
       Object.entries(weak).map(([cat, cnt]) => `
         <div class="weak-item">
           <span>${cat.replace(/-/g, ' ')}</span>
-          <span>${cnt} mistake${cnt > 1 ? 's' : ''}</span>
+          <span>${cnt} kesalahan${cnt > 1 ? 's' : ''}</span>
         </div>
       `).join('');
   } else {
-    weakEl.innerHTML = '<h3>Great job!</h3><p style="color:var(--text-muted)">No weak areas in this session.</p>';
+    weakEl.innerHTML = '<h3>Kerja bagus!</h3><p style="color:var(--text-muted)">Tidak ada area lemah di sesi ini.</p>';
   }
 
-  document.getElementById('btn-review-mistakes').onclick = () => {
-    showView('mistakes');
+  document.getElementById('btn-review-kesalahans').onclick = () => {
+    showView('kesalahans');
   };
 
   showView('results');
@@ -449,15 +492,15 @@ function renderProgress() {
   document.getElementById('overall-stats').innerHTML = `
     <div class="stat-card">
       <div class="value">${overallPct}%</div>
-      <div class="label">Overall Accuracy</div>
+      <div class="label">Akurasi Keseluruhan</div>
     </div>
     <div class="stat-card">
       <div class="value">${p.overall.total}</div>
-      <div class="label">Questions Answered</div>
+      <div class="label">Soal Dijawab</div>
     </div>
     <div class="stat-card">
-      <div class="value">${p.mistakes.length}</div>
-      <div class="label">Mistakes Saved</div>
+      <div class="value">${p.kesalahans.length}</div>
+      <div class="label">Kesalahan Tersimpan</div>
     </div>
   `;
 
@@ -476,16 +519,16 @@ function renderProgress() {
           <span>${t.pct}%</span>
         </div>
       `).join('')
-    : '<p class="empty-state">No data yet. Start practicing!</p>';
+    : '<p class="empty-state">Belum ada data. Mulai latihan!</p>';
 }
 
 // ---------- Mistakes view ----------
 function renderMistakes() {
-  const list = document.getElementById('mistakes-list');
-  const empty = document.getElementById('no-mistakes');
-  const mistakes = state.progress.mistakes;
+  const list = document.getElementById('kesalahans-list');
+  const empty = document.getElementById('no-kesalahans');
+  const kesalahans = state.progress.kesalahans;
 
-  if (!mistakes.length) {
+  if (!kesalahans.length) {
     list.innerHTML = '';
     empty.classList.remove('hidden');
     return;
@@ -493,12 +536,12 @@ function renderMistakes() {
   empty.classList.add('hidden');
 
   const letters = ['A', 'B', 'C', 'D'];
-  list.innerHTML = mistakes.map(m => `
-    <div class="mistake-card">
+  list.innerHTML = kesalahans.map(m => `
+    <div class="kesalahan-card">
       <div class="q-text">${m.question}</div>
       <div class="answer-row">
-        <span class="wrong-ans">Your answer: ${letters[m.chosen] || '?'} – ${m.options[m.chosen] || '—'}</span>
-        <span class="correct-ans">Correct: ${letters[m.correct]} – ${m.options[m.correct]}</span>
+        <span class="wrong-ans">Jawabanmu: ${letters[m.chosen] || '?'} – ${m.options[m.chosen] || '—'}</span>
+        <span class="correct-ans">Jawaban benar: ${letters[m.correct]} – ${m.options[m.correct]}</span>
       </div>
       <div class="explanation">${m.explanation || ''}</div>
     </div>

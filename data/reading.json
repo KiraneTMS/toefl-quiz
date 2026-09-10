@@ -49,7 +49,12 @@
         "id": "read-001-q4",
         "type": "vocabulary",
         "question": "The word \"adaptable\" in the passage is closest in meaning to:",
-        "options": ["fragile", "flexible", "aggressive", "migratory"],
+        "options": [
+          "fragile",
+          "flexible",
+          "aggressive",
+          "migratory"
+        ],
         "correct": 1,
         "explanation": "\"Adaptable\" means able to adjust to new conditions, i.e., flexible."
       }
@@ -79,7 +84,12 @@
         "id": "read-002-q2",
         "type": "detail",
         "question": "According to the passage, which type of sleep is especially important for factual memory?",
-        "options": ["REM sleep", "Slow-wave sleep", "Light sleep", "Dream sleep"],
+        "options": [
+          "REM sleep",
+          "Slow-wave sleep",
+          "Light sleep",
+          "Dream sleep"
+        ],
         "correct": 1,
         "explanation": "The passage states that slow-wave sleep is particularly important for factual memory."
       },
@@ -148,7 +158,12 @@
         "id": "read-003-q4",
         "type": "vocabulary",
         "question": "The word \"onset\" in the passage is closest in meaning to:",
-        "options": ["end", "beginning", "prevention", "treatment"],
+        "options": [
+          "end",
+          "beginning",
+          "prevention",
+          "treatment"
+        ],
         "correct": 1,
         "explanation": "\"Onset\" means the beginning or start of something, especially something unpleasant."
       }
@@ -204,7 +219,12 @@
         "id": "read-004-q4",
         "type": "vocabulary",
         "question": "The word \"unprecedented\" in the passage is closest in meaning to:",
-        "options": ["common", "never experienced before", "gradual", "beneficial"],
+        "options": [
+          "common",
+          "never experienced before",
+          "gradual",
+          "beneficial"
+        ],
         "correct": 1,
         "explanation": "\"Unprecedented\" means never done or known before."
       }
@@ -247,7 +267,12 @@
         "id": "read-005-q3",
         "type": "vocabulary",
         "question": "The word \"facilitated\" in the passage is closest in meaning to:",
-        "options": ["prevented", "made easier", "complicated", "ignored"],
+        "options": [
+          "prevented",
+          "made easier",
+          "complicated",
+          "ignored"
+        ],
         "correct": 1,
         "explanation": "\"Facilitated\" means made an action or process easier."
       }
@@ -277,7 +302,12 @@
         "id": "read-006-q2",
         "type": "detail",
         "question": "According to the passage, about how much of our food depends on pollination?",
-        "options": ["One-tenth", "One-quarter", "One-third", "One-half"],
+        "options": [
+          "One-tenth",
+          "One-quarter",
+          "One-third",
+          "One-half"
+        ],
         "correct": 2,
         "explanation": "The passage states that approximately one-third of the food we eat depends on pollination."
       },
@@ -298,9 +328,232 @@
         "id": "read-006-q4",
         "type": "vocabulary",
         "question": "The word \"dramatically\" in the passage is closest in meaning to:",
-        "options": ["slightly", "suddenly and greatly", "slowly", "predictably"],
+        "options": [
+          "slightly",
+          "suddenly and greatly",
+          "slowly",
+          "predictably"
+        ],
         "correct": 1,
         "explanation": "\"Dramatically\" here means to a very large and striking degree."
+      }
+    ]
+  },
+  {
+    "id": "read-007",
+    "section": "reading",
+    "title": "The Value of Failure",
+    "difficulty": "easy",
+    "passage": "Many people view failure as something to avoid at all costs. However, research in psychology suggests that failure can be a powerful teacher. When people fail, they often analyze what went wrong and adjust their strategies. This process of reflection can lead to greater improvement than continuous success. Successful inventors, athletes, and business leaders frequently report that their most important lessons came from failures. Educators now encourage a \"growth mindset,\" in which students see mistakes as opportunities to learn rather than as signs of inability. By changing how we think about failure, we can turn setbacks into steps toward future success.",
+    "questions": [
+      {
+        "id": "read-007-q1",
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Failure should always be avoided.",
+          "Failure can be a valuable learning experience.",
+          "Only successful people experience failure.",
+          "Educators should punish mistakes."
+        ],
+        "correct": 1,
+        "explanation": "The passage argues that failure can teach important lessons and lead to improvement."
+      },
+      {
+        "id": "read-007-q2",
+        "type": "detail",
+        "question": "According to the passage, what do many successful people say about failure?",
+        "options": [
+          "It was unimportant.",
+          "Their most important lessons came from it.",
+          "It should be hidden.",
+          "It only happened once."
+        ],
+        "correct": 1,
+        "explanation": "The passage states that successful people often report that their most important lessons came from failures."
+      },
+      {
+        "id": "read-007-q3",
+        "type": "vocabulary",
+        "question": "The word \"setbacks\" in the passage is closest in meaning to:",
+        "options": [
+          "victories",
+          "problems that delay progress",
+          "rewards",
+          "plans"
+        ],
+        "correct": 1,
+        "explanation": "A setback is a problem or difficulty that delays progress."
+      }
+    ]
+  },
+  {
+    "id": "read-008",
+    "section": "reading",
+    "title": "Plastic Pollution in the Oceans",
+    "difficulty": "medium",
+    "passage": "Plastic pollution has become one of the most serious environmental problems of the twenty-first century. Millions of tons of plastic waste enter the oceans every year. Much of this plastic comes from single-use items such as bottles, bags, and packaging. Once in the ocean, plastic breaks down into smaller pieces called microplastics, which are ingested by marine animals. These particles can enter the food chain and eventually reach humans. Scientists have found microplastics in fish, shellfish, and even drinking water. Solutions include reducing plastic production, improving waste management, and developing biodegradable alternatives. Individual actions, such as using reusable bags and bottles, can also make a difference when adopted by large numbers of people.",
+    "questions": [
+      {
+        "id": "read-008-q1",
+        "type": "main-idea",
+        "question": "What is the primary focus of the passage?",
+        "options": [
+          "How to recycle plastic at home",
+          "The problem of plastic pollution in the oceans and possible solutions",
+          "The history of plastic production",
+          "Why plastic is useful"
+        ],
+        "correct": 1,
+        "explanation": "The passage discusses the scale of ocean plastic pollution, its effects, and solutions."
+      },
+      {
+        "id": "read-008-q2",
+        "type": "detail",
+        "question": "According to the passage, what are microplastics?",
+        "options": [
+          "Large plastic bottles",
+          "Small pieces of broken-down plastic",
+          "Biodegradable materials",
+          "Reusable bags"
+        ],
+        "correct": 1,
+        "explanation": "The passage defines microplastics as smaller pieces that plastic breaks down into."
+      },
+      {
+        "id": "read-008-q3",
+        "type": "inference",
+        "question": "What can be inferred about individual actions?",
+        "options": [
+          "They are completely useless.",
+          "They can help if many people participate.",
+          "They are more important than government policy.",
+          "They only work in small towns."
+        ],
+        "correct": 1,
+        "explanation": "The last sentence states that individual actions can make a difference when adopted by large numbers of people."
+      },
+      {
+        "id": "read-008-q4",
+        "type": "vocabulary",
+        "question": "The word \"ingested\" in the passage is closest in meaning to:",
+        "options": [
+          "avoided",
+          "swallowed or eaten",
+          "produced",
+          "cleaned"
+        ],
+        "correct": 1,
+        "explanation": "\"Ingested\" means taken into the body by swallowing or eating."
+      }
+    ]
+  },
+  {
+    "id": "read-009",
+    "section": "reading",
+    "title": "The Benefits of Exercise for the Brain",
+    "difficulty": "medium",
+    "passage": "Regular physical exercise is not only good for the body but also highly beneficial for the brain. Studies show that exercise increases blood flow to the brain and stimulates the growth of new brain cells. It can improve memory, attention, and problem-solving skills. Exercise also helps reduce stress and anxiety by releasing chemicals that improve mood. Even moderate activities such as walking or cycling for thirty minutes several times a week can produce noticeable cognitive benefits. Researchers recommend combining aerobic exercise with activities that challenge the mind, such as learning a new skill. For students, incorporating short exercise breaks into study sessions may improve both concentration and long-term retention of information.",
+    "questions": [
+      {
+        "id": "read-009-q1",
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Exercise is only useful for physical health.",
+          "Physical exercise provides important benefits for the brain.",
+          "Students should never take breaks.",
+          "Only intense exercise is effective."
+        ],
+        "correct": 1,
+        "explanation": "The passage focuses on the cognitive and mental benefits of exercise."
+      },
+      {
+        "id": "read-009-q2",
+        "type": "detail",
+        "question": "According to the passage, how does exercise help reduce stress?",
+        "options": [
+          "By decreasing blood flow",
+          "By releasing chemicals that improve mood",
+          "By making people tired",
+          "By preventing all anxiety"
+        ],
+        "correct": 1,
+        "explanation": "The passage states that exercise releases chemicals that improve mood."
+      },
+      {
+        "id": "read-009-q3",
+        "type": "inference",
+        "question": "What does the author suggest about study sessions?",
+        "options": [
+          "They should never include breaks.",
+          "Short exercise breaks may improve concentration and retention.",
+          "Only aerobic exercise should be avoided.",
+          "Learning new skills is unnecessary."
+        ],
+        "correct": 1,
+        "explanation": "The final sentence recommends incorporating short exercise breaks into study sessions."
+      }
+    ]
+  },
+  {
+    "id": "read-010",
+    "section": "reading",
+    "title": "The Rise of Remote Work",
+    "difficulty": "medium",
+    "passage": "The COVID-19 pandemic accelerated a major shift toward remote work in many industries. Companies that had previously required employees to work in offices discovered that many tasks could be performed effectively from home. Advantages of remote work include greater flexibility, reduced commuting time, and potential cost savings for both employers and employees. However, challenges also exist. Some workers report feelings of isolation, difficulty separating work from personal life, and reduced opportunities for spontaneous collaboration. Employers have responded by adopting hybrid models that combine remote and in-office work. Experts predict that flexible work arrangements will remain common even after the pandemic, permanently changing traditional ideas about the workplace.",
+    "questions": [
+      {
+        "id": "read-010-q1",
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Remote work has only disadvantages.",
+          "The pandemic accelerated the adoption of remote work, which has both benefits and challenges.",
+          "All companies now require full-time office work.",
+          "Commuting is the best part of traditional work."
+        ],
+        "correct": 1,
+        "explanation": "The passage discusses the rise of remote work, its advantages, challenges, and lasting effects."
+      },
+      {
+        "id": "read-010-q2",
+        "type": "detail",
+        "question": "According to the passage, which of the following is an advantage of remote work?",
+        "options": [
+          "Increased isolation",
+          "Reduced commuting time",
+          "Less flexibility",
+          "More spontaneous collaboration"
+        ],
+        "correct": 1,
+        "explanation": "The passage lists reduced commuting time as one of the advantages."
+      },
+      {
+        "id": "read-010-q3",
+        "type": "inference",
+        "question": "What can be inferred about the future of work?",
+        "options": [
+          "Remote work will completely disappear.",
+          "Flexible arrangements are likely to continue.",
+          "Everyone will return to full-time office work.",
+          "Collaboration will no longer be important."
+        ],
+        "correct": 1,
+        "explanation": "The last sentence predicts that flexible work arrangements will remain common."
+      },
+      {
+        "id": "read-010-q4",
+        "type": "vocabulary",
+        "question": "The word \"accelerated\" in the passage is closest in meaning to:",
+        "options": [
+          "slowed down",
+          "sped up",
+          "stopped",
+          "ignored"
+        ],
+        "correct": 1,
+        "explanation": "\"Accelerated\" means caused to happen more quickly."
       }
     ]
   }
