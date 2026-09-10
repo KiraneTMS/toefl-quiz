@@ -871,5 +871,455 @@
     "question": "What does the word \"tradition\" mean?",
     "correct": "Tradisi",
     "explanation": "Tradition = tradisi. Contoh: This is an old tradition."
+  },
+  {
+    "id": "voc-098",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"access\" mean?",
+    "correct": "Akses / jalan masuk",
+    "explanation": "Access = akses. Contoh: Students have access to the library."
+  },
+  {
+    "id": "voc-099",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"account\" mean?",
+    "correct": "Akun / rekening",
+    "explanation": "Account = akun. Contoh: Please create an account."
+  },
+  {
+    "id": "voc-100",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"activity\" mean?",
+    "correct": "Aktivitas / kegiatan",
+    "explanation": "Activity = aktivitas. Contoh: Outdoor activities are popular."
+  },
+  {
+    "id": "voc-101",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"addition\" mean?",
+    "correct": "Tambahan",
+    "explanation": "Addition = tambahan. Contoh: In addition, we need more time."
+  },
+  {
+    "id": "voc-102",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"affect\" mean?",
+    "correct": "Mempengaruhi",
+    "explanation": "Affect = mempengaruhi. Contoh: The weather can affect your mood."
+  },
+  {
+    "id": "voc-103",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"agency\" mean?",
+    "correct": "Agensi / lembaga",
+    "explanation": "Agency = agensi. Contoh: She works for a travel agency."
+  },
+  {
+    "id": "voc-104",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"agreement\" mean?",
+    "correct": "Perjanjian / kesepakatan",
+    "explanation": "Agreement = perjanjian. Contoh: They reached an agreement."
+  },
+  {
+    "id": "voc-105",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"alternative\" mean?",
+    "correct": "Alternatif / pilihan lain",
+    "explanation": "Alternative = alternatif. Contoh: We need an alternative plan."
+  },
+  {
+    "id": "voc-106",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"amount\" mean?",
+    "correct": "Jumlah",
+    "explanation": "Amount = jumlah. Contoh: A large amount of money was spent."
+  },
+  {
+    "id": "voc-107",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"analysis\" mean?",
+    "correct": "Analisis",
+    "explanation": "Analysis = analisis. Contoh: The analysis shows clear results."
+  },
+  {
+    "id": "voc-108",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"application\" mean?",
+    "correct": "Aplikasi / permohonan",
+    "explanation": "Application = aplikasi. Contoh: Submit your application online."
+  },
+  {
+    "id": "voc-109",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"argument\" mean?",
+    "correct": "Argumen / perdebatan",
+    "explanation": "Argument = argumen. Contoh: His argument was convincing."
+  },
+  {
+    "id": "voc-110",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"aspect\" mean?",
+    "correct": "Aspek / sisi",
+    "explanation": "Aspect = aspek. Contoh: Consider every aspect of the problem."
+  },
+  {
+    "id": "voc-111",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"assessment\" mean?",
+    "correct": "Penilaian",
+    "explanation": "Assessment = penilaian. Contoh: The assessment will be next week."
+  },
+  {
+    "id": "voc-112",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"assistance\" mean?",
+    "correct": "Bantuan",
+    "explanation": "Assistance = bantuan. Contoh: She needs financial assistance."
+  },
+  {
+    "id": "voc-113",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"association\" mean?",
+    "correct": "Asosiasi / hubungan",
+    "explanation": "Association = asosiasi. Contoh: He is a member of the association."
+  },
+  {
+    "id": "voc-114",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"assumption\" mean?",
+    "correct": "Asumsi",
+    "explanation": "Assumption = asumsi. Contoh: That assumption is incorrect."
+  },
+  {
+    "id": "voc-115",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"atmosphere\" mean?",
+    "correct": "Atmosfer / suasana",
+    "explanation": "Atmosphere = atmosfer. Contoh: The atmosphere was friendly."
+  },
+  {
+    "id": "voc-116",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"attitude\" mean?",
+    "correct": "Sikap",
+    "explanation": "Attitude = sikap. Contoh: She has a positive attitude."
+  },
+  {
+    "id": "voc-117",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"audience\" mean?",
+    "correct": "Audiens / penonton",
+    "explanation": "Audience = audiens. Contoh: The audience clapped loudly."
+  },
+  {
+    "id": "voc-118",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"author\" mean?",
+    "correct": "Penulis",
+    "explanation": "Author = penulis. Contoh: Who is the author of this book?"
+  },
+  {
+    "id": "voc-119",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"average\" mean?",
+    "correct": "Rata-rata",
+    "explanation": "Average = rata-rata. Contoh: The average score was 75."
+  },
+  {
+    "id": "voc-120",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"background\" mean?",
+    "correct": "Latar belakang",
+    "explanation": "Background = latar belakang. Contoh: Tell me about your background."
+  },
+  {
+    "id": "voc-121",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"balance\" mean?",
+    "correct": "Keseimbangan",
+    "explanation": "Balance = keseimbangan. Contoh: Try to keep a balance."
+  },
+  {
+    "id": "voc-122",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"behavior\" mean?",
+    "correct": "Perilaku",
+    "explanation": "Behavior = perilaku. Contoh: Good behavior is important."
+  },
+  {
+    "id": "voc-123",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"capacity\" mean?",
+    "correct": "Kapasitas / kemampuan",
+    "explanation": "Capacity = kapasitas. Contoh: The room has a capacity of 100 people."
+  },
+  {
+    "id": "voc-124",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"career\" mean?",
+    "correct": "Karier",
+    "explanation": "Career = karier. Contoh: She has a successful career."
+  },
+  {
+    "id": "voc-125",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"circumstance\" mean?",
+    "correct": "Keadaan / situasi",
+    "explanation": "Circumstance = keadaan. Contoh: Under the circumstances, we must wait."
+  },
+  {
+    "id": "voc-126",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"comment\" mean?",
+    "correct": "Komentar",
+    "explanation": "Comment = komentar. Contoh: Do you have any comments?"
+  },
+  {
+    "id": "voc-127",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"commission\" mean?",
+    "correct": "Komisi",
+    "explanation": "Commission = komisi. Contoh: The commission will investigate."
+  },
+  {
+    "id": "voc-128",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"commitment\" mean?",
+    "correct": "Komitmen",
+    "explanation": "Commitment = komitmen. Contoh: He showed strong commitment."
+  },
+  {
+    "id": "voc-129",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"communication\" mean?",
+    "correct": "Komunikasi",
+    "explanation": "Communication = komunikasi. Contoh: Good communication is essential."
+  },
+  {
+    "id": "voc-130",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"comparison\" mean?",
+    "correct": "Perbandingan",
+    "explanation": "Comparison = perbandingan. Contoh: Make a comparison between the two."
+  },
+  {
+    "id": "voc-131",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"competition\" mean?",
+    "correct": "Kompetisi / persaingan",
+    "explanation": "Competition = kompetisi. Contoh: There is strong competition."
+  },
+  {
+    "id": "voc-132",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"component\" mean?",
+    "correct": "Komponen / bagian",
+    "explanation": "Component = komponen. Contoh: This is an important component."
+  },
+  {
+    "id": "voc-133",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"computer\" mean?",
+    "correct": "Komputer",
+    "explanation": "Computer = komputer. Contoh: I use a computer every day."
+  },
+  {
+    "id": "voc-134",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"concern\" mean?",
+    "correct": "Kekhawatiran / perhatian",
+    "explanation": "Concern = kekhawatiran. Contoh: My main concern is safety."
+  },
+  {
+    "id": "voc-135",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"conclusion\" mean?",
+    "correct": "Kesimpulan",
+    "explanation": "Conclusion = kesimpulan. Contoh: What is your conclusion?"
+  },
+  {
+    "id": "voc-136",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"condition\" mean?",
+    "correct": "Kondisi",
+    "explanation": "Condition = kondisi. Contoh: The condition of the road is bad."
+  },
+  {
+    "id": "voc-137",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"conference\" mean?",
+    "correct": "Konferensi",
+    "explanation": "Conference = konferensi. Contoh: The conference will be held next month."
+  },
+  {
+    "id": "voc-138",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"confidence\" mean?",
+    "correct": "Kepercayaan diri",
+    "explanation": "Confidence = kepercayaan diri. Contoh: She speaks with confidence."
+  },
+  {
+    "id": "voc-139",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"conflict\" mean?",
+    "correct": "Konflik",
+    "explanation": "Conflict = konflik. Contoh: There is a conflict between the two groups."
+  },
+  {
+    "id": "voc-140",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"connection\" mean?",
+    "correct": "Hubungan / koneksi",
+    "explanation": "Connection = hubungan. Contoh: Is there a connection between them?"
+  },
+  {
+    "id": "voc-141",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"consequence\" mean?",
+    "correct": "Konsekuensi / akibat",
+    "explanation": "Consequence = konsekuensi. Contoh: Consider the consequences."
+  },
+  {
+    "id": "voc-142",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"consideration\" mean?",
+    "correct": "Pertimbangan",
+    "explanation": "Consideration = pertimbangan. Contoh: This requires careful consideration."
+  },
+  {
+    "id": "voc-143",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"construction\" mean?",
+    "correct": "Konstruksi / pembangunan",
+    "explanation": "Construction = konstruksi. Contoh: The construction is almost finished."
+  },
+  {
+    "id": "voc-144",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"consumer\" mean?",
+    "correct": "Konsumen",
+    "explanation": "Consumer = konsumen. Contoh: Consumers want better products."
+  },
+  {
+    "id": "voc-145",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"content\" mean?",
+    "correct": "Konten / isi",
+    "explanation": "Content = konten. Contoh: The content of the article is interesting."
+  },
+  {
+    "id": "voc-146",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"contract\" mean?",
+    "correct": "Kontrak",
+    "explanation": "Contract = kontrak. Contoh: Sign the contract carefully."
+  },
+  {
+    "id": "voc-147",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"contribution\" mean?",
+    "correct": "Kontribusi",
+    "explanation": "Contribution = kontribusi. Contoh: Thank you for your contribution."
   }
 ]

@@ -748,5 +748,305 @@
     ],
     "correct": 1,
     "explanation": "The correct preposition is \"in\": interested in."
+  },
+  {
+    "id": "we-051",
+    "section": "written-expression",
+    "category": "subject-verb-agreement",
+    "difficulty": "easy",
+    "question": "The children / is / playing / in the park.",
+    "options": [
+      "The children",
+      "is",
+      "playing",
+      "in the park"
+    ],
+    "correct": 1,
+    "explanation": "\"Children\" is plural; use \"are\"."
+  },
+  {
+    "id": "we-052",
+    "section": "written-expression",
+    "category": "verb-tenses",
+    "difficulty": "easy",
+    "question": "She / go / to school / every day.",
+    "options": [
+      "She",
+      "go",
+      "to school",
+      "every day"
+    ],
+    "correct": 1,
+    "explanation": "Third person singular: \"goes\"."
+  },
+  {
+    "id": "we-053",
+    "section": "written-expression",
+    "category": "parallel-structure",
+    "difficulty": "medium",
+    "question": "He enjoys swimming, / running, / and to cycle / on weekends.",
+    "options": [
+      "He enjoys swimming",
+      "running",
+      "and to cycle",
+      "on weekends"
+    ],
+    "correct": 2,
+    "explanation": "Parallel gerunds: swimming, running, and cycling."
+  },
+  {
+    "id": "we-054",
+    "section": "written-expression",
+    "category": "word-form",
+    "difficulty": "easy",
+    "question": "She is a / care / driver / on the road.",
+    "options": [
+      "She is a",
+      "care",
+      "driver",
+      "on the road"
+    ],
+    "correct": 1,
+    "explanation": "Need adjective \"careful\"."
+  },
+  {
+    "id": "we-055",
+    "section": "written-expression",
+    "category": "prepositions",
+    "difficulty": "easy",
+    "question": "He is afraid / from / dogs / and cats.",
+    "options": [
+      "He is afraid",
+      "from",
+      "dogs",
+      "and cats"
+    ],
+    "correct": 1,
+    "explanation": "Correct: afraid of."
+  },
+  {
+    "id": "we-056",
+    "section": "written-expression",
+    "category": "articles",
+    "difficulty": "easy",
+    "question": "She ate / a / orange / for breakfast.",
+    "options": [
+      "She ate",
+      "a",
+      "orange",
+      "for breakfast"
+    ],
+    "correct": 1,
+    "explanation": "Use \"an\" before vowel sound."
+  },
+  {
+    "id": "we-057",
+    "section": "written-expression",
+    "category": "relative-clauses",
+    "difficulty": "medium",
+    "question": "The house / who / is on the corner / belongs to my uncle.",
+    "options": [
+      "The house",
+      "who",
+      "is on the corner",
+      "belongs to my uncle"
+    ],
+    "correct": 1,
+    "explanation": "Use \"which\" or \"that\" for things."
+  },
+  {
+    "id": "we-058",
+    "section": "written-expression",
+    "category": "pronouns",
+    "difficulty": "easy",
+    "question": "Me and John / went / to the store / yesterday.",
+    "options": [
+      "Me and John",
+      "went",
+      "to the store",
+      "yesterday"
+    ],
+    "correct": 0,
+    "explanation": "Use \"John and I\" (subject pronoun)."
+  },
+  {
+    "id": "we-059",
+    "section": "written-expression",
+    "category": "comparatives",
+    "difficulty": "easy",
+    "question": "This book is / more better / than / that one.",
+    "options": [
+      "This book is",
+      "more better",
+      "than",
+      "that one"
+    ],
+    "correct": 1,
+    "explanation": "\"Better\" is already comparative; do not use \"more better\"."
+  },
+  {
+    "id": "we-060",
+    "section": "written-expression",
+    "category": "verb-tenses",
+    "difficulty": "medium",
+    "question": "They / live / here / since 2020.",
+    "options": [
+      "They",
+      "live",
+      "here",
+      "since 2020"
+    ],
+    "correct": 1,
+    "explanation": "Use present perfect with \"since\": \"have lived\"."
+  },
+  {
+    "id": "we-061",
+    "section": "written-expression",
+    "category": "word-form",
+    "difficulty": "medium",
+    "question": "The answer was / complete / wrong / according to the teacher.",
+    "options": [
+      "The answer was",
+      "complete",
+      "wrong",
+      "according to the teacher"
+    ],
+    "correct": 1,
+    "explanation": "Use adverb \"completely\"."
+  },
+  {
+    "id": "we-062",
+    "section": "written-expression",
+    "category": "prepositions",
+    "difficulty": "medium",
+    "question": "She depends / of / her brother / for help.",
+    "options": [
+      "She depends",
+      "of",
+      "her brother",
+      "for help"
+    ],
+    "correct": 1,
+    "explanation": "Correct: depends on."
+  },
+  {
+    "id": "we-063",
+    "section": "written-expression",
+    "category": "subject-verb-agreement",
+    "difficulty": "medium",
+    "question": "The news / are / surprising / to everyone.",
+    "options": [
+      "The news",
+      "are",
+      "surprising",
+      "to everyone"
+    ],
+    "correct": 1,
+    "explanation": "\"News\" is singular; use \"is\"."
+  },
+  {
+    "id": "we-064",
+    "section": "written-expression",
+    "category": "parallel-structure",
+    "difficulty": "hard",
+    "question": "She is responsible for planning events, / managing staff, / and to organize / meetings.",
+    "options": [
+      "She is responsible for planning events",
+      "managing staff",
+      "and to organize",
+      "meetings"
+    ],
+    "correct": 2,
+    "explanation": "Parallel gerunds: planning, managing, and organizing."
+  },
+  {
+    "id": "we-065",
+    "section": "written-expression",
+    "category": "articles",
+    "difficulty": "medium",
+    "question": "He is / a / honest man / who always helps others.",
+    "options": [
+      "He is",
+      "a",
+      "honest man",
+      "who always helps others"
+    ],
+    "correct": 1,
+    "explanation": "Use \"an\" before \"honest\" (vowel sound)."
+  },
+  {
+    "id": "we-066",
+    "section": "written-expression",
+    "category": "relative-clauses",
+    "difficulty": "hard",
+    "question": "The man / which / the police arrested / is a suspect.",
+    "options": [
+      "The man",
+      "which",
+      "the police arrested",
+      "is a suspect"
+    ],
+    "correct": 1,
+    "explanation": "Use \"whom\" or \"that\" for people as object."
+  },
+  {
+    "id": "we-067",
+    "section": "written-expression",
+    "category": "pronouns",
+    "difficulty": "medium",
+    "question": "The company announced / it's / new policy / yesterday.",
+    "options": [
+      "The company announced",
+      "it's",
+      "new policy",
+      "yesterday"
+    ],
+    "correct": 1,
+    "explanation": "Possessive is \"its\" (no apostrophe)."
+  },
+  {
+    "id": "we-068",
+    "section": "written-expression",
+    "category": "verb-tenses",
+    "difficulty": "hard",
+    "question": "If I / knew / about the test earlier, / I would have prepared.",
+    "options": [
+      "If I",
+      "knew",
+      "about the test earlier",
+      "I would have prepared"
+    ],
+    "correct": 1,
+    "explanation": "Third conditional needs past perfect: \"had known\"."
+  },
+  {
+    "id": "we-069",
+    "section": "written-expression",
+    "category": "word-form",
+    "difficulty": "hard",
+    "question": "Her / perform / on the stage / was amazing.",
+    "options": [
+      "Her",
+      "perform",
+      "on the stage",
+      "was amazing"
+    ],
+    "correct": 1,
+    "explanation": "Need noun \"performance\"."
+  },
+  {
+    "id": "we-070",
+    "section": "written-expression",
+    "category": "prepositions",
+    "difficulty": "hard",
+    "question": "He is interested / for / studying / abroad next year.",
+    "options": [
+      "He is interested",
+      "for",
+      "studying",
+      "abroad next year"
+    ],
+    "correct": 1,
+    "explanation": "Correct: interested in."
   }
 ]

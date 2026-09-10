@@ -556,5 +556,162 @@
         "explanation": "\"Accelerated\" means caused to happen more quickly."
       }
     ]
+  },
+  {
+    "id": "read-011",
+    "section": "reading",
+    "title": "The Importance of Reading",
+    "difficulty": "easy",
+    "passage": "Reading is one of the most valuable skills a person can develop. It improves vocabulary, strengthens concentration, and expands knowledge about the world. People who read regularly tend to have better writing skills and stronger critical thinking abilities. Reading also reduces stress and can improve mental health. Experts recommend reading for at least twenty minutes every day. Whether it is books, newspapers, or online articles, any form of reading can bring benefits. For students preparing for exams like the TOEFL, regular reading practice is especially important because it builds the language skills needed for success.",
+    "questions": [
+      {
+        "id": "read-011-q1",
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Reading is only useful for students.",
+          "Reading provides many important benefits.",
+          "People should only read books.",
+          "Reading causes stress."
+        ],
+        "correct": 1,
+        "explanation": "The passage focuses on the many benefits of reading."
+      },
+      {
+        "id": "read-011-q2",
+        "type": "detail",
+        "question": "According to the passage, how long should people read each day?",
+        "options": [
+          "Five minutes",
+          "Ten minutes",
+          "At least twenty minutes",
+          "One hour"
+        ],
+        "correct": 2,
+        "explanation": "Experts recommend reading for at least twenty minutes every day."
+      },
+      {
+        "id": "read-011-q3",
+        "type": "vocabulary",
+        "question": "The word \"expands\" in the passage is closest in meaning to:",
+        "options": [
+          "reduces",
+          "increases",
+          "hides",
+          "destroys"
+        ],
+        "correct": 1,
+        "explanation": "\"Expands\" means increases or makes larger."
+      }
+    ]
+  },
+  {
+    "id": "read-012",
+    "section": "reading",
+    "title": "Online Learning",
+    "difficulty": "medium",
+    "passage": "Online learning has become increasingly popular in recent years. Students can attend classes from anywhere with an internet connection, which provides great flexibility. Many working adults appreciate the ability to study while keeping their jobs. However, online learning also has challenges. Some students struggle with motivation and time management when there is no physical classroom. Technical problems can interrupt lessons. Despite these difficulties, research shows that online courses can be just as effective as traditional classes when students are motivated and the materials are well designed. Universities around the world continue to expand their online programs.",
+    "questions": [
+      {
+        "id": "read-012-q1",
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Online learning is always better than traditional classes.",
+          "Online learning has both advantages and challenges.",
+          "Only working adults use online learning.",
+          "Technical problems make online learning impossible."
+        ],
+        "correct": 1,
+        "explanation": "The passage discusses both the benefits and challenges of online learning."
+      },
+      {
+        "id": "read-012-q2",
+        "type": "detail",
+        "question": "According to the passage, what do some students struggle with in online learning?",
+        "options": [
+          "Finding an internet connection",
+          "Motivation and time management",
+          "Paying for courses",
+          "Talking to teachers"
+        ],
+        "correct": 1,
+        "explanation": "The passage states that some students struggle with motivation and time management."
+      },
+      {
+        "id": "read-012-q3",
+        "type": "inference",
+        "question": "What can be inferred about online courses?",
+        "options": [
+          "They can never be effective.",
+          "They can be effective if students are motivated and materials are good.",
+          "They are only for young students.",
+          "Universities will stop offering them."
+        ],
+        "correct": 1,
+        "explanation": "Research shows online courses can be effective under the right conditions."
+      },
+      {
+        "id": "read-012-q4",
+        "type": "vocabulary",
+        "question": "The word \"flexibility\" in the passage is closest in meaning to:",
+        "options": [
+          "difficulty",
+          "ability to change easily",
+          "strictness",
+          "cost"
+        ],
+        "correct": 1,
+        "explanation": "\"Flexibility\" means the ability to change or adapt easily."
+      }
+    ]
+  },
+  {
+    "id": "read-013",
+    "section": "reading",
+    "title": "The Role of Teachers",
+    "difficulty": "easy",
+    "passage": "Teachers play a central role in education. They do more than just present information; they also inspire students, guide them through difficulties, and help them develop critical thinking skills. A good teacher can make a subject interesting even if students initially find it boring. Research shows that the quality of teaching has a strong effect on student achievement. In addition to subject knowledge, effective teachers need strong communication skills and patience. Many countries are working to improve teacher training programs because they recognize how important teachers are to the future of society.",
+    "questions": [
+      {
+        "id": "read-013-q1",
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Teachers only present information.",
+          "Teachers play an important role in education and student success.",
+          "Students do not need teachers.",
+          "Teacher training is unnecessary."
+        ],
+        "correct": 1,
+        "explanation": "The passage emphasizes the important role of teachers."
+      },
+      {
+        "id": "read-013-q2",
+        "type": "detail",
+        "question": "According to the passage, what do effective teachers need besides subject knowledge?",
+        "options": [
+          "Only money",
+          "Strong communication skills and patience",
+          "A large classroom",
+          "Expensive materials"
+        ],
+        "correct": 1,
+        "explanation": "Effective teachers need strong communication skills and patience."
+      },
+      {
+        "id": "read-013-q3",
+        "type": "vocabulary",
+        "question": "The word \"inspire\" in the passage is closest in meaning to:",
+        "options": [
+          "discourage",
+          "motivate or encourage",
+          "confuse",
+          "punish"
+        ],
+        "correct": 1,
+        "explanation": "\"Inspire\" means to motivate or fill someone with the urge to do something."
+      }
+    ]
   }
 ]
