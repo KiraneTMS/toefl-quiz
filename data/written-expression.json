@@ -1048,5 +1048,530 @@
     ],
     "correct": 1,
     "explanation": "Correct: interested in."
+  },
+  {
+    "id": "we-071",
+    "section": "written-expression",
+    "category": "subject-verb-agreement",
+    "difficulty": "easy",
+    "question": "The books / is / on the table / near the window.",
+    "options": [
+      "The books",
+      "is",
+      "on the table",
+      "near the window"
+    ],
+    "correct": 1,
+    "explanation": "Plural subject needs \"are\"."
+  },
+  {
+    "id": "we-072",
+    "section": "written-expression",
+    "category": "verb-tenses",
+    "difficulty": "easy",
+    "question": "He / work / in a bank / every day.",
+    "options": [
+      "He",
+      "work",
+      "in a bank",
+      "every day"
+    ],
+    "correct": 1,
+    "explanation": "Third person: \"works\"."
+  },
+  {
+    "id": "we-073",
+    "section": "written-expression",
+    "category": "parallel-structure",
+    "difficulty": "medium",
+    "question": "She likes cooking, / cleaning, / and to garden / on weekends.",
+    "options": [
+      "She likes cooking",
+      "cleaning",
+      "and to garden",
+      "on weekends"
+    ],
+    "correct": 2,
+    "explanation": "Parallel gerunds: cooking, cleaning, and gardening."
+  },
+  {
+    "id": "we-074",
+    "section": "written-expression",
+    "category": "word-form",
+    "difficulty": "easy",
+    "question": "He is a / skill / worker / in the factory.",
+    "options": [
+      "He is a",
+      "skill",
+      "worker",
+      "in the factory"
+    ],
+    "correct": 1,
+    "explanation": "Need adjective \"skilled\"."
+  },
+  {
+    "id": "we-075",
+    "section": "written-expression",
+    "category": "prepositions",
+    "difficulty": "easy",
+    "question": "She is good / in / English / and math.",
+    "options": [
+      "She is good",
+      "in",
+      "English",
+      "and math"
+    ],
+    "correct": 1,
+    "explanation": "Correct: good at."
+  },
+  {
+    "id": "we-076",
+    "section": "written-expression",
+    "category": "articles",
+    "difficulty": "easy",
+    "question": "I saw / a / elephant / at the zoo.",
+    "options": [
+      "I saw",
+      "a",
+      "elephant",
+      "at the zoo"
+    ],
+    "correct": 1,
+    "explanation": "Use \"an\" before vowel sound."
+  },
+  {
+    "id": "we-077",
+    "section": "written-expression",
+    "category": "relative-clauses",
+    "difficulty": "medium",
+    "question": "The car / who / is red / belongs to my father.",
+    "options": [
+      "The car",
+      "who",
+      "is red",
+      "belongs to my father"
+    ],
+    "correct": 1,
+    "explanation": "Use \"which\" or \"that\" for things."
+  },
+  {
+    "id": "we-078",
+    "section": "written-expression",
+    "category": "pronouns",
+    "difficulty": "easy",
+    "question": "Her and I / went / to the cinema / last night.",
+    "options": [
+      "Her and I",
+      "went",
+      "to the cinema",
+      "last night"
+    ],
+    "correct": 0,
+    "explanation": "Use \"She and I\"."
+  },
+  {
+    "id": "we-079",
+    "section": "written-expression",
+    "category": "comparatives",
+    "difficulty": "easy",
+    "question": "This room is / more larger / than / the other one.",
+    "options": [
+      "This room is",
+      "more larger",
+      "than",
+      "the other one"
+    ],
+    "correct": 1,
+    "explanation": "\"Larger\" is already comparative."
+  },
+  {
+    "id": "we-080",
+    "section": "written-expression",
+    "category": "verb-tenses",
+    "difficulty": "medium",
+    "question": "We / know / each other / since childhood.",
+    "options": [
+      "We",
+      "know",
+      "each other",
+      "since childhood"
+    ],
+    "correct": 1,
+    "explanation": "Present perfect with \"since\": \"have known\"."
+  },
+  {
+    "id": "we-081",
+    "section": "written-expression",
+    "category": "word-form",
+    "difficulty": "medium",
+    "question": "The test was / extreme / difficult / for most students.",
+    "options": [
+      "The test was",
+      "extreme",
+      "difficult",
+      "for most students"
+    ],
+    "correct": 1,
+    "explanation": "Use adverb \"extremely\"."
+  },
+  {
+    "id": "we-082",
+    "section": "written-expression",
+    "category": "prepositions",
+    "difficulty": "medium",
+    "question": "He is responsible / of / the project / this year.",
+    "options": [
+      "He is responsible",
+      "of",
+      "the project",
+      "this year"
+    ],
+    "correct": 1,
+    "explanation": "Correct: responsible for."
+  },
+  {
+    "id": "we-083",
+    "section": "written-expression",
+    "category": "subject-verb-agreement",
+    "difficulty": "medium",
+    "question": "Mathematics / are / my favorite / subject.",
+    "options": [
+      "Mathematics",
+      "are",
+      "my favorite",
+      "subject"
+    ],
+    "correct": 1,
+    "explanation": "Subject names ending in -ics take singular verb."
+  },
+  {
+    "id": "we-084",
+    "section": "written-expression",
+    "category": "parallel-structure",
+    "difficulty": "hard",
+    "question": "The course teaches writing essays, / analyzing texts, / and to speak / confidently.",
+    "options": [
+      "The course teaches writing essays",
+      "analyzing texts",
+      "and to speak",
+      "confidently"
+    ],
+    "correct": 2,
+    "explanation": "Parallel gerunds."
+  },
+  {
+    "id": "we-085",
+    "section": "written-expression",
+    "category": "articles",
+    "difficulty": "medium",
+    "question": "She plays / a / violin / every evening.",
+    "options": [
+      "She plays",
+      "a",
+      "violin",
+      "every evening"
+    ],
+    "correct": 1,
+    "explanation": "With instruments use \"the\": plays the violin."
+  },
+  {
+    "id": "we-086",
+    "section": "written-expression",
+    "category": "subject-verb-agreement",
+    "difficulty": "easy",
+    "question": "The dogs / barks / loudly / at night.",
+    "options": [
+      "The dogs",
+      "barks",
+      "loudly",
+      "at night"
+    ],
+    "correct": 1,
+    "explanation": "Plural: bark."
+  },
+  {
+    "id": "we-087",
+    "section": "written-expression",
+    "category": "verb-tenses",
+    "difficulty": "easy",
+    "question": "She / study / English / every evening.",
+    "options": [
+      "She",
+      "study",
+      "English",
+      "every evening"
+    ],
+    "correct": 1,
+    "explanation": "Third person: studies."
+  },
+  {
+    "id": "we-088",
+    "section": "written-expression",
+    "category": "parallel-structure",
+    "difficulty": "medium",
+    "question": "He bought apples, / oranges, / and to get / bananas.",
+    "options": [
+      "He bought apples",
+      "oranges",
+      "and to get",
+      "bananas"
+    ],
+    "correct": 2,
+    "explanation": "Parallel nouns."
+  },
+  {
+    "id": "we-089",
+    "section": "written-expression",
+    "category": "word-form",
+    "difficulty": "easy",
+    "question": "It was a / beauty / day / for a picnic.",
+    "options": [
+      "It was a",
+      "beauty",
+      "day",
+      "for a picnic"
+    ],
+    "correct": 1,
+    "explanation": "Adjective: beautiful."
+  },
+  {
+    "id": "we-090",
+    "section": "written-expression",
+    "category": "prepositions",
+    "difficulty": "easy",
+    "question": "She is angry / to / her brother / about the mess.",
+    "options": [
+      "She is angry",
+      "to",
+      "her brother",
+      "about the mess"
+    ],
+    "correct": 1,
+    "explanation": "Angry with/at."
+  },
+  {
+    "id": "we-091",
+    "section": "written-expression",
+    "category": "articles",
+    "difficulty": "easy",
+    "question": "He is / a / engineer / at a big company.",
+    "options": [
+      "He is",
+      "a",
+      "engineer",
+      "at a big company"
+    ],
+    "correct": 1,
+    "explanation": "An engineer."
+  },
+  {
+    "id": "we-092",
+    "section": "written-expression",
+    "category": "relative-clauses",
+    "difficulty": "medium",
+    "question": "The book / who / is on the shelf / is mine.",
+    "options": [
+      "The book",
+      "who",
+      "is on the shelf",
+      "is mine"
+    ],
+    "correct": 1,
+    "explanation": "Which/that for things."
+  },
+  {
+    "id": "we-093",
+    "section": "written-expression",
+    "category": "pronouns",
+    "difficulty": "easy",
+    "question": "Him and Sarah / are / best friends / at school.",
+    "options": [
+      "Him and Sarah",
+      "are",
+      "best friends",
+      "at school"
+    ],
+    "correct": 0,
+    "explanation": "He and Sarah."
+  },
+  {
+    "id": "we-094",
+    "section": "written-expression",
+    "category": "comparatives",
+    "difficulty": "easy",
+    "question": "This bag is / more heavier / than / that one.",
+    "options": [
+      "This bag is",
+      "more heavier",
+      "than",
+      "that one"
+    ],
+    "correct": 1,
+    "explanation": "Heavier already comparative."
+  },
+  {
+    "id": "we-095",
+    "section": "written-expression",
+    "category": "verb-tenses",
+    "difficulty": "medium",
+    "question": "I / live / in this city / for ten years.",
+    "options": [
+      "I",
+      "live",
+      "in this city",
+      "for ten years"
+    ],
+    "correct": 1,
+    "explanation": "Have lived with for."
+  },
+  {
+    "id": "we-096",
+    "section": "written-expression",
+    "category": "word-form",
+    "difficulty": "medium",
+    "question": "She spoke / quiet / during / the meeting.",
+    "options": [
+      "She spoke",
+      "quiet",
+      "during",
+      "the meeting"
+    ],
+    "correct": 1,
+    "explanation": "Adverb: quietly."
+  },
+  {
+    "id": "we-097",
+    "section": "written-expression",
+    "category": "prepositions",
+    "difficulty": "medium",
+    "question": "He is different / of / his brother / in many ways.",
+    "options": [
+      "He is different",
+      "of",
+      "his brother",
+      "in many ways"
+    ],
+    "correct": 1,
+    "explanation": "Different from."
+  },
+  {
+    "id": "we-098",
+    "section": "written-expression",
+    "category": "subject-verb-agreement",
+    "difficulty": "medium",
+    "question": "The furniture / are / new / and expensive.",
+    "options": [
+      "The furniture",
+      "are",
+      "new",
+      "and expensive"
+    ],
+    "correct": 1,
+    "explanation": "Furniture is uncountable singular."
+  },
+  {
+    "id": "we-099",
+    "section": "written-expression",
+    "category": "parallel-structure",
+    "difficulty": "hard",
+    "question": "The program includes teaching skills, / building confidence, / and to improve / communication.",
+    "options": [
+      "The program includes teaching skills",
+      "building confidence",
+      "and to improve",
+      "communication"
+    ],
+    "correct": 2,
+    "explanation": "Parallel gerunds."
+  },
+  {
+    "id": "we-100",
+    "section": "written-expression",
+    "category": "articles",
+    "difficulty": "medium",
+    "question": "She bought / an / university / textbook yesterday.",
+    "options": [
+      "She bought",
+      "an",
+      "university",
+      "textbook yesterday"
+    ],
+    "correct": 1,
+    "explanation": "University starts with /ju/ consonant sound \u2192 a university."
+  },
+  {
+    "id": "we-101",
+    "section": "written-expression",
+    "category": "relative-clauses",
+    "difficulty": "hard",
+    "question": "The teacher / which / the students like / is retiring.",
+    "options": [
+      "The teacher",
+      "which",
+      "the students like",
+      "is retiring"
+    ],
+    "correct": 1,
+    "explanation": "Who/whom for people."
+  },
+  {
+    "id": "we-102",
+    "section": "written-expression",
+    "category": "pronouns",
+    "difficulty": "medium",
+    "question": "The team lost / it's / last game / of the season.",
+    "options": [
+      "The team lost",
+      "it's",
+      "last game",
+      "of the season"
+    ],
+    "correct": 1,
+    "explanation": "Its without apostrophe."
+  },
+  {
+    "id": "we-103",
+    "section": "written-expression",
+    "category": "verb-tenses",
+    "difficulty": "hard",
+    "question": "If she / studied / harder, / she would have passed.",
+    "options": [
+      "If she",
+      "studied",
+      "harder",
+      "she would have passed"
+    ],
+    "correct": 1,
+    "explanation": "Had studied for third conditional."
+  },
+  {
+    "id": "we-104",
+    "section": "written-expression",
+    "category": "word-form",
+    "difficulty": "hard",
+    "question": "His / decide / to leave / surprised everyone.",
+    "options": [
+      "His",
+      "decide",
+      "to leave",
+      "surprised everyone"
+    ],
+    "correct": 1,
+    "explanation": "Noun: decision."
+  },
+  {
+    "id": "we-105",
+    "section": "written-expression",
+    "category": "prepositions",
+    "difficulty": "hard",
+    "question": "She is married / with / a doctor / from Canada.",
+    "options": [
+      "She is married",
+      "with",
+      "a doctor",
+      "from Canada"
+    ],
+    "correct": 1,
+    "explanation": "Married to."
   }
 ]

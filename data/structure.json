@@ -1798,5 +1798,1055 @@
     ],
     "correct": 1,
     "explanation": "\"Good at\" is the correct collocation for skills."
+  },
+  {
+    "id": "str-121",
+    "section": "structure",
+    "category": "subject-verb-agreement",
+    "difficulty": "easy",
+    "question": "The list of required documents _____ on the website.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "correct": 1,
+    "explanation": "The subject is \"list\" (singular), so use \"is\"."
+  },
+  {
+    "id": "str-122",
+    "section": "structure",
+    "category": "subject-verb-agreement",
+    "difficulty": "medium",
+    "question": "Either the manager or the employees _____ responsible for the delay.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "correct": 1,
+    "explanation": "With \"either...or\", the verb agrees with the closer subject (employees = plural)."
+  },
+  {
+    "id": "str-123",
+    "section": "structure",
+    "category": "verb-tenses",
+    "difficulty": "easy",
+    "question": "We _____ a meeting every Monday morning.",
+    "options": [
+      "have",
+      "has",
+      "having",
+      "had"
+    ],
+    "correct": 0,
+    "explanation": "Present simple for routines; subject \"we\" takes \"have\"."
+  },
+  {
+    "id": "str-124",
+    "section": "structure",
+    "category": "verb-tenses",
+    "difficulty": "medium",
+    "question": "When I entered the room, the students _____ quietly.",
+    "options": [
+      "study",
+      "were studying",
+      "have studied",
+      "studied"
+    ],
+    "correct": 1,
+    "explanation": "Past progressive for an ongoing action interrupted by another event."
+  },
+  {
+    "id": "str-125",
+    "section": "structure",
+    "category": "passive-voice",
+    "difficulty": "easy",
+    "question": "The email _____ by the secretary this morning.",
+    "options": [
+      "sent",
+      "was sent",
+      "has sent",
+      "sending"
+    ],
+    "correct": 1,
+    "explanation": "Passive voice: the email received the action."
+  },
+  {
+    "id": "str-126",
+    "section": "structure",
+    "category": "passive-voice",
+    "difficulty": "medium",
+    "question": "The problem _____ as soon as possible.",
+    "options": [
+      "should solve",
+      "should be solved",
+      "should solving",
+      "should to solve"
+    ],
+    "correct": 1,
+    "explanation": "Modal + passive: should be + past participle."
+  },
+  {
+    "id": "str-127",
+    "section": "structure",
+    "category": "relative-clauses",
+    "difficulty": "easy",
+    "question": "The students _____ passed the exam celebrated together.",
+    "options": [
+      "which",
+      "who",
+      "whose",
+      "whom"
+    ],
+    "correct": 1,
+    "explanation": "\"Who\" for people as subject."
+  },
+  {
+    "id": "str-128",
+    "section": "structure",
+    "category": "relative-clauses",
+    "difficulty": "medium",
+    "question": "The city _____ I was born is famous for its food.",
+    "options": [
+      "which",
+      "where",
+      "who",
+      "whose"
+    ],
+    "correct": 1,
+    "explanation": "\"Where\" for places."
+  },
+  {
+    "id": "str-129",
+    "section": "structure",
+    "category": "reduced-clauses",
+    "difficulty": "medium",
+    "question": "_____ the instructions carefully, he completed the task successfully.",
+    "options": [
+      "Follow",
+      "Following",
+      "Followed",
+      "To follow"
+    ],
+    "correct": 1,
+    "explanation": "Present participle for reduced adverbial clause."
+  },
+  {
+    "id": "str-130",
+    "section": "structure",
+    "category": "conditionals",
+    "difficulty": "easy",
+    "question": "If she _____ hard, she will pass the test.",
+    "options": [
+      "study",
+      "studies",
+      "studied",
+      "will study"
+    ],
+    "correct": 1,
+    "explanation": "First conditional: present simple in if-clause."
+  },
+  {
+    "id": "str-131",
+    "section": "structure",
+    "category": "conditionals",
+    "difficulty": "medium",
+    "question": "If I _____ you, I would accept the offer.",
+    "options": [
+      "am",
+      "was",
+      "were",
+      "will be"
+    ],
+    "correct": 2,
+    "explanation": "Second conditional uses \"were\"."
+  },
+  {
+    "id": "str-132",
+    "section": "structure",
+    "category": "parallel-structure",
+    "difficulty": "easy",
+    "question": "He wants to travel, to learn, and _____.",
+    "options": [
+      "exploring",
+      "to explore",
+      "explore",
+      "explored"
+    ],
+    "correct": 1,
+    "explanation": "Parallel infinitives."
+  },
+  {
+    "id": "str-133",
+    "section": "structure",
+    "category": "gerunds-infinitives",
+    "difficulty": "easy",
+    "question": "I finished _____ the report last night.",
+    "options": [
+      "to write",
+      "writing",
+      "write",
+      "written"
+    ],
+    "correct": 1,
+    "explanation": "\"Finish\" is followed by a gerund."
+  },
+  {
+    "id": "str-134",
+    "section": "structure",
+    "category": "gerunds-infinitives",
+    "difficulty": "medium",
+    "question": "She decided _____ a new language.",
+    "options": [
+      "learning",
+      "to learn",
+      "learn",
+      "learned"
+    ],
+    "correct": 1,
+    "explanation": "\"Decide\" is followed by an infinitive."
+  },
+  {
+    "id": "str-135",
+    "section": "structure",
+    "category": "comparatives",
+    "difficulty": "easy",
+    "question": "This test is _____ than the last one.",
+    "options": [
+      "easy",
+      "easier",
+      "easiest",
+      "more easy"
+    ],
+    "correct": 1,
+    "explanation": "Short adjectives add -er."
+  },
+  {
+    "id": "str-136",
+    "section": "structure",
+    "category": "noun-clauses",
+    "difficulty": "medium",
+    "question": "Do you know _____ the library opens?",
+    "options": [
+      "that",
+      "when",
+      "what",
+      "which"
+    ],
+    "correct": 1,
+    "explanation": "\"When\" introduces a noun clause about time."
+  },
+  {
+    "id": "str-137",
+    "section": "structure",
+    "category": "auxiliaries",
+    "difficulty": "easy",
+    "question": "Students _____ submit their work on time.",
+    "options": [
+      "must",
+      "must to",
+      "have",
+      "ought"
+    ],
+    "correct": 0,
+    "explanation": "\"Must\" does not take \"to\"."
+  },
+  {
+    "id": "str-138",
+    "section": "structure",
+    "category": "prepositions",
+    "difficulty": "easy",
+    "question": "She is proud _____ her achievements.",
+    "options": [
+      "on",
+      "of",
+      "at",
+      "for"
+    ],
+    "correct": 1,
+    "explanation": "\"Proud of\" is the correct collocation."
+  },
+  {
+    "id": "str-139",
+    "section": "structure",
+    "category": "prepositions",
+    "difficulty": "medium",
+    "question": "He is capable _____ solving complex problems.",
+    "options": [
+      "to",
+      "of",
+      "for",
+      "in"
+    ],
+    "correct": 1,
+    "explanation": "\"Capable of\" + gerund."
+  },
+  {
+    "id": "str-140",
+    "section": "structure",
+    "category": "subject-verb-agreement",
+    "difficulty": "hard",
+    "question": "The number of applicants _____ increased this year.",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "correct": 1,
+    "explanation": "\"The number\" is singular."
+  },
+  {
+    "id": "str-141",
+    "section": "structure",
+    "category": "verb-tenses",
+    "difficulty": "hard",
+    "question": "By next year, she _____ here for a decade.",
+    "options": [
+      "works",
+      "will work",
+      "will have worked",
+      "worked"
+    ],
+    "correct": 2,
+    "explanation": "Future perfect for duration up to a future point."
+  },
+  {
+    "id": "str-142",
+    "section": "structure",
+    "category": "passive-voice",
+    "difficulty": "hard",
+    "question": "The results _____ by the research team last month.",
+    "options": [
+      "published",
+      "were published",
+      "have published",
+      "publishing"
+    ],
+    "correct": 1,
+    "explanation": "Past passive."
+  },
+  {
+    "id": "str-143",
+    "section": "structure",
+    "category": "relative-clauses",
+    "difficulty": "hard",
+    "question": "The author _____ novel won the award is speaking tonight.",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "correct": 2,
+    "explanation": "\"Whose\" for possession."
+  },
+  {
+    "id": "str-144",
+    "section": "structure",
+    "category": "reduced-clauses",
+    "difficulty": "hard",
+    "question": "_____ by the results, the team decided to continue.",
+    "options": [
+      "Encouraging",
+      "Encouraged",
+      "To encourage",
+      "Encourage"
+    ],
+    "correct": 1,
+    "explanation": "Past participle for reduced passive."
+  },
+  {
+    "id": "str-145",
+    "section": "structure",
+    "category": "conditionals",
+    "difficulty": "hard",
+    "question": "If they had left earlier, they _____ the train.",
+    "options": [
+      "will catch",
+      "would catch",
+      "would have caught",
+      "caught"
+    ],
+    "correct": 2,
+    "explanation": "Third conditional."
+  },
+  {
+    "id": "str-146",
+    "section": "structure",
+    "category": "parallel-structure",
+    "difficulty": "hard",
+    "question": "Success requires hard work, dedication, and _____.",
+    "options": [
+      "to be patient",
+      "being patient",
+      "patience",
+      "patient"
+    ],
+    "correct": 2,
+    "explanation": "Parallel nouns."
+  },
+  {
+    "id": "str-147",
+    "section": "structure",
+    "category": "gerunds-infinitives",
+    "difficulty": "hard",
+    "question": "The teacher let the students _____ early.",
+    "options": [
+      "to leave",
+      "leaving",
+      "leave",
+      "left"
+    ],
+    "correct": 2,
+    "explanation": "After \"let\", use bare infinitive."
+  },
+  {
+    "id": "str-148",
+    "section": "structure",
+    "category": "comparatives",
+    "difficulty": "medium",
+    "question": "This is the _____ book I have ever read.",
+    "options": [
+      "more interesting",
+      "most interesting",
+      "interesting",
+      "interestinger"
+    ],
+    "correct": 1,
+    "explanation": "Superlative with \"most\"."
+  },
+  {
+    "id": "str-149",
+    "section": "structure",
+    "category": "noun-clauses",
+    "difficulty": "hard",
+    "question": "_____ he chooses will affect the outcome.",
+    "options": [
+      "That",
+      "What",
+      "Which",
+      "Who"
+    ],
+    "correct": 1,
+    "explanation": "\"What\" as subject noun clause."
+  },
+  {
+    "id": "str-150",
+    "section": "structure",
+    "category": "auxiliaries",
+    "difficulty": "medium",
+    "question": "You _____ have told me sooner.",
+    "options": [
+      "should",
+      "must",
+      "can",
+      "will"
+    ],
+    "correct": 0,
+    "explanation": "\"Should have\" for past advice/criticism."
+  },
+  {
+    "id": "str-151",
+    "section": "structure",
+    "category": "subject-verb-agreement",
+    "difficulty": "easy",
+    "question": "Each of the players _____ a trophy.",
+    "options": [
+      "receive",
+      "receives",
+      "receiving",
+      "received"
+    ],
+    "correct": 1,
+    "explanation": "\"Each\" is singular."
+  },
+  {
+    "id": "str-152",
+    "section": "structure",
+    "category": "subject-verb-agreement",
+    "difficulty": "medium",
+    "question": "The team of researchers _____ working on the project.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "correct": 0,
+    "explanation": "\"Team\" as collective often takes singular."
+  },
+  {
+    "id": "str-153",
+    "section": "structure",
+    "category": "verb-tenses",
+    "difficulty": "easy",
+    "question": "She _____ to the store every Saturday.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "correct": 1,
+    "explanation": "Present simple, third person singular."
+  },
+  {
+    "id": "str-154",
+    "section": "structure",
+    "category": "verb-tenses",
+    "difficulty": "medium",
+    "question": "They _____ the movie before I arrived.",
+    "options": [
+      "saw",
+      "have seen",
+      "had seen",
+      "see"
+    ],
+    "correct": 2,
+    "explanation": "Past perfect for earlier past action."
+  },
+  {
+    "id": "str-155",
+    "section": "structure",
+    "category": "passive-voice",
+    "difficulty": "easy",
+    "question": "The cake _____ by my mother yesterday.",
+    "options": [
+      "baked",
+      "was baked",
+      "has baked",
+      "baking"
+    ],
+    "correct": 1,
+    "explanation": "Past passive."
+  },
+  {
+    "id": "str-156",
+    "section": "structure",
+    "category": "passive-voice",
+    "difficulty": "medium",
+    "question": "The documents must _____ before Friday.",
+    "options": [
+      "sign",
+      "be signed",
+      "signing",
+      "to sign"
+    ],
+    "correct": 1,
+    "explanation": "Modal + passive."
+  },
+  {
+    "id": "str-157",
+    "section": "structure",
+    "category": "relative-clauses",
+    "difficulty": "easy",
+    "question": "The man _____ called you is waiting outside.",
+    "options": [
+      "which",
+      "who",
+      "whose",
+      "whom"
+    ],
+    "correct": 1,
+    "explanation": "Who for people as subject."
+  },
+  {
+    "id": "str-158",
+    "section": "structure",
+    "category": "relative-clauses",
+    "difficulty": "medium",
+    "question": "This is the place _____ we first met.",
+    "options": [
+      "which",
+      "where",
+      "who",
+      "whose"
+    ],
+    "correct": 1,
+    "explanation": "Where for places."
+  },
+  {
+    "id": "str-159",
+    "section": "structure",
+    "category": "reduced-clauses",
+    "difficulty": "medium",
+    "question": "_____ the door, she noticed a letter on the floor.",
+    "options": [
+      "Open",
+      "Opening",
+      "Opened",
+      "To open"
+    ],
+    "correct": 1,
+    "explanation": "Present participle reduced clause."
+  },
+  {
+    "id": "str-160",
+    "section": "structure",
+    "category": "conditionals",
+    "difficulty": "easy",
+    "question": "If it _____ sunny, we will go to the beach.",
+    "options": [
+      "is",
+      "will be",
+      "was",
+      "were"
+    ],
+    "correct": 0,
+    "explanation": "First conditional present simple."
+  },
+  {
+    "id": "str-161",
+    "section": "structure",
+    "category": "conditionals",
+    "difficulty": "medium",
+    "question": "If he _____ taller, he could play basketball.",
+    "options": [
+      "is",
+      "was",
+      "were",
+      "will be"
+    ],
+    "correct": 2,
+    "explanation": "Second conditional were."
+  },
+  {
+    "id": "str-162",
+    "section": "structure",
+    "category": "parallel-structure",
+    "difficulty": "easy",
+    "question": "I like to swim, to run, and _____.",
+    "options": [
+      "cycling",
+      "to cycle",
+      "cycle",
+      "cycled"
+    ],
+    "correct": 1,
+    "explanation": "Parallel infinitives."
+  },
+  {
+    "id": "str-163",
+    "section": "structure",
+    "category": "gerunds-infinitives",
+    "difficulty": "easy",
+    "question": "She stopped _____ when the phone rang.",
+    "options": [
+      "to talk",
+      "talking",
+      "talk",
+      "talked"
+    ],
+    "correct": 1,
+    "explanation": "Stop + gerund = stop an activity."
+  },
+  {
+    "id": "str-164",
+    "section": "structure",
+    "category": "gerunds-infinitives",
+    "difficulty": "medium",
+    "question": "I expect _____ the results soon.",
+    "options": [
+      "getting",
+      "to get",
+      "get",
+      "got"
+    ],
+    "correct": 1,
+    "explanation": "Expect + infinitive."
+  },
+  {
+    "id": "str-165",
+    "section": "structure",
+    "category": "comparatives",
+    "difficulty": "easy",
+    "question": "My brother is _____ than me.",
+    "options": [
+      "tall",
+      "taller",
+      "tallest",
+      "more tall"
+    ],
+    "correct": 1,
+    "explanation": "Short adjective comparative."
+  },
+  {
+    "id": "str-166",
+    "section": "structure",
+    "category": "noun-clauses",
+    "difficulty": "medium",
+    "question": "I wonder _____ she is coming.",
+    "options": [
+      "that",
+      "if",
+      "what",
+      "which"
+    ],
+    "correct": 1,
+    "explanation": "If/whether for uncertainty."
+  },
+  {
+    "id": "str-167",
+    "section": "structure",
+    "category": "auxiliaries",
+    "difficulty": "easy",
+    "question": "You _____ not be late for the exam.",
+    "options": [
+      "should",
+      "should to",
+      "must to",
+      "ought"
+    ],
+    "correct": 0,
+    "explanation": "Should without to."
+  },
+  {
+    "id": "str-168",
+    "section": "structure",
+    "category": "prepositions",
+    "difficulty": "easy",
+    "question": "He is famous _____ his paintings.",
+    "options": [
+      "on",
+      "for",
+      "at",
+      "in"
+    ],
+    "correct": 1,
+    "explanation": "Famous for."
+  },
+  {
+    "id": "str-169",
+    "section": "structure",
+    "category": "prepositions",
+    "difficulty": "medium",
+    "question": "She insisted _____ paying the bill.",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "for"
+    ],
+    "correct": 0,
+    "explanation": "Insist on + gerund."
+  },
+  {
+    "id": "str-170",
+    "section": "structure",
+    "category": "subject-verb-agreement",
+    "difficulty": "hard",
+    "question": "Physics _____ a difficult subject for many students.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "correct": 1,
+    "explanation": "Subject names in -ics take singular."
+  },
+  {
+    "id": "str-171",
+    "section": "structure",
+    "category": "verb-tenses",
+    "difficulty": "hard",
+    "question": "By the time the movie ends, we _____ for three hours.",
+    "options": [
+      "wait",
+      "will wait",
+      "will have been waiting",
+      "waited"
+    ],
+    "correct": 2,
+    "explanation": "Future perfect progressive."
+  },
+  {
+    "id": "str-172",
+    "section": "structure",
+    "category": "passive-voice",
+    "difficulty": "hard",
+    "question": "The letter is thought _____ last week.",
+    "options": [
+      "to send",
+      "to have been sent",
+      "sending",
+      "sent"
+    ],
+    "correct": 1,
+    "explanation": "Perfect passive infinitive."
+  },
+  {
+    "id": "str-173",
+    "section": "structure",
+    "category": "relative-clauses",
+    "difficulty": "hard",
+    "question": "The woman _____ bag was stolen is talking to the police.",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "correct": 2,
+    "explanation": "Whose for possession."
+  },
+  {
+    "id": "str-174",
+    "section": "structure",
+    "category": "reduced-clauses",
+    "difficulty": "hard",
+    "question": "_____ the truth, he decided to apologize.",
+    "options": [
+      "Realize",
+      "Realizing",
+      "Realized",
+      "To realize"
+    ],
+    "correct": 1,
+    "explanation": "Present participle."
+  },
+  {
+    "id": "str-175",
+    "section": "structure",
+    "category": "conditionals",
+    "difficulty": "hard",
+    "question": "If I had known, I _____ you.",
+    "options": [
+      "will help",
+      "would help",
+      "would have helped",
+      "helped"
+    ],
+    "correct": 2,
+    "explanation": "Third conditional."
+  },
+  {
+    "id": "str-176",
+    "section": "structure",
+    "category": "parallel-structure",
+    "difficulty": "hard",
+    "question": "She is talented at singing, dancing, and _____.",
+    "options": [
+      "to act",
+      "acting",
+      "act",
+      "acted"
+    ],
+    "correct": 1,
+    "explanation": "Parallel gerunds."
+  },
+  {
+    "id": "str-177",
+    "section": "structure",
+    "category": "gerunds-infinitives",
+    "difficulty": "hard",
+    "question": "They made him _____ the form again.",
+    "options": [
+      "to fill",
+      "filling",
+      "fill",
+      "filled"
+    ],
+    "correct": 2,
+    "explanation": "Make + bare infinitive."
+  },
+  {
+    "id": "str-178",
+    "section": "structure",
+    "category": "comparatives",
+    "difficulty": "medium",
+    "question": "The sooner you start, _____ you will finish.",
+    "options": [
+      "better",
+      "the better",
+      "the best",
+      "more better"
+    ],
+    "correct": 1,
+    "explanation": "The sooner... the better."
+  },
+  {
+    "id": "str-179",
+    "section": "structure",
+    "category": "noun-clauses",
+    "difficulty": "hard",
+    "question": "_____ happens next is uncertain.",
+    "options": [
+      "That",
+      "What",
+      "Which",
+      "Who"
+    ],
+    "correct": 1,
+    "explanation": "What as subject."
+  },
+  {
+    "id": "str-180",
+    "section": "structure",
+    "category": "auxiliaries",
+    "difficulty": "medium",
+    "question": "She _____ have arrived by now.",
+    "options": [
+      "should",
+      "must",
+      "can",
+      "will"
+    ],
+    "correct": 1,
+    "explanation": "Must have for deduction."
+  },
+  {
+    "id": "str-181",
+    "section": "structure",
+    "category": "prepositions",
+    "difficulty": "hard",
+    "question": "He is accused _____ stealing the money.",
+    "options": [
+      "for",
+      "of",
+      "on",
+      "with"
+    ],
+    "correct": 1,
+    "explanation": "Accused of."
+  },
+  {
+    "id": "str-182",
+    "section": "structure",
+    "category": "subject-verb-agreement",
+    "difficulty": "easy",
+    "question": "My friends _____ coming to the party.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "has"
+    ],
+    "correct": 1,
+    "explanation": "Plural subject."
+  },
+  {
+    "id": "str-183",
+    "section": "structure",
+    "category": "verb-tenses",
+    "difficulty": "easy",
+    "question": "I _____ my keys yesterday.",
+    "options": [
+      "lose",
+      "lost",
+      "have lost",
+      "losing"
+    ],
+    "correct": 1,
+    "explanation": "Past simple."
+  },
+  {
+    "id": "str-184",
+    "section": "structure",
+    "category": "passive-voice",
+    "difficulty": "easy",
+    "question": "French _____ in many countries.",
+    "options": [
+      "speaks",
+      "is spoken",
+      "speaking",
+      "spoke"
+    ],
+    "correct": 1,
+    "explanation": "Passive."
+  },
+  {
+    "id": "str-185",
+    "section": "structure",
+    "category": "relative-clauses",
+    "difficulty": "easy",
+    "question": "The movie _____ we watched was excellent.",
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correct": 1,
+    "explanation": "Which for things."
+  },
+  {
+    "id": "str-186",
+    "section": "structure",
+    "category": "conditionals",
+    "difficulty": "easy",
+    "question": "If you heat ice, it _____.",
+    "options": [
+      "melt",
+      "melts",
+      "melted",
+      "will melt"
+    ],
+    "correct": 1,
+    "explanation": "Zero conditional."
+  },
+  {
+    "id": "str-187",
+    "section": "structure",
+    "category": "gerunds-infinitives",
+    "difficulty": "easy",
+    "question": "I enjoy _____ coffee in the morning.",
+    "options": [
+      "to drink",
+      "drinking",
+      "drink",
+      "drank"
+    ],
+    "correct": 1,
+    "explanation": "Enjoy + gerund."
+  },
+  {
+    "id": "str-188",
+    "section": "structure",
+    "category": "comparatives",
+    "difficulty": "easy",
+    "question": "She is the _____ student in the class.",
+    "options": [
+      "smart",
+      "smarter",
+      "smartest",
+      "more smart"
+    ],
+    "correct": 2,
+    "explanation": "Superlative."
+  },
+  {
+    "id": "str-189",
+    "section": "structure",
+    "category": "auxiliaries",
+    "difficulty": "easy",
+    "question": "We _____ leave now or we will be late.",
+    "options": [
+      "must",
+      "must to",
+      "have",
+      "ought"
+    ],
+    "correct": 0,
+    "explanation": "Must without to."
+  },
+  {
+    "id": "str-190",
+    "section": "structure",
+    "category": "prepositions",
+    "difficulty": "easy",
+    "question": "I am looking forward _____ the weekend.",
+    "options": [
+      "to",
+      "for",
+      "at",
+      "on"
+    ],
+    "correct": 0,
+    "explanation": "Look forward to."
   }
 ]

@@ -713,5 +713,114 @@
         "explanation": "\"Inspire\" means to motivate or fill someone with the urge to do something."
       }
     ]
+  },
+  {
+    "id": "read-014",
+    "section": "reading",
+    "title": "Time Management for Students",
+    "difficulty": "easy",
+    "passage": "Many students struggle with time management. Between classes, homework, and other activities, it can be hard to finish everything on time. Experts suggest making a weekly schedule and setting clear priorities. Breaking large tasks into smaller steps also helps reduce stress. Avoiding distractions such as social media during study time can significantly improve focus. Students who manage their time well usually perform better academically and feel less anxious. Developing good time management habits early is one of the most useful skills for both school and future work.",
+    "questions": [
+      {
+        "id": "read-014-q1",
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Students should never use social media.",
+          "Time management is important and can be improved with good habits.",
+          "Homework is the biggest problem for students.",
+          "Only experts can manage time well."
+        ],
+        "correct": 1,
+        "explanation": "The passage focuses on the importance of time management and practical tips."
+      },
+      {
+        "id": "read-014-q2",
+        "type": "detail",
+        "question": "According to the passage, what can help reduce stress?",
+        "options": [
+          "Ignoring homework",
+          "Breaking large tasks into smaller steps",
+          "Using more social media",
+          "Avoiding all schedules"
+        ],
+        "correct": 1,
+        "explanation": "Breaking large tasks into smaller steps helps reduce stress."
+      },
+      {
+        "id": "read-014-q3",
+        "type": "vocabulary",
+        "question": "The word \"distractions\" in the passage is closest in meaning to:",
+        "options": [
+          "helps",
+          "things that take attention away",
+          "rewards",
+          "schedules"
+        ],
+        "correct": 1,
+        "explanation": "Distractions are things that take your attention away from what you should be doing."
+      }
+    ]
+  },
+  {
+    "id": "read-015",
+    "section": "reading",
+    "title": "The Benefits of Learning a Second Language",
+    "difficulty": "medium",
+    "passage": "Learning a second language offers many advantages beyond communication. Research shows that bilingual people often have better memory and problem-solving skills. Learning another language can also improve understanding of one's own language. In a globalized world, knowing more than one language increases job opportunities and cultural awareness. Although learning a language takes time and effort, the long-term benefits make it worthwhile. Many experts recommend starting as early as possible, but adults can also achieve high levels of proficiency with consistent practice.",
+    "questions": [
+      {
+        "id": "read-015-q1",
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Only children can learn a second language.",
+          "Learning a second language has many cognitive and practical benefits.",
+          "Language learning is not useful for jobs.",
+          "Adults cannot learn new languages."
+        ],
+        "correct": 1,
+        "explanation": "The passage discusses various benefits of learning a second language."
+      },
+      {
+        "id": "read-015-q2",
+        "type": "detail",
+        "question": "According to the passage, what do bilingual people often have?",
+        "options": [
+          "Worse memory",
+          "Better memory and problem-solving skills",
+          "Fewer job opportunities",
+          "Less cultural awareness"
+        ],
+        "correct": 1,
+        "explanation": "Research shows bilingual people often have better memory and problem-solving skills."
+      },
+      {
+        "id": "read-015-q3",
+        "type": "inference",
+        "question": "What can be inferred about adult language learners?",
+        "options": [
+          "They cannot succeed.",
+          "They can succeed with consistent practice.",
+          "They learn faster than children.",
+          "They do not need practice."
+        ],
+        "correct": 1,
+        "explanation": "The passage states adults can achieve high proficiency with consistent practice."
+      },
+      {
+        "id": "read-015-q4",
+        "type": "vocabulary",
+        "question": "The word \"proficiency\" in the passage is closest in meaning to:",
+        "options": [
+          "failure",
+          "skill or ability",
+          "confusion",
+          "speed"
+        ],
+        "correct": 1,
+        "explanation": "Proficiency means a high degree of skill or ability."
+      }
+    ]
   }
 ]

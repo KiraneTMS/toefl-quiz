@@ -1321,5 +1321,815 @@
     "question": "What does the word \"contribution\" mean?",
     "correct": "Kontribusi",
     "explanation": "Contribution = kontribusi. Contoh: Thank you for your contribution."
+  },
+  {
+    "id": "voc-148",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"advantage\" mean?",
+    "correct": "Keuntungan / kelebihan",
+    "explanation": "Advantage = keuntungan. Contoh: One advantage of online learning is flexibility."
+  },
+  {
+    "id": "voc-149",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"advice\" mean?",
+    "correct": "Saran / nasihat",
+    "explanation": "Advice = saran. Contoh: She gave me good advice."
+  },
+  {
+    "id": "voc-150",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"aim\" mean?",
+    "correct": "Tujuan / sasaran",
+    "explanation": "Aim = tujuan. Contoh: My aim is to improve my score."
+  },
+  {
+    "id": "voc-151",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"allow\" mean?",
+    "correct": "Mengizinkan",
+    "explanation": "Allow = mengizinkan. Contoh: The rules allow extra time."
+  },
+  {
+    "id": "voc-152",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"appear\" mean?",
+    "correct": "Muncul / tampak",
+    "explanation": "Appear = muncul. Contoh: Problems may appear later."
+  },
+  {
+    "id": "voc-153",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"apply\" mean?",
+    "correct": "Menerapkan / melamar",
+    "explanation": "Apply = menerapkan / melamar. Contoh: Apply this method carefully."
+  },
+  {
+    "id": "voc-154",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"approach\" mean?",
+    "correct": "Pendekatan",
+    "explanation": "Approach = pendekatan. Contoh: We need a new approach."
+  },
+  {
+    "id": "voc-155",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"appropriate\" mean?",
+    "correct": "Sesuai / tepat",
+    "explanation": "Appropriate = sesuai. Contoh: Choose an appropriate answer."
+  },
+  {
+    "id": "voc-156",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"area\" mean?",
+    "correct": "Area / bidang",
+    "explanation": "Area = area. Contoh: This is my area of study."
+  },
+  {
+    "id": "voc-157",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"argue\" mean?",
+    "correct": "Berargumen / berpendapat",
+    "explanation": "Argue = berargumen. Contoh: They argue about the solution."
+  },
+  {
+    "id": "voc-158",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"arrange\" mean?",
+    "correct": "Mengatur / menyusun",
+    "explanation": "Arrange = mengatur. Contoh: Please arrange a meeting."
+  },
+  {
+    "id": "voc-159",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"article\" mean?",
+    "correct": "Artikel / kata sandang",
+    "explanation": "Article = artikel. Contoh: Read the article carefully."
+  },
+  {
+    "id": "voc-160",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"attempt\" mean?",
+    "correct": "Mencoba / upaya",
+    "explanation": "Attempt = mencoba. Contoh: He made an attempt to solve it."
+  },
+  {
+    "id": "voc-161",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"attend\" mean?",
+    "correct": "Menghadiri",
+    "explanation": "Attend = menghadiri. Contoh: Please attend the lecture."
+  },
+  {
+    "id": "voc-162",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"attract\" mean?",
+    "correct": "Menarik",
+    "explanation": "Attract = menarik. Contoh: The topic attracted many students."
+  },
+  {
+    "id": "voc-163",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"avoid\" mean?",
+    "correct": "Menghindari",
+    "explanation": "Avoid = menghindari. Contoh: Avoid common mistakes."
+  },
+  {
+    "id": "voc-164",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"aware\" mean?",
+    "correct": "Sadar",
+    "explanation": "Aware = sadar. Contoh: Be aware of the deadline."
+  },
+  {
+    "id": "voc-165",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"base\" mean?",
+    "correct": "Dasar / basis",
+    "explanation": "Base = dasar. Contoh: The theory is based on research."
+  },
+  {
+    "id": "voc-166",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"basic\" mean?",
+    "correct": "Dasar / fundamental",
+    "explanation": "Basic = dasar. Contoh: Learn the basic rules first."
+  },
+  {
+    "id": "voc-167",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"belief\" mean?",
+    "correct": "Keyakinan / kepercayaan",
+    "explanation": "Belief = keyakinan. Contoh: That is a common belief."
+  },
+  {
+    "id": "voc-168",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"belong\" mean?",
+    "correct": "Milik / termasuk",
+    "explanation": "Belong = milik. Contoh: This book belongs to the library."
+  },
+  {
+    "id": "voc-169",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"cause\" mean?",
+    "correct": "Menyebabkan / sebab",
+    "explanation": "Cause = menyebabkan. Contoh: What caused the problem?"
+  },
+  {
+    "id": "voc-170",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"certain\" mean?",
+    "correct": "Pasti / tertentu",
+    "explanation": "Certain = pasti. Contoh: I am certain about the answer."
+  },
+  {
+    "id": "voc-171",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"challenge\" mean?",
+    "correct": "Tantangan",
+    "explanation": "Challenge = tantangan. Contoh: This is a real challenge."
+  },
+  {
+    "id": "voc-172",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"chance\" mean?",
+    "correct": "Kesempatan",
+    "explanation": "Chance = kesempatan. Contoh: Take this chance to practice."
+  },
+  {
+    "id": "voc-173",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"change\" mean?",
+    "correct": "Perubahan / mengubah",
+    "explanation": "Change = perubahan. Contoh: Change is necessary."
+  },
+  {
+    "id": "voc-174",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"choice\" mean?",
+    "correct": "Pilihan",
+    "explanation": "Choice = pilihan. Contoh: Make the right choice."
+  },
+  {
+    "id": "voc-175",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"claim\" mean?",
+    "correct": "Klaim / mengklaim",
+    "explanation": "Claim = klaim. Contoh: They claim the method works."
+  },
+  {
+    "id": "voc-176",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"clear\" mean?",
+    "correct": "Jelas",
+    "explanation": "Clear = jelas. Contoh: The instructions are clear."
+  },
+  {
+    "id": "voc-177",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"common\" mean?",
+    "correct": "Umum / biasa",
+    "explanation": "Common = umum. Contoh: This is a common error."
+  },
+  {
+    "id": "voc-178",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"compare\" mean?",
+    "correct": "Membandingkan",
+    "explanation": "Compare = membandingkan. Contoh: Compare the two answers."
+  },
+  {
+    "id": "voc-179",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"complete\" mean?",
+    "correct": "Lengkap / menyelesaikan",
+    "explanation": "Complete = lengkap. Contoh: Complete the form."
+  },
+  {
+    "id": "voc-180",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"consider\" mean?",
+    "correct": "Mempertimbangkan",
+    "explanation": "Consider = mempertimbangkan. Contoh: Consider all options."
+  },
+  {
+    "id": "voc-181",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"contain\" mean?",
+    "correct": "Berisi / mengandung",
+    "explanation": "Contain = berisi. Contoh: The box contains books."
+  },
+  {
+    "id": "voc-182",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"continue\" mean?",
+    "correct": "Melanjutkan",
+    "explanation": "Continue = melanjutkan. Contoh: Please continue reading."
+  },
+  {
+    "id": "voc-183",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"control\" mean?",
+    "correct": "Mengontrol / kendali",
+    "explanation": "Control = mengontrol. Contoh: Try to control your time."
+  },
+  {
+    "id": "voc-184",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"correct\" mean?",
+    "correct": "Benar / memperbaiki",
+    "explanation": "Correct = benar. Contoh: Choose the correct answer."
+  },
+  {
+    "id": "voc-185",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"create\" mean?",
+    "correct": "Menciptakan",
+    "explanation": "Create = menciptakan. Contoh: Create a study plan."
+  },
+  {
+    "id": "voc-186",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"current\" mean?",
+    "correct": "Saat ini / arus",
+    "explanation": "Current = saat ini. Contoh: The current situation is difficult."
+  },
+  {
+    "id": "voc-187",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"decide\" mean?",
+    "correct": "Memutuskan",
+    "explanation": "Decide = memutuskan. Contoh: Decide which section to practice."
+  },
+  {
+    "id": "voc-188",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"develop\" mean?",
+    "correct": "Mengembangkan",
+    "explanation": "Develop = mengembangkan. Contoh: She wants to develop her skills."
+  },
+  {
+    "id": "voc-189",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"difference\" mean?",
+    "correct": "Perbedaan",
+    "explanation": "Difference = perbedaan. Contoh: There is a clear difference."
+  },
+  {
+    "id": "voc-190",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"difficult\" mean?",
+    "correct": "Sulit",
+    "explanation": "Difficult = sulit. Contoh: This question is difficult."
+  },
+  {
+    "id": "voc-191",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"direct\" mean?",
+    "correct": "Langsung / mengarahkan",
+    "explanation": "Direct = langsung. Contoh: Please give me a direct answer."
+  },
+  {
+    "id": "voc-192",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"discuss\" mean?",
+    "correct": "Mendiskusikan",
+    "explanation": "Discuss = mendiskusikan. Contoh: We need to discuss the plan."
+  },
+  {
+    "id": "voc-193",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"disease\" mean?",
+    "correct": "Penyakit",
+    "explanation": "Disease = penyakit. Contoh: The disease spreads quickly."
+  },
+  {
+    "id": "voc-194",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"effect\" mean?",
+    "correct": "Efek / akibat",
+    "explanation": "Effect = efek. Contoh: What is the effect of this change?"
+  },
+  {
+    "id": "voc-195",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"effort\" mean?",
+    "correct": "Usaha",
+    "explanation": "Effort = usaha. Contoh: Success requires effort."
+  },
+  {
+    "id": "voc-196",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"either\" mean?",
+    "correct": "Salah satu / juga",
+    "explanation": "Either = salah satu. Contoh: Either option is fine."
+  },
+  {
+    "id": "voc-197",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"else\" mean?",
+    "correct": "Lain / yang lain",
+    "explanation": "Else = yang lain. Contoh: Is there anything else?"
+  },
+  {
+    "id": "voc-198",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"encourage\" mean?",
+    "correct": "Mendorong / mendorong semangat",
+    "explanation": "Encourage = mendorong. Contoh: Teachers encourage students."
+  },
+  {
+    "id": "voc-199",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"energy\" mean?",
+    "correct": "Energi",
+    "explanation": "Energy = energi. Contoh: Solar energy is renewable."
+  },
+  {
+    "id": "voc-200",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"enjoy\" mean?",
+    "correct": "Menikmati",
+    "explanation": "Enjoy = menikmati. Contoh: I enjoy reading books."
+  },
+  {
+    "id": "voc-201",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"enough\" mean?",
+    "correct": "Cukup",
+    "explanation": "Enough = cukup. Contoh: Do you have enough time?"
+  },
+  {
+    "id": "voc-202",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"enter\" mean?",
+    "correct": "Masuk",
+    "explanation": "Enter = masuk. Contoh: Please enter the room quietly."
+  },
+  {
+    "id": "voc-203",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"entire\" mean?",
+    "correct": "Seluruh / seluruhnya",
+    "explanation": "Entire = seluruh. Contoh: The entire class passed."
+  },
+  {
+    "id": "voc-204",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"equal\" mean?",
+    "correct": "Sama / setara",
+    "explanation": "Equal = sama. Contoh: All people are equal."
+  },
+  {
+    "id": "voc-205",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"especially\" mean?",
+    "correct": "Terutama",
+    "explanation": "Especially = terutama. Contoh: I like fruit, especially mangoes."
+  },
+  {
+    "id": "voc-206",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"example\" mean?",
+    "correct": "Contoh",
+    "explanation": "Example = contoh. Contoh: Give me an example."
+  },
+  {
+    "id": "voc-207",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"except\" mean?",
+    "correct": "Kecuali",
+    "explanation": "Except = kecuali. Contoh: Everyone came except John."
+  },
+  {
+    "id": "voc-208",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"exercise\" mean?",
+    "correct": "Latihan / olahraga",
+    "explanation": "Exercise = latihan. Contoh: Exercise is good for health."
+  },
+  {
+    "id": "voc-209",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"exist\" mean?",
+    "correct": "Ada / eksis",
+    "explanation": "Exist = ada. Contoh: Problems still exist."
+  },
+  {
+    "id": "voc-210",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"expect\" mean?",
+    "correct": "Mengharapkan",
+    "explanation": "Expect = mengharapkan. Contoh: I expect good results."
+  },
+  {
+    "id": "voc-211",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"experience\" mean?",
+    "correct": "Pengalaman",
+    "explanation": "Experience = pengalaman. Contoh: She has a lot of experience."
+  },
+  {
+    "id": "voc-212",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"explain\" mean?",
+    "correct": "Menjelaskan",
+    "explanation": "Explain = menjelaskan. Contoh: Can you explain this?"
+  },
+  {
+    "id": "voc-213",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"express\" mean?",
+    "correct": "Mengekspresikan",
+    "explanation": "Express = mengekspresikan. Contoh: Express your opinion clearly."
+  },
+  {
+    "id": "voc-214",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"extend\" mean?",
+    "correct": "Memperpanjang / memperluas",
+    "explanation": "Extend = memperpanjang. Contoh: They extended the deadline."
+  },
+  {
+    "id": "voc-215",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"extra\" mean?",
+    "correct": "Ekstra / tambahan",
+    "explanation": "Extra = ekstra. Contoh: Do you need extra time?"
+  },
+  {
+    "id": "voc-216",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"face\" mean?",
+    "correct": "Menghadapi / wajah",
+    "explanation": "Face = menghadapi. Contoh: We must face the problem."
+  },
+  {
+    "id": "voc-217",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"fact\" mean?",
+    "correct": "Fakta",
+    "explanation": "Fact = fakta. Contoh: That is a well-known fact."
+  },
+  {
+    "id": "voc-218",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"fail\" mean?",
+    "correct": "Gagal",
+    "explanation": "Fail = gagal. Contoh: Don't fail the exam."
+  },
+  {
+    "id": "voc-219",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"fair\" mean?",
+    "correct": "Adil",
+    "explanation": "Fair = adil. Contoh: The decision was fair."
+  },
+  {
+    "id": "voc-220",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"fall\" mean?",
+    "correct": "Jatuh / musim gugur",
+    "explanation": "Fall = jatuh. Contoh: Leaves fall in autumn."
+  },
+  {
+    "id": "voc-221",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"family\" mean?",
+    "correct": "Keluarga",
+    "explanation": "Family = keluarga. Contoh: Family is important."
+  },
+  {
+    "id": "voc-222",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"famous\" mean?",
+    "correct": "Terkenal",
+    "explanation": "Famous = terkenal. Contoh: He is a famous writer."
+  },
+  {
+    "id": "voc-223",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"far\" mean?",
+    "correct": "Jauh",
+    "explanation": "Far = jauh. Contoh: How far is the station?"
+  },
+  {
+    "id": "voc-224",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"fast\" mean?",
+    "correct": "Cepat",
+    "explanation": "Fast = cepat. Contoh: She runs fast."
+  },
+  {
+    "id": "voc-225",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"fear\" mean?",
+    "correct": "Ketakutan / takut",
+    "explanation": "Fear = ketakutan. Contoh: Fear can stop progress."
+  },
+  {
+    "id": "voc-226",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"feel\" mean?",
+    "correct": "Merasa",
+    "explanation": "Feel = merasa. Contoh: How do you feel today?"
+  },
+  {
+    "id": "voc-227",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"field\" mean?",
+    "correct": "Bidang / lapangan",
+    "explanation": "Field = bidang. Contoh: She works in the field of education."
+  },
+  {
+    "id": "voc-228",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"fight\" mean?",
+    "correct": "Bertindak / berkelahi",
+    "explanation": "Fight = bertarung. Contoh: Fight for your rights."
+  },
+  {
+    "id": "voc-229",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"figure\" mean?",
+    "correct": "Angka / tokoh",
+    "explanation": "Figure = angka / tokoh. Contoh: The figure shows an increase."
+  },
+  {
+    "id": "voc-230",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"fill\" mean?",
+    "correct": "Mengisi",
+    "explanation": "Fill = mengisi. Contoh: Fill in the blank."
+  },
+  {
+    "id": "voc-231",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"final\" mean?",
+    "correct": "Akhir / final",
+    "explanation": "Final = akhir. Contoh: This is the final decision."
+  },
+  {
+    "id": "voc-232",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"find\" mean?",
+    "correct": "Menemukan",
+    "explanation": "Find = menemukan. Contoh: I can't find my keys."
+  },
+  {
+    "id": "voc-233",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"fine\" mean?",
+    "correct": "Baik / denda",
+    "explanation": "Fine = baik. Contoh: Everything is fine."
+  },
+  {
+    "id": "voc-234",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"finish\" mean?",
+    "correct": "Menyelesaikan",
+    "explanation": "Finish = menyelesaikan. Contoh: Finish your work."
+  },
+  {
+    "id": "voc-235",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"fire\" mean?",
+    "correct": "Api / memecat",
+    "explanation": "Fire = api. Contoh: Keep away from the fire."
+  },
+  {
+    "id": "voc-236",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"first\" mean?",
+    "correct": "Pertama",
+    "explanation": "First = pertama. Contoh: First, read the instructions."
+  },
+  {
+    "id": "voc-237",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "easy",
+    "question": "What does the word \"fit\" mean?",
+    "correct": "Cocok / sehat",
+    "explanation": "Fit = cocok. Contoh: This shirt does not fit."
   }
 ]
