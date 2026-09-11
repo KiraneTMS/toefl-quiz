@@ -87,7 +87,7 @@ function showView(name) {
   });
 
   if (name === 'progress') renderProgress();
-  if (name === 'kesalahans') renderMistakes();
+  if (name === 'mistakes') renderMistakes();
   if (name === 'dashboard') renderDashboard();
 }
 
@@ -486,9 +486,17 @@ document.getElementById('btn-next').addEventListener('click', () => {
 document.getElementById('btn-finish').addEventListener('click', () => {
   const quiz = state.currentQuiz;
   if (!quiz) return;
-  if (quiz.answers[quiz.index] === null) {
-    alert('Silakan pilih jawaban.');
-    return;
+  if (quiz.isReadingSet) {
+    // Allow finish; warn if some unanswered
+    const unanswered = quiz.answers.filter(a => a === null).length;
+    if (unanswered > 0) {
+      if (!confirm(`Masih ada ${unanswered} soal belum dijawab. Selesai sekarang?`)) return;
+    }
+  } else {
+    if (quiz.answers[quiz.index] === null) {
+      alert('Silakan pilih jawaban.');
+      return;
+    }
   }
   finishQuiz();
 });
@@ -519,7 +527,8 @@ function finishQuiz() {
     }
 
     // Update progress
-    const sec = q.section;
+    const sec = q.section || quiz.section || 'structure';
+    if (!state.progress.sections[sec]) state.progress.sections[sec] = { correct: 0, total: 0 };
     state.progress.sections[sec].total++;
     if (isCorrect) state.progress.sections[sec].correct++;
     state.progress.overall.total++;
@@ -573,9 +582,10 @@ function finishQuiz() {
     weakEl.innerHTML = '<h3>Kerja bagus!</h3><p style="color:var(--text-muted)">Tidak ada area lemah di sesi ini.</p>';
   }
 
-  document.getElementById('btn-review-kesalahans').onclick = () => {
-    showView('kesalahans');
-  };
+  const reviewBtn = document.getElementById('btn-review-mistakes');
+  if (reviewBtn) {
+    reviewBtn.onclick = () => showView('mistakes');
+  }
 
   showView('results');
   state.currentQuiz = null;
@@ -621,8 +631,8 @@ function renderProgress() {
 
 // ---------- Mistakes view ----------
 function renderMistakes() {
-  const list = document.getElementById('kesalahans-list');
-  const empty = document.getElementById('no-kesalahans');
+  const list = document.getElementById('mistakes-list');
+  const empty = document.getElementById('no-mistakes');
   const kesalahans = state.progress.kesalahans;
 
   if (!kesalahans.length) {
