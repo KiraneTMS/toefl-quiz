@@ -2,570 +2,217 @@
   {
     "id": "read-001",
     "section": "reading",
-    "title": "Urbanization and Bird Populations",
-    "difficulty": "medium",
-    "passage": "The rapid growth of cities has significantly altered natural habitats around the world. As urban areas expand, many bird species lose the forests and wetlands they depend on for nesting and feeding. Some adaptable species, such as pigeons and sparrows, thrive in city environments because they can find food in parks and among human refuse. However, specialist species that require specific habitats often decline sharply. Researchers have found that cities with more green spaces and fewer high-rise buildings tend to support greater bird diversity. Conservation efforts now focus on creating urban wildlife corridors and protecting remaining natural areas within metropolitan regions.",
+    "title": "Photosynthesis",
+    "difficulty": "easy",
+    "passage": "Photosynthesis is the process by which green plants make their own food. Using sunlight, water, and carbon dioxide, plants produce glucose and release oxygen. This process takes place mainly in the leaves. Chlorophyll, the green pigment in leaves, absorbs sunlight. Without photosynthesis, life on Earth would not be possible because plants form the base of most food chains and produce the oxygen that animals need to breathe.",
     "questions": [
       {
         "id": "read-001-q1",
         "type": "main-idea",
         "question": "What is the main idea of the passage?",
         "options": [
-          "Pigeons and sparrows are the only birds that can live in cities.",
-          "Urban expansion affects bird populations differently depending on the species.",
-          "All bird species are declining because of urbanization.",
-          "Green spaces in cities are useless for bird conservation."
+          "Animals produce oxygen.",
+          "Photosynthesis is how plants make food and oxygen.",
+          "Only water is needed for plant growth.",
+          "Chlorophyll is not important."
         ],
         "correct": 1,
-        "explanation": "The passage discusses how urbanization harms some species while allowing others to thrive, and mentions conservation efforts."
+        "explanation": "The passage explains photosynthesis as the process plants use to make food and oxygen."
       },
       {
         "id": "read-001-q2",
         "type": "detail",
-        "question": "According to the passage, which of the following helps support greater bird diversity in cities?",
+        "question": "Where does photosynthesis mainly take place?",
         "options": [
-          "Building more high-rise buildings",
-          "Reducing the number of parks",
-          "Having more green spaces",
-          "Eliminating all natural areas"
+          "In the roots",
+          "In the leaves",
+          "In the flowers",
+          "In the stem"
         ],
-        "correct": 2,
-        "explanation": "The passage explicitly states that cities with more green spaces support greater bird diversity."
+        "correct": 1,
+        "explanation": "The passage states it takes place mainly in the leaves."
       },
       {
         "id": "read-001-q3",
-        "type": "inference",
-        "question": "What can be inferred about specialist bird species?",
-        "options": [
-          "They adapt easily to city life.",
-          "They are less affected by urbanization than generalist species.",
-          "They are more vulnerable to habitat loss caused by urban growth.",
-          "They prefer living near human refuse."
-        ],
-        "correct": 2,
-        "explanation": "The passage says specialist species that require specific habitats often decline sharply when those habitats are lost."
-      },
-      {
-        "id": "read-001-q4",
         "type": "vocabulary",
-        "question": "The word \"adaptable\" in the passage is closest in meaning to:",
+        "question": "The word \"release\" in the passage is closest in meaning to:",
         "options": [
-          "fragile",
-          "flexible",
-          "aggressive",
-          "migratory"
+          "keep",
+          "let out",
+          "destroy",
+          "hide"
         ],
         "correct": 1,
-        "explanation": "\"Adaptable\" means able to adjust to new conditions, i.e., flexible."
+        "explanation": "Release means to let out or set free."
       }
     ]
   },
   {
     "id": "read-002",
     "section": "reading",
-    "title": "The Role of Sleep in Learning",
+    "title": "The Printing Press",
     "difficulty": "medium",
-    "passage": "Scientists have long known that sleep plays an important role in memory and learning. During sleep, the brain processes information acquired during the day and consolidates it into long-term memory. Studies show that students who get adequate sleep after studying perform better on tests than those who stay awake all night. Different stages of sleep appear to support different types of learning. Slow-wave sleep is particularly important for factual memory, while REM sleep helps with procedural skills and creative problem solving. Despite this knowledge, many students sacrifice sleep in order to study longer, a practice that may actually reduce their ability to retain information.",
+    "passage": "The invention of the printing press in the 15th century changed the world. Before its invention, books were copied by hand, which made them expensive and rare. Johannes Gutenberg developed a system using movable type that allowed books to be produced more quickly and cheaply. As a result, knowledge spread more widely across Europe. Literacy rates increased, and new ideas in science, religion, and politics reached more people. Historians often consider the printing press one of the most important inventions in human history.",
     "questions": [
       {
         "id": "read-002-q1",
         "type": "main-idea",
-        "question": "What is the primary purpose of the passage?",
+        "question": "What is the main idea of the passage?",
         "options": [
-          "To argue that students should never study at night",
-          "To explain how sleep contributes to memory and learning",
-          "To describe the different stages of sleep in detail",
-          "To criticize modern education systems"
+          "Books were always cheap.",
+          "The printing press greatly increased the spread of knowledge.",
+          "Gutenberg only printed religious books.",
+          "Literacy decreased after the printing press."
         ],
         "correct": 1,
-        "explanation": "The passage focuses on the connection between sleep and learning/memory consolidation."
+        "explanation": "The passage focuses on how the printing press spread knowledge."
       },
       {
         "id": "read-002-q2",
         "type": "detail",
-        "question": "According to the passage, which type of sleep is especially important for factual memory?",
+        "question": "How were books produced before the printing press?",
         "options": [
-          "REM sleep",
-          "Slow-wave sleep",
-          "Light sleep",
-          "Dream sleep"
+          "By machines",
+          "By hand",
+          "By computers",
+          "By voice"
         ],
         "correct": 1,
-        "explanation": "The passage states that slow-wave sleep is particularly important for factual memory."
+        "explanation": "Books were copied by hand."
       },
       {
         "id": "read-002-q3",
         "type": "inference",
-        "question": "What does the author imply about students who stay awake all night to study?",
+        "question": "What can be inferred about books after the printing press was invented?",
         "options": [
-          "They will remember more information.",
-          "They may actually learn less effectively.",
-          "They perform better on creative tasks.",
-          "They have better procedural skills."
+          "They became more expensive.",
+          "They became more available to ordinary people.",
+          "They were only for kings.",
+          "They stopped being written."
         ],
         "correct": 1,
-        "explanation": "The last sentence indicates that sacrificing sleep may reduce the ability to retain information."
+        "explanation": "Cheaper and faster production meant wider availability."
+      },
+      {
+        "id": "read-002-q4",
+        "type": "vocabulary",
+        "question": "The word \"rare\" in the passage is closest in meaning to:",
+        "options": [
+          "common",
+          "uncommon or hard to find",
+          "cheap",
+          "large"
+        ],
+        "correct": 1,
+        "explanation": "Rare means uncommon or not found often."
       }
     ]
   },
   {
     "id": "read-003",
     "section": "reading",
-    "title": "The Benefits of Bilingualism",
+    "title": "Sleep and Memory",
     "difficulty": "medium",
-    "passage": "Research over the past two decades has revealed numerous cognitive advantages associated with bilingualism. Bilingual individuals often demonstrate greater mental flexibility, better problem-solving skills, and improved attention control compared with monolinguals. These benefits appear to stem from the constant need to manage two language systems, which exercises the brain's executive functions. Studies also suggest that bilingualism may delay the onset of age-related cognitive decline, including symptoms of dementia. However, researchers caution that the degree of benefit can depend on factors such as the age of language acquisition, the frequency of use of both languages, and overall proficiency levels. Despite these positive findings, some educational systems still treat bilingualism as a potential disadvantage rather than an asset.",
+    "passage": "Sleep plays an essential role in memory and learning. During sleep, the brain processes information from the day and strengthens important memories. Studies show that students who sleep well before an exam often perform better than those who stay awake all night. Sleep also helps the brain clear waste products that build up during waking hours. Experts recommend seven to nine hours of sleep per night for most adults. Poor sleep can affect concentration, mood, and long-term health.",
     "questions": [
       {
         "id": "read-003-q1",
         "type": "main-idea",
         "question": "What is the main idea of the passage?",
         "options": [
-          "Bilingualism always causes confusion in children.",
-          "Bilingualism is associated with several cognitive advantages.",
-          "Monolinguals perform better on problem-solving tasks.",
-          "Learning a second language is only useful for travel."
+          "Sleep is unimportant for students.",
+          "Sleep supports memory, learning, and health.",
+          "Adults need only three hours of sleep.",
+          "Staying awake improves exam scores."
         ],
         "correct": 1,
-        "explanation": "The passage focuses on the cognitive benefits of bilingualism."
+        "explanation": "The passage explains the benefits of sleep for memory and health."
       },
       {
         "id": "read-003-q2",
         "type": "detail",
-        "question": "According to the passage, bilingualism may help delay:",
+        "question": "How many hours of sleep do experts recommend for most adults?",
         "options": [
-          "language acquisition",
-          "age-related cognitive decline",
-          "attention control",
-          "educational opportunities"
+          "Three to four",
+          "Five to six",
+          "Seven to nine",
+          "Ten to twelve"
         ],
-        "correct": 1,
-        "explanation": "The passage states that bilingualism may delay the onset of age-related cognitive decline."
+        "correct": 2,
+        "explanation": "Experts recommend seven to nine hours."
       },
       {
         "id": "read-003-q3",
-        "type": "inference",
-        "question": "What can be inferred about some educational systems?",
-        "options": [
-          "They fully support bilingual education.",
-          "They may not fully recognize the advantages of bilingualism.",
-          "They require all students to learn two languages.",
-          "They focus only on cognitive development."
-        ],
-        "correct": 1,
-        "explanation": "The final sentence indicates that some systems still treat bilingualism as a potential disadvantage."
-      },
-      {
-        "id": "read-003-q4",
         "type": "vocabulary",
-        "question": "The word \"onset\" in the passage is closest in meaning to:",
+        "question": "The word \"strengthens\" in the passage is closest in meaning to:",
         "options": [
-          "end",
-          "beginning",
-          "prevention",
-          "treatment"
+          "weakens",
+          "makes stronger",
+          "destroys",
+          "hides"
         ],
         "correct": 1,
-        "explanation": "\"Onset\" means the beginning or start of something, especially something unpleasant."
+        "explanation": "Strengthens means makes stronger."
       }
     ]
   },
   {
     "id": "read-004",
     "section": "reading",
-    "title": "Climate Change and Coral Reefs",
-    "difficulty": "hard",
-    "passage": "Coral reefs are among the most diverse and productive ecosystems on Earth, yet they face unprecedented threats from climate change. Rising ocean temperatures cause coral bleaching, a phenomenon in which corals expel the symbiotic algae that provide them with nutrients and color. If temperatures remain elevated for prolonged periods, the corals may die. Ocean acidification, another consequence of increased atmospheric carbon dioxide, reduces the availability of carbonate ions that corals need to build their skeletons. Scientists warn that without significant reductions in greenhouse gas emissions, many reefs could disappear by the middle of this century. Some researchers are exploring interventions such as selective breeding of heat-resistant corals and the creation of marine protected areas, but these measures alone cannot replace the need for global climate action.",
+    "title": "Renewable Energy",
+    "difficulty": "medium",
+    "passage": "Renewable energy comes from sources that are naturally replenished, such as sunlight, wind, and water. Unlike fossil fuels, renewable energy produces little or no greenhouse gas emissions during operation. Many countries are investing in solar panels and wind turbines to reduce dependence on coal and oil. Although the initial cost of renewable systems can be high, prices have fallen significantly in recent years. Challenges remain, including energy storage and the need for infrastructure upgrades. Still, renewable energy is widely seen as a key solution to climate change.",
     "questions": [
       {
         "id": "read-004-q1",
         "type": "main-idea",
-        "question": "What is the primary concern discussed in the passage?",
+        "question": "What is the main idea of the passage?",
         "options": [
-          "The beauty of coral reefs",
-          "Threats to coral reefs from climate change",
-          "How to breed heat-resistant corals",
-          "The history of marine protected areas"
+          "Fossil fuels are the only option.",
+          "Renewable energy offers environmental benefits despite some challenges.",
+          "Solar panels never work.",
+          "Climate change cannot be addressed."
         ],
         "correct": 1,
-        "explanation": "The passage focuses on climate-related threats to coral reefs and possible responses."
+        "explanation": "The passage presents benefits and challenges of renewable energy."
       },
       {
         "id": "read-004-q2",
         "type": "detail",
-        "question": "What causes coral bleaching according to the passage?",
+        "question": "What is one challenge of renewable energy mentioned?",
         "options": [
-          "Ocean acidification",
-          "Rising ocean temperatures",
-          "Overfishing",
-          "Marine protected areas"
+          "It produces more emissions",
+          "Energy storage",
+          "It is always free",
+          "It only works at night"
         ],
         "correct": 1,
-        "explanation": "The passage states that rising ocean temperatures cause coral bleaching."
+        "explanation": "Energy storage is listed as a challenge."
       },
       {
         "id": "read-004-q3",
-        "type": "inference",
-        "question": "What does the author suggest about local interventions such as selective breeding?",
-        "options": [
-          "They are sufficient to save all reefs.",
-          "They are unnecessary.",
-          "They cannot replace the need for global climate action.",
-          "They will solve ocean acidification."
-        ],
-        "correct": 2,
-        "explanation": "The last sentence indicates that these measures alone cannot replace global climate action."
-      },
-      {
-        "id": "read-004-q4",
         "type": "vocabulary",
-        "question": "The word \"unprecedented\" in the passage is closest in meaning to:",
+        "question": "The word \"replenished\" in the passage is closest in meaning to:",
         "options": [
-          "common",
-          "never experienced before",
-          "gradual",
-          "beneficial"
+          "destroyed",
+          "refilled or restored",
+          "ignored",
+          "sold"
         ],
         "correct": 1,
-        "explanation": "\"Unprecedented\" means never done or known before."
+        "explanation": "Replenished means refilled or restored."
       }
     ]
   },
   {
     "id": "read-005",
     "section": "reading",
-    "title": "The History of the Printing Press",
-    "difficulty": "easy",
-    "passage": "The invention of the printing press in the mid-15th century by Johannes Gutenberg revolutionized the spread of knowledge in Europe. Before the printing press, books were copied by hand, a slow and expensive process that limited access to written materials largely to the wealthy and the clergy. Gutenberg's movable-type system allowed for the rapid production of multiple copies of the same text. As a result, books became more affordable and literacy rates gradually increased. The printing press also facilitated the spread of new ideas during the Renaissance and the Reformation. Within a few decades, printing presses had been established in major cities across Europe, transforming communication and education forever.",
-    "questions": [
-      {
-        "id": "read-005-q1",
-        "type": "main-idea",
-        "question": "What is the main idea of the passage?",
-        "options": [
-          "Hand-copied books were always better than printed ones.",
-          "The printing press greatly increased access to knowledge.",
-          "Gutenberg was the only inventor of the printing press.",
-          "Literacy rates declined after the printing press was invented."
-        ],
-        "correct": 1,
-        "explanation": "The passage explains how the printing press made books more available and transformed knowledge sharing."
-      },
-      {
-        "id": "read-005-q2",
-        "type": "detail",
-        "question": "According to the passage, who limited access to books before the printing press?",
-        "options": [
-          "Only scientists",
-          "The wealthy and the clergy",
-          "All citizens equally",
-          "University students"
-        ],
-        "correct": 1,
-        "explanation": "The passage states that access was limited largely to the wealthy and the clergy."
-      },
-      {
-        "id": "read-005-q3",
-        "type": "vocabulary",
-        "question": "The word \"facilitated\" in the passage is closest in meaning to:",
-        "options": [
-          "prevented",
-          "made easier",
-          "complicated",
-          "ignored"
-        ],
-        "correct": 1,
-        "explanation": "\"Facilitated\" means made an action or process easier."
-      }
-    ]
-  },
-  {
-    "id": "read-006",
-    "section": "reading",
-    "title": "The Importance of Bees",
-    "difficulty": "medium",
-    "passage": "Bees play a critical role in global food production through the process of pollination. Approximately one-third of the food we eat depends on pollination by bees and other insects. In recent years, however, bee populations have declined dramatically in many parts of the world. Scientists attribute this decline to a combination of factors, including pesticide use, habitat loss, climate change, and the spread of parasites and diseases. The loss of bees could have serious consequences for agriculture and biodiversity. Efforts to protect bee populations include reducing pesticide use, planting wildflower habitats, and supporting research into bee health. Public awareness campaigns have also encouraged individuals to create bee-friendly gardens in urban and suburban areas.",
-    "questions": [
-      {
-        "id": "read-006-q1",
-        "type": "main-idea",
-        "question": "What is the main idea of the passage?",
-        "options": [
-          "Bees are dangerous insects that should be controlled.",
-          "Bee populations are declining and this threatens food production.",
-          "Pesticides are the only cause of bee decline.",
-          "Urban gardens cannot help bees."
-        ],
-        "correct": 1,
-        "explanation": "The passage discusses the importance of bees, the decline in their populations, and efforts to protect them."
-      },
-      {
-        "id": "read-006-q2",
-        "type": "detail",
-        "question": "According to the passage, about how much of our food depends on pollination?",
-        "options": [
-          "One-tenth",
-          "One-quarter",
-          "One-third",
-          "One-half"
-        ],
-        "correct": 2,
-        "explanation": "The passage states that approximately one-third of the food we eat depends on pollination."
-      },
-      {
-        "id": "read-006-q3",
-        "type": "inference",
-        "question": "What can be inferred about public awareness campaigns?",
-        "options": [
-          "They have completely solved the bee decline problem.",
-          "They encourage individual action to help bees.",
-          "They focus only on farmers.",
-          "They are not effective."
-        ],
-        "correct": 1,
-        "explanation": "The passage mentions that campaigns have encouraged people to create bee-friendly gardens."
-      },
-      {
-        "id": "read-006-q4",
-        "type": "vocabulary",
-        "question": "The word \"dramatically\" in the passage is closest in meaning to:",
-        "options": [
-          "slightly",
-          "suddenly and greatly",
-          "slowly",
-          "predictably"
-        ],
-        "correct": 1,
-        "explanation": "\"Dramatically\" here means to a very large and striking degree."
-      }
-    ]
-  },
-  {
-    "id": "read-007",
-    "section": "reading",
-    "title": "The Value of Failure",
-    "difficulty": "easy",
-    "passage": "Many people view failure as something to avoid at all costs. However, research in psychology suggests that failure can be a powerful teacher. When people fail, they often analyze what went wrong and adjust their strategies. This process of reflection can lead to greater improvement than continuous success. Successful inventors, athletes, and business leaders frequently report that their most important lessons came from failures. Educators now encourage a \"growth mindset,\" in which students see mistakes as opportunities to learn rather than as signs of inability. By changing how we think about failure, we can turn setbacks into steps toward future success.",
-    "questions": [
-      {
-        "id": "read-007-q1",
-        "type": "main-idea",
-        "question": "What is the main idea of the passage?",
-        "options": [
-          "Failure should always be avoided.",
-          "Failure can be a valuable learning experience.",
-          "Only successful people experience failure.",
-          "Educators should punish mistakes."
-        ],
-        "correct": 1,
-        "explanation": "The passage argues that failure can teach important lessons and lead to improvement."
-      },
-      {
-        "id": "read-007-q2",
-        "type": "detail",
-        "question": "According to the passage, what do many successful people say about failure?",
-        "options": [
-          "It was unimportant.",
-          "Their most important lessons came from it.",
-          "It should be hidden.",
-          "It only happened once."
-        ],
-        "correct": 1,
-        "explanation": "The passage states that successful people often report that their most important lessons came from failures."
-      },
-      {
-        "id": "read-007-q3",
-        "type": "vocabulary",
-        "question": "The word \"setbacks\" in the passage is closest in meaning to:",
-        "options": [
-          "victories",
-          "problems that delay progress",
-          "rewards",
-          "plans"
-        ],
-        "correct": 1,
-        "explanation": "A setback is a problem or difficulty that delays progress."
-      }
-    ]
-  },
-  {
-    "id": "read-008",
-    "section": "reading",
-    "title": "Plastic Pollution in the Oceans",
-    "difficulty": "medium",
-    "passage": "Plastic pollution has become one of the most serious environmental problems of the twenty-first century. Millions of tons of plastic waste enter the oceans every year. Much of this plastic comes from single-use items such as bottles, bags, and packaging. Once in the ocean, plastic breaks down into smaller pieces called microplastics, which are ingested by marine animals. These particles can enter the food chain and eventually reach humans. Scientists have found microplastics in fish, shellfish, and even drinking water. Solutions include reducing plastic production, improving waste management, and developing biodegradable alternatives. Individual actions, such as using reusable bags and bottles, can also make a difference when adopted by large numbers of people.",
-    "questions": [
-      {
-        "id": "read-008-q1",
-        "type": "main-idea",
-        "question": "What is the primary focus of the passage?",
-        "options": [
-          "How to recycle plastic at home",
-          "The problem of plastic pollution in the oceans and possible solutions",
-          "The history of plastic production",
-          "Why plastic is useful"
-        ],
-        "correct": 1,
-        "explanation": "The passage discusses the scale of ocean plastic pollution, its effects, and solutions."
-      },
-      {
-        "id": "read-008-q2",
-        "type": "detail",
-        "question": "According to the passage, what are microplastics?",
-        "options": [
-          "Large plastic bottles",
-          "Small pieces of broken-down plastic",
-          "Biodegradable materials",
-          "Reusable bags"
-        ],
-        "correct": 1,
-        "explanation": "The passage defines microplastics as smaller pieces that plastic breaks down into."
-      },
-      {
-        "id": "read-008-q3",
-        "type": "inference",
-        "question": "What can be inferred about individual actions?",
-        "options": [
-          "They are completely useless.",
-          "They can help if many people participate.",
-          "They are more important than government policy.",
-          "They only work in small towns."
-        ],
-        "correct": 1,
-        "explanation": "The last sentence states that individual actions can make a difference when adopted by large numbers of people."
-      },
-      {
-        "id": "read-008-q4",
-        "type": "vocabulary",
-        "question": "The word \"ingested\" in the passage is closest in meaning to:",
-        "options": [
-          "avoided",
-          "swallowed or eaten",
-          "produced",
-          "cleaned"
-        ],
-        "correct": 1,
-        "explanation": "\"Ingested\" means taken into the body by swallowing or eating."
-      }
-    ]
-  },
-  {
-    "id": "read-009",
-    "section": "reading",
-    "title": "The Benefits of Exercise for the Brain",
-    "difficulty": "medium",
-    "passage": "Regular physical exercise is not only good for the body but also highly beneficial for the brain. Studies show that exercise increases blood flow to the brain and stimulates the growth of new brain cells. It can improve memory, attention, and problem-solving skills. Exercise also helps reduce stress and anxiety by releasing chemicals that improve mood. Even moderate activities such as walking or cycling for thirty minutes several times a week can produce noticeable cognitive benefits. Researchers recommend combining aerobic exercise with activities that challenge the mind, such as learning a new skill. For students, incorporating short exercise breaks into study sessions may improve both concentration and long-term retention of information.",
-    "questions": [
-      {
-        "id": "read-009-q1",
-        "type": "main-idea",
-        "question": "What is the main idea of the passage?",
-        "options": [
-          "Exercise is only useful for physical health.",
-          "Physical exercise provides important benefits for the brain.",
-          "Students should never take breaks.",
-          "Only intense exercise is effective."
-        ],
-        "correct": 1,
-        "explanation": "The passage focuses on the cognitive and mental benefits of exercise."
-      },
-      {
-        "id": "read-009-q2",
-        "type": "detail",
-        "question": "According to the passage, how does exercise help reduce stress?",
-        "options": [
-          "By decreasing blood flow",
-          "By releasing chemicals that improve mood",
-          "By making people tired",
-          "By preventing all anxiety"
-        ],
-        "correct": 1,
-        "explanation": "The passage states that exercise releases chemicals that improve mood."
-      },
-      {
-        "id": "read-009-q3",
-        "type": "inference",
-        "question": "What does the author suggest about study sessions?",
-        "options": [
-          "They should never include breaks.",
-          "Short exercise breaks may improve concentration and retention.",
-          "Only aerobic exercise should be avoided.",
-          "Learning new skills is unnecessary."
-        ],
-        "correct": 1,
-        "explanation": "The final sentence recommends incorporating short exercise breaks into study sessions."
-      }
-    ]
-  },
-  {
-    "id": "read-010",
-    "section": "reading",
-    "title": "The Rise of Remote Work",
-    "difficulty": "medium",
-    "passage": "The COVID-19 pandemic accelerated a major shift toward remote work in many industries. Companies that had previously required employees to work in offices discovered that many tasks could be performed effectively from home. Advantages of remote work include greater flexibility, reduced commuting time, and potential cost savings for both employers and employees. However, challenges also exist. Some workers report feelings of isolation, difficulty separating work from personal life, and reduced opportunities for spontaneous collaboration. Employers have responded by adopting hybrid models that combine remote and in-office work. Experts predict that flexible work arrangements will remain common even after the pandemic, permanently changing traditional ideas about the workplace.",
-    "questions": [
-      {
-        "id": "read-010-q1",
-        "type": "main-idea",
-        "question": "What is the main idea of the passage?",
-        "options": [
-          "Remote work has only disadvantages.",
-          "The pandemic accelerated the adoption of remote work, which has both benefits and challenges.",
-          "All companies now require full-time office work.",
-          "Commuting is the best part of traditional work."
-        ],
-        "correct": 1,
-        "explanation": "The passage discusses the rise of remote work, its advantages, challenges, and lasting effects."
-      },
-      {
-        "id": "read-010-q2",
-        "type": "detail",
-        "question": "According to the passage, which of the following is an advantage of remote work?",
-        "options": [
-          "Increased isolation",
-          "Reduced commuting time",
-          "Less flexibility",
-          "More spontaneous collaboration"
-        ],
-        "correct": 1,
-        "explanation": "The passage lists reduced commuting time as one of the advantages."
-      },
-      {
-        "id": "read-010-q3",
-        "type": "inference",
-        "question": "What can be inferred about the future of work?",
-        "options": [
-          "Remote work will completely disappear.",
-          "Flexible arrangements are likely to continue.",
-          "Everyone will return to full-time office work.",
-          "Collaboration will no longer be important."
-        ],
-        "correct": 1,
-        "explanation": "The last sentence predicts that flexible work arrangements will remain common."
-      },
-      {
-        "id": "read-010-q4",
-        "type": "vocabulary",
-        "question": "The word \"accelerated\" in the passage is closest in meaning to:",
-        "options": [
-          "slowed down",
-          "sped up",
-          "stopped",
-          "ignored"
-        ],
-        "correct": 1,
-        "explanation": "\"Accelerated\" means caused to happen more quickly."
-      }
-    ]
-  },
-  {
-    "id": "read-011",
-    "section": "reading",
     "title": "The Importance of Reading",
     "difficulty": "easy",
     "passage": "Reading is one of the most valuable skills a person can develop. It improves vocabulary, strengthens concentration, and expands knowledge about the world. People who read regularly tend to have better writing skills and stronger critical thinking abilities. Reading also reduces stress and can improve mental health. Experts recommend reading for at least twenty minutes every day. Whether it is books, newspapers, or online articles, any form of reading can bring benefits. For students preparing for exams like the TOEFL, regular reading practice is especially important because it builds the language skills needed for success.",
     "questions": [
       {
-        "id": "read-011-q1",
+        "id": "read-005-q1",
         "type": "main-idea",
         "question": "What is the main idea of the passage?",
         "options": [
@@ -578,7 +225,7 @@
         "explanation": "The passage focuses on the many benefits of reading."
       },
       {
-        "id": "read-011-q2",
+        "id": "read-005-q2",
         "type": "detail",
         "question": "According to the passage, how long should people read each day?",
         "options": [
@@ -588,10 +235,10 @@
           "One hour"
         ],
         "correct": 2,
-        "explanation": "Experts recommend reading for at least twenty minutes every day."
+        "explanation": "Experts recommend at least twenty minutes every day."
       },
       {
-        "id": "read-011-q3",
+        "id": "read-005-q3",
         "type": "vocabulary",
         "question": "The word \"expands\" in the passage is closest in meaning to:",
         "options": [
@@ -601,19 +248,19 @@
           "destroys"
         ],
         "correct": 1,
-        "explanation": "\"Expands\" means increases or makes larger."
+        "explanation": "Expands means increases or makes larger."
       }
     ]
   },
   {
-    "id": "read-012",
+    "id": "read-006",
     "section": "reading",
     "title": "Online Learning",
     "difficulty": "medium",
     "passage": "Online learning has become increasingly popular in recent years. Students can attend classes from anywhere with an internet connection, which provides great flexibility. Many working adults appreciate the ability to study while keeping their jobs. However, online learning also has challenges. Some students struggle with motivation and time management when there is no physical classroom. Technical problems can interrupt lessons. Despite these difficulties, research shows that online courses can be just as effective as traditional classes when students are motivated and the materials are well designed. Universities around the world continue to expand their online programs.",
     "questions": [
       {
-        "id": "read-012-q1",
+        "id": "read-006-q1",
         "type": "main-idea",
         "question": "What is the main idea of the passage?",
         "options": [
@@ -623,10 +270,10 @@
           "Technical problems make online learning impossible."
         ],
         "correct": 1,
-        "explanation": "The passage discusses both the benefits and challenges of online learning."
+        "explanation": "The passage discusses both benefits and challenges."
       },
       {
-        "id": "read-012-q2",
+        "id": "read-006-q2",
         "type": "detail",
         "question": "According to the passage, what do some students struggle with in online learning?",
         "options": [
@@ -636,10 +283,10 @@
           "Talking to teachers"
         ],
         "correct": 1,
-        "explanation": "The passage states that some students struggle with motivation and time management."
+        "explanation": "Some students struggle with motivation and time management."
       },
       {
-        "id": "read-012-q3",
+        "id": "read-006-q3",
         "type": "inference",
         "question": "What can be inferred about online courses?",
         "options": [
@@ -649,10 +296,10 @@
           "Universities will stop offering them."
         ],
         "correct": 1,
-        "explanation": "Research shows online courses can be effective under the right conditions."
+        "explanation": "Research shows they can be effective under the right conditions."
       },
       {
-        "id": "read-012-q4",
+        "id": "read-006-q4",
         "type": "vocabulary",
         "question": "The word \"flexibility\" in the passage is closest in meaning to:",
         "options": [
@@ -662,19 +309,19 @@
           "cost"
         ],
         "correct": 1,
-        "explanation": "\"Flexibility\" means the ability to change or adapt easily."
+        "explanation": "Flexibility means the ability to change or adapt easily."
       }
     ]
   },
   {
-    "id": "read-013",
+    "id": "read-007",
     "section": "reading",
     "title": "The Role of Teachers",
     "difficulty": "easy",
     "passage": "Teachers play a central role in education. They do more than just present information; they also inspire students, guide them through difficulties, and help them develop critical thinking skills. A good teacher can make a subject interesting even if students initially find it boring. Research shows that the quality of teaching has a strong effect on student achievement. In addition to subject knowledge, effective teachers need strong communication skills and patience. Many countries are working to improve teacher training programs because they recognize how important teachers are to the future of society.",
     "questions": [
       {
-        "id": "read-013-q1",
+        "id": "read-007-q1",
         "type": "main-idea",
         "question": "What is the main idea of the passage?",
         "options": [
@@ -687,7 +334,7 @@
         "explanation": "The passage emphasizes the important role of teachers."
       },
       {
-        "id": "read-013-q2",
+        "id": "read-007-q2",
         "type": "detail",
         "question": "According to the passage, what do effective teachers need besides subject knowledge?",
         "options": [
@@ -700,7 +347,7 @@
         "explanation": "Effective teachers need strong communication skills and patience."
       },
       {
-        "id": "read-013-q3",
+        "id": "read-007-q3",
         "type": "vocabulary",
         "question": "The word \"inspire\" in the passage is closest in meaning to:",
         "options": [
@@ -710,19 +357,19 @@
           "punish"
         ],
         "correct": 1,
-        "explanation": "\"Inspire\" means to motivate or fill someone with the urge to do something."
+        "explanation": "Inspire means to motivate or encourage."
       }
     ]
   },
   {
-    "id": "read-014",
+    "id": "read-008",
     "section": "reading",
     "title": "Time Management for Students",
     "difficulty": "easy",
     "passage": "Many students struggle with time management. Between classes, homework, and other activities, it can be hard to finish everything on time. Experts suggest making a weekly schedule and setting clear priorities. Breaking large tasks into smaller steps also helps reduce stress. Avoiding distractions such as social media during study time can significantly improve focus. Students who manage their time well usually perform better academically and feel less anxious. Developing good time management habits early is one of the most useful skills for both school and future work.",
     "questions": [
       {
-        "id": "read-014-q1",
+        "id": "read-008-q1",
         "type": "main-idea",
         "question": "What is the main idea of the passage?",
         "options": [
@@ -735,7 +382,7 @@
         "explanation": "The passage focuses on the importance of time management and practical tips."
       },
       {
-        "id": "read-014-q2",
+        "id": "read-008-q2",
         "type": "detail",
         "question": "According to the passage, what can help reduce stress?",
         "options": [
@@ -748,7 +395,7 @@
         "explanation": "Breaking large tasks into smaller steps helps reduce stress."
       },
       {
-        "id": "read-014-q3",
+        "id": "read-008-q3",
         "type": "vocabulary",
         "question": "The word \"distractions\" in the passage is closest in meaning to:",
         "options": [
@@ -758,19 +405,19 @@
           "schedules"
         ],
         "correct": 1,
-        "explanation": "Distractions are things that take your attention away from what you should be doing."
+        "explanation": "Distractions are things that take attention away."
       }
     ]
   },
   {
-    "id": "read-015",
+    "id": "read-009",
     "section": "reading",
     "title": "The Benefits of Learning a Second Language",
     "difficulty": "medium",
     "passage": "Learning a second language offers many advantages beyond communication. Research shows that bilingual people often have better memory and problem-solving skills. Learning another language can also improve understanding of one's own language. In a globalized world, knowing more than one language increases job opportunities and cultural awareness. Although learning a language takes time and effort, the long-term benefits make it worthwhile. Many experts recommend starting as early as possible, but adults can also achieve high levels of proficiency with consistent practice.",
     "questions": [
       {
-        "id": "read-015-q1",
+        "id": "read-009-q1",
         "type": "main-idea",
         "question": "What is the main idea of the passage?",
         "options": [
@@ -783,7 +430,7 @@
         "explanation": "The passage discusses various benefits of learning a second language."
       },
       {
-        "id": "read-015-q2",
+        "id": "read-009-q2",
         "type": "detail",
         "question": "According to the passage, what do bilingual people often have?",
         "options": [
@@ -796,7 +443,7 @@
         "explanation": "Research shows bilingual people often have better memory and problem-solving skills."
       },
       {
-        "id": "read-015-q3",
+        "id": "read-009-q3",
         "type": "inference",
         "question": "What can be inferred about adult language learners?",
         "options": [
@@ -806,10 +453,10 @@
           "They do not need practice."
         ],
         "correct": 1,
-        "explanation": "The passage states adults can achieve high proficiency with consistent practice."
+        "explanation": "Adults can achieve high proficiency with consistent practice."
       },
       {
-        "id": "read-015-q4",
+        "id": "read-009-q4",
         "type": "vocabulary",
         "question": "The word \"proficiency\" in the passage is closest in meaning to:",
         "options": [
@@ -820,6 +467,472 @@
         ],
         "correct": 1,
         "explanation": "Proficiency means a high degree of skill or ability."
+      }
+    ]
+  },
+  {
+    "id": "read-010",
+    "section": "reading",
+    "title": "Cognitive Load and Learning",
+    "difficulty": "medium",
+    "passage": "Cognitive load theory suggests that working memory has limited capacity, and instructional design should therefore avoid overloading learners. Intrinsic cognitive load is determined by the inherent difficulty of the material and the learner's prior knowledge. Extraneous load results from poorly designed materials that force learners to process unnecessary information. Germane load refers to the mental effort devoted to schema construction and automation. Effective teaching minimizes extraneous load while managing intrinsic load and promoting germane processing. Strategies such as worked examples, segmented instruction, and dual-channel presentation of information have been shown to improve learning outcomes, particularly for complex academic content of the kind tested on standardized examinations.",
+    "questions": [
+      {
+        "id": "read-010-q1",
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Working memory has unlimited capacity.",
+          "Instructional design should manage cognitive load to improve learning.",
+          "Only prior knowledge matters in learning.",
+          "Standardized exams should be eliminated."
+        ],
+        "correct": 1,
+        "explanation": "The passage centers on managing cognitive load through good instructional design."
+      },
+      {
+        "id": "read-010-q2",
+        "type": "detail",
+        "question": "According to the passage, what causes extraneous cognitive load?",
+        "options": [
+          "Inherent difficulty of the material",
+          "Poorly designed materials",
+          "Schema construction",
+          "Prior knowledge"
+        ],
+        "correct": 1,
+        "explanation": "Extraneous load results from poorly designed materials."
+      },
+      {
+        "id": "read-010-q3",
+        "type": "inference",
+        "question": "What can be inferred about worked examples?",
+        "options": [
+          "They increase extraneous load.",
+          "They can help manage cognitive load and improve learning.",
+          "They are only useful for simple content.",
+          "They replace the need for prior knowledge."
+        ],
+        "correct": 1,
+        "explanation": "Worked examples are listed as strategies that improve learning outcomes."
+      },
+      {
+        "id": "read-010-q4",
+        "type": "vocabulary",
+        "question": "The word \"inherent\" in the passage is closest in meaning to:",
+        "options": [
+          "external",
+          "existing as a natural part of something",
+          "temporary",
+          "artificial"
+        ],
+        "correct": 1,
+        "explanation": "Inherent means existing as a permanent or essential characteristic."
+      },
+      {
+        "id": "read-010-q5",
+        "type": "detail",
+        "question": "Germane load is associated with:",
+        "options": [
+          "Unnecessary information",
+          "Schema construction and automation",
+          "Unlimited working memory",
+          "Eliminating all difficulty"
+        ],
+        "correct": 1,
+        "explanation": "Germane load is mental effort devoted to schema construction and automation."
+      }
+    ]
+  },
+  {
+    "id": "read-011",
+    "section": "reading",
+    "title": "Urbanization and Sustainability",
+    "difficulty": "medium",
+    "passage": "Rapid urbanization presents both opportunities and challenges for sustainable development. Cities concentrate economic activity, innovation, and cultural exchange, yet they also generate significant environmental pressure through energy consumption, waste production, and habitat loss. Sustainable urban planning seeks to balance growth with environmental protection by promoting public transportation, green spaces, and energy-efficient buildings. Research indicates that compact city designs can reduce per capita emissions compared with sprawling suburban patterns. However, implementing such policies requires coordination among governments, businesses, and communities, as well as long-term investment. Without careful management, urbanization may intensify inequality and environmental degradation rather than improve quality of life.",
+    "questions": [
+      {
+        "id": "read-011-q1",
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Cities should stop growing.",
+          "Urbanization has benefits and risks that require careful sustainable planning.",
+          "Suburban living is always better.",
+          "Only governments can solve urban problems."
+        ],
+        "correct": 1,
+        "explanation": "The passage discusses both sides of urbanization and the need for sustainable planning."
+      },
+      {
+        "id": "read-011-q2",
+        "type": "detail",
+        "question": "According to the passage, compact city designs can:",
+        "options": [
+          "Increase per capita emissions",
+          "Reduce per capita emissions compared with sprawling patterns",
+          "Eliminate all waste",
+          "Replace public transportation"
+        ],
+        "correct": 1,
+        "explanation": "Research indicates compact designs can reduce per capita emissions."
+      },
+      {
+        "id": "read-011-q3",
+        "type": "inference",
+        "question": "What can be inferred if urbanization is not carefully managed?",
+        "options": [
+          "Quality of life will automatically improve.",
+          "Inequality and environmental problems may worsen.",
+          "Energy consumption will disappear.",
+          "Green spaces will expand automatically."
+        ],
+        "correct": 1,
+        "explanation": "Without careful management, inequality and degradation may intensify."
+      },
+      {
+        "id": "read-011-q4",
+        "type": "vocabulary",
+        "question": "The word \"intensify\" in the passage is closest in meaning to:",
+        "options": [
+          "reduce",
+          "make stronger or more severe",
+          "ignore",
+          "solve"
+        ],
+        "correct": 1,
+        "explanation": "Intensify means to become or make more intense."
+      }
+    ]
+  },
+  {
+    "id": "read-012",
+    "section": "reading",
+    "title": "Epistemic Uncertainty in Policy Modelling",
+    "difficulty": "hard",
+    "passage": "Contemporary policy analysis increasingly distinguishes between aleatory uncertainty, which arises from inherent randomness in the systems under study, and epistemic uncertainty, which stems from incomplete knowledge, model misspecification, or contested theoretical assumptions. While probabilistic methods are reasonably well adapted to the former, the latter often requires qualitatively different tools: sensitivity analysis, scenario planning, and structured expert elicitation. A recurring difficulty is that decision-makers tend to treat model outputs as more authoritative than the underlying assumptions warrant, particularly when results are presented with numerical precision. Scholars of science and technology studies have therefore argued for greater transparency regarding the pedigree of evidence and for institutional mechanisms that prevent the premature closure of debate. In high-stakes domains such as climate adaptation and financial regulation, failing to maintain this distinction can produce policies that are brittle precisely where flexibility is most needed.",
+    "questions": [
+      {
+        "id": "read-012-q1",
+        "type": "main-idea",
+        "question": "What is the central claim of the passage?",
+        "options": [
+          "All uncertainty in policy models is random and can be handled with probability alone.",
+          "Distinguishing epistemic from aleatory uncertainty is essential, and treating model outputs as definitive can produce brittle policy.",
+          "Expert elicitation should replace quantitative modelling entirely.",
+          "Numerical precision always improves decision quality."
+        ],
+        "correct": 1,
+        "explanation": "The passage argues for distinguishing uncertainty types and warns against over-authoritative use of model outputs."
+      },
+      {
+        "id": "read-012-q2",
+        "type": "detail",
+        "question": "According to the passage, epistemic uncertainty arises from:",
+        "options": [
+          "Inherent randomness only",
+          "Incomplete knowledge, misspecification, or contested assumptions",
+          "Perfect information",
+          "Random measurement error alone"
+        ],
+        "correct": 1,
+        "explanation": "Epistemic uncertainty stems from incomplete knowledge, model misspecification, or contested assumptions."
+      },
+      {
+        "id": "read-012-q3",
+        "type": "inference",
+        "question": "What can be inferred about presenting results with numerical precision?",
+        "options": [
+          "It always clarifies uncertainty for decision-makers.",
+          "It may encourage decision-makers to overestimate the authority of model outputs.",
+          "It eliminates the need for sensitivity analysis.",
+          "It is irrelevant to policy debate."
+        ],
+        "correct": 1,
+        "explanation": "The passage notes decision-makers treat precise outputs as more authoritative than assumptions warrant."
+      },
+      {
+        "id": "read-012-q4",
+        "type": "vocabulary",
+        "question": "The word \"brittle\" in the passage is closest in meaning to:",
+        "options": [
+          "flexible and adaptive",
+          "fragile or easily broken under stress",
+          "inexpensive",
+          "widely accepted"
+        ],
+        "correct": 1,
+        "explanation": "Brittle here means fragile \u2014 policies that break when conditions change."
+      },
+      {
+        "id": "read-012-q5",
+        "type": "detail",
+        "question": "Which tools does the passage associate with managing epistemic uncertainty?",
+        "options": [
+          "Only classical probability",
+          "Sensitivity analysis, scenario planning, and structured expert elicitation",
+          "Ignoring model assumptions",
+          "Increasing numerical precision alone"
+        ],
+        "correct": 1,
+        "explanation": "Those three approaches are listed explicitly for epistemic uncertainty."
+      }
+    ]
+  },
+  {
+    "id": "read-013",
+    "section": "reading",
+    "title": "Institutional Path Dependence",
+    "difficulty": "hard",
+    "passage": "Path dependence denotes the process by which early, often contingent choices constrain later options, making reversal costly even when superior alternatives become available. In institutional economics, this concept helps explain why inefficient arrangements persist: sunk costs, network externalities, and complementary practices raise the price of switching. Classic illustrations include the persistence of the QWERTY keyboard layout and the continued use of particular legal doctrines long after their original rationale has eroded. Critics caution, however, that invoking path dependence can become a residual explanation that merely redescribes inertia without identifying mechanisms. More rigorous applications specify the feedback loops\u2014cognitive, political, or technological\u2014that reinforce the status quo and the critical junctures at which change remains feasible. For reformers, the implication is not fatalism but timing: interventions are most effective when complementary supports are weak or when external shocks temporarily lower switching costs.",
+    "questions": [
+      {
+        "id": "read-013-q1",
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Path dependence means change is always impossible.",
+          "Path dependence explains persistent arrangements through early constraints and switching costs, but requires careful mechanistic analysis.",
+          "QWERTY is the only valid example of path dependence.",
+          "Reformers should never attempt institutional change."
+        ],
+        "correct": 1,
+        "explanation": "The passage defines path dependence, notes risks of vague use, and stresses mechanisms and timing for reform."
+      },
+      {
+        "id": "read-013-q2",
+        "type": "detail",
+        "question": "According to the passage, what raises the cost of switching institutions?",
+        "options": [
+          "Only individual preferences",
+          "Sunk costs, network externalities, and complementary practices",
+          "Complete absence of history",
+          "Unlimited resources"
+        ],
+        "correct": 1,
+        "explanation": "These three factors are listed as raising switching costs."
+      },
+      {
+        "id": "read-013-q3",
+        "type": "inference",
+        "question": "What do critics of path-dependence explanations warn against?",
+        "options": [
+          "Using any historical analysis",
+          "Using the concept as a residual label for inertia without specifying mechanisms",
+          "Studying legal doctrines",
+          "Considering critical junctures"
+        ],
+        "correct": 1,
+        "explanation": "Critics say it can become a residual explanation that redescribes inertia without mechanisms."
+      },
+      {
+        "id": "read-013-q4",
+        "type": "vocabulary",
+        "question": "The word \"contingent\" in the passage is closest in meaning to:",
+        "options": [
+          "inevitable and necessary",
+          "dependent on chance or particular circumstances",
+          "permanent",
+          "illegal"
+        ],
+        "correct": 1,
+        "explanation": "Contingent here means dependent on particular, often accidental, circumstances."
+      }
+    ]
+  },
+  {
+    "id": "read-014",
+    "section": "reading",
+    "title": "Measurement Error and Attenuation Bias",
+    "difficulty": "hard",
+    "passage": "Classical measurement error in an explanatory variable biases ordinary least squares estimates toward zero\u2014a phenomenon known as attenuation bias. When the variable of interest is measured with random noise uncorrelated with the true value and with the disturbance term, the estimated coefficient is a fraction of the true effect, with the degree of attenuation increasing in the noise-to-signal ratio. This result has far-reaching implications for empirical work: null findings may reflect poor measurement rather than the absence of an effect, and comparisons across studies become hazardous when measurement quality differs. Strategies to mitigate the problem include instrumental variables that isolate exogenous variation in the true signal, repeated measures that allow reliability ratios to be estimated, and structural models that incorporate the measurement process explicitly. None of these remedies is costless; each imposes additional assumptions whose plausibility must be defended. Consequently, careful discussion of measurement is not a technical afterthought but a substantive component of credible causal inference.",
+    "questions": [
+      {
+        "id": "read-014-q1",
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Measurement error always inflates estimated effects.",
+          "Classical measurement error attenuates coefficients toward zero and requires careful remedial strategies whose assumptions must be justified.",
+          "Instrumental variables eliminate all forms of bias.",
+          "Null findings always mean there is no true effect."
+        ],
+        "correct": 1,
+        "explanation": "The passage explains attenuation bias and stresses careful, assumption-laden remedies."
+      },
+      {
+        "id": "read-014-q2",
+        "type": "detail",
+        "question": "Under classical measurement error, the estimated coefficient is:",
+        "options": [
+          "Larger than the true effect",
+          "A fraction of the true effect, shrinking as noise rises relative to signal",
+          "Unbiased regardless of noise",
+          "Undefined"
+        ],
+        "correct": 1,
+        "explanation": "Attenuation increases with the noise-to-signal ratio."
+      },
+      {
+        "id": "read-014-q3",
+        "type": "inference",
+        "question": "What can be inferred about null findings in the presence of measurement error?",
+        "options": [
+          "They prove the theory is false.",
+          "They may reflect weak measurement rather than a true null effect.",
+          "They are always reliable.",
+          "They require no further investigation."
+        ],
+        "correct": 1,
+        "explanation": "The passage notes null findings may reflect poor measurement rather than no effect."
+      },
+      {
+        "id": "read-014-q4",
+        "type": "vocabulary",
+        "question": "The word \"plausibility\" in the passage is closest in meaning to:",
+        "options": [
+          "cost",
+          "apparent reasonableness or credibility",
+          "mathematical proof",
+          "popularity"
+        ],
+        "correct": 1,
+        "explanation": "Plausibility means how reasonable or credible something appears."
+      },
+      {
+        "id": "read-014-q5",
+        "type": "detail",
+        "question": "Which of the following is NOT listed as a strategy to address measurement error?",
+        "options": [
+          "Instrumental variables",
+          "Ignoring the measurement process entirely",
+          "Repeated measures to estimate reliability",
+          "Structural models of measurement"
+        ],
+        "correct": 1,
+        "explanation": "Ignoring measurement is the opposite of what the passage recommends."
+      }
+    ]
+  },
+  {
+    "id": "read-015",
+    "section": "reading",
+    "title": "Legitimacy and Compliance",
+    "difficulty": "hard",
+    "passage": "Legal scholars and political scientists have long distinguished compliance driven by deterrence from compliance grounded in legitimacy\u2014the belief that authorities have a rightful claim to obedience. Procedural justice research suggests that people are more willing to accept outcomes, even unfavourable ones, when they perceive decision-making as fair, transparent, and respectful. This insight complicates purely instrumental accounts of regulation: increasing sanctions may raise compliance in the short run yet erode the reservoir of voluntary cooperation on which complex regulatory systems depend. Empirical studies in tax administration, policing, and environmental enforcement find that perceived fairness often predicts compliance more strongly than expected penalties alone. The policy implication is not that deterrence is irrelevant, but that legitimacy is a strategic resource. Authorities that neglect procedural quality risk costly cycles of surveillance and punishment that deliver diminishing returns.",
+    "questions": [
+      {
+        "id": "read-015-q1",
+        "type": "main-idea",
+        "question": "What is the central argument of the passage?",
+        "options": [
+          "Only deterrence produces lasting compliance.",
+          "Legitimacy based on fair procedure sustains compliance and complements deterrence; neglecting it is strategically costly.",
+          "Sanctions should never be used.",
+          "People always reject unfavourable outcomes."
+        ],
+        "correct": 1,
+        "explanation": "The passage argues legitimacy from procedural fairness supports compliance beyond deterrence alone."
+      },
+      {
+        "id": "read-015-q2",
+        "type": "detail",
+        "question": "According to procedural justice research, people accept outcomes more readily when:",
+        "options": [
+          "Penalties are maximized",
+          "Decision-making is perceived as fair, transparent, and respectful",
+          "Authorities hide their reasoning",
+          "Surveillance is constant"
+        ],
+        "correct": 1,
+        "explanation": "Fair, transparent, respectful process increases acceptance."
+      },
+      {
+        "id": "read-015-q3",
+        "type": "inference",
+        "question": "What risk does the passage associate with relying only on stronger sanctions?",
+        "options": [
+          "Immediate collapse of all compliance",
+          "Erosion of voluntary cooperation and diminishing returns from enforcement",
+          "Guaranteed long-term obedience",
+          "Lower administrative costs"
+        ],
+        "correct": 1,
+        "explanation": "Heavy deterrence can erode voluntary cooperation and yield diminishing returns."
+      },
+      {
+        "id": "read-015-q4",
+        "type": "vocabulary",
+        "question": "The word \"reservoir\" in the passage is closest in meaning to:",
+        "options": [
+          "a legal statute",
+          "a stored supply or stock",
+          "a type of sanction",
+          "a statistical sample"
+        ],
+        "correct": 1,
+        "explanation": "Reservoir here means a stored stock of voluntary cooperation."
+      }
+    ]
+  },
+  {
+    "id": "read-016",
+    "section": "reading",
+    "title": "External Validity and Transportability",
+    "difficulty": "hard",
+    "passage": "A causal estimate recovered in one population does not automatically apply to another. External validity concerns whether an effect estimated under particular conditions generalizes; transportability asks more precisely what additional assumptions allow an effect to be carried from a source to a target population. Differences in covariate distributions, in the prevalence of effect modifiers, or in the very mechanisms linking treatment to outcome can all undermine naive extrapolation. Recent work in causal graphical models formalizes these conditions and clarifies when statistical adjustment, reweighting, or structural knowledge can support transport. The practical message for applied researchers is sobering: internal validity is necessary but not sufficient for policy relevance. Studies that report effects without characterizing the populations and contexts to which they might extend leave decision-makers without the information required for responsible use.",
+    "questions": [
+      {
+        "id": "read-016-q1",
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Causal estimates always generalize across populations.",
+          "Transporting causal effects requires explicit assumptions; internal validity alone does not guarantee policy relevance.",
+          "Graphical models make external validity unnecessary.",
+          "Policy-makers should ignore study context."
+        ],
+        "correct": 1,
+        "explanation": "The passage stresses assumptions for transportability and limits of internal validity alone."
+      },
+      {
+        "id": "read-016-q2",
+        "type": "detail",
+        "question": "Which factors can undermine naive extrapolation of causal effects?",
+        "options": [
+          "Only sample size",
+          "Differences in covariates, effect modifiers, or causal mechanisms",
+          "Publication in a high-impact journal",
+          "Use of randomized designs only"
+        ],
+        "correct": 1,
+        "explanation": "Those three classes of differences are listed explicitly."
+      },
+      {
+        "id": "read-016-q3",
+        "type": "inference",
+        "question": "What does the passage imply about studies that omit population and context detail?",
+        "options": [
+          "They are ideal for policy use.",
+          "They leave decision-makers without information needed for responsible application.",
+          "They automatically transport to all settings.",
+          "They need no further assumptions."
+        ],
+        "correct": 1,
+        "explanation": "Without characterizing populations and contexts, responsible use is hindered."
+      },
+      {
+        "id": "read-016-q4",
+        "type": "vocabulary",
+        "question": "The word \"naive\" in the passage is closest in meaning to:",
+        "options": [
+          "carefully justified",
+          "overly simple or insufficiently critical",
+          "mathematical",
+          "illegal"
+        ],
+        "correct": 1,
+        "explanation": "Naive extrapolation means overly simple, uncritical generalization."
       }
     ]
   }
