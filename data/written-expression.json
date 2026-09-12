@@ -2473,5 +2473,230 @@
     ],
     "correct": 3,
     "explanation": "Parallel gerunds: and lowering compliance burdens."
+  },
+  {
+    "id": "we-166",
+    "section": "written-expression",
+    "category": "subject-verb-agreement",
+    "difficulty": "hard",
+    "question": "The set of exclusion restrictions / invoked in the baseline specification / are / stronger than many readers appreciate.",
+    "options": [
+      "The set of exclusion restrictions",
+      "invoked in the baseline specification",
+      "are",
+      "stronger than many readers appreciate"
+    ],
+    "correct": 2,
+    "explanation": "Set is singular \u2192 is."
+  },
+  {
+    "id": "we-167",
+    "section": "written-expression",
+    "category": "verb-tenses",
+    "difficulty": "hard",
+    "question": "No sooner / the embargo / was lifted / than capital inflows resumed.",
+    "options": [
+      "No sooner",
+      "the embargo",
+      "was lifted",
+      "than capital inflows resumed"
+    ],
+    "correct": 2,
+    "explanation": "No sooner had the embargo been lifted..."
+  },
+  {
+    "id": "we-168",
+    "section": "written-expression",
+    "category": "parallel-structure",
+    "difficulty": "hard",
+    "question": "The protocol calls for random assignment, / blinded outcome assessment, / and that analysts / remain unaware of treatment status.",
+    "options": [
+      "The protocol calls for random assignment",
+      "blinded outcome assessment",
+      "and that analysts",
+      "remain unaware of treatment status"
+    ],
+    "correct": 2,
+    "explanation": "Parallel noun phrases, not a that-clause."
+  },
+  {
+    "id": "we-169",
+    "section": "written-expression",
+    "category": "word-form",
+    "difficulty": "hard",
+    "question": "The / severe / of attenuation bias / under classical error is often underappreciated.",
+    "options": [
+      "The",
+      "severe",
+      "of attenuation bias",
+      "under classical error is often underappreciated"
+    ],
+    "correct": 1,
+    "explanation": "Noun: severity."
+  },
+  {
+    "id": "we-170",
+    "section": "written-expression",
+    "category": "prepositions",
+    "difficulty": "hard",
+    "question": "The design is robust / for / a range of alternative / functional forms.",
+    "options": [
+      "The design is robust",
+      "for",
+      "a range of alternative",
+      "functional forms"
+    ],
+    "correct": 1,
+    "explanation": "Robust to."
+  },
+  {
+    "id": "we-171",
+    "section": "written-expression",
+    "category": "relative-clauses",
+    "difficulty": "hard",
+    "question": "Assumptions / who / cannot be tested directly / must be defended on substantive grounds.",
+    "options": [
+      "Assumptions",
+      "who",
+      "cannot be tested directly",
+      "must be defended on substantive grounds"
+    ],
+    "correct": 1,
+    "explanation": "Which/that for things."
+  },
+  {
+    "id": "we-172",
+    "section": "written-expression",
+    "category": "pronouns",
+    "difficulty": "hard",
+    "question": "Neither laboratory / submitted / their / full replication package on time.",
+    "options": [
+      "Neither laboratory",
+      "submitted",
+      "their",
+      "full replication package on time"
+    ],
+    "correct": 2,
+    "explanation": "Neither is singular \u2192 its."
+  },
+  {
+    "id": "we-173",
+    "section": "written-expression",
+    "category": "comparatives",
+    "difficulty": "hard",
+    "question": "This estimator is / more preferable / under heteroskedasticity / of unknown form.",
+    "options": [
+      "This estimator is",
+      "more preferable",
+      "under heteroskedasticity",
+      "of unknown form"
+    ],
+    "correct": 1,
+    "explanation": "Preferable already comparative."
+  },
+  {
+    "id": "we-174",
+    "section": "written-expression",
+    "category": "verb-tenses",
+    "difficulty": "hard",
+    "question": "If the sampling weights / would have been / applied correctly, / the totals would match the census.",
+    "options": [
+      "If the sampling weights",
+      "would have been",
+      "applied correctly",
+      "the totals would match the census"
+    ],
+    "correct": 1,
+    "explanation": "Had been, not would have been in if-clause."
+  },
+  {
+    "id": "we-175",
+    "section": "written-expression",
+    "category": "word-form",
+    "difficulty": "hard",
+    "question": "A / system / failure / of incentives explains the persistent underinvestment.",
+    "options": [
+      "A",
+      "system",
+      "failure",
+      "of incentives explains the persistent underinvestment"
+    ],
+    "correct": 1,
+    "explanation": "Adjective: systemic."
+  },
+  {
+    "id": "we-176",
+    "section": "written-expression",
+    "category": "prepositions",
+    "difficulty": "hard",
+    "question": "The conclusion rests / in / an untested claim / about preference stability.",
+    "options": [
+      "The conclusion rests",
+      "in",
+      "an untested claim",
+      "about preference stability"
+    ],
+    "correct": 1,
+    "explanation": "Rests on."
+  },
+  {
+    "id": "we-177",
+    "section": "written-expression",
+    "category": "subject-verb-agreement",
+    "difficulty": "hard",
+    "question": "None of the candidate instruments / satisfy / the full set / of identifying conditions.",
+    "options": [
+      "None of the candidate instruments",
+      "satisfy",
+      "the full set",
+      "of identifying conditions"
+    ],
+    "correct": 1,
+    "explanation": "Formal: none takes singular \u2192 satisfies (or plural acceptable; classic test often singular)."
+  },
+  {
+    "id": "we-178",
+    "section": "written-expression",
+    "category": "parallel-structure",
+    "difficulty": "hard",
+    "question": "Evaluation should be timely, / methodologically rigorous, / and / it informs decisions.",
+    "options": [
+      "Evaluation should be timely",
+      "methodologically rigorous",
+      "and",
+      "it informs decisions"
+    ],
+    "correct": 3,
+    "explanation": "Parallel adjectives: and decision-relevant."
+  },
+  {
+    "id": "we-179",
+    "section": "written-expression",
+    "category": "articles",
+    "difficulty": "hard",
+    "question": "At / a / OECD / workshop the findings were debated at length.",
+    "options": [
+      "At",
+      "a",
+      "OECD",
+      "workshop the findings were debated at length"
+    ],
+    "correct": 1,
+    "explanation": "OECD begins with vowel sound \u2192 an OECD."
+  },
+  {
+    "id": "we-180",
+    "section": "written-expression",
+    "category": "relative-clauses",
+    "difficulty": "hard",
+    "question": "The scholar / which / identification strategy is most widely emulated / has urged greater caution.",
+    "options": [
+      "The scholar",
+      "which",
+      "identification strategy is most widely emulated",
+      "has urged greater caution"
+    ],
+    "correct": 1,
+    "explanation": "Whose identification strategy."
   }
 ]

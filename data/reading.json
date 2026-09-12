@@ -935,5 +935,249 @@
         "explanation": "Naive extrapolation means overly simple, uncritical generalization."
       }
     ]
+  },
+  {
+    "id": "read-017",
+    "section": "reading",
+    "title": "Selection on Observables",
+    "difficulty": "hard",
+    "passage": "When treatment assignment is not randomized, researchers often invoke a selection-on-observables assumption: conditional on a sufficiently rich set of covariates, treatment is as good as randomly assigned. Under this assumption, matching, inverse-probability weighting, or regression adjustment can recover average treatment effects. The credibility of the strategy hinges on whether the observed covariates capture all confounding pathways. Unobserved factors that jointly influence selection and outcomes will bias the estimates, and no amount of statistical sophistication compensates for a deficient covariate set. Sensitivity analyses that quantify how strong an unobserved confounder would need to be to overturn the result have therefore become standard. Even so, the deepest limitation is conceptual: selection on observables is an assumption about the world, not a property that data alone can verify.",
+    "questions": [
+      {
+        "id": "read-017-q1",
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Randomization is never necessary.",
+          "Selection-on-observables strategies require that covariates capture confounding; this is an unverifiable assumption about the world.",
+          "Matching always eliminates bias.",
+          "Sensitivity analysis proves causality."
+        ],
+        "correct": 1,
+        "explanation": "The passage stresses the assumption and its limits."
+      },
+      {
+        "id": "read-017-q2",
+        "type": "detail",
+        "question": "What biases estimates under selection on observables?",
+        "options": [
+          "Only sample size",
+          "Unobserved factors that affect both selection and outcomes",
+          "Transparent reporting",
+          "Pre-registration"
+        ],
+        "correct": 1,
+        "explanation": "Unobserved confounders bias the estimates."
+      },
+      {
+        "id": "read-017-q3",
+        "type": "inference",
+        "question": "What does the passage imply about data alone?",
+        "options": [
+          "Data can fully verify selection on observables.",
+          "Data alone cannot verify the selection-on-observables assumption.",
+          "More data always remove confounding.",
+          "Covariates are unnecessary."
+        ],
+        "correct": 1,
+        "explanation": "The assumption is about the world and not verifiable from data alone."
+      },
+      {
+        "id": "read-017-q4",
+        "type": "vocabulary",
+        "question": "The word \"deficient\" in the passage is closest in meaning to:",
+        "options": [
+          "complete",
+          "inadequate or lacking",
+          "random",
+          "published"
+        ],
+        "correct": 1,
+        "explanation": "Deficient means inadequate or insufficient."
+      }
+    ]
+  },
+  {
+    "id": "read-018",
+    "section": "reading",
+    "title": "Pre-registration and Researcher Degrees of Freedom",
+    "difficulty": "hard",
+    "passage": "Researcher degrees of freedom\u2014the many discretionary choices in cleaning data, selecting specifications, and reporting results\u2014can generate false positives even when no intentional misconduct occurs. Pre-registration of analysis plans is intended to constrain these choices by specifying hypotheses, models, and decision rules before outcomes are inspected. Advocates argue that pre-registration improves the diagnostic value of statistical tests and reduces the gap between exploratory and confirmatory claims. Critics note that rigid plans may fit poorly with complex observational settings, and that pre-registration does not by itself ensure that the chosen design answers a policy-relevant question. A pragmatic middle ground treats pre-registration as a commitment device that raises the cost of undisclosed flexibility while still allowing labelled exploratory analyses. In that view, the goal is not to eliminate judgment but to make its exercise transparent.",
+    "questions": [
+      {
+        "id": "read-018-q1",
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Pre-registration eliminates all false positives.",
+          "Pre-registration constrains discretionary choices and can improve transparency, though it has limits and is best seen as a commitment device.",
+          "Exploratory analysis should be banned.",
+          "Researcher judgment is always harmful."
+        ],
+        "correct": 1,
+        "explanation": "The passage balances benefits, criticisms, and a pragmatic view of pre-registration."
+      },
+      {
+        "id": "read-018-q2",
+        "type": "detail",
+        "question": "What are researcher degrees of freedom?",
+        "options": [
+          "Formal degrees awarded to researchers",
+          "Discretionary choices in data work, specification, and reporting",
+          "Sample size rules",
+          "Journal impact factors"
+        ],
+        "correct": 1,
+        "explanation": "Defined as discretionary choices in cleaning, specifying, and reporting."
+      },
+      {
+        "id": "read-018-q3",
+        "type": "inference",
+        "question": "What do critics of rigid pre-registration emphasize?",
+        "options": [
+          "That plans always fit observational research perfectly",
+          "That rigid plans may fit poorly in complex observational settings",
+          "That pre-registration guarantees policy relevance",
+          "That transparency is unnecessary"
+        ],
+        "correct": 1,
+        "explanation": "Critics note poor fit with complex observational settings."
+      },
+      {
+        "id": "read-018-q4",
+        "type": "vocabulary",
+        "question": "The word \"constrain\" in the passage is closest in meaning to:",
+        "options": [
+          "expand freely",
+          "limit or restrict",
+          "publish",
+          "ignore"
+        ],
+        "correct": 1,
+        "explanation": "Constrain means to limit or restrict."
+      }
+    ]
+  },
+  {
+    "id": "read-019",
+    "section": "reading",
+    "title": "Multiple Testing and False Discoveries",
+    "difficulty": "hard",
+    "passage": "When many hypotheses are tested on the same dataset, the probability of at least one false positive rises sharply unless adjustments are made. Classical corrections such as Bonferroni control the family-wise error rate but can be conservative when tests are numerous and correlated. False discovery rate procedures offer a less stringent alternative that is often more powerful in large-scale exploratory settings. Neither approach, however, substitutes for a clear distinction between confirmatory and exploratory aims. Pre-specified primary endpoints retain a privileged interpretive status precisely because the researcher has committed to them in advance. In the absence of such commitment, adjusted p-values still require cautious reading: they bound error rates under specific assumptions, not the substantive importance of any single finding.",
+    "questions": [
+      {
+        "id": "read-019-q1",
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Multiple testing never matters.",
+          "Multiple testing inflates false positives; corrections help but do not replace clear confirmatory design and careful interpretation.",
+          "Bonferroni is always optimal.",
+          "P-values measure substantive importance."
+        ],
+        "correct": 1,
+        "explanation": "The passage covers the problem, corrections, and limits of interpretation."
+      },
+      {
+        "id": "read-019-q2",
+        "type": "detail",
+        "question": "What is a drawback of Bonferroni correction mentioned?",
+        "options": [
+          "It is too liberal",
+          "It can be conservative with many correlated tests",
+          "It ignores p-values",
+          "It requires no assumptions"
+        ],
+        "correct": 1,
+        "explanation": "Bonferroni can be conservative when tests are numerous and correlated."
+      },
+      {
+        "id": "read-019-q3",
+        "type": "inference",
+        "question": "Why do pre-specified primary endpoints retain privileged status?",
+        "options": [
+          "Because journals require them only",
+          "Because the researcher committed to them before seeing the data",
+          "Because they always have the smallest p-values",
+          "Because they need no adjustment"
+        ],
+        "correct": 1,
+        "explanation": "Commitment in advance gives them confirmatory status."
+      },
+      {
+        "id": "read-019-q4",
+        "type": "vocabulary",
+        "question": "The word \"stringent\" in the passage is closest in meaning to:",
+        "options": [
+          "loose",
+          "strict or severe",
+          "popular",
+          "optional"
+        ],
+        "correct": 1,
+        "explanation": "Stringent means strict or demanding."
+      }
+    ]
+  },
+  {
+    "id": "read-020",
+    "section": "reading",
+    "title": "Construct Validity in Social Measurement",
+    "difficulty": "hard",
+    "passage": "Construct validity concerns whether an operational measure captures the theoretical concept it is intended to represent. In social research, many constructs\u2014trust, inequality, institutional quality\u2014are not directly observable and must be proxied by indicators whose adequacy is always contestable. Convergent validity asks whether alternative measures of the same construct correlate as theory predicts; discriminant validity asks whether measures of distinct constructs diverge appropriately. Threats include concept stretching, in which a label is applied so broadly that empirical content thins, and indicator contamination, in which a proxy partly reflects a different construct. No statistical test alone settles these issues: judgment about measurement is intertwined with theory. Transparent reporting of how indicators were chosen, and of how conclusions change under alternative operationalizations, is therefore a core element of credible empirical work.",
+    "questions": [
+      {
+        "id": "read-020-q1",
+        "type": "main-idea",
+        "question": "What is the main idea of the passage?",
+        "options": [
+          "Social constructs are always measured perfectly.",
+          "Construct validity requires careful links between theory and indicators; statistical tests alone are not enough.",
+          "Only convergent validity matters.",
+          "Proxies should never be used."
+        ],
+        "correct": 1,
+        "explanation": "The passage defines construct validity and stresses theory-linked judgment."
+      },
+      {
+        "id": "read-020-q2",
+        "type": "detail",
+        "question": "What is concept stretching?",
+        "options": [
+          "Using too few indicators",
+          "Applying a label so broadly that empirical content becomes thin",
+          "Random measurement error only",
+          "Perfect discriminant validity"
+        ],
+        "correct": 1,
+        "explanation": "Concept stretching is over-broad application of a label."
+      },
+      {
+        "id": "read-020-q3",
+        "type": "inference",
+        "question": "What does the passage imply about statistical tests of validity?",
+        "options": [
+          "They fully settle measurement debates.",
+          "They help but cannot replace theoretical judgment about indicators.",
+          "They are irrelevant.",
+          "They only apply to experiments."
+        ],
+        "correct": 1,
+        "explanation": "Judgment about measurement is intertwined with theory."
+      },
+      {
+        "id": "read-020-q4",
+        "type": "vocabulary",
+        "question": "The word \"contestable\" in the passage is closest in meaning to:",
+        "options": [
+          "universally accepted",
+          "open to challenge or dispute",
+          "mathematical",
+          "illegal"
+        ],
+        "correct": 1,
+        "explanation": "Contestable means open to dispute."
+      }
+    ]
   }
 ]

@@ -4198,5 +4198,680 @@
     ],
     "correct": 0,
     "explanation": "Parallel adjectives: evidence-based, transparent, open."
+  },
+  {
+    "id": "str-281",
+    "section": "structure",
+    "category": "subject-verb-agreement",
+    "difficulty": "hard",
+    "question": "What little evidence remains in the archival record _____ insufficient to reconstruct the sequence of decisions with any confidence.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "correct": 1,
+    "explanation": "\"What little evidence\" is singular."
+  },
+  {
+    "id": "str-282",
+    "section": "structure",
+    "category": "subject-verb-agreement",
+    "difficulty": "hard",
+    "question": "The majority of the variance in outcomes across jurisdictions _____ explained by differences in enforcement capacity rather than in statutory design.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "correct": 0,
+    "explanation": "\"The majority of the variance\" (singular mass) \u2192 is."
+  },
+  {
+    "id": "str-283",
+    "section": "structure",
+    "category": "verb-tenses",
+    "difficulty": "hard",
+    "question": "Only after the replication materials _____ made public did independent teams succeed in reproducing the core result.",
+    "options": [
+      "have been",
+      "had been",
+      "were being",
+      "are"
+    ],
+    "correct": 1,
+    "explanation": "Past perfect in the temporal clause before a past main clause."
+  },
+  {
+    "id": "str-284",
+    "section": "structure",
+    "category": "verb-tenses",
+    "difficulty": "hard",
+    "question": "Researchers _____ the same identification strategy for nearly two decades before its core assumption was seriously challenged.",
+    "options": [
+      "apply",
+      "have applied",
+      "had been applying",
+      "are applying"
+    ],
+    "correct": 2,
+    "explanation": "Past perfect progressive for duration before a past challenge."
+  },
+  {
+    "id": "str-285",
+    "section": "structure",
+    "category": "passive-voice",
+    "difficulty": "hard",
+    "question": "The intervention is reported _____ a sustained reduction in non-compliance lasting at least eighteen months.",
+    "options": [
+      "to produce",
+      "to have produced",
+      "producing",
+      "produced"
+    ],
+    "correct": 1,
+    "explanation": "Perfect infinitive after passive reporting verb."
+  },
+  {
+    "id": "str-286",
+    "section": "structure",
+    "category": "passive-voice",
+    "difficulty": "hard",
+    "question": "Seldom _____ such strong identifying assumptions defended so weakly in the published record.",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "is"
+    ],
+    "correct": 0,
+    "explanation": "Inversion after negative adverbial; plural assumptions \u2192 have."
+  },
+  {
+    "id": "str-287",
+    "section": "structure",
+    "category": "relative-clauses",
+    "difficulty": "hard",
+    "question": "Institutions _____ legitimacy rests primarily on performance face acute risk when outcomes deteriorate.",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "correct": 2,
+    "explanation": "Whose for possession."
+  },
+  {
+    "id": "str-288",
+    "section": "structure",
+    "category": "relative-clauses",
+    "difficulty": "hard",
+    "question": "The very mechanisms _____ the reform was intended to strengthen appear, in some settings, to have been weakened.",
+    "options": [
+      "who",
+      "whom",
+      "that",
+      "whose"
+    ],
+    "correct": 2,
+    "explanation": "That/which as object of intended to strengthen."
+  },
+  {
+    "id": "str-289",
+    "section": "structure",
+    "category": "reduced-clauses",
+    "difficulty": "hard",
+    "question": "_____ against multiple alternative specifications, the preferred estimate remained within a narrow range.",
+    "options": [
+      "Benchmarking",
+      "Benchmarked",
+      "To benchmark",
+      "Benchmark"
+    ],
+    "correct": 1,
+    "explanation": "Past participle reduced passive clause."
+  },
+  {
+    "id": "str-290",
+    "section": "structure",
+    "category": "reduced-clauses",
+    "difficulty": "hard",
+    "question": "_____ the political constraints under which regulators operate, purely technocratic prescriptions often fail.",
+    "options": [
+      "Ignore",
+      "Ignoring",
+      "Ignored",
+      "To ignore"
+    ],
+    "correct": 1,
+    "explanation": "Present participle = Because one ignores..."
+  },
+  {
+    "id": "str-291",
+    "section": "structure",
+    "category": "conditionals",
+    "difficulty": "hard",
+    "question": "Were measurement error classical rather than mean-reverting, the direction of bias _____ unambiguously toward zero.",
+    "options": [
+      "is",
+      "would be",
+      "would have been",
+      "will be"
+    ],
+    "correct": 1,
+    "explanation": "Inverted second conditional."
+  },
+  {
+    "id": "str-292",
+    "section": "structure",
+    "category": "conditionals",
+    "difficulty": "hard",
+    "question": "Should subsequent waves of data overturn the present conclusion, the policy recommendation _____ withdrawn without delay.",
+    "options": [
+      "will be",
+      "would be",
+      "is",
+      "has been"
+    ],
+    "correct": 0,
+    "explanation": "Formal first-conditional inversion with should."
+  },
+  {
+    "id": "str-293",
+    "section": "structure",
+    "category": "parallel-structure",
+    "difficulty": "hard",
+    "question": "Credible evaluation requires pre-registration of analyses, transparent handling of missing data, and _____ of all specifications that were examined.",
+    "options": [
+      "disclose",
+      "disclosure",
+      "disclosing",
+      "to disclose"
+    ],
+    "correct": 1,
+    "explanation": "Parallel nouns: pre-registration, handling, disclosure."
+  },
+  {
+    "id": "str-294",
+    "section": "structure",
+    "category": "parallel-structure",
+    "difficulty": "hard",
+    "question": "The framework is valued less for generating point predictions than for _____ the conditions under which predictions remain valid.",
+    "options": [
+      "clarify",
+      "clarifying",
+      "to clarify",
+      "clarified"
+    ],
+    "correct": 1,
+    "explanation": "Parallel gerunds after valued for X than for Y."
+  },
+  {
+    "id": "str-295",
+    "section": "structure",
+    "category": "gerunds-infinitives",
+    "difficulty": "hard",
+    "question": "The agency would sooner _____ a politically costly delay than release estimates known to be unreliable.",
+    "options": [
+      "accepting",
+      "accept",
+      "to accept",
+      "accepted"
+    ],
+    "correct": 1,
+    "explanation": "Would sooner + bare infinitive."
+  },
+  {
+    "id": "str-296",
+    "section": "structure",
+    "category": "gerunds-infinitives",
+    "difficulty": "hard",
+    "question": "Few reviewers expect the authors _____ every robustness check that a determined critic might invent.",
+    "options": [
+      "performing",
+      "to perform",
+      "perform",
+      "performed"
+    ],
+    "correct": 1,
+    "explanation": "Expect + object + infinitive."
+  },
+  {
+    "id": "str-297",
+    "section": "structure",
+    "category": "comparatives",
+    "difficulty": "hard",
+    "question": "Of the two candidate instruments, the second is _____ with respect to the exclusion restriction.",
+    "options": [
+      "the more defensible",
+      "more defensible",
+      "the most defensible",
+      "defensible"
+    ],
+    "correct": 0,
+    "explanation": "Comparative of two: the more + adj."
+  },
+  {
+    "id": "str-298",
+    "section": "structure",
+    "category": "comparatives",
+    "difficulty": "hard",
+    "question": "The denser the network of complementary institutions, _____ the cost of abrupt policy reversal.",
+    "options": [
+      "high",
+      "higher",
+      "the higher",
+      "the highest"
+    ],
+    "correct": 2,
+    "explanation": "Correlative comparative."
+  },
+  {
+    "id": "str-299",
+    "section": "structure",
+    "category": "noun-clauses",
+    "difficulty": "hard",
+    "question": "It is imperative that every deviation from the analysis plan _____ recorded and justified in the final report.",
+    "options": [
+      "is",
+      "be",
+      "was",
+      "being"
+    ],
+    "correct": 1,
+    "explanation": "Mandative subjunctive after imperative that."
+  },
+  {
+    "id": "str-300",
+    "section": "structure",
+    "category": "noun-clauses",
+    "difficulty": "hard",
+    "question": "Whether the estimated elasticity generalizes beyond the study sample depends on _____ effect heterogeneity is structured.",
+    "options": [
+      "that",
+      "how",
+      "what",
+      "which"
+    ],
+    "correct": 1,
+    "explanation": "How introduces the clause about structure of heterogeneity."
+  },
+  {
+    "id": "str-301",
+    "section": "structure",
+    "category": "auxiliaries",
+    "difficulty": "hard",
+    "question": "The pattern of results _____ scarcely have arisen under the null of no systematic effect.",
+    "options": [
+      "should",
+      "must",
+      "can",
+      "would"
+    ],
+    "correct": 3,
+    "explanation": "Would scarcely have + past participle = strong improbability."
+  },
+  {
+    "id": "str-302",
+    "section": "structure",
+    "category": "auxiliaries",
+    "difficulty": "hard",
+    "question": "One _____ well ask whether the identifying variation is economically meaningful as well as statistically detectable.",
+    "options": [
+      "would",
+      "should",
+      "might",
+      "must"
+    ],
+    "correct": 0,
+    "explanation": "Would well + infinitive = formal invitation to consider."
+  },
+  {
+    "id": "str-303",
+    "section": "structure",
+    "category": "prepositions",
+    "difficulty": "hard",
+    "question": "The argument is predicated _____ a separability assumption that later work has called into question.",
+    "options": [
+      "on",
+      "in",
+      "to",
+      "for"
+    ],
+    "correct": 0,
+    "explanation": "Predicated on."
+  },
+  {
+    "id": "str-304",
+    "section": "structure",
+    "category": "prepositions",
+    "difficulty": "hard",
+    "question": "Subsequent estimates have been remarkably congruent _____ the original order of magnitude.",
+    "options": [
+      "to",
+      "with",
+      "of",
+      "for"
+    ],
+    "correct": 1,
+    "explanation": "Congruent with."
+  },
+  {
+    "id": "str-305",
+    "section": "structure",
+    "category": "subject-verb-agreement",
+    "difficulty": "hard",
+    "question": "A battery of placebo tests, each more demanding than the last, _____ failed to overturn the principal finding.",
+    "options": [
+      "has",
+      "have",
+      "are",
+      "were"
+    ],
+    "correct": 0,
+    "explanation": "Battery (singular unit) \u2192 has."
+  },
+  {
+    "id": "str-306",
+    "section": "structure",
+    "category": "subject-verb-agreement",
+    "difficulty": "hard",
+    "question": "Every one of the robustness checks reported in the appendix _____ the qualitative conclusion of the main text.",
+    "options": [
+      "support",
+      "supports",
+      "are supporting",
+      "have supported"
+    ],
+    "correct": 1,
+    "explanation": "Every one = singular."
+  },
+  {
+    "id": "str-307",
+    "section": "structure",
+    "category": "subject-verb-agreement",
+    "difficulty": "hard",
+    "question": "A series of placebo regressions on pre-treatment outcomes _____ no systematic differences between groups.",
+    "options": [
+      "reveal",
+      "reveals",
+      "are revealing",
+      "have revealed"
+    ],
+    "correct": 1,
+    "explanation": "Series as unit = singular."
+  },
+  {
+    "id": "str-308",
+    "section": "structure",
+    "category": "verb-tenses",
+    "difficulty": "hard",
+    "question": "Until the administrative registers _____ linked, researchers had relied exclusively on survey self-reports.",
+    "options": [
+      "are",
+      "were",
+      "had been",
+      "have been"
+    ],
+    "correct": 2,
+    "explanation": "Past perfect for the earlier state before linking."
+  },
+  {
+    "id": "str-309",
+    "section": "structure",
+    "category": "verb-tenses",
+    "difficulty": "hard",
+    "question": "The authors maintain that they _____ the analysis plan before inspecting any outcome data.",
+    "options": [
+      "register",
+      "have registered",
+      "had registered",
+      "were registering"
+    ],
+    "correct": 2,
+    "explanation": "Past perfect for action before another past action."
+  },
+  {
+    "id": "str-310",
+    "section": "structure",
+    "category": "passive-voice",
+    "difficulty": "hard",
+    "question": "Such discrepancies are not easily _____ away as mere sampling variation.",
+    "options": [
+      "explain",
+      "explained",
+      "explaining",
+      "to explain"
+    ],
+    "correct": 1,
+    "explanation": "Passive: explained away."
+  },
+  {
+    "id": "str-311",
+    "section": "structure",
+    "category": "passive-voice",
+    "difficulty": "hard",
+    "question": "The procedure is designed _____ residual confounding of modest magnitude.",
+    "options": [
+      "to withstand",
+      "withstanding",
+      "withstood",
+      "withstand"
+    ],
+    "correct": 0,
+    "explanation": "Infinitive of purpose after designed."
+  },
+  {
+    "id": "str-312",
+    "section": "structure",
+    "category": "relative-clauses",
+    "difficulty": "hard",
+    "question": "Policies _____ success depends on voluntary cooperation are vulnerable when trust erodes.",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "correct": 2,
+    "explanation": "Whose success."
+  },
+  {
+    "id": "str-313",
+    "section": "structure",
+    "category": "relative-clauses",
+    "difficulty": "hard",
+    "question": "Few of the covariates _____ the matching routine employed satisfy balancing tests in the tails.",
+    "options": [
+      "who",
+      "whom",
+      "that",
+      "whose"
+    ],
+    "correct": 2,
+    "explanation": "That/which object."
+  },
+  {
+    "id": "str-314",
+    "section": "structure",
+    "category": "reduced-clauses",
+    "difficulty": "hard",
+    "question": "_____ over a decade of incremental reforms, the core incentive structure remained intact.",
+    "options": [
+      "Span",
+      "Spanning",
+      "Spanned",
+      "To span"
+    ],
+    "correct": 1,
+    "explanation": "Present participle reduced clause."
+  },
+  {
+    "id": "str-315",
+    "section": "structure",
+    "category": "conditionals",
+    "difficulty": "hard",
+    "question": "Had the instrument been weak rather than merely imperfect, the bias _____ potentially severe.",
+    "options": [
+      "is",
+      "would be",
+      "would have been",
+      "will be"
+    ],
+    "correct": 2,
+    "explanation": "Third conditional."
+  },
+  {
+    "id": "str-316",
+    "section": "structure",
+    "category": "parallel-structure",
+    "difficulty": "hard",
+    "question": "The review prioritizes internal validity, transparent reporting, and _____ of results to related settings.",
+    "options": [
+      "assess",
+      "assessment",
+      "assessing",
+      "to assess"
+    ],
+    "correct": 1,
+    "explanation": "Parallel nouns."
+  },
+  {
+    "id": "str-317",
+    "section": "structure",
+    "category": "gerunds-infinitives",
+    "difficulty": "hard",
+    "question": "Regulators had the external panel _____ the draft impact assessment before publication.",
+    "options": [
+      "to scrutinize",
+      "scrutinizing",
+      "scrutinize",
+      "scrutinized"
+    ],
+    "correct": 2,
+    "explanation": "Have + object + bare infinitive."
+  },
+  {
+    "id": "str-318",
+    "section": "structure",
+    "category": "comparatives",
+    "difficulty": "hard",
+    "question": "The more demanding the placebo battery, _____ the residual concern about confounding.",
+    "options": [
+      "small",
+      "smaller",
+      "the smaller",
+      "the smallest"
+    ],
+    "correct": 2,
+    "explanation": "Correlative comparative."
+  },
+  {
+    "id": "str-319",
+    "section": "structure",
+    "category": "noun-clauses",
+    "difficulty": "hard",
+    "question": "It is vital that heterogeneity _____ explored rather than assumed away.",
+    "options": [
+      "is",
+      "be",
+      "was",
+      "being"
+    ],
+    "correct": 1,
+    "explanation": "Subjunctive after vital that."
+  },
+  {
+    "id": "str-320",
+    "section": "structure",
+    "category": "auxiliaries",
+    "difficulty": "hard",
+    "question": "The estimated effect _____ well be an upper bound under plausible forms of selection.",
+    "options": [
+      "should",
+      "must",
+      "might",
+      "can"
+    ],
+    "correct": 2,
+    "explanation": "Might well = reasonably possible."
+  },
+  {
+    "id": "str-321",
+    "section": "structure",
+    "category": "prepositions",
+    "difficulty": "hard",
+    "question": "The strategy is robust _____ modest violations of the parallel-trends assumption.",
+    "options": [
+      "for",
+      "to",
+      "on",
+      "with"
+    ],
+    "correct": 1,
+    "explanation": "Robust to."
+  },
+  {
+    "id": "str-322",
+    "section": "structure",
+    "category": "prepositions",
+    "difficulty": "hard",
+    "question": "Interpretation hinges _____ whether the exclusion restriction is substantively credible.",
+    "options": [
+      "in",
+      "on",
+      "to",
+      "for"
+    ],
+    "correct": 1,
+    "explanation": "Hinge on."
+  },
+  {
+    "id": "str-323",
+    "section": "structure",
+    "category": "verb-tenses",
+    "difficulty": "hard",
+    "question": "Scarcely _____ the first wave been fielded when funding for the follow-up was cut.",
+    "options": [
+      "has",
+      "had",
+      "was",
+      "have"
+    ],
+    "correct": 1,
+    "explanation": "Scarcely had + past participle."
+  },
+  {
+    "id": "str-324",
+    "section": "structure",
+    "category": "relative-clauses",
+    "difficulty": "hard",
+    "question": "The parameter _____ identification is most fragile is precisely the one of greatest policy interest.",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which"
+    ],
+    "correct": 2,
+    "explanation": "Whose identification."
+  },
+  {
+    "id": "str-325",
+    "section": "structure",
+    "category": "conditionals",
+    "difficulty": "hard",
+    "question": "Were unobserved confounding to operate in the opposite direction, the true effect _____ even larger.",
+    "options": [
+      "is",
+      "would be",
+      "would have been",
+      "will be"
+    ],
+    "correct": 1,
+    "explanation": "Inverted second conditional."
   }
 ]

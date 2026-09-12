@@ -5326,5 +5326,725 @@
     "question": "What does the word \"exhaustive\" mean?",
     "correct": "Lengkap / exhaustif",
     "explanation": "Exhaustive = lengkap. Contoh: An exhaustive sensitivity analysis."
+  },
+  {
+    "id": "voc-593",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"exemplify\" mean?",
+    "correct": "Memberi contoh konkret / mencerminkan",
+    "explanation": "Exemplify = mencerminkan. Contoh: The case exemplifies a broader pattern."
+  },
+  {
+    "id": "voc-594",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"exempt\" mean?",
+    "correct": "Dikecualikan",
+    "explanation": "Exempt = dikecualikan. Contoh: Small firms may be exempt from the rule."
+  },
+  {
+    "id": "voc-595",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"exert\" mean?",
+    "correct": "Mengerahkan / menerapkan",
+    "explanation": "Exert = mengerahkan. Contoh: Exert pressure on incumbents."
+  },
+  {
+    "id": "voc-596",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"exhaustive\" mean?",
+    "correct": "Lengkap / exhaustif",
+    "explanation": "Exhaustive = lengkap. Contoh: An exhaustive catalogue of assumptions."
+  },
+  {
+    "id": "voc-597",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"expand\" mean?",
+    "correct": "Memperluas",
+    "explanation": "Expand = memperluas. Contoh: Expand the set of controls."
+  },
+  {
+    "id": "voc-598",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"expedient\" mean?",
+    "correct": "Praktis / expedient (kadang oportunis)",
+    "explanation": "Expedient = praktis secara situasional. Contoh: A politically expedient compromise."
+  },
+  {
+    "id": "voc-599",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"explicit\" mean?",
+    "correct": "Eksplisit / gamblang",
+    "explanation": "Explicit = eksplisit. Contoh: Make the identifying assumption explicit."
+  },
+  {
+    "id": "voc-600",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"exploit\" mean?",
+    "correct": "Memanfaatkan",
+    "explanation": "Exploit = memanfaatkan. Contoh: Exploit quasi-experimental variation."
+  },
+  {
+    "id": "voc-601",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"extend\" mean?",
+    "correct": "Memperluas / memperpanjang",
+    "explanation": "Extend = memperluas. Contoh: Extend the analysis to later cohorts."
+  },
+  {
+    "id": "voc-602",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"extract\" mean?",
+    "correct": "Mengekstrak",
+    "explanation": "Extract = mengekstrak. Contoh: Extract testable implications."
+  },
+  {
+    "id": "voc-603",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"facilitate\" mean?",
+    "correct": "Mempermudah",
+    "explanation": "Facilitate = mempermudah. Contoh: Institutions that facilitate coordination."
+  },
+  {
+    "id": "voc-604",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"feasibility\" mean?",
+    "correct": "Kelayakan",
+    "explanation": "Feasibility = kelayakan. Contoh: Assess the feasibility of replication."
+  },
+  {
+    "id": "voc-605",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"finite\" mean?",
+    "correct": "Terbatas / finite",
+    "explanation": "Finite = terbatas. Contoh: A finite sample correction."
+  },
+  {
+    "id": "voc-606",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"fluctuation\" mean?",
+    "correct": "Fluktuasi",
+    "explanation": "Fluctuation = fluktuasi. Contoh: Short-run fluctuations in demand."
+  },
+  {
+    "id": "voc-607",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"forecast\" mean?",
+    "correct": "Perkiraan / meramalkan",
+    "explanation": "Forecast = perkiraan. Contoh: Forecast accuracy under structural breaks."
+  },
+  {
+    "id": "voc-608",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"formalize\" mean?",
+    "correct": "Memformalkan",
+    "explanation": "Formalize = memformalkan. Contoh: Formalize the identifying assumptions."
+  },
+  {
+    "id": "voc-609",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"formulate\" mean?",
+    "correct": "Merumuskan",
+    "explanation": "Formulate = merumuskan. Contoh: Formulate a sharper null hypothesis."
+  },
+  {
+    "id": "voc-610",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"forthcoming\" mean?",
+    "correct": "Akan datang / terbuka",
+    "explanation": "Forthcoming = akan datang. Contoh: Forthcoming in a leading journal."
+  },
+  {
+    "id": "voc-611",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"foster\" mean?",
+    "correct": "Mendorong / memupuk",
+    "explanation": "Foster = memupuk. Contoh: Policies that foster innovation."
+  },
+  {
+    "id": "voc-612",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"fragmented\" mean?",
+    "correct": "Terpecah-pecah",
+    "explanation": "Fragmented = terpecah. Contoh: A fragmented regulatory landscape."
+  },
+  {
+    "id": "voc-613",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"framework\" mean?",
+    "correct": "Kerangka",
+    "explanation": "Framework = kerangka. Contoh: An analytical framework for comparison."
+  },
+  {
+    "id": "voc-614",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"fulfilamentally\" mean?",
+    "correct": "Secara mendasar",
+    "explanation": "Fundamentally = secara mendasar. Contoh: Fundamentally different mechanisms."
+  },
+  {
+    "id": "voc-615",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"gauge\" mean?",
+    "correct": "Mengukur / menaksir",
+    "explanation": "Gauge = menaksir. Contoh: Gauge the sensitivity of results."
+  },
+  {
+    "id": "voc-616",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"generate\" mean?",
+    "correct": "Menghasilkan",
+    "explanation": "Generate = menghasilkan. Contoh: Generate predictions under the model."
+  },
+  {
+    "id": "voc-617",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"hierarchical\" mean?",
+    "correct": "Hirarkis",
+    "explanation": "Hierarchical = hirarkis. Contoh: Hierarchical data structures."
+  },
+  {
+    "id": "voc-618",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"hypothesis\" mean?",
+    "correct": "Hipotesis",
+    "explanation": "Hypothesis = hipotesis. Contoh: Reject the null hypothesis."
+  },
+  {
+    "id": "voc-619",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"identical\" mean?",
+    "correct": "Identik",
+    "explanation": "Identical = identik. Contoh: Identical point estimates across methods."
+  },
+  {
+    "id": "voc-620",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"identify\" mean?",
+    "correct": "Mengidentifikasi",
+    "explanation": "Identify = mengidentifikasi. Contoh: Identify the causal channel."
+  },
+  {
+    "id": "voc-621",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"idiosyncratic\" mean?",
+    "correct": "Idiosinkratik / sangat khas",
+    "explanation": "Idiosyncratic = khas individu. Contoh: Idiosyncratic risk."
+  },
+  {
+    "id": "voc-622",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"illustrate\" mean?",
+    "correct": "Mengilustrasikan",
+    "explanation": "Illustrate = mengilustrasikan. Contoh: Illustrate the mechanism with a case."
+  },
+  {
+    "id": "voc-623",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"impair\" mean?",
+    "correct": "Melemahkan",
+    "explanation": "Impair = melemahkan. Contoh: Factors that impair identification."
+  },
+  {
+    "id": "voc-624",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"impede\" mean?",
+    "correct": "Menghambat",
+    "explanation": "Impede = menghambat. Contoh: Barriers that impede entry."
+  },
+  {
+    "id": "voc-625",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"implement\" mean?",
+    "correct": "Menerapkan",
+    "explanation": "Implement = menerapkan. Contoh: Implement the pre-registered plan."
+  },
+  {
+    "id": "voc-626",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"implication\" mean?",
+    "correct": "Implikasi",
+    "explanation": "Implication = implikasi. Contoh: Policy implications of the estimate."
+  },
+  {
+    "id": "voc-627",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"implicit\" mean?",
+    "correct": "Implisit",
+    "explanation": "Implicit = implisit. Contoh: Implicit in the functional form."
+  },
+  {
+    "id": "voc-628",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"impose\" mean?",
+    "correct": "Memberlakukan / membebankan",
+    "explanation": "Impose = memberlakukan. Contoh: Impose additional exclusion restrictions."
+  },
+  {
+    "id": "voc-629",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"incentive\" mean?",
+    "correct": "Insentif",
+    "explanation": "Incentive = insentif. Contoh: Misaligned incentives."
+  },
+  {
+    "id": "voc-630",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"incidence\" mean?",
+    "correct": "Insiden / beban (pajak)",
+    "explanation": "Incidence = beban/kejadian. Contoh: The incidence of the tax."
+  },
+  {
+    "id": "voc-631",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"inclined\" mean?",
+    "correct": "Cenderung",
+    "explanation": "Inclined = cenderung. Contoh: Inclined to overstate precision."
+  },
+  {
+    "id": "voc-632",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"inclusive\" mean?",
+    "correct": "Inklusif",
+    "explanation": "Inclusive = inklusif. Contoh: An inclusive definition of the sample."
+  },
+  {
+    "id": "voc-633",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"incorporate\" mean?",
+    "correct": "Memasukkan",
+    "explanation": "Incorporate = memasukkan. Contoh: Incorporate lagged outcomes."
+  },
+  {
+    "id": "voc-634",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"incur\" mean?",
+    "correct": "Menanggung (biaya)",
+    "explanation": "Incur = menanggung. Contoh: Firms incur compliance costs."
+  },
+  {
+    "id": "voc-635",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"independent\" mean?",
+    "correct": "Independen",
+    "explanation": "Independent = independen. Contoh: Independent replication."
+  },
+  {
+    "id": "voc-636",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"indicate\" mean?",
+    "correct": "Menunjukkan",
+    "explanation": "Indicate = menunjukkan. Contoh: Results indicate modest effects."
+  },
+  {
+    "id": "voc-637",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"indirect\" mean?",
+    "correct": "Tidak langsung",
+    "explanation": "Indirect = tidak langsung. Contoh: Indirect channels of influence."
+  },
+  {
+    "id": "voc-638",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"induce\" mean?",
+    "correct": "Menimbulkan",
+    "explanation": "Induce = menimbulkan. Contoh: Incentives that induce sorting."
+  },
+  {
+    "id": "voc-639",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"inevitable\" mean?",
+    "correct": "Tak terelakkan",
+    "explanation": "Inevitable = tak terelakkan. Contoh: An almost inevitable trade-off."
+  },
+  {
+    "id": "voc-640",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"infer\" mean?",
+    "correct": "Menyimpulkan",
+    "explanation": "Infer = menyimpulkan. Contoh: Infer causality with caution."
+  },
+  {
+    "id": "voc-641",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"inflation\" mean?",
+    "correct": "Inflasi",
+    "explanation": "Inflation = inflasi. Contoh: Inflation of Type I error rates."
+  },
+  {
+    "id": "voc-642",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"influential\" mean?",
+    "correct": "Berpengaruh",
+    "explanation": "Influential = berpengaruh. Contoh: An influential early study."
+  },
+  {
+    "id": "voc-643",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"inherent\" mean?",
+    "correct": "Mewujud / inheren",
+    "explanation": "Inherent = inheren. Contoh: Inherent limitations of the design."
+  },
+  {
+    "id": "voc-644",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"inhibit\" mean?",
+    "correct": "Menghambat",
+    "explanation": "Inhibit = menghambat. Contoh: Rules that inhibit experimentation."
+  },
+  {
+    "id": "voc-645",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"initial\" mean?",
+    "correct": "Awal",
+    "explanation": "Initial = awal. Contoh: Initial conditions matter."
+  },
+  {
+    "id": "voc-646",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"initiate\" mean?",
+    "correct": "Memulai",
+    "explanation": "Initiate = memulai. Contoh: Initiate a formal review."
+  },
+  {
+    "id": "voc-647",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"innovation\" mean?",
+    "correct": "Inovasi",
+    "explanation": "Innovation = inovasi. Contoh: Institutional innovation."
+  },
+  {
+    "id": "voc-648",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"input\" mean?",
+    "correct": "Masukan",
+    "explanation": "Input = masukan. Contoh: Key inputs to the model."
+  },
+  {
+    "id": "voc-649",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"inquire\" mean?",
+    "correct": "Menyelidiki / bertanya",
+    "explanation": "Inquire = menyelidiki. Contoh: Inquire into mechanisms."
+  },
+  {
+    "id": "voc-650",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"insight\" mean?",
+    "correct": "Wawasan",
+    "explanation": "Insight = wawasan. Contoh: Theoretical insight into the bias."
+  },
+  {
+    "id": "voc-651",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"inspect\" mean?",
+    "correct": "Memeriksa",
+    "explanation": "Inspect = memeriksa. Contoh: Inspect residual plots."
+  },
+  {
+    "id": "voc-652",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"instance\" mean?",
+    "correct": "Contoh kasus",
+    "explanation": "Instance = contoh. Contoh: In this instance the bias is severe."
+  },
+  {
+    "id": "voc-653",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"institute\" mean?",
+    "correct": "Mendirikan / lembaga",
+    "explanation": "Institute = mendirikan. Contoh: Institute stronger safeguards."
+  },
+  {
+    "id": "voc-654",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"integral\" mean?",
+    "correct": "Integral / penting",
+    "explanation": "Integral = integral. Contoh: An integral part of the argument."
+  },
+  {
+    "id": "voc-655",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"integrate\" mean?",
+    "correct": "Mengintegrasikan",
+    "explanation": "Integrate = mengintegrasikan. Contoh: Integrate qualitative evidence."
+  },
+  {
+    "id": "voc-656",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"integrity\" mean?",
+    "correct": "Integritas",
+    "explanation": "Integrity = integritas. Contoh: Integrity of the randomization."
+  },
+  {
+    "id": "voc-657",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"intense\" mean?",
+    "correct": "Intens",
+    "explanation": "Intense = intens. Contoh: Intense scrutiny of the design."
+  },
+  {
+    "id": "voc-658",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"interact\" mean?",
+    "correct": "Berinteraksi",
+    "explanation": "Interact = berinteraksi. Contoh: Variables that interact."
+  },
+  {
+    "id": "voc-659",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"intermediate\" mean?",
+    "correct": "Menengah",
+    "explanation": "Intermediate = menengah. Contoh: Intermediate outcomes."
+  },
+  {
+    "id": "voc-660",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"internal\" mean?",
+    "correct": "Internal",
+    "explanation": "Internal = internal. Contoh: Internal validity of the experiment."
+  },
+  {
+    "id": "voc-661",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"interpret\" mean?",
+    "correct": "Menafsirkan",
+    "explanation": "Interpret = menafsirkan. Contoh: Interpret magnitudes carefully."
+  },
+  {
+    "id": "voc-662",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"interval\" mean?",
+    "correct": "Interval",
+    "explanation": "Interval = interval. Contoh: Confidence intervals."
+  },
+  {
+    "id": "voc-663",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"intervene\" mean?",
+    "correct": "Mengintervensi",
+    "explanation": "Intervene = mengintervensi. Contoh: Intervene early in the process."
+  },
+  {
+    "id": "voc-664",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"intrinsic\" mean?",
+    "correct": "Intrinsik",
+    "explanation": "Intrinsic = intrinsik. Contoh: Intrinsic motivation."
+  },
+  {
+    "id": "voc-665",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"intuitive\" mean?",
+    "correct": "Intuitif",
+    "explanation": "Intuitive = intuitif. Contoh: An intuitive interpretation."
+  },
+  {
+    "id": "voc-666",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"inverse\" mean?",
+    "correct": "Terbalik",
+    "explanation": "Inverse = terbalik. Contoh: An inverse relationship."
+  },
+  {
+    "id": "voc-667",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"investigate\" mean?",
+    "correct": "Menyelidiki",
+    "explanation": "Investigate = menyelidiki. Contoh: Investigate heterogeneous effects."
+  },
+  {
+    "id": "voc-668",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"invoke\" mean?",
+    "correct": "Menggunakan sebagai dasar",
+    "explanation": "Invoke = mengutip sebagai dasar. Contoh: Invoke a parallel-trends assumption."
+  },
+  {
+    "id": "voc-669",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"involve\" mean?",
+    "correct": "Melibatkan",
+    "explanation": "Involve = melibatkan. Contoh: Designs that involve clustering."
+  },
+  {
+    "id": "voc-670",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"isolate\" mean?",
+    "correct": "Mengisolasi",
+    "explanation": "Isolate = mengisolasi. Contoh: Isolate the causal channel."
+  },
+  {
+    "id": "voc-671",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"issue\" mean?",
+    "correct": "Isu / menerbitkan",
+    "explanation": "Issue = isu. Contoh: Methodological issues remain."
+  },
+  {
+    "id": "voc-672",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"justify\" mean?",
+    "correct": "Membenarkan",
+    "explanation": "Justify = membenarkan. Contoh: Justify the exclusion restriction."
   }
 ]
