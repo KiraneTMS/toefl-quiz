@@ -27,8 +27,30 @@ async function loadData() {
       state.questions[f] = [];
     }
   }
+  try {
+    const res = await fetch('data/wordlist.json');
+    state.wordlist = await res.json();
+  } catch (e) {
+    console.error('Failed to load wordlist', e);
+    state.wordlist = [];
+  }
+  try {
+    state.skills = await (await fetch('data/skills.json')).json();
+  } catch (e) {
+    console.error('Failed to load skills', e);
+    state.skills = [];
+  }
+  try {
+    state.skillPacks = await (await fetch('data/skill-packs.json')).json();
+  } catch (e) {
+    console.error('Failed to load skill packs', e);
+    state.skillPacks = [];
+  }
+  state.selectedSkillId = null;
+  state.selectedSeed = null;
   renderDashboard();
   populateCategorySelect();
+  initWordlistUI();
 }
 
 // ---------- Progress ----------
@@ -89,6 +111,8 @@ function showView(name) {
   if (name === 'progress') renderProgress();
   if (name === 'mistakes') renderMistakes();
   if (name === 'dashboard') renderDashboard();
+  if (name === 'wordlist') renderWordlist();
+  if (name === 'skills') renderSkillsView();
 }
 
 document.querySelectorAll('.nav-btn').forEach(btn => {
@@ -555,31 +579,55 @@ function finishQuiz() {
 
   saveProgress();
 
+  // Skill pack history
+  if (quiz.isSkillPack && quiz.seed) {
+    saveSeedHistory(quiz.seed, quiz.skillId, percent, correctCount, quiz.questions.length);
+  }
+
   // Show results
   document.getElementById('score-percent').textContent = percent + '%';
   document.getElementById('score-fraction').textContent = `${correctCount} / ${quiz.questions.length}`;
 
   // Breakdown (simple for now)
   const breakdown = document.getElementById('section-breakdown');
+  const seedLine = quiz.seed
+    ? `<div class="breakdown-item"><span>Seed / Pack</span><span style="font-family:ui-monospace,monospace">${quiz.seed}</span></div>`
+    : '';
   breakdown.innerHTML = `
     <div class="breakdown-item">
       <span>Bagian: ${quiz.section.replace(/-/g, ' ')}</span>
       <span>${correctCount} / ${quiz.questions.length}</span>
     </div>
+    ${seedLine}
   `;
 
-  // Weak areas
+  // Weak areas + session mistake cards
   const weakEl = document.getElementById('weak-areas');
   if (Object.keys(weak).length) {
     weakEl.innerHTML = '<h3>Area Lemah (sesi ini)</h3>' +
       Object.entries(weak).map(([cat, cnt]) => `
         <div class="weak-item">
           <span>${cat.replace(/-/g, ' ')}</span>
-          <span>${cnt} kesalahan${cnt > 1 ? 's' : ''}</span>
+          <span>${cnt} kesalahan</span>
         </div>
       `).join('');
   } else {
     weakEl.innerHTML = '<h3>Kerja bagus!</h3><p style="color:var(--text-muted)">Tidak ada area lemah di sesi ini.</p>';
+  }
+
+  // Show wrong answers from this session on results page
+  let sessionBox = document.getElementById('session-mistakes');
+  if (!sessionBox) {
+    sessionBox = document.createElement('div');
+    sessionBox.id = 'session-mistakes';
+    sessionBox.className = 'session-mistakes';
+    weakEl.insertAdjacentElement('afterend', sessionBox);
+  }
+  if (kesalahansThis.length) {
+    sessionBox.innerHTML = '<h3>Review jawaban salah</h3>' +
+      kesalahansThis.map((m, i) => formatMistakeCard(m, i)).join('');
+  } else {
+    sessionBox.innerHTML = '';
   }
 
   const reviewBtn = document.getElementById('btn-review-mistakes');
@@ -630,10 +678,42 @@ function renderProgress() {
 }
 
 // ---------- Mistakes view ----------
+function formatMistakeCard(m, index) {
+  const letters = ['A', 'B', 'C', 'D'];
+  const chosenLetter = letters[m.chosen] ?? '?';
+  const correctLetter = letters[m.correct] ?? '?';
+  const chosenText = (m.options && m.options[m.chosen] != null) ? m.options[m.chosen] : '—';
+  const correctText = (m.options && m.options[m.correct] != null) ? m.options[m.correct] : '—';
+  const section = (m.section || '').replace(/-/g, ' ');
+  const category = (m.category || '').replace(/-/g, ' ');
+  const meta = [section, category].filter(Boolean).join(' · ');
+
+  return `
+    <div class="mistake-card">
+      <div class="mistake-header">
+        <span class="mistake-badge">Salah${index != null ? ' #' + (index + 1) : ''}</span>
+        ${meta ? `<span class="mistake-meta">${meta}</span>` : ''}
+      </div>
+      <div class="q-text">${m.question}</div>
+      <div class="answer-compare">
+        <div class="answer-box wrong">
+          <span class="label">Jawabanmu</span>
+          <span>${chosenLetter}. ${chosenText}</span>
+        </div>
+        <div class="answer-box correct">
+          <span class="label">Jawaban benar</span>
+          <span>${correctLetter}. ${correctText}</span>
+        </div>
+      </div>
+      <div class="explanation"><strong>Penjelasan:</strong> ${m.explanation || '—'}</div>
+    </div>
+  `;
+}
+
 function renderMistakes() {
   const list = document.getElementById('mistakes-list');
   const empty = document.getElementById('no-mistakes');
-  const kesalahans = state.progress.kesalahans;
+  const kesalahans = state.progress.kesalahans || [];
 
   if (!kesalahans.length) {
     list.innerHTML = '';
@@ -642,18 +722,265 @@ function renderMistakes() {
   }
   empty.classList.add('hidden');
 
-  const letters = ['A', 'B', 'C', 'D'];
-  list.innerHTML = kesalahans.map(m => `
-    <div class="kesalahan-card">
-      <div class="q-text">${m.question}</div>
-      <div class="answer-row">
-        <span class="wrong-ans">Jawabanmu: ${letters[m.chosen] || '?'} – ${m.options[m.chosen] || '—'}</span>
-        <span class="correct-ans">Jawaban benar: ${letters[m.correct]} – ${m.options[m.correct]}</span>
-      </div>
-      <div class="explanation">${m.explanation || ''}</div>
+  list.innerHTML = `
+    <div class="mistakes-summary">
+      <strong>${kesalahans.length}</strong> kesalahan tersimpan (maks. 50 terakhir)
+    </div>
+  ` + kesalahans.map((m, i) => formatMistakeCard(m, i)).join('');
+}
+
+
+// ---------- Word list (TOEFL high-frequency academic words) ----------
+function initWordlistUI() {
+  const letterSel = document.getElementById('wordlist-letter');
+  if (!letterSel || letterSel.options.length > 1) return;
+  const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+  letters.forEach(L => {
+    const opt = document.createElement('option');
+    opt.value = L;
+    opt.textContent = L;
+    letterSel.appendChild(opt);
+  });
+  const search = document.getElementById('wordlist-search');
+  if (search) search.addEventListener('input', renderWordlist);
+  letterSel.addEventListener('change', renderWordlist);
+}
+
+function renderWordlist() {
+  const container = document.getElementById('wordlist-container');
+  const countEl = document.getElementById('wordlist-count');
+  if (!container) return;
+
+  const q = (document.getElementById('wordlist-search')?.value || '').trim().toLowerCase();
+  const letter = document.getElementById('wordlist-letter')?.value || 'all';
+  let list = state.wordlist || [];
+
+  if (letter !== 'all') {
+    list = list.filter(w => w.word[0].toUpperCase() === letter);
+  }
+  if (q) {
+    list = list.filter(w =>
+      w.word.toLowerCase().includes(q) ||
+      (w.meaning_id || '').toLowerCase().includes(q) ||
+      (w.example || '').toLowerCase().includes(q)
+    );
+  }
+
+  // sort A-Z
+  list = [...list].sort((a, b) => a.word.localeCompare(b.word));
+
+  if (countEl) {
+    countEl.innerHTML = `<strong>${list.length}</strong> kata ditampilkan` +
+      (q || letter !== 'all' ? ' (terfilter)' : ' — fokus kata akademik TOEFL');
+  }
+
+  if (!list.length) {
+    container.innerHTML = '<p class="empty-state">Tidak ada kata yang cocok.</p>';
+    return;
+  }
+
+  container.innerHTML = list.map(w => `
+    <div class="word-card">
+      <div class="word">${w.word}</div>
+      <div class="meaning">${w.meaning_id}</div>
+      <div class="example">${w.example || ''}</div>
     </div>
   `).join('');
 }
+
+
+
+// ---------- Skills + Seed packs ----------
+const SEED_HISTORY_KEY = 'toefl_skill_seed_history_v1';
+
+function loadSeedHistory() {
+  try {
+    return JSON.parse(localStorage.getItem(SEED_HISTORY_KEY) || '[]');
+  } catch { return []; }
+}
+
+function saveSeedHistory(seed, skillId, percent, correct, total) {
+  let hist = loadSeedHistory().filter(h => h.seed !== seed);
+  hist.unshift({
+    seed,
+    skillId,
+    percent,
+    correct,
+    total,
+    date: new Date().toISOString()
+  });
+  hist = hist.slice(0, 30);
+  localStorage.setItem(SEED_HISTORY_KEY, JSON.stringify(hist));
+}
+
+function getPackBySeed(seed) {
+  if (!seed) return null;
+  const code = String(seed).trim().toUpperCase();
+  return (state.skillPacks || []).find(p => p.seed.toUpperCase() === code) || null;
+}
+
+function renderSkillsView() {
+  const list = document.getElementById('skills-list');
+  if (!list) return;
+
+  const skills = state.skills || [];
+  let html = '';
+  let lastGroup = '';
+  skills.forEach(sk => {
+    if (sk.group !== lastGroup) {
+      lastGroup = sk.group;
+      html += `<div class="skill-group-label">${sk.group}</div>`;
+    }
+    const active = state.selectedSkillId === sk.id ? 'active' : '';
+    html += `
+      <button type="button" class="skill-item ${active}" data-skill="${sk.id}">
+        <div class="skill-code">${sk.code}</div>
+        <div class="skill-title">${sk.title}</div>
+        <div class="skill-desc">${sk.description}</div>
+      </button>`;
+  });
+  list.innerHTML = html || '<p class="hint">Tidak ada skill.</p>';
+
+  list.querySelectorAll('.skill-item').forEach(btn => {
+    btn.addEventListener('click', () => {
+      state.selectedSkillId = btn.dataset.skill;
+      state.selectedSeed = null;
+      renderSkillsView();
+    });
+  });
+
+  renderSeedsList();
+  renderSeedHistory();
+
+  const useBtn = document.getElementById('btn-use-seed');
+  const startBtn = document.getElementById('btn-start-skill');
+  if (useBtn && !useBtn._bound) {
+    useBtn._bound = true;
+    useBtn.addEventListener('click', () => {
+      const val = document.getElementById('seed-input').value.trim();
+      const pack = getPackBySeed(val);
+      if (!pack) {
+        alert('Seed tidak ditemukan. Contoh: S1-01, S2-03');
+        return;
+      }
+      state.selectedSkillId = pack.skillId;
+      state.selectedSeed = pack.seed;
+      document.getElementById('seed-input').value = pack.seed;
+      renderSkillsView();
+    });
+  }
+  if (startBtn && !startBtn._bound) {
+    startBtn._bound = true;
+    startBtn.addEventListener('click', startSkillPackQuiz);
+  }
+}
+
+function renderSeedsList() {
+  const seedsEl = document.getElementById('seeds-list');
+  const label = document.getElementById('skills-selected-label');
+  const preview = document.getElementById('seed-preview');
+  const startBtn = document.getElementById('btn-start-skill');
+  if (!seedsEl) return;
+
+  const skillId = state.selectedSkillId;
+  if (!skillId) {
+    seedsEl.innerHTML = '';
+    if (label) label.textContent = 'Pilih skill dulu';
+    if (preview) preview.classList.add('hidden');
+    if (startBtn) startBtn.disabled = true;
+    return;
+  }
+
+  const skill = (state.skills || []).find(s => s.id === skillId);
+  if (label) label.textContent = skill ? `${skill.code} — ${skill.title}` : skillId;
+
+  const packs = (state.skillPacks || []).filter(p => p.skillId === skillId);
+  seedsEl.innerHTML = packs.map(p => {
+    const active = state.selectedSeed === p.seed ? 'active' : '';
+    return `
+      <button type="button" class="seed-item ${active}" data-seed="${p.seed}">
+        <div class="seed-code">${p.seed}</div>
+        <div class="seed-meta">${p.title} · ${p.questionCount} soal</div>
+      </button>`;
+  }).join('') || '<p class="hint">Belum ada pack untuk skill ini.</p>';
+
+  seedsEl.querySelectorAll('.seed-item').forEach(btn => {
+    btn.addEventListener('click', () => {
+      state.selectedSeed = btn.dataset.seed;
+      const inp = document.getElementById('seed-input');
+      if (inp) inp.value = state.selectedSeed;
+      renderSeedsList();
+    });
+  });
+
+  const pack = getPackBySeed(state.selectedSeed);
+  if (pack && preview) {
+    preview.classList.remove('hidden');
+    preview.innerHTML = `Pack <strong>${pack.seed}</strong> · ${pack.questionCount} soal · siap dikerjakan / direview`;
+  } else if (preview) {
+    preview.classList.add('hidden');
+  }
+  if (startBtn) startBtn.disabled = !pack;
+}
+
+function renderSeedHistory() {
+  const el = document.getElementById('seed-history');
+  if (!el) return;
+  const hist = loadSeedHistory();
+  if (!hist.length) {
+    el.innerHTML = '<p class="hint">Belum ada riwayat.</p>';
+    return;
+  }
+  el.innerHTML = hist.map(h => {
+    const pct = h.percent != null ? ` ${h.percent}%` : '';
+    return `<button type="button" class="seed-chip" data-seed="${h.seed}" title="Buka pack ini">${h.seed}${pct}</button>`;
+  }).join('');
+  el.querySelectorAll('.seed-chip').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const pack = getPackBySeed(btn.dataset.seed);
+      if (!pack) {
+        alert('Pack tidak ditemukan.');
+        return;
+      }
+      state.selectedSkillId = pack.skillId;
+      state.selectedSeed = pack.seed;
+      const inp = document.getElementById('seed-input');
+      if (inp) inp.value = pack.seed;
+      renderSkillsView();
+    });
+  });
+}
+
+function startSkillPackQuiz() {
+  const pack = getPackBySeed(state.selectedSeed);
+  if (!pack) {
+    alert('Pilih seed/pack dulu.');
+    return;
+  }
+
+  // Clone + shuffle options only (keep question order fixed for review consistency)
+  const questions = pack.questions.map(q => {
+    const copy = { ...q, section: 'structure', category: q.skillId || pack.skillId };
+    return shuffleOptions(copy);
+  });
+
+  state.currentQuiz = {
+    isReadingSet: false,
+    isSkillPack: true,
+    seed: pack.seed,
+    skillId: pack.skillId,
+    questions,
+    answers: new Array(questions.length).fill(null),
+    mode: 'practice',
+    index: 0,
+    startTime: Date.now(),
+    section: 'structure'
+  };
+
+  showView('quiz');
+  renderQuestion();
+}
+
 
 // ---------- Init ----------
 loadData().then(() => {

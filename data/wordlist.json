@@ -1,0 +1,3565 @@
+[
+  {
+    "id": "wl-358",
+    "word": "a posteriori",
+    "meaning_id": "berdasarkan data empiris",
+    "example": "A posteriori estimates.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-357",
+    "word": "a priori",
+    "meaning_id": "dari prinsip; sebelum data",
+    "example": "An a priori hypothesis.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-001",
+    "word": "abandon",
+    "meaning_id": "meninggalkan; melepaskan",
+    "example": "They had to abandon the project.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-002",
+    "word": "abstract",
+    "meaning_id": "abstrak; ringkasan",
+    "example": "The abstract summarizes the paper.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-003",
+    "word": "academic",
+    "meaning_id": "akademik",
+    "example": "Academic writing requires precision.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-004",
+    "word": "access",
+    "meaning_id": "akses; akses menuju",
+    "example": "Students need access to resources.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-005",
+    "word": "accurate",
+    "meaning_id": "akurat; tepat",
+    "example": "The measurement must be accurate.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-006",
+    "word": "achieve",
+    "meaning_id": "mencapai",
+    "example": "She achieved a high score.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-007",
+    "word": "acquire",
+    "meaning_id": "memperoleh",
+    "example": "Acquire new vocabulary daily.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-356",
+    "word": "ad hoc",
+    "meaning_id": "sementara; untuk tujuan khusus",
+    "example": "An ad hoc committee.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-008",
+    "word": "adapt",
+    "meaning_id": "beradaptasi",
+    "example": "Species adapt to climate change.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-009",
+    "word": "adequate",
+    "meaning_id": "memadai; cukup",
+    "example": "The funding was adequate.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-010",
+    "word": "adjacent",
+    "meaning_id": "berdekatan",
+    "example": "The lab is adjacent to the library.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-011",
+    "word": "adjust",
+    "meaning_id": "menyesuaikan",
+    "example": "Adjust the settings carefully.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-012",
+    "word": "administration",
+    "meaning_id": "administrasi; pemerintahan",
+    "example": "University administration approved the plan.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-432",
+    "word": "admittedly",
+    "meaning_id": "memang; diakui",
+    "example": "Admittedly the sample is small.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-013",
+    "word": "adult",
+    "meaning_id": "dewasa",
+    "example": "Adult learners often progress quickly.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-014",
+    "word": "advocate",
+    "meaning_id": "menganjurkan; pendukung",
+    "example": "She advocates for education reform.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-015",
+    "word": "affect",
+    "meaning_id": "mempengaruhi",
+    "example": "Sleep affects concentration.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-343",
+    "word": "aforementioned",
+    "meaning_id": "yang disebutkan sebelumnya",
+    "example": "The aforementioned studies.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-344",
+    "word": "aforesaid",
+    "meaning_id": "yang telah disebut (sangat formal)",
+    "example": "The aforesaid conditions.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-016",
+    "word": "aggregate",
+    "meaning_id": "gabungan; menggabungkan",
+    "example": "Aggregate data from all sites.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-017",
+    "word": "aid",
+    "meaning_id": "bantuan; membantu",
+    "example": "Financial aid is available.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-334",
+    "word": "albeit",
+    "meaning_id": "meskipun (formal)",
+    "example": "Clear, albeit limited, evidence.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-429",
+    "word": "allegedly",
+    "meaning_id": "diduga; diklaim",
+    "example": "Allegedly exogenous shocks.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-018",
+    "word": "allocate",
+    "meaning_id": "mengalokasikan",
+    "example": "Allocate time for each section.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-019",
+    "word": "alter",
+    "meaning_id": "mengubah",
+    "example": "Do not alter the original data.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-020",
+    "word": "alternative",
+    "meaning_id": "alternatif",
+    "example": "Consider an alternative approach.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-436",
+    "word": "alternatively",
+    "meaning_id": "sebagai alternatif",
+    "example": "Alternatively, use matching.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-021",
+    "word": "ambiguous",
+    "meaning_id": "ambigu; bermakna ganda",
+    "example": "The instruction was ambiguous.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-022",
+    "word": "amendment",
+    "meaning_id": "amandemen; perubahan",
+    "example": "An amendment to the policy.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-460",
+    "word": "amid",
+    "meaning_id": "di tengah",
+    "example": "Amid growing concern.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-461",
+    "word": "amidst",
+    "meaning_id": "di tengah (varian)",
+    "example": "Amidst conflicting claims.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-462",
+    "word": "among",
+    "meaning_id": "di antara",
+    "example": "Among competing explanations.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-463",
+    "word": "amongst",
+    "meaning_id": "di antara (varian formal)",
+    "example": "Amongst the alternatives.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-023",
+    "word": "analysis",
+    "meaning_id": "analisis",
+    "example": "Statistical analysis supports the claim.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-498",
+    "word": "ancillary",
+    "meaning_id": "pendukung; tambahan",
+    "example": "Ancillary analyses.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-024",
+    "word": "annual",
+    "meaning_id": "tahunan",
+    "example": "The annual report was published.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-025",
+    "word": "anticipate",
+    "meaning_id": "mengantisipasi",
+    "example": "Anticipate possible objections.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-026",
+    "word": "apparent",
+    "meaning_id": "tampak; jelas",
+    "example": "The error was apparent.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-027",
+    "word": "appendix",
+    "meaning_id": "lampiran",
+    "example": "See the appendix for details.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-028",
+    "word": "appreciate",
+    "meaning_id": "menghargai; memahami",
+    "example": "I appreciate your feedback.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-029",
+    "word": "approach",
+    "meaning_id": "pendekatan; mendekati",
+    "example": "A systematic approach is needed.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-030",
+    "word": "appropriate",
+    "meaning_id": "sesuai; tepat",
+    "example": "Choose an appropriate example.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-031",
+    "word": "approximate",
+    "meaning_id": "kira-kira; mendekati",
+    "example": "An approximate value is enough.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-032",
+    "word": "arbitrary",
+    "meaning_id": "sewenang-wenang",
+    "example": "An arbitrary deadline was set.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-385",
+    "word": "arduous",
+    "meaning_id": "sangat berat",
+    "example": "An arduous process.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-033",
+    "word": "area",
+    "meaning_id": "bidang; area",
+    "example": "This is my area of research.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-431",
+    "word": "arguably",
+    "meaning_id": "bisa dibilang",
+    "example": "Arguably the strongest design.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-034",
+    "word": "aspect",
+    "meaning_id": "aspek",
+    "example": "Consider every aspect of the problem.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-035",
+    "word": "assemble",
+    "meaning_id": "merakit; mengumpulkan",
+    "example": "Assemble the evidence carefully.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-036",
+    "word": "assess",
+    "meaning_id": "menilai",
+    "example": "Assess student performance.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-037",
+    "word": "assign",
+    "meaning_id": "menugaskan",
+    "example": "The teacher assigned homework.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-038",
+    "word": "assist",
+    "meaning_id": "membantu",
+    "example": "Tutors assist struggling students.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-039",
+    "word": "assume",
+    "meaning_id": "mengasumsikan",
+    "example": "Do not assume causation.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-040",
+    "word": "assure",
+    "meaning_id": "meyakinkan; memastikan",
+    "example": "I assure you the data are correct.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-041",
+    "word": "attach",
+    "meaning_id": "melampirkan; menempelkan",
+    "example": "Attach the file to your email.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-042",
+    "word": "attain",
+    "meaning_id": "mencapai",
+    "example": "Attain a higher level of accuracy.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-043",
+    "word": "attitude",
+    "meaning_id": "sikap",
+    "example": "A positive attitude helps learning.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-044",
+    "word": "attribute",
+    "meaning_id": "mengaitkan; ciri",
+    "example": "Attribute success to hard work.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-045",
+    "word": "author",
+    "meaning_id": "penulis",
+    "example": "The author challenges the theory.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-046",
+    "word": "authority",
+    "meaning_id": "otoritas; wewenang",
+    "example": "She is an authority on the topic.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-047",
+    "word": "available",
+    "meaning_id": "tersedia",
+    "example": "The dataset is publicly available.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-048",
+    "word": "aware",
+    "meaning_id": "sadar",
+    "example": "Be aware of common traps.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-308",
+    "word": "barely",
+    "meaning_id": "hampir tidak; baru saja",
+    "example": "She had barely finished when the bell rang.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-465",
+    "word": "beneath",
+    "meaning_id": "di bawah",
+    "example": "Beneath the surface pattern.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-049",
+    "word": "benefit",
+    "meaning_id": "manfaat; menguntungkan",
+    "example": "Exercise has many benefits.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-466",
+    "word": "beside",
+    "meaning_id": "di samping",
+    "example": "Beside the main result.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-467",
+    "word": "besides",
+    "meaning_id": "selain itu",
+    "example": "Besides, the sample is small.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-464",
+    "word": "beyond",
+    "meaning_id": "di luar; melampaui",
+    "example": "Beyond the scope of this study.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-050",
+    "word": "bias",
+    "meaning_id": "bias; keberpihakan",
+    "example": "Avoid bias in sampling.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-051",
+    "word": "bond",
+    "meaning_id": "ikatan; obligasi",
+    "example": "Social bonds support cooperation.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-052",
+    "word": "brief",
+    "meaning_id": "singkat",
+    "example": "Give a brief summary.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-053",
+    "word": "capable",
+    "meaning_id": "mampu",
+    "example": "Capable of independent research.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-054",
+    "word": "capacity",
+    "meaning_id": "kapasitas",
+    "example": "Limited cognitive capacity.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-055",
+    "word": "category",
+    "meaning_id": "kategori",
+    "example": "Sort items by category.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-056",
+    "word": "cease",
+    "meaning_id": "berhenti",
+    "example": "The noise finally ceased.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-364",
+    "word": "ceteris paribus",
+    "meaning_id": "dengan hal lain tetap",
+    "example": "Ceteris paribus, higher effort raises scores.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-350",
+    "word": "cf.",
+    "meaning_id": "bandingkan (catatan)",
+    "example": "Cf. Smith (2019) for details.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-057",
+    "word": "challenge",
+    "meaning_id": "tantangan; menantang",
+    "example": "The finding challenges prior work.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-058",
+    "word": "channel",
+    "meaning_id": "saluran",
+    "example": "A communication channel.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-059",
+    "word": "chapter",
+    "meaning_id": "bab",
+    "example": "Read the next chapter.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-060",
+    "word": "chart",
+    "meaning_id": "bagan; grafik",
+    "example": "The chart shows the trend.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-061",
+    "word": "chemical",
+    "meaning_id": "kimia; zat kimia",
+    "example": "A chemical reaction occurred.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-440",
+    "word": "chiefly",
+    "meaning_id": "terutama",
+    "example": "Chiefly due to attrition.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-062",
+    "word": "circumstance",
+    "meaning_id": "keadaan",
+    "example": "Under these circumstances.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-063",
+    "word": "cite",
+    "meaning_id": "mengutip",
+    "example": "Cite your sources.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-064",
+    "word": "civil",
+    "meaning_id": "sipil",
+    "example": "Civil society organizations.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-065",
+    "word": "clarify",
+    "meaning_id": "memperjelas",
+    "example": "Clarify the research question.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-066",
+    "word": "classic",
+    "meaning_id": "klasik",
+    "example": "A classic example of bias.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-067",
+    "word": "clause",
+    "meaning_id": "klausa",
+    "example": "A relative clause.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-068",
+    "word": "code",
+    "meaning_id": "kode",
+    "example": "Source code must be shared.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-401",
+    "word": "cogent",
+    "meaning_id": "kuat secara logika",
+    "example": "A cogent critique.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-069",
+    "word": "coherent",
+    "meaning_id": "koheren; runtut",
+    "example": "A coherent argument.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-070",
+    "word": "coincide",
+    "meaning_id": "bertepatan",
+    "example": "The results coincide with earlier work.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-071",
+    "word": "collapse",
+    "meaning_id": "runtuh",
+    "example": "The market collapsed.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-501",
+    "word": "collateral",
+    "meaning_id": "sampingan",
+    "example": "Collateral effects.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-072",
+    "word": "colleague",
+    "meaning_id": "rekan kerja",
+    "example": "Discuss with a colleague.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-073",
+    "word": "commence",
+    "meaning_id": "memulai",
+    "example": "The trial will commence next month.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-074",
+    "word": "comment",
+    "meaning_id": "komentar",
+    "example": "Leave a brief comment.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-075",
+    "word": "commission",
+    "meaning_id": "komisi; menugaskan",
+    "example": "A government commission.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-076",
+    "word": "commit",
+    "meaning_id": "berkomitmen; melakukan",
+    "example": "Commit to a study schedule.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-077",
+    "word": "commodity",
+    "meaning_id": "komoditas",
+    "example": "Agricultural commodities.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-078",
+    "word": "communicate",
+    "meaning_id": "berkomunikasi",
+    "example": "Communicate findings clearly.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-079",
+    "word": "community",
+    "meaning_id": "komunitas; masyarakat",
+    "example": "The academic community.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-080",
+    "word": "compatible",
+    "meaning_id": "kompatibel",
+    "example": "Compatible with prior theory.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-400",
+    "word": "compelling",
+    "meaning_id": "sangat meyakinkan",
+    "example": "A compelling argument.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-081",
+    "word": "compensate",
+    "meaning_id": "mengompensasi",
+    "example": "Compensate for missing data.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-082",
+    "word": "compile",
+    "meaning_id": "mengompilasi",
+    "example": "Compile a word list.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-083",
+    "word": "complement",
+    "meaning_id": "melengkapi",
+    "example": "The figure complements the text.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-084",
+    "word": "complex",
+    "meaning_id": "kompleks; rumit",
+    "example": "A complex process.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-085",
+    "word": "component",
+    "meaning_id": "komponen",
+    "example": "A key component of the design.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-086",
+    "word": "compound",
+    "meaning_id": "gabungan; senyawa",
+    "example": "A compound sentence.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-087",
+    "word": "comprehensive",
+    "meaning_id": "menyeluruh",
+    "example": "A comprehensive review.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-088",
+    "word": "comprise",
+    "meaning_id": "terdiri dari",
+    "example": "The sample comprises 200 students.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-089",
+    "word": "compute",
+    "meaning_id": "menghitung",
+    "example": "Compute the average score.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-404",
+    "word": "conceivable",
+    "meaning_id": "dapat dibayangkan",
+    "example": "Every conceivable threat to validity.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-090",
+    "word": "conceive",
+    "meaning_id": "menggagas; membayangkan",
+    "example": "Hard to conceive such a result.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-091",
+    "word": "concentrate",
+    "meaning_id": "berkonsentrasi; memusatkan",
+    "example": "Concentrate on main ideas.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-092",
+    "word": "concept",
+    "meaning_id": "konsep",
+    "example": "The core concept is simple.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-093",
+    "word": "conclude",
+    "meaning_id": "menyimpulkan",
+    "example": "We conclude that the effect is real.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-398",
+    "word": "conclusive",
+    "meaning_id": "meyakinkan; final",
+    "example": "No conclusive evidence yet.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-094",
+    "word": "concurrent",
+    "meaning_id": "bersamaan",
+    "example": "Concurrent validity.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-095",
+    "word": "conduct",
+    "meaning_id": "melakukan; memimpin",
+    "example": "Conduct an experiment.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-096",
+    "word": "confer",
+    "meaning_id": "memberikan; berunding",
+    "example": "Confer a degree.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-097",
+    "word": "confine",
+    "meaning_id": "membatasi",
+    "example": "Confine the analysis to adults.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-098",
+    "word": "confirm",
+    "meaning_id": "mengonfirmasi",
+    "example": "Confirm the hypothesis.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-099",
+    "word": "conflict",
+    "meaning_id": "konflik",
+    "example": "A conflict of interest.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-100",
+    "word": "conform",
+    "meaning_id": "menyesuaikan diri",
+    "example": "Conform to the guidelines.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-101",
+    "word": "consent",
+    "meaning_id": "persetujuan",
+    "example": "Informed consent is required.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-102",
+    "word": "consequent",
+    "meaning_id": "akibat",
+    "example": "The consequent increase in cost.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-321",
+    "word": "consequently",
+    "meaning_id": "akibatnya",
+    "example": "Consequently, the estimate is biased.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-103",
+    "word": "considerable",
+    "meaning_id": "cukup besar",
+    "example": "A considerable improvement.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-104",
+    "word": "consist",
+    "meaning_id": "terdiri",
+    "example": "Consist of three parts.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-105",
+    "word": "constant",
+    "meaning_id": "konstan",
+    "example": "Remain constant over time.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-106",
+    "word": "constitute",
+    "meaning_id": "membentuk; merupakan",
+    "example": "These factors constitute a risk.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-107",
+    "word": "constrain",
+    "meaning_id": "membatasi",
+    "example": "Time constraints.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-108",
+    "word": "construct",
+    "meaning_id": "membangun; konstruk",
+    "example": "Construct a valid argument.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-109",
+    "word": "consult",
+    "meaning_id": "berkonsultasi",
+    "example": "Consult the style guide.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-110",
+    "word": "consume",
+    "meaning_id": "mengonsumsi",
+    "example": "Consume less energy.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-111",
+    "word": "contact",
+    "meaning_id": "kontak",
+    "example": "Contact the instructor.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-112",
+    "word": "contemporary",
+    "meaning_id": "kontemporer; sezaman",
+    "example": "Contemporary research.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-113",
+    "word": "context",
+    "meaning_id": "konteks",
+    "example": "Interpret words in context.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-114",
+    "word": "contract",
+    "meaning_id": "kontrak; menyusut",
+    "example": "Sign the contract.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-115",
+    "word": "contradict",
+    "meaning_id": "bertentangan",
+    "example": "The data contradict the claim.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-116",
+    "word": "contrary",
+    "meaning_id": "sebaliknya",
+    "example": "On the contrary.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-117",
+    "word": "contrast",
+    "meaning_id": "kontras; perbedaan",
+    "example": "In contrast to earlier findings.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-118",
+    "word": "contribute",
+    "meaning_id": "berkontribusi",
+    "example": "Contribute to the discussion.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-119",
+    "word": "controversy",
+    "meaning_id": "kontroversi",
+    "example": "The issue remains controversial.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-120",
+    "word": "convene",
+    "meaning_id": "mengadakan",
+    "example": "Convene a panel.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-505",
+    "word": "conventional",
+    "meaning_id": "konvensional",
+    "example": "Conventional wisdom.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-121",
+    "word": "converse",
+    "meaning_id": "sebaliknya; berbicara",
+    "example": "The converse is also true.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-435",
+    "word": "conversely",
+    "meaning_id": "sebaliknya",
+    "example": "Conversely, the effect disappears.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-122",
+    "word": "convert",
+    "meaning_id": "mengonversi",
+    "example": "Convert units carefully.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-123",
+    "word": "convince",
+    "meaning_id": "meyakinkan",
+    "example": "Convince the reader.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-124",
+    "word": "cooperate",
+    "meaning_id": "bekerja sama",
+    "example": "Teams must cooperate.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-125",
+    "word": "coordinate",
+    "meaning_id": "mengoordinasikan",
+    "example": "Coordinate the schedule.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-126",
+    "word": "core",
+    "meaning_id": "inti",
+    "example": "The core argument.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-127",
+    "word": "corporate",
+    "meaning_id": "korporat",
+    "example": "Corporate governance.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-128",
+    "word": "correspond",
+    "meaning_id": "sesuai; berkorespondensi",
+    "example": "Results correspond to predictions.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-129",
+    "word": "couple",
+    "meaning_id": "beberapa; pasangan",
+    "example": "A couple of examples.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-424",
+    "word": "covert",
+    "meaning_id": "tersembunyi",
+    "example": "Covert selection processes.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-130",
+    "word": "create",
+    "meaning_id": "menciptakan",
+    "example": "Create a study plan.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-131",
+    "word": "credit",
+    "meaning_id": "kredit; menghargai",
+    "example": "Give credit to prior work.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-132",
+    "word": "criteria",
+    "meaning_id": "kriteria",
+    "example": "Clear selection criteria.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-133",
+    "word": "crucial",
+    "meaning_id": "krusial",
+    "example": "A crucial assumption.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-134",
+    "word": "culture",
+    "meaning_id": "budaya",
+    "example": "Academic culture varies.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-135",
+    "word": "currency",
+    "meaning_id": "mata uang; keberlakuan",
+    "example": "Currency of the findings.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-394",
+    "word": "cursory",
+    "meaning_id": "sekilas; tidak mendalam",
+    "example": "A cursory reading is not enough.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-136",
+    "word": "cycle",
+    "meaning_id": "siklus",
+    "example": "The business cycle.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-137",
+    "word": "data",
+    "meaning_id": "data",
+    "example": "Analyze the data.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-388",
+    "word": "daunting",
+    "meaning_id": "menakutkan; membuat ciut",
+    "example": "A daunting literature.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-354",
+    "word": "de facto",
+    "meaning_id": "pada praktiknya",
+    "example": "A de facto standard.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-355",
+    "word": "de jure",
+    "meaning_id": "secara hukum",
+    "example": "De jure independence.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-368",
+    "word": "dearth",
+    "meaning_id": "kelangkaan",
+    "example": "A dearth of reliable measures.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-138",
+    "word": "debate",
+    "meaning_id": "debat",
+    "example": "An ongoing debate.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-139",
+    "word": "decade",
+    "meaning_id": "dekade",
+    "example": "Over the past decade.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-399",
+    "word": "decisive",
+    "meaning_id": "menentukan",
+    "example": "Decisive evidence against the null.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-140",
+    "word": "decline",
+    "meaning_id": "menurun; menolak",
+    "example": "A decline in scores.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-141",
+    "word": "deduce",
+    "meaning_id": "menyimpulkan (logis)",
+    "example": "Deduce the meaning from context.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-142",
+    "word": "define",
+    "meaning_id": "mendefinisikan",
+    "example": "Define key terms.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-143",
+    "word": "definite",
+    "meaning_id": "pasti",
+    "example": "No definite answer yet.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-144",
+    "word": "demonstrate",
+    "meaning_id": "menunjukkan",
+    "example": "Demonstrate understanding.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-145",
+    "word": "denote",
+    "meaning_id": "menandakan",
+    "example": "Asterisks denote significance.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-146",
+    "word": "deny",
+    "meaning_id": "menyangkal",
+    "example": "Deny the allegation.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-147",
+    "word": "depress",
+    "meaning_id": "menekan",
+    "example": "Depress economic activity.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-502",
+    "word": "derivative",
+    "meaning_id": "turunan; tidak orisinal",
+    "example": "A derivative argument.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-148",
+    "word": "derive",
+    "meaning_id": "berasal; menurunkan",
+    "example": "Derive implications.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-149",
+    "word": "design",
+    "meaning_id": "desain; merancang",
+    "example": "Research design.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-150",
+    "word": "despite",
+    "meaning_id": "meskipun",
+    "example": "Despite the limitations.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-151",
+    "word": "detect",
+    "meaning_id": "mendeteksi",
+    "example": "Detect an error.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-152",
+    "word": "deviate",
+    "meaning_id": "menyimpang",
+    "example": "Deviate from the plan.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-153",
+    "word": "device",
+    "meaning_id": "perangkat; merancang",
+    "example": "A measurement device.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-154",
+    "word": "devote",
+    "meaning_id": "mendedikasikan",
+    "example": "Devote time to practice.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-155",
+    "word": "differentiate",
+    "meaning_id": "membedakan",
+    "example": "Differentiate the two concepts.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-156",
+    "word": "dimension",
+    "meaning_id": "dimensi",
+    "example": "Multiple dimensions of quality.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-157",
+    "word": "diminish",
+    "meaning_id": "berkurang",
+    "example": "Effects diminish over time.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-158",
+    "word": "discrete",
+    "meaning_id": "terpisah",
+    "example": "Discrete categories.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-159",
+    "word": "discriminate",
+    "meaning_id": "membedakan",
+    "example": "Discriminate relevant details.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-160",
+    "word": "display",
+    "meaning_id": "menampilkan",
+    "example": "Display the results.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-161",
+    "word": "dispose",
+    "meaning_id": "membuang; cenderung",
+    "example": "Dispose of waste.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-162",
+    "word": "distinct",
+    "meaning_id": "berbeda jelas",
+    "example": "Distinct phases.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-163",
+    "word": "distort",
+    "meaning_id": "memutarbalikkan",
+    "example": "Distort the meaning.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-164",
+    "word": "distribute",
+    "meaning_id": "mendistribusikan",
+    "example": "Distribute the survey.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-165",
+    "word": "diverse",
+    "meaning_id": "beragam",
+    "example": "A diverse sample.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-166",
+    "word": "document",
+    "meaning_id": "dokumen; mendokumentasikan",
+    "example": "Document your sources.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-167",
+    "word": "domain",
+    "meaning_id": "bidang; domain",
+    "example": "Outside this domain.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-168",
+    "word": "domestic",
+    "meaning_id": "domestik",
+    "example": "Domestic policy.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-169",
+    "word": "dominate",
+    "meaning_id": "mendominasi",
+    "example": "One theory dominates.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-170",
+    "word": "draft",
+    "meaning_id": "draf",
+    "example": "A first draft.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-171",
+    "word": "drama",
+    "meaning_id": "drama",
+    "example": "Political drama.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-172",
+    "word": "duration",
+    "meaning_id": "durasi",
+    "example": "The duration of the study.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-173",
+    "word": "dynamic",
+    "meaning_id": "dinamis",
+    "example": "A dynamic process.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-349",
+    "word": "e.g.",
+    "meaning_id": "contohnya",
+    "example": "Formal words (e.g., scarcely, merely).",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-174",
+    "word": "economy",
+    "meaning_id": "ekonomi",
+    "example": "The global economy.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-175",
+    "word": "edit",
+    "meaning_id": "mengedit",
+    "example": "Edit the manuscript.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-176",
+    "word": "element",
+    "meaning_id": "unsur",
+    "example": "A key element.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-177",
+    "word": "eliminate",
+    "meaning_id": "menghilangkan",
+    "example": "Eliminate errors.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-178",
+    "word": "emerge",
+    "meaning_id": "muncul",
+    "example": "New patterns emerge.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-179",
+    "word": "emphasis",
+    "meaning_id": "penekanan",
+    "example": "Place emphasis on accuracy.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-180",
+    "word": "empirical",
+    "meaning_id": "empiris",
+    "example": "Empirical evidence.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-181",
+    "word": "enable",
+    "meaning_id": "memungkinkan",
+    "example": "Enable replication.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-182",
+    "word": "enforce",
+    "meaning_id": "menegakkan",
+    "example": "Enforce the rules.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-183",
+    "word": "enhance",
+    "meaning_id": "meningkatkan",
+    "example": "Enhance performance.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-184",
+    "word": "enormous",
+    "meaning_id": "sangat besar",
+    "example": "An enormous difference.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-185",
+    "word": "ensure",
+    "meaning_id": "memastikan",
+    "example": "Ensure fairness.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-186",
+    "word": "entity",
+    "meaning_id": "entitas",
+    "example": "A legal entity.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-187",
+    "word": "environment",
+    "meaning_id": "lingkungan",
+    "example": "Learning environment.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-188",
+    "word": "equate",
+    "meaning_id": "menyamakan",
+    "example": "Equate X with Y.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-189",
+    "word": "equip",
+    "meaning_id": "melengkapi",
+    "example": "Equip students with skills.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-190",
+    "word": "equivalent",
+    "meaning_id": "setara",
+    "example": "Roughly equivalent scores.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-458",
+    "word": "ere",
+    "meaning_id": "sebelum (sangat formal/arkais)",
+    "example": "Rare in modern prose; know for recognition.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-191",
+    "word": "erode",
+    "meaning_id": "mengikis",
+    "example": "Trust can erode.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-192",
+    "word": "error",
+    "meaning_id": "kesalahan",
+    "example": "Measurement error.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-193",
+    "word": "establish",
+    "meaning_id": "menetapkan; mendirikan",
+    "example": "Establish a baseline.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-194",
+    "word": "estate",
+    "meaning_id": "harta; tanah",
+    "example": "Real estate.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-195",
+    "word": "estimate",
+    "meaning_id": "memperkirakan",
+    "example": "Estimate the effect.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-351",
+    "word": "et al.",
+    "meaning_id": "dan kawan-kawan",
+    "example": "Smith et al. (2020).",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-196",
+    "word": "ethic",
+    "meaning_id": "etika",
+    "example": "Research ethics.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-197",
+    "word": "ethnic",
+    "meaning_id": "etnis",
+    "example": "Ethnic diversity.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-198",
+    "word": "evaluate",
+    "meaning_id": "mengevaluasi",
+    "example": "Evaluate the argument.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-199",
+    "word": "eventual",
+    "meaning_id": "pada akhirnya",
+    "example": "The eventual outcome.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-200",
+    "word": "evident",
+    "meaning_id": "jelas",
+    "example": "It is evident that...",
+    "level": "academic"
+  },
+  {
+    "id": "wl-201",
+    "word": "evolve",
+    "meaning_id": "berevolusi",
+    "example": "Ideas evolve over time.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-202",
+    "word": "exceed",
+    "meaning_id": "melampaui",
+    "example": "Exceed expectations.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-203",
+    "word": "exclude",
+    "meaning_id": "mengecualikan",
+    "example": "Exclude outliers.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-204",
+    "word": "exhibit",
+    "meaning_id": "menunjukkan; pameran",
+    "example": "Exhibit a pattern.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-205",
+    "word": "expand",
+    "meaning_id": "memperluas",
+    "example": "Expand the sample.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-206",
+    "word": "expert",
+    "meaning_id": "ahli",
+    "example": "Expert judgment.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-207",
+    "word": "explicit",
+    "meaning_id": "eksplisit",
+    "example": "Make it explicit.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-208",
+    "word": "exploit",
+    "meaning_id": "memanfaatkan",
+    "example": "Exploit natural variation.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-209",
+    "word": "export",
+    "meaning_id": "ekspor",
+    "example": "Export controls.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-210",
+    "word": "expose",
+    "meaning_id": "memaparkan",
+    "example": "Expose flaws in the argument.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-419",
+    "word": "extensive",
+    "meaning_id": "luas",
+    "example": "Extensive robustness checks.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-211",
+    "word": "external",
+    "meaning_id": "eksternal",
+    "example": "External validity.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-212",
+    "word": "extract",
+    "meaning_id": "mengekstrak",
+    "example": "Extract key points.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-447",
+    "word": "extraneously",
+    "meaning_id": "secara eksternal / tidak relevan",
+    "example": "Extraneously induced variation.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-213",
+    "word": "facilitate",
+    "meaning_id": "mempermudah",
+    "example": "Facilitate learning.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-214",
+    "word": "factor",
+    "meaning_id": "faktor",
+    "example": "A risk factor.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-215",
+    "word": "feature",
+    "meaning_id": "ciri; fitur",
+    "example": "A distinctive feature.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-216",
+    "word": "federal",
+    "meaning_id": "federal",
+    "example": "Federal funding.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-217",
+    "word": "fee",
+    "meaning_id": "biaya",
+    "example": "Application fee.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-218",
+    "word": "file",
+    "meaning_id": "berkas; mengajukan",
+    "example": "File a report.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-219",
+    "word": "final",
+    "meaning_id": "akhir",
+    "example": "Final results.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-220",
+    "word": "finance",
+    "meaning_id": "keuangan",
+    "example": "Public finance.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-221",
+    "word": "finite",
+    "meaning_id": "terbatas",
+    "example": "A finite sample.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-222",
+    "word": "flexible",
+    "meaning_id": "fleksibel",
+    "example": "A flexible schedule.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-223",
+    "word": "fluctuate",
+    "meaning_id": "berfluktuasi",
+    "example": "Prices fluctuate.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-224",
+    "word": "focus",
+    "meaning_id": "fokus",
+    "example": "Focus on main ideas.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-480",
+    "word": "following",
+    "meaning_id": "berikutnya; mengikuti",
+    "example": "The following assumptions.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-225",
+    "word": "format",
+    "meaning_id": "format",
+    "example": "Follow the format.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-451",
+    "word": "formerly",
+    "meaning_id": "dulu; sebelumnya",
+    "example": "Formerly accepted as standard.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-387",
+    "word": "formidable",
+    "meaning_id": "menakutkan; sangat menantang",
+    "example": "A formidable challenge.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-226",
+    "word": "formula",
+    "meaning_id": "rumus",
+    "example": "A mathematical formula.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-227",
+    "word": "forthcoming",
+    "meaning_id": "akan datang",
+    "example": "Forthcoming research.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-228",
+    "word": "foundation",
+    "meaning_id": "dasar; yayasan",
+    "example": "Theoretical foundation.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-381",
+    "word": "fragile",
+    "meaning_id": "rapuh",
+    "example": "Fragile identifying assumptions.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-229",
+    "word": "framework",
+    "meaning_id": "kerangka",
+    "example": "An analytical framework.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-509",
+    "word": "fringe",
+    "meaning_id": "pinggiran",
+    "example": "Fringe theories.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-230",
+    "word": "function",
+    "meaning_id": "fungsi",
+    "example": "The function of the clause.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-231",
+    "word": "fund",
+    "meaning_id": "dana; mendanai",
+    "example": "Research funds.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-232",
+    "word": "fundamental",
+    "meaning_id": "mendasar",
+    "example": "A fundamental issue.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-233",
+    "word": "furthermore",
+    "meaning_id": "lebih lanjut",
+    "example": "Furthermore, the bias remains.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-234",
+    "word": "gender",
+    "meaning_id": "gender",
+    "example": "Gender differences.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-235",
+    "word": "generate",
+    "meaning_id": "menghasilkan",
+    "example": "Generate hypotheses.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-236",
+    "word": "generation",
+    "meaning_id": "generasi",
+    "example": "The next generation.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-495",
+    "word": "germane",
+    "meaning_id": "relevan",
+    "example": "Comments germane to the design.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-237",
+    "word": "globe",
+    "meaning_id": "dunia; globe",
+    "example": "Across the globe.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-238",
+    "word": "goal",
+    "meaning_id": "tujuan",
+    "example": "The main goal.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-239",
+    "word": "grade",
+    "meaning_id": "nilai; tingkat",
+    "example": "Grade the essays.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-240",
+    "word": "grant",
+    "meaning_id": "hibah; memberikan",
+    "example": "A research grant.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-241",
+    "word": "guarantee",
+    "meaning_id": "menjamin",
+    "example": "No guarantee of success.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-242",
+    "word": "guideline",
+    "meaning_id": "pedoman",
+    "example": "Follow the guidelines.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-309",
+    "word": "hardly",
+    "meaning_id": "hampir tidak",
+    "example": "He could hardly believe the result.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-243",
+    "word": "hence",
+    "meaning_id": "oleh karena itu",
+    "example": "Hence the need for caution.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-339",
+    "word": "henceforth",
+    "meaning_id": "mulai sekarang",
+    "example": "Henceforth all trials are pre-registered.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-329",
+    "word": "hereby",
+    "meaning_id": "dengan ini (formal)",
+    "example": "The parties hereby agree.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-330",
+    "word": "herein",
+    "meaning_id": "di dalam dokumen ini",
+    "example": "As defined herein.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-507",
+    "word": "heterodox",
+    "meaning_id": "tidak ortodoks",
+    "example": "A heterodox interpretation.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-244",
+    "word": "hierarchy",
+    "meaning_id": "hirarki",
+    "example": "A clear hierarchy.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-245",
+    "word": "highlight",
+    "meaning_id": "menyoroti",
+    "example": "Highlight key terms.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-316",
+    "word": "highly",
+    "meaning_id": "sangat (formal)",
+    "example": "A highly reliable measure.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-340",
+    "word": "hitherto",
+    "meaning_id": "sampai sekarang (formal)",
+    "example": "Hitherto overlooked evidence.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-246",
+    "word": "hypothesis",
+    "meaning_id": "hipotesis",
+    "example": "Test the hypothesis.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-348",
+    "word": "i.e.",
+    "meaning_id": "yaitu; maksudnya",
+    "example": "The outcome (i.e., test score) rose.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-247",
+    "word": "identical",
+    "meaning_id": "identik",
+    "example": "Identical results.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-248",
+    "word": "identify",
+    "meaning_id": "mengidentifikasi",
+    "example": "Identify the main idea.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-249",
+    "word": "ideology",
+    "meaning_id": "ideologi",
+    "example": "Political ideology.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-250",
+    "word": "ignorance",
+    "meaning_id": "ketidaktahuan",
+    "example": "Ignorance of the rule.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-251",
+    "word": "illustrate",
+    "meaning_id": "mengilustrasikan",
+    "example": "Illustrate with an example.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-252",
+    "word": "image",
+    "meaning_id": "citra; gambar",
+    "example": "Public image.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-492",
+    "word": "immaterial",
+    "meaning_id": "tidak material; tidak relevan",
+    "example": "The difference is immaterial.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-253",
+    "word": "immigration",
+    "meaning_id": "imigrasi",
+    "example": "Immigration policy.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-254",
+    "word": "impact",
+    "meaning_id": "dampak",
+    "example": "The impact of technology.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-403",
+    "word": "implausible",
+    "meaning_id": "tidak masuk akal",
+    "example": "An implausible assumption.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-255",
+    "word": "implement",
+    "meaning_id": "menerapkan",
+    "example": "Implement the plan.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-256",
+    "word": "implicate",
+    "meaning_id": "menyiratkan keterlibatan",
+    "example": "Implicate a mechanism.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-257",
+    "word": "implicit",
+    "meaning_id": "implisit",
+    "example": "Implicit assumption.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-258",
+    "word": "imply",
+    "meaning_id": "menyiratkan",
+    "example": "The data imply a trend.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-259",
+    "word": "impose",
+    "meaning_id": "memberlakukan",
+    "example": "Impose a constraint.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-338",
+    "word": "inasmuch",
+    "meaning_id": "karena; mengingat",
+    "example": "Inasmuch as the sample is small...",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-260",
+    "word": "incentive",
+    "meaning_id": "insentif",
+    "example": "Economic incentives.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-261",
+    "word": "incidence",
+    "meaning_id": "kejadian; beban",
+    "example": "Incidence of error.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-500",
+    "word": "incidental",
+    "meaning_id": "insidental; tidak disengaja",
+    "example": "Incidental findings.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-262",
+    "word": "incline",
+    "meaning_id": "cenderung",
+    "example": "Inclined to agree.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-263",
+    "word": "income",
+    "meaning_id": "pendapatan",
+    "example": "Household income.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-405",
+    "word": "inconceivable",
+    "meaning_id": "tidak terbayangkan",
+    "example": "Almost inconceivable in practice.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-264",
+    "word": "incorporate",
+    "meaning_id": "memasukkan",
+    "example": "Incorporate feedback.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-265",
+    "word": "index",
+    "meaning_id": "indeks",
+    "example": "Price index.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-266",
+    "word": "indicate",
+    "meaning_id": "menunjukkan",
+    "example": "Results indicate improvement.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-407",
+    "word": "indispensable",
+    "meaning_id": "tidak dapat ditinggalkan",
+    "example": "An indispensable control.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-267",
+    "word": "individual",
+    "meaning_id": "individu",
+    "example": "Individual differences.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-268",
+    "word": "induce",
+    "meaning_id": "menimbulkan",
+    "example": "Induce a response.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-269",
+    "word": "inevitable",
+    "meaning_id": "tak terelakkan",
+    "example": "An inevitable trade-off.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-444",
+    "word": "inevitably",
+    "meaning_id": "mau tidak mau",
+    "example": "Inevitably some error remains.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-270",
+    "word": "infer",
+    "meaning_id": "menyimpulkan",
+    "example": "Infer meaning from context.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-271",
+    "word": "infrastructure",
+    "meaning_id": "infrastruktur",
+    "example": "Digital infrastructure.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-272",
+    "word": "inherent",
+    "meaning_id": "melekat; inheren",
+    "example": "Inherent limitations.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-445",
+    "word": "inherently",
+    "meaning_id": "secara inheren",
+    "example": "Inherently difficult to measure.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-273",
+    "word": "inhibit",
+    "meaning_id": "menghambat",
+    "example": "Inhibit growth.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-274",
+    "word": "initial",
+    "meaning_id": "awal",
+    "example": "Initial findings.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-450",
+    "word": "initially",
+    "meaning_id": "pada awalnya",
+    "example": "Initially the effect looked large.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-275",
+    "word": "initiative",
+    "meaning_id": "inisiatif",
+    "example": "A policy initiative.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-276",
+    "word": "injury",
+    "meaning_id": "cedera",
+    "example": "Risk of injury.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-277",
+    "word": "innovation",
+    "meaning_id": "inovasi",
+    "example": "Technological innovation.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-504",
+    "word": "innovative",
+    "meaning_id": "inovatif",
+    "example": "An innovative design.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-278",
+    "word": "input",
+    "meaning_id": "masukan",
+    "example": "User input.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-279",
+    "word": "insert",
+    "meaning_id": "menyisipkan",
+    "example": "Insert a clause.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-280",
+    "word": "insight",
+    "meaning_id": "wawasan",
+    "example": "Valuable insight.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-337",
+    "word": "insofar",
+    "meaning_id": "sejauh",
+    "example": "Insofar as the assumption holds.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-281",
+    "word": "inspect",
+    "meaning_id": "memeriksa",
+    "example": "Inspect the data.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-282",
+    "word": "instance",
+    "meaning_id": "contoh",
+    "example": "For instance.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-283",
+    "word": "institute",
+    "meaning_id": "lembaga; mendirikan",
+    "example": "Research institute.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-284",
+    "word": "instruct",
+    "meaning_id": "menginstruksikan",
+    "example": "Instruct the participants.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-285",
+    "word": "integral",
+    "meaning_id": "integral; penting",
+    "example": "An integral part.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-286",
+    "word": "integrate",
+    "meaning_id": "mengintegrasikan",
+    "example": "Integrate the findings.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-287",
+    "word": "integrity",
+    "meaning_id": "integritas",
+    "example": "Data integrity.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-288",
+    "word": "intelligence",
+    "meaning_id": "kecerdasan",
+    "example": "Artificial intelligence.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-289",
+    "word": "intense",
+    "meaning_id": "intens",
+    "example": "Intense debate.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-362",
+    "word": "inter alia",
+    "meaning_id": "antara lain",
+    "example": "Including, inter alia, sample size.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-290",
+    "word": "interact",
+    "meaning_id": "berinteraksi",
+    "example": "Variables interact.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-291",
+    "word": "intermediate",
+    "meaning_id": "menengah",
+    "example": "Intermediate level.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-292",
+    "word": "internal",
+    "meaning_id": "internal",
+    "example": "Internal consistency.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-293",
+    "word": "interpret",
+    "meaning_id": "menafsirkan",
+    "example": "Interpret the results.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-294",
+    "word": "interval",
+    "meaning_id": "interval",
+    "example": "Confidence interval.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-295",
+    "word": "intervene",
+    "meaning_id": "mengintervensi",
+    "example": "Intervene early.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-296",
+    "word": "intrinsic",
+    "meaning_id": "intrinsik",
+    "example": "Intrinsic motivation.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-446",
+    "word": "intrinsically",
+    "meaning_id": "secara intrinsik",
+    "example": "Intrinsically motivated learners.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-491",
+    "word": "invaluable",
+    "meaning_id": "sangat berharga",
+    "example": "Invaluable archival material.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-443",
+    "word": "invariably",
+    "meaning_id": "selalu; tanpa kecuali",
+    "example": "Invariably the first check fails.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-297",
+    "word": "invest",
+    "meaning_id": "berinvestasi",
+    "example": "Invest in education.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-298",
+    "word": "investigate",
+    "meaning_id": "menyelidiki",
+    "example": "Investigate the cause.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-299",
+    "word": "invoke",
+    "meaning_id": "menggunakan sebagai dasar",
+    "example": "Invoke a rule.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-300",
+    "word": "involve",
+    "meaning_id": "melibatkan",
+    "example": "Involve stakeholders.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-433",
+    "word": "ironically",
+    "meaning_id": "secara ironis",
+    "example": "Ironically, more data increased noise.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-493",
+    "word": "irrelevant",
+    "meaning_id": "tidak relevan",
+    "example": "Irrelevant to the hypothesis.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-301",
+    "word": "isolate",
+    "meaning_id": "mengisolasi",
+    "example": "Isolate the effect.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-302",
+    "word": "issue",
+    "meaning_id": "isu; menerbitkan",
+    "example": "A policy issue.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-303",
+    "word": "item",
+    "meaning_id": "butir; item",
+    "example": "Test items.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-304",
+    "word": "journal",
+    "meaning_id": "jurnal",
+    "example": "Academic journal.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-305",
+    "word": "justify",
+    "meaning_id": "membenarkan",
+    "example": "Justify your answer.",
+    "level": "academic"
+  },
+  {
+    "id": "wl-315",
+    "word": "largely",
+    "meaning_id": "sebagian besar",
+    "example": "The result is largely consistent.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-425",
+    "word": "latent",
+    "meaning_id": "laten; tersembunyi",
+    "example": "Latent variables.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-452",
+    "word": "latterly",
+    "meaning_id": "akhir-akhir ini (formal)",
+    "example": "Latterly the consensus has shifted.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-384",
+    "word": "lenient",
+    "meaning_id": "longgar; lunak",
+    "example": "A lenient scoring rule.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-335",
+    "word": "lest",
+    "meaning_id": "supaya tidak; khawatir kalau",
+    "example": "Check the data lest errors remain.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-508",
+    "word": "mainstream",
+    "meaning_id": "arus utama",
+    "example": "Mainstream methods.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-371",
+    "word": "manifold",
+    "meaning_id": "beragam; banyak segi",
+    "example": "Manifold implications.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-416",
+    "word": "marginal",
+    "meaning_id": "marjinal; tipis",
+    "example": "Marginal statistical significance.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-379",
+    "word": "meager",
+    "meaning_id": "sangat sedikit; miskin",
+    "example": "Meager statistical power.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-310",
+    "word": "merely",
+    "meaning_id": "hanya; semata-mata",
+    "example": "It is merely a hypothesis.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-390",
+    "word": "meticulous",
+    "meaning_id": "cermat sekali",
+    "example": "Meticulous documentation.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-475",
+    "word": "minus",
+    "meaning_id": "dikurangi",
+    "example": "Score minus baseline.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-417",
+    "word": "modest",
+    "meaning_id": "sederhana; tidak besar",
+    "example": "A modest improvement.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-324",
+    "word": "moreover",
+    "meaning_id": "lebih dari itu",
+    "example": "Moreover, the sample is large.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-372",
+    "word": "multifaceted",
+    "meaning_id": "beragam sisi",
+    "example": "A multifaceted problem.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-363",
+    "word": "mutatis mutandis",
+    "meaning_id": "dengan perubahan seperlunya",
+    "example": "Apply mutatis mutandis to panel data.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-370",
+    "word": "myriad",
+    "meaning_id": "sangat banyak",
+    "example": "Myriad potential confounders.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-346",
+    "word": "namely",
+    "meaning_id": "yaitu",
+    "example": "Two threats, namely bias and noise.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-415",
+    "word": "negligible",
+    "meaning_id": "dapat diabaikan",
+    "example": "A negligible effect size.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-322",
+    "word": "nevertheless",
+    "meaning_id": "meskipun demikian",
+    "example": "Nevertheless, the pattern holds.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-318",
+    "word": "newly",
+    "meaning_id": "baru-baru ini",
+    "example": "A newly published study.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-323",
+    "word": "nonetheless",
+    "meaning_id": "meskipun begitu",
+    "example": "The result is useful nonetheless.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-410",
+    "word": "notable",
+    "meaning_id": "patut dicatat",
+    "example": "A notable exception.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-439",
+    "word": "notably",
+    "meaning_id": "terutama; patut dicatat",
+    "example": "Notably, the placebo fails.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-411",
+    "word": "noteworthy",
+    "meaning_id": "patut diperhatikan",
+    "example": "A noteworthy pattern.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-336",
+    "word": "notwithstanding",
+    "meaning_id": "meskipun; terlepas dari",
+    "example": "Notwithstanding these limits, the design is strong.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-503",
+    "word": "novel",
+    "meaning_id": "baru",
+    "example": "A novel identification strategy.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-386",
+    "word": "onerous",
+    "meaning_id": "memberatkan",
+    "example": "Onerous reporting requirements.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-506",
+    "word": "orthodox",
+    "meaning_id": "ortodoks; lazim",
+    "example": "The orthodox view.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-427",
+    "word": "ostensibly",
+    "meaning_id": "konon; seolah-olah",
+    "example": "Ostensibly neutral procedures.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-421",
+    "word": "overarching",
+    "meaning_id": "yang melingkupi semua",
+    "example": "The overarching goal.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-485",
+    "word": "overestimated",
+    "meaning_id": "ditaksir terlalu tinggi",
+    "example": "Precision is overestimated.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-483",
+    "word": "overstated",
+    "meaning_id": "dilebih-lebihkan",
+    "example": "Effects may be overstated.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-423",
+    "word": "overt",
+    "meaning_id": "terang-terangan",
+    "example": "Overt bias in the sample.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-389",
+    "word": "painstaking",
+    "meaning_id": "sangat teliti",
+    "example": "Painstaking data cleaning.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-434",
+    "word": "paradoxically",
+    "meaning_id": "secara paradoks",
+    "example": "Paradoxically, stricter rules reduced compliance.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-408",
+    "word": "paramount",
+    "meaning_id": "paling penting",
+    "example": "Of paramount importance.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-438",
+    "word": "particularly",
+    "meaning_id": "terutama",
+    "example": "Particularly in small samples.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-314",
+    "word": "partly",
+    "meaning_id": "sebagian",
+    "example": "The failure was partly due to design.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-367",
+    "word": "paucity",
+    "meaning_id": "kelangkaan; kekurangan",
+    "example": "A paucity of longitudinal evidence.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-473",
+    "word": "per",
+    "meaning_id": "per; menurut",
+    "example": "Per the protocol.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-352",
+    "word": "per se",
+    "meaning_id": "pada dirinya sendiri",
+    "example": "Not invalid per se.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-497",
+    "word": "peripheral",
+    "meaning_id": "pinggiran; tidak pusat",
+    "example": "Peripheral to the main claim.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-494",
+    "word": "pertinent",
+    "meaning_id": "relevan; berkaitan",
+    "example": "Pertinent objections.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-375",
+    "word": "pervasive",
+    "meaning_id": "merata; menyebar luas",
+    "example": "Pervasive measurement error.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-402",
+    "word": "plausible",
+    "meaning_id": "masuk akal",
+    "example": "A plausible mechanism.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-369",
+    "word": "plethora",
+    "meaning_id": "kelimpahan (sering berlebih)",
+    "example": "A plethora of alternative specs.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-474",
+    "word": "plus",
+    "meaning_id": "ditambah",
+    "example": "Bias plus variance.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-477",
+    "word": "posterior",
+    "meaning_id": "setelah; posterior",
+    "example": "Posterior distribution.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-479",
+    "word": "preceding",
+    "meaning_id": "yang mendahului",
+    "example": "The preceding section.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-442",
+    "word": "predominantly",
+    "meaning_id": "secara dominan",
+    "example": "Predominantly urban samples.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-453",
+    "word": "presently",
+    "meaning_id": "saat ini; sebentar lagi",
+    "example": "Presently under review.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-430",
+    "word": "presumably",
+    "meaning_id": "mungkin; diduga",
+    "example": "Presumably the bias is small.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-376",
+    "word": "prevalent",
+    "meaning_id": "lazim; banyak dijumpai",
+    "example": "A prevalent misconception.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-319",
+    "word": "previously",
+    "meaning_id": "sebelumnya",
+    "example": "Previously unreported findings.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-359",
+    "word": "prima facie",
+    "meaning_id": "pada pandangan pertama",
+    "example": "Prima facie evidence.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-441",
+    "word": "primarily",
+    "meaning_id": "terutama",
+    "example": "Primarily a measurement issue.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-476",
+    "word": "prior",
+    "meaning_id": "sebelumnya",
+    "example": "Prior research.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-414",
+    "word": "pronounced",
+    "meaning_id": "jelas / menonjol",
+    "example": "A pronounced difference.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-397",
+    "word": "provisional",
+    "meaning_id": "provisional; sementara",
+    "example": "Provisional estimates.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-428",
+    "word": "purportedly",
+    "meaning_id": "konon; diklaim",
+    "example": "Purportedly causal estimates.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-377",
+    "word": "rampant",
+    "meaning_id": "merajalela",
+    "example": "Rampant speculation.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-412",
+    "word": "remarkable",
+    "meaning_id": "luar biasa",
+    "example": "A remarkable consistency.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-345",
+    "word": "respectively",
+    "meaning_id": "masing-masing",
+    "example": "Scores were 70 and 85, respectively.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-392",
+    "word": "rigorous",
+    "meaning_id": "ketat; keras (metode)",
+    "example": "Rigorous evaluation.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-382",
+    "word": "robust",
+    "meaning_id": "kukuh; tahan uji",
+    "example": "Robust to alternative models.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-409",
+    "word": "salient",
+    "meaning_id": "menonjol; penting",
+    "example": "The most salient finding.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-365",
+    "word": "scant",
+    "meaning_id": "sangat sedikit",
+    "example": "Scant evidence supports the claim.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-378",
+    "word": "scarce",
+    "meaning_id": "langka",
+    "example": "Scarce archival sources.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-307",
+    "word": "scarcely",
+    "meaning_id": "hampir tidak; baru saja",
+    "example": "Scarcely had he left when the phone rang.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-391",
+    "word": "scrupulous",
+    "meaning_id": "sangat hati-hati / teliti moral",
+    "example": "Scrupulous attention to ethics.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-306",
+    "word": "seldom",
+    "meaning_id": "jarang sekali",
+    "example": "She seldom arrives late.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-454",
+    "word": "shortly",
+    "meaning_id": "segera",
+    "example": "Shortly after publication.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-448",
+    "word": "simultaneously",
+    "meaning_id": "secara bersamaan",
+    "example": "Simultaneously estimate both equations.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-361",
+    "word": "sine qua non",
+    "meaning_id": "syarat mutlak",
+    "example": "Replication is a sine qua non.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-311",
+    "word": "solely",
+    "meaning_id": "semata-mata; hanya",
+    "example": "The decision rests solely on the data.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-366",
+    "word": "sparse",
+    "meaning_id": "jarang; tipis datanya",
+    "example": "Sparse observational data.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-437",
+    "word": "specifically",
+    "meaning_id": "secara khusus",
+    "example": "Specifically, we test three claims.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-360",
+    "word": "status quo",
+    "meaning_id": "keadaan sekarang",
+    "example": "Preserve the status quo.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-413",
+    "word": "striking",
+    "meaning_id": "mencolok",
+    "example": "A striking similarity.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-383",
+    "word": "stringent",
+    "meaning_id": "ketat",
+    "example": "Stringent inclusion criteria.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-478",
+    "word": "subsequent",
+    "meaning_id": "berikutnya",
+    "example": "Subsequent waves of data.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-320",
+    "word": "subsequently",
+    "meaning_id": "kemudian; setelah itu",
+    "example": "Subsequently, the model was revised.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-499",
+    "word": "subsidiary",
+    "meaning_id": "tambahan; sekunder",
+    "example": "Subsidiary hypotheses.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-418",
+    "word": "substantial",
+    "meaning_id": "cukup besar",
+    "example": "A substantial reduction in error.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-395",
+    "word": "superficial",
+    "meaning_id": "dangkal",
+    "example": "A superficial analysis.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-426",
+    "word": "tacit",
+    "meaning_id": "tersirat; diam-diam dipahami",
+    "example": "Tacit knowledge.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-496",
+    "word": "tangential",
+    "meaning_id": "menyimpang; tidak inti",
+    "example": "A tangential discussion.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-396",
+    "word": "tentative",
+    "meaning_id": "sementara; belum pasti",
+    "example": "Tentative conclusions.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-380",
+    "word": "tenuous",
+    "meaning_id": "rapuh; lemah",
+    "example": "A tenuous link.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-455",
+    "word": "thence",
+    "meaning_id": "dari situ (formal)",
+    "example": "Thence we obtain bounds.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-341",
+    "word": "thereafter",
+    "meaning_id": "setelah itu",
+    "example": "Thereafter compliance improved.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-326",
+    "word": "thereby",
+    "meaning_id": "dengan demikian / dengan cara itu",
+    "example": "Thereby reducing measurement error.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-328",
+    "word": "therein",
+    "meaning_id": "di dalamnya (formal)",
+    "example": "The error therein is small.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-327",
+    "word": "thereof",
+    "meaning_id": "dari padanya (formal)",
+    "example": "Or any part thereof.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-342",
+    "word": "thereupon",
+    "meaning_id": "segera setelah itu",
+    "example": "Thereupon the panel reconvened.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-393",
+    "word": "thorough",
+    "meaning_id": "menyeluruh",
+    "example": "A thorough review.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-325",
+    "word": "thus",
+    "meaning_id": "dengan demikian",
+    "example": "Thus, the null is rejected.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-374",
+    "word": "ubiquitous",
+    "meaning_id": "ada di mana-mana",
+    "example": "Ubiquitous smartphones.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-449",
+    "word": "ultimately",
+    "meaning_id": "pada akhirnya",
+    "example": "Ultimately a design choice.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-406",
+    "word": "unavoidable",
+    "meaning_id": "tidak dapat dihindari",
+    "example": "Unavoidable measurement noise.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-484",
+    "word": "underestimated",
+    "meaning_id": "diremehkan",
+    "example": "Uncertainty is underestimated.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-422",
+    "word": "underlying",
+    "meaning_id": "yang mendasari",
+    "example": "The underlying mechanism.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-481",
+    "word": "underscored",
+    "meaning_id": "ditegaskan",
+    "example": "The need was underscored.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-482",
+    "word": "understated",
+    "meaning_id": "disepelekan; dinyatakan terlalu rendah",
+    "example": "The risk is understated.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-487",
+    "word": "unfounded",
+    "meaning_id": "tidak berdasar",
+    "example": "Unfounded skepticism.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-490",
+    "word": "unparalleled",
+    "meaning_id": "tiada banding",
+    "example": "Unparalleled data quality.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-373",
+    "word": "unprecedented",
+    "meaning_id": "belum pernah terjadi",
+    "example": "Unprecedented data access.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-489",
+    "word": "unresolved",
+    "meaning_id": "belum terselesaikan",
+    "example": "Unresolved debates.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-488",
+    "word": "unsubstantiated",
+    "meaning_id": "tidak didukung bukti",
+    "example": "Unsubstantiated assertions.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-459",
+    "word": "unto",
+    "meaning_id": "kepada (arkais/formal)",
+    "example": "Mostly archaic; recognize in older texts.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-486",
+    "word": "unwarranted",
+    "meaning_id": "tidak berdasar",
+    "example": "Unwarranted causal claims.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-312",
+    "word": "utterly",
+    "meaning_id": "sama sekali; benar-benar",
+    "example": "The claim is utterly unfounded.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-471",
+    "word": "versus",
+    "meaning_id": "versus; lawan",
+    "example": "Treatment versus control.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-470",
+    "word": "via",
+    "meaning_id": "melalui",
+    "example": "Estimated via maximum likelihood.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-353",
+    "word": "vice versa",
+    "meaning_id": "sebaliknya",
+    "example": "And vice versa.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-472",
+    "word": "vis-à-vis",
+    "meaning_id": "berhadap-hadapan dengan; terkait",
+    "example": "Performance vis-à-vis the baseline.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-347",
+    "word": "viz",
+    "meaning_id": "yaitu (singkatan formal)",
+    "example": "Three groups, viz. A, B, and C.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-456",
+    "word": "whence",
+    "meaning_id": "dari mana (formal)",
+    "example": "Whence the discrepancy arises.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-331",
+    "word": "whereas",
+    "meaning_id": "sedangkan; mengingat bahwa",
+    "example": "Whereas earlier studies found no effect...",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-332",
+    "word": "whereby",
+    "meaning_id": "dengan mana; yang dengannya",
+    "example": "A process whereby data are cleaned.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-333",
+    "word": "wherein",
+    "meaning_id": "di mana (formal)",
+    "example": "A framework wherein both fit.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-457",
+    "word": "whereupon",
+    "meaning_id": "setelah itu maka",
+    "example": "Whereupon the trial stopped.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-313",
+    "word": "wholly",
+    "meaning_id": "sepenuhnya",
+    "example": "Wholly dependent on external funding.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-317",
+    "word": "widely",
+    "meaning_id": "secara luas",
+    "example": "Widely accepted in the field.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-420",
+    "word": "widespread",
+    "meaning_id": "meluas",
+    "example": "Widespread adoption.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-468",
+    "word": "within",
+    "meaning_id": "di dalam",
+    "example": "Within the study period.",
+    "level": "rare-formal"
+  },
+  {
+    "id": "wl-469",
+    "word": "without",
+    "meaning_id": "tanpa",
+    "example": "Without loss of generality.",
+    "level": "rare-formal"
+  }
+]

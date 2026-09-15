@@ -1,0 +1,101 @@
+
+[
+  {
+    "id": "skill-1",
+    "code": "S1",
+    "group": "Sentences with One Clause",
+    "title": "Subject and Verb",
+    "description": "Pastikan kalimat punya subject dan verb yang lengkap."
+  },
+  {
+    "id": "skill-2",
+    "code": "S2",
+    "group": "Sentences with One Clause",
+    "title": "Objects of Prepositions",
+    "description": "Object of preposition bukan subject."
+  },
+  {
+    "id": "skill-3",
+    "code": "S3",
+    "group": "Sentences with One Clause",
+    "title": "Appositives",
+    "description": "Appositive menjelaskan noun; bukan subject utama."
+  },
+  {
+    "id": "skill-4",
+    "code": "S4",
+    "group": "Sentences with One Clause",
+    "title": "Present Participles",
+    "description": "Present participle (-ing) sebagai modifier \u2014 bedakan dari verb utama."
+  },
+  {
+    "id": "skill-5",
+    "code": "S5",
+    "group": "Sentences with One Clause",
+    "title": "Past Participles",
+    "description": "Past participle sebagai modifier/passive \u2014 bedakan dari verb utama."
+  },
+  {
+    "id": "skill-6",
+    "code": "S6",
+    "group": "Sentences with Multiple Clauses",
+    "title": "Coordinate Connectors",
+    "description": "and, but, or, so, yet \u2014 independent clauses."
+  },
+  {
+    "id": "skill-7",
+    "code": "S7",
+    "group": "Sentences with Multiple Clauses",
+    "title": "Adverb Time & Cause Connectors",
+    "description": "when, while, before, after, since, because, as."
+  },
+  {
+    "id": "skill-8",
+    "code": "S8",
+    "group": "Sentences with Multiple Clauses",
+    "title": "Other Adverb Connectors",
+    "description": "although, even though, if, unless, whereas, whether."
+  },
+  {
+    "id": "skill-9",
+    "code": "S9",
+    "group": "Sentences with Multiple Clauses",
+    "title": "Noun Clause Connectors",
+    "description": "that, what, whether, if, how sebagai object/complement."
+  },
+  {
+    "id": "skill-10",
+    "code": "S10",
+    "group": "Sentences with Multiple Clauses",
+    "title": "Noun Clause Connector/Subjects",
+    "description": "what/whether/whoever sebagai subject clause."
+  },
+  {
+    "id": "skill-11",
+    "code": "S11",
+    "group": "Sentences with Multiple Clauses",
+    "title": "Adjective Clause Connectors",
+    "description": "who, which, that, whom, whose, where, when."
+  },
+  {
+    "id": "skill-12",
+    "code": "S12",
+    "group": "Sentences with Multiple Clauses",
+    "title": "Adjective Clause Connector/Subjects",
+    "description": "who/which/that sebagai subject di relative clause."
+  },
+  {
+    "id": "skill-13",
+    "code": "S13",
+    "group": "Sentences with Reduced Clauses",
+    "title": "Reduced Adjective Clauses",
+    "description": "Kurangi adjective clause (who/which/that + be) jadi participle/adjective phrase."
+  },
+  {
+    "id": "skill-14",
+    "code": "S14",
+    "group": "Sentences with Reduced Clauses",
+    "title": "Reduced Adverb Clauses",
+    "description": "Kurangi adverb clause (when/while/because/if + subject + be) jadi participle phrase."
+  }
+]

@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>TOEFL Quiz</title>
-  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/styles.css?v=4">
 </head>
 <body>
   <div id="app">
@@ -16,6 +16,8 @@
           <button class="nav-btn" data-view="practice">Latihan</button>
           <button class="nav-btn" data-view="progress">Progress</button>
           <button class="nav-btn" data-view="mistakes">Kesalahan</button>
+          <button class="nav-btn" data-view="wordlist">Kosakata</button>
+          <button class="nav-btn" data-view="skills">Skills</button>
         </nav>
       </div>
     </header>
@@ -62,6 +64,8 @@
         <div class="quick-actions">
           <button class="btn primary" onclick="startQuickQuiz()">⚡ Kuis Cepat (5 Soal)</button>
           <button class="btn secondary" onclick="showView('practice')">Pilih Latihan</button>
+          <button class="btn secondary" onclick="showView('wordlist')">📚 Daftar Kosakata TOEFL</button>
+          <button class="btn secondary" onclick="showView('skills')">🎯 Skills / Pack Code</button>
         </div>
       </section>
 
@@ -167,6 +171,54 @@
         <div id="mistakes-list"></div>
         <p id="no-mistakes" class="empty-state hidden">Belum ada kesalahan tercatat. Kerja bagus!</p>
       </section>
+
+      <!-- WORD LIST -->
+      <section id="view-wordlist" class="view">
+        <h2>Kosakata TOEFL</h2>
+        <p class="subtitle">Kata akademik yang sering muncul di TOEFL — jarang dipakai sehari-hari, penting untuk skor tinggi.</p>
+        <div class="wordlist-toolbar">
+          <input type="search" id="wordlist-search" placeholder="Cari kata atau arti..." autocomplete="off">
+          <select id="wordlist-letter">
+            <option value="all">Semua huruf</option>
+          </select>
+        </div>
+        <div class="mistakes-summary" id="wordlist-count"></div>
+        <div id="wordlist-container" class="wordlist-grid"></div>
+      </section>
+
+      <!-- SKILLS / MATERIAL -->
+      <section id="view-skills" class="view">
+        <h2>Latihan per Skill</h2>
+        <p class="subtitle">Pilih materi &amp; seed (pack code) supaya bisa review set soal yang sama.</p>
+
+        <div class="skills-layout">
+          <div class="skills-panel">
+            <h3 class="section-title">1. Pilih Skill</h3>
+            <div id="skills-list" class="skills-list"></div>
+          </div>
+          <div class="skills-panel">
+            <h3 class="section-title">2. Pilih Seed / Pack</h3>
+            <p class="hint" id="skills-selected-label">Pilih skill dulu</p>
+            <div id="seeds-list" class="seeds-list"></div>
+            <div class="seed-custom">
+              <label>Atau ketik kode seed</label>
+              <div class="seed-row">
+                <input type="text" id="seed-input" placeholder="contoh: S1-02" autocomplete="off">
+                <button class="btn secondary" type="button" id="btn-use-seed">Pakai</button>
+              </div>
+            </div>
+            <div id="seed-preview" class="seed-preview hidden"></div>
+            <button class="btn primary full" id="btn-start-skill" disabled>Mulai Pack Ini</button>
+          </div>
+        </div>
+
+        <div class="card" style="margin-top:1.5rem">
+          <h3>Riwayat Seed</h3>
+          <p class="hint">Pack yang pernah dikerjakan (disimpan lokal)</p>
+          <div id="seed-history" class="seed-history"></div>
+        </div>
+      </section>
+
     </main>
 
     <footer class="footer">
@@ -176,6 +228,6 @@
     </footer>
   </div>
 
-  <script src="js/app.js"></script>
+  <script src="js/app.js?v=4"></script>
 </body>
 </html>
