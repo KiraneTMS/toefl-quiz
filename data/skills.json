@@ -1,4 +1,3 @@
-
 [
   {
     "id": "skill-1",
@@ -97,5 +96,40 @@
     "group": "Sentences with Reduced Clauses",
     "title": "Reduced Adverb Clauses",
     "description": "Kurangi adverb clause (when/while/because/if + subject + be) jadi participle phrase."
+  },
+  {
+    "id": "skill-15",
+    "code": "S15",
+    "group": "Sentences with Inverted Subjects and Verbs",
+    "title": "Invert with Question Words",
+    "description": "Do NOT invert in embedded questions (after know, ask, determine, etc.)."
+  },
+  {
+    "id": "skill-16",
+    "code": "S16",
+    "group": "Sentences with Inverted Subjects and Verbs",
+    "title": "Invert with Place Expressions",
+    "description": "Invert after place expressions (here, there, across the valley...)."
+  },
+  {
+    "id": "skill-17",
+    "code": "S17",
+    "group": "Sentences with Inverted Subjects and Verbs",
+    "title": "Invert with Negatives",
+    "description": "Invert after negative/limiting adverbs (never, rarely, not only...)."
+  },
+  {
+    "id": "skill-18",
+    "code": "S18",
+    "group": "Sentences with Inverted Subjects and Verbs",
+    "title": "Invert with Conditionals",
+    "description": "Inverted conditionals: Had I known, Were he here, Should you need."
+  },
+  {
+    "id": "skill-19",
+    "code": "S19",
+    "group": "Sentences with Inverted Subjects and Verbs",
+    "title": "Invert with Comparisons",
+    "description": "Inversion in comparisons: as does she, than do they."
   }
 ]

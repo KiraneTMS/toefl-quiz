@@ -461,6 +461,8 @@ function renderQuestion() {
 function selectOption(idx) {
   const quiz = state.currentQuiz;
   if (!quiz || quiz.isReadingSet) return;
+  // Practice / skill: lock first answer (score & mistake stay honest)
+  if (quiz.mode === 'practice' && quiz.answers[quiz.index] !== null) return;
   quiz.answers[quiz.index] = idx;
   renderQuestion();
   if (quiz.mode === 'practice') {
@@ -471,17 +473,38 @@ function selectOption(idx) {
 function showFeedback(q, chosen) {
   const box = document.getElementById('feedback-box');
   const correct = chosen === q.correct;
+  const letters = ['A', 'B', 'C', 'D'];
+  const correctText = q.options[q.correct];
+  const chosenText = q.options[chosen];
+
   box.classList.remove('hidden', 'correct', 'wrong');
   box.classList.add(correct ? 'correct' : 'wrong');
+
+  let body = '';
+  if (correct) {
+    body = `
+      <div class="fb-line"><strong>Jawaban benar:</strong> ${letters[q.correct]}. ${correctText}</div>
+      <div class="fb-explain"><strong>Penjelasan:</strong> ${q.explanation || '—'}</div>
+    `;
+  } else {
+    body = `
+      <div class="fb-line wrong-pick"><strong>Jawabanmu:</strong> ${letters[chosen]}. ${chosenText}</div>
+      <div class="fb-line right-pick"><strong>Jawaban benar:</strong> ${letters[q.correct]}. ${correctText}</div>
+      <div class="fb-explain"><strong>Penjelasan:</strong> ${q.explanation || '—'}</div>
+    `;
+  }
+
   box.innerHTML = `
     <div class="title">${correct ? '✓ Benar' : '✗ Salah'}</div>
-    <div>${q.explanation || ''}</div>
+    ${body}
   `;
 
-  // Highlight options
+  // Highlight options + lock after answer
   const options = document.querySelectorAll('.option');
   options.forEach((opt, i) => {
     opt.classList.remove('correct', 'wrong');
+    opt.disabled = true;
+    opt.classList.add('locked');
     if (i === q.correct) opt.classList.add('correct');
     else if (i === chosen && !correct) opt.classList.add('wrong');
   });
@@ -593,12 +616,22 @@ function finishQuiz() {
   const seedLine = quiz.seed
     ? `<div class="breakdown-item"><span>Seed / Pack</span><span style="font-family:ui-monospace,monospace">${quiz.seed}</span></div>`
     : '';
+  const skillLine = quiz.isSkillPack
+    ? `<div class="breakdown-item"><span>Mode</span><span>Skill pack · feedback langsung</span></div>`
+    : '';
   breakdown.innerHTML = `
     <div class="breakdown-item">
-      <span>Bagian: ${quiz.section.replace(/-/g, ' ')}</span>
+      <span>Bagian: ${(quiz.skillId || quiz.section || '').replace(/-/g, ' ')}</span>
       <span>${correctCount} / ${quiz.questions.length}</span>
     </div>
     ${seedLine}
+    ${skillLine}
+    <div class="breakdown-item">
+      <span>Benar</span><span style="color:var(--success, #22c55e)">${correctCount}</span>
+    </div>
+    <div class="breakdown-item">
+      <span>Salah</span><span style="color:var(--danger, #ef4444)">${quiz.questions.length - correctCount}</span>
+    </div>
   `;
 
   // Weak areas + session mistake cards
