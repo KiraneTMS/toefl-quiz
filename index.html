@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>TOEFL Quiz</title>
-  <link rel="stylesheet" href="css/styles.css?v=9">
+  <link rel="stylesheet" href="css/styles.css?v=13">
 </head>
 <body>
   <div id="app">
@@ -233,6 +233,7 @@
           <h2>Latihan per skill</h2>
           <p class="subtitle">Pilih materi &amp; seed (pack code) supaya bisa review set soal yang sama.</p>
           <p class="hint">💡 Pilih skill, lalu buka <strong>Materi</strong> untuk ringkasan + rumus sebelum latihan.</p>
+          <button type="button" class="btn secondary small" id="btn-open-materi-pdf">📄 Download materi PDF</button>
         </div>
 
         <div class="skills-layout">
@@ -275,6 +276,8 @@
         <div id="materi-content" class="materi-content"></div>
         <div class="materi-footer-actions">
           <button type="button" class="btn primary" id="btn-materi-practice">Latihan skill ini →</button>
+          <button type="button" class="btn secondary" id="btn-materi-pdf-current">📄 PDF skill ini</button>
+          <button type="button" class="btn secondary" id="btn-materi-pdf-pick">📄 Pilih skill…</button>
         </div>
       </section>
 
@@ -304,8 +307,38 @@
         <p>Latihan bergaya TOEFL · Soal original · Progress lokal</p>
       </div>
     </footer>
+  
+    <!-- PDF MATERI MODAL -->
+    <div id="materi-pdf-modal" class="modal hidden" role="dialog" aria-modal="true">
+      <div class="modal-backdrop" data-close-modal></div>
+      <div class="modal-card">
+        <div class="modal-head">
+          <h3>Download materi PDF</h3>
+          <button type="button" class="modal-x" data-close-modal aria-label="Tutup">×</button>
+        </div>
+        <p class="hint">Pilih skill yang ingin diunduh. Bisa satu atau beberapa.</p>
+        <div class="pdf-select-bar">
+          <button type="button" class="btn secondary small" id="pdf-select-all">Pilih semua</button>
+          <button type="button" class="btn secondary small" id="pdf-select-none">Hapus pilihan</button>
+        </div>
+        <div id="materi-pdf-checklist" class="pdf-checklist"></div>
+        <label class="pdf-lang-row">
+          Bahasa PDF
+          <select id="materi-pdf-lang">
+            <option value="id">Indonesia</option>
+            <option value="en">English</option>
+            <option value="both">ID + EN</option>
+          </select>
+        </label>
+        <div class="modal-actions">
+          <button type="button" class="btn secondary" data-close-modal>Batal</button>
+          <button type="button" class="btn primary" id="btn-generate-materi-pdf">Buat PDF</button>
+        </div>
+      </div>
+    </div>
+
   </div>
 
-  <script src="js/app.js?v=9"></script>
+  <script src="js/app.js?v=13"></script>
 </body>
 </html>

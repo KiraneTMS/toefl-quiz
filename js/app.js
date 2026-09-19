@@ -107,7 +107,98 @@ function resetProgress() {
 }
 
 // ---------- Navigation ----------
+// ---------- SPA history (browser back/forward) ----------
+const VIEW_NAMES = new Set([
+  'dashboard', 'practice', 'quiz', 'results', 'progress',
+  'mistakes', 'wordlist', 'skills', 'materi'
+]);
+
+state._navSilent = false; // true = apply view without pushing history
+state._lastHash = '';
+
+function viewToHash(name, extra) {
+  if (name === 'dashboard') return '#/';
+  let h = '#/' + name;
+  if (name === 'materi' && (extra?.skillId || state.currentMateriSkillId)) {
+    h += '/' + (extra?.skillId || state.currentMateriSkillId);
+  }
+  if (name === 'skills' && state.selectedSkillId) {
+    h += '/' + state.selectedSkillId;
+  }
+  return h;
+}
+
+function parseHash(hash) {
+  const raw = (hash || '').replace(/^#\/?/, '');
+  if (!raw) return { view: 'dashboard' };
+  const parts = raw.split('/').filter(Boolean);
+  const view = VIEW_NAMES.has(parts[0]) ? parts[0] : 'dashboard';
+  const skillId = parts[1] || null;
+  return { view, skillId };
+}
+
+function pushViewHistory(name) {
+  if (state._navSilent) return;
+  const hash = viewToHash(name);
+  if (hash === state._lastHash) return;
+  // If same as current location hash, skip
+  if (location.hash === hash || (hash === '#/' && (location.hash === '' || location.hash === '#/'))) {
+    state._lastHash = hash;
+    return;
+  }
+  try {
+    history.pushState({ view: name, skillId: state.currentMateriSkillId || state.selectedSkillId || null }, '', hash);
+    state._lastHash = hash;
+  } catch (e) {
+    location.hash = hash;
+    state._lastHash = hash;
+  }
+}
+
+function applyViewFromRoute(name, skillId) {
+  if (skillId) {
+    if (name === 'materi') state.currentMateriSkillId = skillId;
+    if (name === 'skills') state.selectedSkillId = skillId;
+  }
+  state._navSilent = true;
+  showView(name);
+  state._navSilent = false;
+}
+
+function onRouteChange() {
+  const { view, skillId } = parseHash(location.hash);
+  state._lastHash = location.hash || '#/';
+  applyViewFromRoute(view, skillId);
+}
+
+function initRouter() {
+  window.addEventListener('popstate', () => {
+    const st = history.state;
+    if (st && st.view && VIEW_NAMES.has(st.view)) {
+      applyViewFromRoute(st.view, st.skillId || null);
+      return;
+    }
+    onRouteChange();
+  });
+  window.addEventListener('hashchange', () => {
+    // Only if not already handled by our push
+    if (state._navSilent) return;
+    onRouteChange();
+  });
+  // Initial: if no hash, set dashboard without adding extra history entry
+  if (!location.hash || location.hash === '#') {
+    try {
+      history.replaceState({ view: 'dashboard' }, '', '#/');
+    } catch (_) {}
+    state._lastHash = '#/';
+  } else {
+    onRouteChange();
+  }
+}
+
 function showView(name) {
+  if (!VIEW_NAMES.has(name)) name = 'dashboard';
+
   document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
   const el = document.getElementById('view-' + name);
   if (el) el.classList.add('active');
@@ -120,7 +211,10 @@ function showView(name) {
   });
   if (typeof closeMobileNav === 'function') closeMobileNav();
   const bn = document.getElementById('bottom-nav');
-  if (bn) bn.style.display = (name === 'quiz') ? 'none' : '';
+  if (bn) {
+    // restore default display from CSS; hide only in quiz
+    bn.style.display = (name === 'quiz') ? 'none' : '';
+  }
   document.body.classList.toggle('in-quiz', name === 'quiz');
 
   if (name === 'progress') renderProgress();
@@ -129,6 +223,8 @@ function showView(name) {
   if (name === 'wordlist') renderWordlist();
   if (name === 'skills') renderSkillsView();
   if (name === 'materi') renderMateriView();
+
+  pushViewHistory(name);
 }
 
 document.querySelectorAll('.nav-btn').forEach(btn => {
@@ -1078,7 +1174,7 @@ function getMateri(skillId) {
 
 function openMateri(skillId) {
   state.currentMateriSkillId = skillId;
-  showView('materi');
+  showView('materi'); // hash will include skill id
 }
 
 function markKeyTerms(text) {
@@ -1620,7 +1716,19 @@ function initMateriPdfUI() {
 loadData().then(() => {
   initMateriUI();
   initMateriPdfUI();
-  showView('dashboard');
+  initRouter();
+  // If hash already points to a view, router applied it; else dashboard
+  const { view } = parseHash(location.hash);
+  if (!location.hash || location.hash === '#' || location.hash === '#/') {
+    showView('dashboard');
+  } else if (VIEW_NAMES.has(view) && view !== 'dashboard') {
+    // already applied in initRouter via onRouteChange; ensure renders
+    state._navSilent = true;
+    showView(view);
+    state._navSilent = false;
+  } else {
+    showView('dashboard');
+  }
 });
 
 
