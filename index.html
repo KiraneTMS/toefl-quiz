@@ -2,38 +2,69 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>TOEFL Quiz</title>
-  <link rel="stylesheet" href="css/styles.css?v=4">
+  <link rel="stylesheet" href="css/styles.css?v=9">
 </head>
 <body>
   <div id="app">
     <header class="header">
-      <div class="container">
+      <div class="container header-inner">
+        <button type="button" class="menu-toggle" id="menu-toggle" aria-label="Menu">
+          <span></span><span></span><span></span>
+        </button>
         <h1 class="logo" onclick="showView('dashboard')">TOEFL QUIZ</h1>
-        <nav class="nav">
+        <nav class="nav" id="main-nav">
           <button class="nav-btn" data-view="dashboard">Beranda</button>
           <button class="nav-btn" data-view="practice">Latihan</button>
-          <button class="nav-btn" data-view="progress">Progress</button>
-          <button class="nav-btn" data-view="mistakes">Kesalahan</button>
-          <button class="nav-btn" data-view="wordlist">Kosakata</button>
           <button class="nav-btn" data-view="skills">Skills</button>
+          <button class="nav-btn" data-view="wordlist">Kosakata</button>
+          <button class="nav-btn" data-view="mistakes">Kesalahan</button>
+          <button class="nav-btn" data-view="progress">Progress</button>
         </nav>
       </div>
     </header>
 
+    <!-- mobile drawer backdrop -->
+    <div class="nav-backdrop" id="nav-backdrop"></div>
+
     <main class="main container">
       <!-- DASHBOARD -->
       <section id="view-dashboard" class="view active">
-        <h2>Selamat datang kembali</h2>
-        <p class="subtitle">Lacak latihan TOEFL-mu dan tingkatkan kemampuan langkah demi langkah.</p>
+        <div class="page-hero">
+          <h2>Selamat datang</h2>
+          <p class="subtitle">Latihan TOEFL terstruktur — skill, kosakata, dan progress di satu tempat.</p>
+        </div>
 
         <div class="card highlight-card" id="latest-practice-card">
-          <h3>Latihan Terakhir</h3>
+          <h3>Latihan terakhir</h3>
           <div id="latest-score">Belum ada latihan</div>
         </div>
 
-        <h3 class="section-title">Latihan</h3>
+        <div class="hub-grid">
+          <button type="button" class="hub-card" onclick="showView('skills')">
+            <span class="hub-icon">🎯</span>
+            <span class="hub-title">Skills</span>
+            <span class="hub-desc">Pack per materi · seed code</span>
+          </button>
+          <button type="button" class="hub-card" onclick="showView('practice')">
+            <span class="hub-icon">📝</span>
+            <span class="hub-title">Latihan</span>
+            <span class="hub-desc">Structure · Reading · Vocab</span>
+          </button>
+          <button type="button" class="hub-card" onclick="showView('wordlist')">
+            <span class="hub-icon">📚</span>
+            <span class="hub-title">Kosakata</span>
+            <span class="hub-desc">Daftar kata TOEFL</span>
+          </button>
+          <button type="button" class="hub-card" onclick="showView('mistakes')">
+            <span class="hub-icon">🔍</span>
+            <span class="hub-title">Kesalahan</span>
+            <span class="hub-desc">Review jawaban salah</span>
+          </button>
+        </div>
+
+        <h3 class="section-title">Bagian soal</h3>
         <div class="grid-4">
           <button class="section-card" onclick="startSection('structure')">
             <span class="icon">📝</span>
@@ -41,7 +72,7 @@
           </button>
           <button class="section-card" onclick="startSection('written-expression')">
             <span class="icon">✍️</span>
-            <span>Written Expression</span>
+            <span>Written Exp.</span>
           </button>
           <button class="section-card" onclick="startSection('reading')">
             <span class="icon">📖</span>
@@ -55,24 +86,25 @@
 
         <div class="coming-soon">
           <span>🎧 Listening</span>
-          <span class="badge">Segera Hadir</span>
+          <span class="badge">Segera hadir</span>
         </div>
 
-        <h3 class="section-title">Progress Kamu</h3>
+        <h3 class="section-title">Progress ringkas</h3>
         <div id="progress-overview" class="progress-bars"></div>
 
         <div class="quick-actions">
-          <button class="btn primary" onclick="startQuickQuiz()">⚡ Kuis Cepat (5 Soal)</button>
-          <button class="btn secondary" onclick="showView('practice')">Pilih Latihan</button>
-          <button class="btn secondary" onclick="showView('wordlist')">📚 Daftar Kosakata TOEFL</button>
-          <button class="btn secondary" onclick="showView('skills')">🎯 Skills / Pack Code</button>
+          <button class="btn primary" onclick="startQuickQuiz()">⚡ Kuis cepat (5 soal)</button>
+          <button class="btn secondary" onclick="showView('progress')">Lihat progress</button>
         </div>
       </section>
 
       <!-- PRACTICE SELECTOR -->
       <section id="view-practice" class="view">
-        <h2>Pengaturan Latihan</h2>
-        <div class="setup-form">
+        <div class="page-hero">
+          <h2>Pengaturan latihan</h2>
+          <p class="subtitle">Pilih bagian, kesulitan, dan mode.</p>
+        </div>
+        <div class="setup-form card">
           <label>Bagian</label>
           <select id="select-section">
             <option value="structure">Structure</option>
@@ -83,10 +115,10 @@
 
           <label>Kategori (opsional)</label>
           <select id="select-category">
-            <option value="all">Semua Kategori</option>
+            <option value="all">Semua kategori</option>
           </select>
 
-          <label>Tingkat Kesulitan</label>
+          <label>Tingkat kesulitan</label>
           <select id="select-difficulty">
             <option value="all">Semua</option>
             <option value="easy">Mudah</option>
@@ -94,7 +126,7 @@
             <option value="hard">Sulit</option>
           </select>
 
-          <label>Jumlah Soal</label>
+          <label>Jumlah soal</label>
           <select id="select-count">
             <option value="5">5</option>
             <option value="10" selected>10</option>
@@ -108,7 +140,7 @@
             <button class="mode-btn" data-mode="test">Tes (hasil di akhir)</button>
           </div>
 
-          <button class="btn primary full" id="btn-start-practice">Mulai Latihan</button>
+          <button class="btn primary full" id="btn-start-practice">Mulai latihan</button>
         </div>
       </section>
 
@@ -118,29 +150,27 @@
           <div id="quiz-progress-text">Soal 1 / 10</div>
           <div id="quiz-timer" class="timer hidden">00:00</div>
         </div>
-        <div class="progress-bar-container">
-          <div id="quiz-progress-bar" class="progress-bar"></div>
+        <div class="progress-track">
+          <div id="quiz-progress-bar" class="progress-fill"></div>
         </div>
 
         <div id="passage-box" class="passage-box hidden"></div>
-
-        <div class="question-box">
-          <h3 id="question-text"></h3>
-          <div id="options-container" class="options"></div>
-        </div>
-
+        <div id="question-text" class="question-text"></div>
+        <div id="options-container" class="options"></div>
         <div id="feedback-box" class="feedback-box hidden"></div>
 
-        <div class="quiz-actions">
-          <button class="btn secondary" id="btn-prev" disabled>Sebelumnya</button>
-          <button class="btn primary" id="btn-next">Berikutnya</button>
-          <button class="btn danger hidden" id="btn-finish">Selesai</button>
+        <div class="quiz-nav">
+          <button class="btn secondary" id="btn-prev">← Prev</button>
+          <button class="btn primary" id="btn-next">Next →</button>
+          <button class="btn primary hidden" id="btn-finish">Selesai</button>
         </div>
       </section>
 
       <!-- RESULTS -->
       <section id="view-results" class="view">
-        <h2>Hasil</h2>
+        <div class="page-hero">
+          <h2>Hasil</h2>
+        </div>
         <div class="score-circle" id="score-circle">
           <span id="score-percent">0%</span>
           <span id="score-fraction">0 / 0</span>
@@ -148,56 +178,70 @@
 
         <div id="section-breakdown" class="breakdown"></div>
         <div id="weak-areas" class="weak-areas"></div>
+        <div id="session-mistakes"></div>
 
         <div class="results-actions">
-          <button class="btn primary" onclick="showView('dashboard')">Kembali ke Beranda</button>
-          <button class="btn secondary" id="btn-review-mistakes">Lihat Kesalahan</button>
-          <button class="btn secondary" onclick="showView('practice')">Latihan Lagi</button>
+          <button class="btn primary" onclick="showView('dashboard')">Beranda</button>
+          <button class="btn secondary" id="btn-review-mistakes">Lihat kesalahan</button>
+          <button class="btn secondary" onclick="showView('practice')">Latihan lagi</button>
+          <button class="btn secondary" onclick="showView('skills')">Skills</button>
         </div>
       </section>
 
       <!-- PROGRESS -->
       <section id="view-progress" class="view">
-        <h2>Progress Saya</h2>
+        <div class="page-hero">
+          <h2>Progress saya</h2>
+          <p class="subtitle">Ringkasan performa dari latihan lokal.</p>
+        </div>
         <div id="overall-stats" class="stats-grid"></div>
-        <h3>Performa Topik</h3>
+        <h3 class="section-title">Performa topik</h3>
         <div id="topic-performance" class="topic-list"></div>
-        <button class="btn danger small" onclick="resetProgress()">Reset Semua Progress</button>
+        <button class="btn danger small" onclick="resetProgress()">Reset semua progress</button>
       </section>
 
       <!-- MISTAKES -->
       <section id="view-mistakes" class="view">
-        <h2>Tinjauan Kesalahan</h2>
+        <div class="page-hero">
+          <h2>Tinjauan kesalahan</h2>
+          <p class="subtitle">Soal yang pernah dijawab salah — cocok untuk review.</p>
+        </div>
         <div id="mistakes-list"></div>
         <p id="no-mistakes" class="empty-state hidden">Belum ada kesalahan tercatat. Kerja bagus!</p>
       </section>
 
       <!-- WORD LIST -->
       <section id="view-wordlist" class="view">
-        <h2>Kosakata TOEFL</h2>
-        <p class="subtitle">Kata akademik yang sering muncul di TOEFL — jarang dipakai sehari-hari, penting untuk skor tinggi.</p>
+        <div class="page-hero">
+          <h2>Kosakata TOEFL</h2>
+          <p class="subtitle">Kata akademik &amp; formal yang sering muncul.</p>
+        </div>
         <div class="wordlist-toolbar">
-          <input type="search" id="wordlist-search" placeholder="Cari kata atau arti..." autocomplete="off">
+          <input type="search" id="wordlist-search" placeholder="Cari kata / arti…" autocomplete="off">
           <select id="wordlist-letter">
             <option value="all">Semua huruf</option>
           </select>
+          <button class="btn secondary small" id="btn-download-wordlist-pdf" type="button">PDF</button>
         </div>
-        <div class="mistakes-summary" id="wordlist-count"></div>
+        <p id="wordlist-count" class="hint"></p>
         <div id="wordlist-container" class="wordlist-grid"></div>
       </section>
 
-      <!-- SKILLS / MATERIAL -->
+      <!-- SKILLS -->
       <section id="view-skills" class="view">
-        <h2>Latihan per Skill</h2>
-        <p class="subtitle">Pilih materi &amp; seed (pack code) supaya bisa review set soal yang sama.</p>
+        <div class="page-hero">
+          <h2>Latihan per skill</h2>
+          <p class="subtitle">Pilih materi &amp; seed (pack code) supaya bisa review set soal yang sama.</p>
+          <p class="hint">💡 Pilih skill, lalu buka <strong>Materi</strong> untuk ringkasan + rumus sebelum latihan.</p>
+        </div>
 
         <div class="skills-layout">
           <div class="skills-panel">
-            <h3 class="section-title">1. Pilih Skill</h3>
+            <h3 class="section-title tight">1. Pilih skill</h3>
             <div id="skills-list" class="skills-list"></div>
           </div>
-          <div class="skills-panel">
-            <h3 class="section-title">2. Pilih Seed / Pack</h3>
+          <div class="skills-panel sticky-panel">
+            <h3 class="section-title tight">2. Pilih seed / pack</h3>
             <p class="hint" id="skills-selected-label">Pilih skill dulu</p>
             <div id="seeds-list" class="seeds-list"></div>
             <div class="seed-custom">
@@ -208,26 +252,60 @@
               </div>
             </div>
             <div id="seed-preview" class="seed-preview hidden"></div>
-            <button class="btn primary full" id="btn-start-skill" disabled>Mulai Pack Ini</button>
+            <button class="btn primary full" id="btn-start-skill" disabled>Mulai pack ini</button>
           </div>
         </div>
 
         <div class="card" style="margin-top:1.5rem">
-          <h3>Riwayat Seed</h3>
+          <h3>Riwayat seed</h3>
           <p class="hint">Pack yang pernah dikerjakan (disimpan lokal)</p>
           <div id="seed-history" class="seed-history"></div>
         </div>
       </section>
 
+      <!-- MATERI / LEARN -->
+      <section id="view-materi" class="view">
+        <div class="page-hero materi-hero">
+          <button type="button" class="btn secondary small" id="btn-materi-back">← Kembali ke Skills</button>
+          <div class="lang-toggle" id="materi-lang-toggle">
+            <button type="button" class="lang-btn active" data-lang="id">ID</button>
+            <button type="button" class="lang-btn" data-lang="en">EN</button>
+          </div>
+        </div>
+        <div id="materi-content" class="materi-content"></div>
+        <div class="materi-footer-actions">
+          <button type="button" class="btn primary" id="btn-materi-practice">Latihan skill ini →</button>
+        </div>
+      </section>
+
     </main>
+
+    <!-- Bottom nav (mobile) -->
+    <nav class="bottom-nav" id="bottom-nav" aria-label="Navigasi utama">
+      <button type="button" class="bnav-btn" data-view="dashboard">
+        <span class="bnav-ico">🏠</span><span>Beranda</span>
+      </button>
+      <button type="button" class="bnav-btn" data-view="skills">
+        <span class="bnav-ico">🎯</span><span>Skills</span>
+      </button>
+      <button type="button" class="bnav-btn" data-view="practice">
+        <span class="bnav-ico">📝</span><span>Latihan</span>
+      </button>
+      <button type="button" class="bnav-btn" data-view="wordlist">
+        <span class="bnav-ico">📚</span><span>Kosakata</span>
+      </button>
+      <button type="button" class="bnav-btn" data-view="progress">
+        <span class="bnav-ico">📊</span><span>Progress</span>
+      </button>
+    </nav>
 
     <footer class="footer">
       <div class="container">
-        <p>Latihan bergaya TOEFL • Soal original • Progress disimpan lokal</p>
+        <p>Latihan bergaya TOEFL · Soal original · Progress lokal</p>
       </div>
     </footer>
   </div>
 
-  <script src="js/app.js?v=4"></script>
+  <script src="js/app.js?v=9"></script>
 </body>
 </html>

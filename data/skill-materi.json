@@ -1,0 +1,2094 @@
+[
+  {
+    "skillId": "skill-1",
+    "code": "S1",
+    "title_en": "Be sure the sentence has a subject and a verb",
+    "title_id": "Pastikan kalimat punya subject dan verb",
+    "group_en": "Sentences with One Clause",
+    "group_id": "Kalimat dengan Satu Klausa",
+    "summary_id": "Di soal Structure TOEFL, kesalahan paling umum adalah subject hilang, verb hilang, atau ada subject/verb tambahan yang tidak perlu.",
+    "summary_en": "On TOEFL Structure, the most common errors are a missing subject, a missing verb, or an extra subject/verb.",
+    "formula": [
+      {
+        "label": "Inti aturan",
+        "en": "SUBJECT + VERB (+ …)",
+        "id": "Setiap kalimat minimal: SUBJECT + VERB"
+      },
+      {
+        "label": "Cek cepat",
+        "en": "1) Who/What is the sentence about? → SUBJECT\n2) What happens / is true? → VERB",
+        "id": "1) Tentang siapa/apa? → SUBJECT\n2) Apa yang terjadi / keadaannya? → VERB"
+      },
+      {
+        "label": "Larangan",
+        "en": "❌ No subject  ·  ❌ No verb  ·  ❌ Double subject (e.g. The boy he is…)",
+        "id": "❌ Tanpa subject  ·  ❌ Tanpa verb  ·  ❌ Subject dobel (The boy he is…)"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Harus ada subject",
+        "title_en": "1. There must be a subject",
+        "body_id": "Subject = pelaku / topik kalimat (noun, pronoun, atau noun phrase). Tanpa subject, kalimat tidak lengkap.",
+        "body_en": "The subject is who or what the sentence is about. Without it, the sentence is incomplete."
+      },
+      {
+        "title_id": "2. Harus ada verb (finite)",
+        "title_en": "2. There must be a finite verb",
+        "body_id": "Verb harus bentuk lengkap (is/are/was, works, has gone, will be…). Participle saja (going, needed) sering belum cukup tanpa be/aux.",
+        "body_en": "You need a full verb form. A participle alone (going, needed) is often not enough without be/an auxiliary."
+      },
+      {
+        "title_id": "3. Jangan dobel subject",
+        "title_en": "3. Do not add an extra subject",
+        "body_id": "Jika sudah ada The boy, jangan tambah he. Pola salah: The boy he is going…",
+        "body_en": "If the sentence already has The boy, do not add he. Wrong: The boy he is going…"
+      },
+      {
+        "title_id": "4. Subject–verb agreement",
+        "title_en": "4. Subject–verb agreement",
+        "body_id": "Subject singular → verb singular (traffic was…). Subject plural → verb plural (cars were…). Pilih subject yang cocok dengan verb yang sudah ada.",
+        "body_en": "Singular subject → singular verb; plural → plural. Pick a subject that agrees with the given verb."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "_____ was backed up for miles on the freeway.",
+        "options": [
+          "Yesterday",
+          "In the morning",
+          "Traffic",
+          "Cars"
+        ],
+        "correct": 2,
+        "why_en": "There is a verb (was) but no subject. Traffic is a singular subject that agrees with was. Yesterday / In the morning are not subjects. Cars is plural, so it does not agree with was.",
+        "why_id": "Sudah ada verb was, tapi belum ada subject. Traffic (singular) cocok dengan was. Yesterday / In the morning bukan subject. Cars plural → tidak cocok dengan was."
+      },
+      {
+        "id": "ex2",
+        "stem": "Engineers _____ for work on the new space program.",
+        "options": [
+          "necessary",
+          "are needed",
+          "hopefully",
+          "next month"
+        ],
+        "correct": 1,
+        "why_en": "The sentence has a subject (Engineers) but no verb. Are needed is the verb phrase that completes the sentence. The other options are not verbs.",
+        "why_id": "Sudah ada subject Engineers, tapi belum ada verb. Are needed melengkapi kalimat. Opsi lain bukan verb."
+      },
+      {
+        "id": "ex3",
+        "stem": "The boy _____ going to the movies with a friend.",
+        "options": [
+          "he is",
+          "he always was",
+          "is relaxing",
+          "will be"
+        ],
+        "correct": 3,
+        "why_en": "Subject boy already exists; going needs a form of be. Will be + going is complete. He is / he always was add an extra subject he. Is relaxing adds an unnecessary extra verb idea beside going.",
+        "why_id": "Subject boy sudah ada; going butuh be. Will be + going lengkap. He is / he always was menambah subject he. Is relaxing menambah verb yang tidak perlu di samping going."
+      }
+    ],
+    "checklist_id": [
+      "Tandai subject (siapa/apa).",
+      "Tandai verb finite (kata kerja utama).",
+      "Cek: apakah subject hilang?",
+      "Cek: apakah verb hilang?",
+      "Cek: ada subject/verb ekstra?",
+      "Cek agreement (singular/plural)."
+    ],
+    "checklist_en": [
+      "Mark the subject (who/what).",
+      "Mark the finite verb.",
+      "Missing subject?",
+      "Missing verb?",
+      "Extra subject or verb?",
+      "Agreement (singular/plural)?"
+    ],
+    "remember_id": "Kalimat Inggris minimal: **SUBJECT + VERB**. Hilang salah satu → salah. Dobel subject/verb → salah.",
+    "remember_en": "An English sentence needs at least **SUBJECT + VERB**. Missing either is wrong. An extra subject/verb is also wrong."
+  },
+  {
+    "skillId": "skill-2",
+    "code": "S2",
+    "title_en": "Be careful of objects of prepositions",
+    "title_id": "Hati-hati dengan object of preposition",
+    "group_en": "Sentences with One Clause",
+    "group_id": "Kalimat dengan Satu Klausa",
+    "summary_id": "Object of preposition (noun/pronoun/gerund setelah in, of, with, by, dll.) sering dikira subject. Kata itu BUKAN subject — cari subject yang sesungguhnya.",
+    "summary_en": "An object of a preposition (noun/pronoun/gerund after in, of, with, by, etc.) is often mistaken for the subject. It is NOT the subject — find the real subject.",
+    "formula": [
+      {
+        "label": "Pola prepositional phrase",
+        "en": "PREPOSITION + OBJECT\n(with + friend)  (after + exams)  (by + boat)",
+        "id": "PREPOSITION + OBJECT\n(with + friend)  (after + exams)  (by + boat)"
+      },
+      {
+        "label": "Aturan inti",
+        "en": "Object of a preposition ≠ SUBJECT\nOne noun cannot be subject and object at the same time.",
+        "id": "Object of preposition ≠ SUBJECT\nSatu noun tidak bisa jadi subject dan object sekaligus."
+      },
+      {
+        "label": "Cek cepat",
+        "en": "1) Circle prepositions (in, on, of, to, by, with…)\n2) Mark the noun after them = OBJECT (not subject)\n3) Find the real SUBJECT + VERB outside the phrase",
+        "id": "1) Lingkari preposition (in, on, of, to, by, with…)\n2) Noun setelahnya = OBJECT (bukan subject)\n3) Cari SUBJECT + VERB di luar frase itu"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Apa itu object of preposition?",
+        "title_en": "1. What is an object of a preposition?",
+        "body_id": "Noun, pronoun, gerund, atau noun clause yang mengikuti preposition (in, at, of, to, by, behind, on, with, from, for, …) membentuk prepositional phrase.",
+        "body_en": "A noun, pronoun, gerund, or noun clause after a preposition (in, at, of, to, by, behind, on, with, from, for, …) forms a prepositional phrase."
+      },
+      {
+        "title_id": "2. Contoh frase",
+        "title_en": "2. Phrase examples",
+        "body_id": "After his exams → exams = object of after. By boat → boat = object of by. With his friend → friend = object of with.",
+        "body_en": "After his exams → exams = object of after. By boat → boat = object of by. With his friend → friend = object of with."
+      },
+      {
+        "title_id": "3. Jangan dikira subject",
+        "title_en": "3. Do not mistake it for the subject",
+        "body_id": "Di soal Structure, object of preposition sering panjang dan dekat verb, jadi mudah dikira subject. Ingat: jika sudah jadi object, tidak bisa jadi subject di clause yang sama.",
+        "body_en": "In Structure items, the object of a preposition can look like the subject. Remember: if a word is an object of a preposition, it is not the subject."
+      },
+      {
+        "title_id": "4. Subject–verb agreement tetap mengikuti subject asli",
+        "title_en": "4. Agreement follows the real subject",
+        "body_id": "The results of the experiment were… → subject = results (plural), bukan experiment. The cost of materials has risen… → subject = cost (singular).",
+        "body_en": "The results of the experiment were… → subject = results (plural), not experiment. The cost of materials has risen… → subject = cost (singular)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "With his friend _____ found the movie theater.",
+        "options": [
+          "has",
+          "he",
+          "later",
+          "when"
+        ],
+        "correct": 1,
+        "why_en": "found is the verb; there is no subject yet. friend is the object of with, so it cannot be the subject. Answer (B) he supplies the subject.",
+        "why_id": "found = verb; subject belum ada. friend = object of with, jadi bukan subject. Jawaban (B) he mengisi subject."
+      },
+      {
+        "id": "ex2",
+        "stem": "The results of the multi-site experiment _____ published last month.",
+        "options": [
+          "was",
+          "were",
+          "being",
+          "to be"
+        ],
+        "correct": 1,
+        "why_en": "Subject = results (plural), not experiment (object of of). Plural subject → were.",
+        "why_id": "Subject = results (plural), bukan experiment (object of of). Subject plural → were."
+      },
+      {
+        "id": "ex3",
+        "stem": "Each of the participating laboratories _____ a full replication package.",
+        "options": [
+          "submit",
+          "submits",
+          "submitting",
+          "to submit"
+        ],
+        "correct": 1,
+        "why_en": "Each is singular; of the laboratories is only a prepositional phrase. Singular → submits.",
+        "why_id": "Each singular; of the laboratories hanya prepositional phrase. Singular → submits."
+      }
+    ],
+    "checklist_id": [
+      "Lingkari semua preposition (of, in, with, by, from…).",
+      "Tandai object setelah preposition — itu BUKAN subject.",
+      "Cari subject di luar prepositional phrase.",
+      "Cocokkan verb dengan subject asli (bukan dengan object of preposition).",
+      "Cek singular/plural: one/each/none vs a number of / results / effects."
+    ],
+    "checklist_en": [
+      "Circle every preposition (of, in, with, by, from…).",
+      "Mark the object after it — that is NOT the subject.",
+      "Find the real subject outside the prepositional phrase.",
+      "Make the verb agree with the real subject (not the object of the preposition).",
+      "Check singular/plural: one/each/none vs a number of / results / effects."
+    ],
+    "remember_id": "Preposition + object. **Object of preposition ≠ subject.** Agreement mengikuti subject yang sebenarnya.",
+    "remember_en": "Preposition + object. **Object of a preposition ≠ subject.** Agreement follows the real subject."
+  },
+  {
+    "skillId": "skill-3",
+    "code": "S3",
+    "title_en": "Be careful of appositives",
+    "title_id": "Hati-hati dengan appositive",
+    "group_en": "Sentences with One Clause",
+    "group_id": "Kalimat dengan Satu Klausa",
+    "summary_id": "Appositive = noun yang menjelaskan noun lain (biasanya di antara koma). Appositive bukan subject. Jangan sampai tertukar dengan subject kalimat.",
+    "summary_en": "An appositive is a noun that renames another noun (usually set off by commas). An appositive is not the subject — do not confuse the two.",
+    "formula": [
+      {
+        "label": "Pola A — appositive setelah subject",
+        "en": "S , APP , V …\nTom, a really good mechanic, is fixing the car.",
+        "id": "S , APP , V …\nTom, a really good mechanic, is fixing the car."
+      },
+      {
+        "label": "Pola B — appositive di depan",
+        "en": "APP , S V …\nA really good mechanic, Tom is fixing the car.",
+        "id": "APP , S V …\nA really good mechanic, Tom is fixing the car."
+      },
+      {
+        "label": "Tes cepat",
+        "en": "Remove the phrase between commas.\nIf the sentence still works → that phrase is likely an appositive (not the subject).",
+        "id": "Hapus frase di antara koma.\nKalimat masih masuk akal → itu kemungkinan besar appositive (bukan subject)."
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Apa itu appositive?",
+        "title_en": "1. What is an appositive?",
+        "body_id": "Noun (atau noun phrase) yang datang sebelum/sesudah noun lain dan punya makna yang sama. Contoh: Sally, the best student in the class, got an A. Sally = the best student.",
+        "body_en": "A noun (or noun phrase) before or after another noun with the same meaning. Example: Sally, the best student in the class, got an A. Sally = the best student."
+      },
+      {
+        "title_id": "2. Biasanya dipisah koma",
+        "title_en": "2. Usually set off with commas",
+        "body_id": "Koma menandai appositive. Jika ada koma mengapit sebuah noun phrase, cek apakah itu hanya menjelaskan subject — bukan subject itu sendiri.",
+        "body_en": "Commas often mark the appositive. If commas surround a noun phrase, check whether it only renames the subject — it is not the subject itself."
+      },
+      {
+        "title_id": "3. Appositive ≠ subject",
+        "title_en": "3. An appositive is not the subject",
+        "body_id": "Subject tetap noun utama di luar appositive. Kalimat tetap butuh subject + verb yang lengkap; appositive tidak menggantikan subject.",
+        "body_en": "The subject is the main noun outside the appositive. The sentence still needs a full subject + verb; the appositive does not replace the subject."
+      },
+      {
+        "title_id": "4. Appositive tidak butuh verb sendiri",
+        "title_en": "4. An appositive does not need its own verb",
+        "body_id": "Jangan pilih opsi yang menyisipkan is/was ke dalam appositive. An excellent basketball player (benar) vs An excellent basketball player is (salah sebagai appositive).",
+        "body_en": "Do not choose options that insert is/was into the appositive. An excellent basketball player (correct) vs An excellent basketball player is (wrong as an appositive)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "_____ George, is attending the lecture.",
+        "options": [
+          "Right now",
+          "Happily",
+          "Because of the time",
+          "My friend"
+        ],
+        "correct": 3,
+        "why_en": "Commas show that George is an appositive, not the subject. The sentence still needs a subject → My friend. (A)–(C) cannot be subjects.",
+        "why_id": "Koma menunjukkan George adalah appositive, bukan subject. Kalimat masih butuh subject → My friend. (A)–(C) tidak bisa jadi subject."
+      },
+      {
+        "id": "ex2",
+        "stem": "_____ Sarah rarely misses her basketball shots.",
+        "options": [
+          "An excellent basketball player",
+          "An excellent basketball player is",
+          "Sarah is an excellent basketball player",
+          "Her excellent basketball play"
+        ],
+        "correct": 0,
+        "why_en": "Sarah is the subject and misses is the verb (no comma between them). Put an appositive for Sarah: An excellent basketball player. (B)(C) add an extra verb is. (D) play is not the same as Sarah.",
+        "why_id": "Sarah = subject, misses = verb (tanpa koma di antaranya). Isi appositive untuk Sarah: An excellent basketball player. (B)(C) menambah verb is. (D) play bukan sama dengan Sarah."
+      },
+      {
+        "id": "ex3",
+        "stem": "The tetracyclines, _____ antibiotics, are used to treat infections.",
+        "options": [
+          "are a family of",
+          "being a family",
+          "a family of",
+          "their family is"
+        ],
+        "correct": 2,
+        "why_en": "Between commas you need a noun phrase appositive: a family of antibiotics. Not a second main verb (are / is).",
+        "why_id": "Di antara koma butuh noun phrase appositive: a family of antibiotics. Bukan verb utama kedua (are / is)."
+      }
+    ],
+    "checklist_id": [
+      "Cari koma yang mengapit noun phrase.",
+      "Tandai appositive — itu menjelaskan noun, bukan subject.",
+      "Hapus sementara appositive; sisa kalimat harus tetap punya subject + verb.",
+      "Pastikan appositive tidak membawa verb finite sendiri (is/was/are).",
+      "Subject–verb agreement mengikuti subject utama, bukan isi appositive."
+    ],
+    "checklist_en": [
+      "Find commas around a noun phrase.",
+      "Mark the appositive — it renames a noun; it is not the subject.",
+      "Temporarily remove the appositive; the rest must still have subject + verb.",
+      "Make sure the appositive does not carry its own finite verb (is/was/are).",
+      "Agreement follows the main subject, not the appositive phrase."
+    ],
+    "remember_id": "Appositive = noun penjelas (sering di antara koma). **Appositive ≠ subject.** Kalimat tetap butuh subject + verb di luar appositive.",
+    "remember_en": "An appositive is a renaming noun (often between commas). **Appositive ≠ subject.** The sentence still needs subject + verb outside the appositive."
+  },
+  {
+    "skillId": "skill-4",
+    "code": "S4",
+    "title_en": "Be careful of present participles",
+    "title_id": "Hati-hati dengan present participle",
+    "group_en": "Sentences with One Clause",
+    "group_id": "Kalimat dengan Satu Klausa",
+    "summary_id": "Present participle (-ing) bisa jadi bagian verb (dengan be) atau adjective (tanpa be). Jangan sampai -ing dikira verb utama padahal hanya modifier.",
+    "summary_en": "A present participle (-ing) can be part of the verb (with be) or an adjective (without be). Do not treat -ing as the main verb when it is only a modifier.",
+    "formula": [
+      {
+        "label": "Sebagai bagian VERB",
+        "en": "be + V-ing  →  verb phrase\nThe man is talking to his friend.",
+        "id": "be + V-ing  →  frasa verb\nThe man is talking to his friend."
+      },
+      {
+        "label": "Sebagai ADJECTIVE",
+        "en": "Noun + V-ing …  (no be before it)\nThe man talking to his friend has a beard.\n→ talking = adjective; main verb = has",
+        "id": "Noun + V-ing …  (tanpa be di depannya)\nThe man talking to his friend has a beard.\n→ talking = adjective; verb utama = has"
+      },
+      {
+        "label": "Cek cepat",
+        "en": "Is there a form of be right before -ing?\nYES → part of the verb\nNO  → usually adjective (look for another finite verb)",
+        "id": "Ada be tepat sebelum -ing?\nYA  → bagian verb\nTIDAK → biasanya adjective (cari finite verb lain)"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Apa itu present participle?",
+        "title_en": "1. What is a present participle?",
+        "body_id": "Bentuk -ing dari verb (talking, playing, standing). Di Structure TOEFL, bisa membingungkan karena kadang verb, kadang adjective.",
+        "body_en": "The -ing form of a verb (talking, playing, standing). On TOEFL Structure it can be confusing because it may be part of the verb or an adjective."
+      },
+      {
+        "title_id": "2. Dengan be = bagian verb",
+        "title_en": "2. With be = part of the verb",
+        "body_id": "The boy is standing in the corner. → is standing = verb lengkap. is = be, standing = present participle.",
+        "body_en": "The boy is standing in the corner. → is standing = full verb phrase. is = be, standing = present participle."
+      },
+      {
+        "title_id": "3. Tanpa be = adjective (modifier)",
+        "title_en": "3. Without be = adjective (modifier)",
+        "body_id": "The boy standing in the corner was naughty. → standing menjelaskan boy; verb utama = was. Jangan menambah is/was lagi di tempat yang salah.",
+        "body_en": "The boy standing in the corner was naughty. → standing modifies boy; main verb = was. Do not insert another is/was incorrectly."
+      },
+      {
+        "title_id": "4. Cari finite verb yang lain",
+        "title_en": "4. Look for another finite verb",
+        "body_id": "Jika kalimat sudah punya is/has/was di tempat lain, -ing di tengah sering hanya reduced relative (adjective), bukan verb yang butuh dilengkapi.",
+        "body_en": "If the sentence already has is/has/was elsewhere, a mid-sentence -ing is often only a reduced relative (adjective), not a verb that still needs completing."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "The child _____ playing in the yard is my son.",
+        "options": [
+          "now",
+          "is",
+          "he",
+          "was"
+        ],
+        "correct": 0,
+        "why_en": "playing is an adjective (no be before it). The sentence already has subject child and verb is. Do not add is/was/he. now fits as an adverb.",
+        "why_id": "playing = adjective (tidak ada be di depannya). Subject child dan verb is sudah lengkap. Jangan tambah is/was/he. now cocok sebagai adverb."
+      },
+      {
+        "id": "ex2",
+        "stem": "The technician _____ the calibration logs noticed a recurring error.",
+        "options": [
+          "reviews",
+          "reviewing",
+          "reviewed",
+          "to review"
+        ],
+        "correct": 1,
+        "why_en": "reviewing = present participle adjective (who was reviewing). Main verb = noticed.",
+        "why_id": "reviewing = present participle sebagai adjective (who was reviewing). Verb utama = noticed."
+      },
+      {
+        "id": "ex3",
+        "stem": "_____ the safety checklist, the pilot requested clearance for departure.",
+        "options": [
+          "Complete",
+          "Completing",
+          "Completed",
+          "To completing"
+        ],
+        "correct": 1,
+        "why_en": "Completing… = reduced adverbial (While/After completing…). Present participle opens the clause.",
+        "why_id": "Completing… = reduced adverbial (While/After completing…). Present participle membuka klausa."
+      }
+    ],
+    "checklist_id": [
+      "Temukan semua kata -ing.",
+      "Cek: apakah ada be (is/are/was/were) tepat sebelumnya?",
+      "Jika ya → bagian verb. Jika tidak → kemungkinan adjective.",
+      "Cari finite verb lain (is, has, was, noticed…).",
+      "Jangan menambah subject/verb ekstra jika S + V sudah lengkap."
+    ],
+    "checklist_en": [
+      "Find every -ing word.",
+      "Check: is there be (is/are/was/were) right before it?",
+      "If yes → part of the verb. If no → likely an adjective.",
+      "Find another finite verb (is, has, was, noticed…).",
+      "Do not add an extra subject/verb if S + V is already complete."
+    ],
+    "remember_id": "**be + V-ing** = verb. **V-ing tanpa be** = sering adjective. Pastikan kalimat punya finite verb yang sesungguhnya.",
+    "remember_en": "**be + V-ing** = verb. **V-ing without be** = often an adjective. Make sure the sentence has a real finite verb."
+  },
+  {
+    "skillId": "skill-5",
+    "code": "S5",
+    "title_en": "Be careful of past participles",
+    "title_id": "Hati-hati dengan past participle",
+    "group_en": "Sentences with One Clause",
+    "group_id": "Kalimat dengan Satu Klausa",
+    "summary_id": "Past participle (sering -ed, atau irregular) bisa bagian verb (dengan have/be) atau adjective (tanpa have/be). Jangan dikira verb utama jika hanya modifier.",
+    "summary_en": "A past participle (often -ed, or irregular) can be part of the verb (with have/be) or an adjective (without have/be). Do not treat it as the main verb when it is only a modifier.",
+    "formula": [
+      {
+        "label": "Sebagai bagian VERB",
+        "en": "have/has/had + V3\nbe (is/are/was…) + V3\nThe family has purchased a television.\nThe poem was written by Paul.",
+        "id": "have/has/had + V3\nbe (is/are/was…) + V3\nThe family has purchased a television.\nThe poem was written by Paul."
+      },
+      {
+        "label": "Sebagai ADJECTIVE",
+        "en": "Noun + V3 …  (no have/be before it)\nThe television purchased yesterday was expensive.\n→ purchased = adjective; main verb = was",
+        "id": "Noun + V3 …  (tanpa have/be di depannya)\nThe television purchased yesterday was expensive.\n→ purchased = adjective; verb utama = was"
+      },
+      {
+        "label": "Tiga peran bentuk -ed",
+        "en": "1) Simple past: She painted this picture.\n2) Past participle (verb): She has painted…\n3) Adjective: The picture painted by Karen is…",
+        "id": "1) Simple past: She painted this picture.\n2) Past participle (verb): She has painted…\n3) Adjective: The picture painted by Karen is…"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Apa itu past participle?",
+        "title_en": "1. What is a past participle?",
+        "body_id": "Bentuk verb yang muncul bersama have atau be. Sering berakhir -ed, tapi banyak yang irregular (written, bought, found…).",
+        "body_en": "The verb form that appears with have or be. It often ends in -ed, but many are irregular (written, bought, found…)."
+      },
+      {
+        "title_id": "2. Dengan have/be = bagian verb",
+        "title_en": "2. With have/be = part of the verb",
+        "body_id": "has purchased, was written → past participle melengkapi verb phrase. Jangan bingung dengan adjective.",
+        "body_en": "has purchased, was written → the past participle completes the verb phrase. Do not confuse it with an adjective use."
+      },
+      {
+        "title_id": "3. Tanpa have/be = adjective",
+        "title_en": "3. Without have/be = adjective",
+        "body_id": "Jika tidak ada have/be tepat sebelumnya, dan ada finite verb lain di kalimat, V3 biasanya reduced relative (adjective).",
+        "body_en": "If there is no have/be right before it, and another finite verb exists in the sentence, V3 is usually a reduced relative (adjective)."
+      },
+      {
+        "title_id": "4. Jangan menambah helping verb yang tidak perlu",
+        "title_en": "4. Do not add an unnecessary helping verb",
+        "body_id": "Jika mailed/written/purchased hanya adjective, opsi have/were sering salah. Cari verb utama yang sudah ada (will arrive, was, appeared…).",
+        "body_en": "If mailed/written/purchased is only an adjective, options like have/were are often wrong. Find the main verb already in the sentence (will arrive, was, appeared…)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "The packages _____ mailed at the post office will arrive Monday.",
+        "options": [
+          "have",
+          "were",
+          "them",
+          "just"
+        ],
+        "correct": 3,
+        "why_en": "mailed is a participial adjective (no have/be before it). Main verb = will arrive. just fits as an adverb. have/were wrongly treat mailed as needing a helper; them is an extra object.",
+        "why_id": "mailed = adjective (tidak ada have/be di depan). Verb utama = will arrive. just cocok sebagai adverb. have/were salah menganggap mailed butuh helper; them = object ekstra."
+      },
+      {
+        "id": "ex2",
+        "stem": "The report _____ on the director's desk summarizes last quarter's findings.",
+        "options": [
+          "placing",
+          "placed",
+          "place",
+          "to place"
+        ],
+        "correct": 1,
+        "why_en": "placed = past participle adjective (which was placed). Main verb = summarizes.",
+        "why_id": "placed = past participle adjective (which was placed). Verb utama = summarizes."
+      },
+      {
+        "id": "ex3",
+        "stem": "_____ by successive budget cuts, the program suspended field operations.",
+        "options": [
+          "Weakening",
+          "Weakened",
+          "Weaken",
+          "To weaken"
+        ],
+        "correct": 1,
+        "why_en": "Weakened by… = reduced passive (Because it was weakened…). Past participle opens the clause.",
+        "why_id": "Weakened by… = reduced passive (Because it was weakened…). Past participle membuka klausa."
+      }
+    ],
+    "checklist_id": [
+      "Temukan bentuk V3 / -ed / irregular participle.",
+      "Cek: ada have atau be tepat sebelumnya?",
+      "Jika ya → bagian verb. Jika tidak → kemungkinan adjective.",
+      "Cari finite verb lain di kalimat (will arrive, was, appeared…).",
+      "Jangan menambah have/were/them jika S + V sudah lengkap."
+    ],
+    "checklist_en": [
+      "Find every V3 / -ed / irregular participle.",
+      "Check: is there have or be right before it?",
+      "If yes → part of the verb. If no → likely an adjective.",
+      "Find another finite verb (will arrive, was, appeared…).",
+      "Do not add have/were/them if S + V is already complete."
+    ],
+    "remember_id": "**have/be + V3** = verb. **V3 tanpa have/be** = sering adjective. Pastikan ada finite verb yang sesungguhnya.",
+    "remember_en": "**have/be + V3** = verb. **V3 without have/be** = often an adjective. Make sure there is a real finite verb."
+  },
+  {
+    "skillId": "skill-6",
+    "code": "S6",
+    "title_en": "Use coordinate connectors correctly",
+    "title_id": "Gunakan coordinate connector dengan benar",
+    "group_en": "Sentences with Multiple Clauses",
+    "group_id": "Kalimat dengan Beberapa Klausa",
+    "summary_id": "Dua independent clause harus dihubungkan dengan benar. Coordinate connectors: and, but, or, so, yet (biasanya dengan koma).",
+    "summary_en": "Two independent clauses must be joined correctly. Coordinate connectors: and, but, or, so, yet (usually with a comma).",
+    "formula": [
+      {
+        "label": "Pola dasar",
+        "en": "S V ,  coordinate connector  S V\nShe laughed, but she wanted to cry.",
+        "id": "S V ,  coordinate connector  S V\nShe laughed, but she wanted to cry."
+      },
+      {
+        "label": "Daftar connector",
+        "en": "and  (addition)\nbut / yet  (contrast)\nor  (choice)\nso  (result)",
+        "id": "and  (tambahan)\nbut / yet  (kontras)\nor  (pilihan)\nso  (hasil/akibat)"
+      },
+      {
+        "label": "Bukan connector",
+        "en": "then, later, next, after that → NOT coordinate connectors alone\nThey cannot join two full clauses by themselves on TOEFL Structure.",
+        "id": "then, later, next, after that → BUKAN coordinate connector\nTidak bisa sendiri menghubungkan dua clause penuh di Structure TOEFL."
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Setiap clause butuh subject + verb",
+        "title_en": "1. Every clause needs subject + verb",
+        "body_id": "Jika ada lebih dari satu clause, pastikan tiap clause punya subject dan verb, lalu dihubungkan dengan connector yang tepat.",
+        "body_en": "If there is more than one clause, each clause needs a subject and a verb, then a correct connector between them."
+      },
+      {
+        "title_id": "2. Lima coordinate connectors",
+        "title_en": "2. Five coordinate connectors",
+        "body_id": "and, but, or, so, yet. Contoh: Tom is singing, and Paul is dancing. Tom is tired, yet he is not going to sleep.",
+        "body_en": "and, but, or, so, yet. Example: Tom is singing, and Paul is dancing. Tom is tired, yet he is not going to sleep."
+      },
+      {
+        "title_id": "3. Makna connector",
+        "title_en": "3. Connector meaning",
+        "body_id": "and = tambah; but/yet = kontras; or = pilihan; so = akibat. Pilih sesuai hubungan logika dua clause.",
+        "body_en": "and = addition; but/yet = contrast; or = choice; so = result. Match the logic between the two clauses."
+      },
+      {
+        "title_id": "4. then / later / next bukan cukup",
+        "title_en": "4. then / later / next are not enough",
+        "body_id": "Kata urutan waktu saja tidak menghubungkan dua independent clause di pola coordinate. Butuh and/but/or/so/yet (atau struktur lain di skill berikutnya).",
+        "body_en": "Time-sequence words alone do not join two independent clauses in this coordinate pattern. You need and/but/or/so/yet (or another structure in later skills)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "A power failure occurred, _____ the lamps went out.",
+        "options": [
+          "then",
+          "so",
+          "later",
+          "next"
+        ],
+        "correct": 1,
+        "why_en": "Two clauses need a real coordinate connector. so joins them with a result meaning. then/later/next are not coordinate connectors here.",
+        "why_id": "Dua clause butuh coordinate connector sejati. so menghubungkan dengan makna akibat. then/later/next bukan coordinate connector di pola ini."
+      },
+      {
+        "id": "ex2",
+        "stem": "The pilot succeeded on several metrics, _____ national scale-up remains premature without longer follow-up.",
+        "options": [
+          "and",
+          "but",
+          "or",
+          "so"
+        ],
+        "correct": 1,
+        "why_en": "Contrast between success and remaining limits → but.",
+        "why_id": "Kontras antara keberhasilan dan batasan yang tersisa → but."
+      },
+      {
+        "id": "ex3",
+        "stem": "The sampling frame must be complete, _____ population totals will be biased.",
+        "options": [
+          "and",
+          "but",
+          "or",
+          "so"
+        ],
+        "correct": 3,
+        "why_en": "Result relationship → so (if incomplete… totals will be biased / completeness required so that totals are not biased — here so marks the result clause).",
+        "why_id": "Hubungan akibat → so."
+      }
+    ],
+    "checklist_id": [
+      "Hitung berapa clause (berapa pasangan subject + verb).",
+      "Cek apakah clause sudah dihubungkan.",
+      "Pakai and / but / or / so / yet sesuai makna.",
+      "Jangan andalkan then / later / next sebagai satu-satunya penghubung.",
+      "Pastikan koma + connector di antara dua independent clause."
+    ],
+    "checklist_en": [
+      "Count the clauses (subject + verb pairs).",
+      "Check whether the clauses are joined.",
+      "Use and / but / or / so / yet for the right meaning.",
+      "Do not rely on then / later / next as the only link.",
+      "Use comma + connector between two independent clauses."
+    ],
+    "remember_id": "Dua clause: **S V , + and/but/or/so/yet + S V**. then/later/next bukan coordinate connector.",
+    "remember_en": "Two clauses: **S V , + and/but/or/so/yet + S V**. then/later/next are not coordinate connectors."
+  },
+  {
+    "skillId": "skill-7",
+    "code": "S7",
+    "title_en": "Use adverb time and cause connectors correctly",
+    "title_id": "Gunakan connector waktu & sebab dengan benar",
+    "group_en": "Sentences with Multiple Clauses",
+    "group_id": "Kalimat dengan Beberapa Klausa",
+    "summary_id": "Adverb clause waktu/sebab punya subject + verb dan connector (when, because, since…). Dua pola: connector di tengah (tanpa koma) atau di awal (pakai koma).",
+    "summary_en": "Time/cause adverb clauses need subject + verb and a connector (when, because, since…). Two patterns: connector in the middle (no comma) or at the beginning (comma required).",
+    "formula": [
+      {
+        "label": "Pola 1 — connector di tengah",
+        "en": "S V   + adverb connector +   S V\nTeresa went inside because it was raining.\n(no comma)",
+        "id": "S V   + adverb connector +   S V\nTeresa went inside because it was raining.\n(tanpa koma)"
+      },
+      {
+        "label": "Pola 2 — connector di awal",
+        "en": "Adverb connector + S V ,  S V\nBecause it was raining, Teresa went inside.\n(comma after the adverb clause)",
+        "id": "Adverb connector + S V ,  S V\nBecause it was raining, Teresa went inside.\n(koma setelah adverb clause)"
+      },
+      {
+        "label": "TIME vs CAUSE",
+        "en": "TIME: after, before, when, while, until, as soon as, once, by the time, as long as, whenever, since (time)\nCAUSE: because, since, as, now that, inasmuch as",
+        "id": "WAKTU: after, before, when, while, until, as soon as, once, by the time, as long as, whenever, since (waktu)\nSEBAB: because, since, as, now that, inasmuch as"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Dua pola posisi connector",
+        "title_en": "1. Two connector positions",
+        "body_id": "I will sign the check before you leave. / Before you leave, I will sign the check. Connector di awal → wajib koma di tengah.",
+        "body_en": "I will sign the check before you leave. / Before you leave, I will sign the check. Connector first → comma in the middle is required."
+      },
+      {
+        "title_id": "2. Setelah connector harus ada subject + verb",
+        "title_en": "2. After the connector: subject + verb",
+        "body_id": "because / when / since harus diikuti clause lengkap, bukan hanya V-ing atau noun.",
+        "body_en": "because / when / since must be followed by a full clause, not only a V-ing or a bare noun."
+      },
+      {
+        "title_id": "3. Connector + subject, bukan subject saja",
+        "title_en": "3. Connector + subject, not subject alone",
+        "body_id": "Jika verb was butuh subject dan dua clause harus digabung, pilih opsi yang berisi connector + subject (Since he), bukan hanya I / The train.",
+        "body_en": "If was needs a subject and two clauses must be joined, pick connector + subject (Since he), not only I / The train."
+      },
+      {
+        "title_id": "4. since bisa waktu atau sebab",
+        "title_en": "4. since can mean time or cause",
+        "body_id": "since = sejak (time) atau karena (cause). Baca konteks kalimat.",
+        "body_en": "since = from a past time (time) or because (cause). Read the context."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "_____ was late, I missed the appointment.",
+        "options": [
+          "I",
+          "Because",
+          "The train",
+          "Since he"
+        ],
+        "correct": 3,
+        "why_en": "was needs a subject, and the sentence has another clause (I missed…). Since he gives both a connector (since) and a subject (he). I / The train lack a connector; Because lacks a subject for was.",
+        "why_id": "was butuh subject, dan ada clause lain (I missed…). Since he memberi connector + subject. I / The train tanpa connector; Because tanpa subject untuk was."
+      },
+      {
+        "id": "ex2",
+        "stem": "_____ the embargo was lifted, capital inflows resumed within months.",
+        "options": [
+          "While",
+          "After",
+          "Although",
+          "Unless"
+        ],
+        "correct": 1,
+        "why_en": "Time sequence: after the embargo was lifted…",
+        "why_id": "Urutan waktu: after the embargo was lifted…"
+      },
+      {
+        "id": "ex3",
+        "stem": "_____ the sampling frame was incomplete, survey totals diverged from census benchmarks.",
+        "options": [
+          "Because",
+          "Until",
+          "Whether",
+          "Whereas"
+        ],
+        "correct": 0,
+        "why_en": "Cause relationship → because.",
+        "why_id": "Hubungan sebab → because."
+      }
+    ],
+    "checklist_id": [
+      "Temukan connector waktu/sebab (when, because, since, after…).",
+      "Pastikan setelah connector ada subject + verb.",
+      "Connector di awal? → perlu koma sebelum main clause.",
+      "Jangan pilih opsi yang hanya subject tanpa connector, atau connector tanpa subject.",
+      "Cocokkan makna: time vs cause."
+    ],
+    "checklist_en": [
+      "Find the time/cause connector (when, because, since, after…).",
+      "After the connector there must be subject + verb.",
+      "Connector first? → comma before the main clause.",
+      "Avoid subject-only or connector-only options.",
+      "Match meaning: time vs cause."
+    ],
+    "remember_id": "**S V + connector + S V** atau **Connector + S V, S V**. Setelah connector selalu clause lengkap.",
+    "remember_en": "**S V + connector + S V** or **Connector + S V, S V**. After the connector always a full clause."
+  },
+  {
+    "skillId": "skill-8",
+    "code": "S8",
+    "title_en": "Use other adverb connectors correctly",
+    "title_id": "Gunakan adverb connector lain dengan benar",
+    "group_en": "Sentences with Multiple Clauses",
+    "group_id": "Kalimat dengan Beberapa Klausa",
+    "summary_id": "Selain waktu/sebab, adverb clause juga untuk condition, contrast, manner, place (if, although, unless, whereas…). Strukturnya sama: connector + subject + verb.",
+    "summary_en": "Besides time/cause, adverb clauses also express condition, contrast, manner, and place (if, although, unless, whereas…). Same structure: connector + subject + verb.",
+    "formula": [
+      {
+        "label": "Pola (sama seperti S7)",
+        "en": "S V + connector + S V\nBob went to school even though he felt sick.\n\nConnector + S V , S V\nEven though Bob felt sick, he went to school.",
+        "id": "S V + connector + S V\nBob went to school even though he felt sick.\n\nConnector + S V , S V\nEven though Bob felt sick, he went to school."
+      },
+      {
+        "label": "CONDITION",
+        "en": "if, unless, whether, in case, provided, providing",
+        "id": "if, unless, whether, in case, provided, providing"
+      },
+      {
+        "label": "CONTRAST / MANNER / PLACE",
+        "en": "CONTRAST: although, even though, though, while, whereas\nMANNER: as, in that\nPLACE: where, wherever",
+        "id": "KONTRAS: although, even though, though, while, whereas\nCARA: as, in that\nTEMPAT: where, wherever"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Struktur tetap clause lengkap",
+        "title_en": "1. Structure is still a full clause",
+        "body_id": "provided / although / unless harus diikuti subject + verb, bukan studying / to study saja.",
+        "body_en": "provided / although / unless must be followed by subject + verb, not studying / to study alone."
+      },
+      {
+        "title_id": "2. Condition connectors",
+        "title_en": "2. Condition connectors",
+        "body_id": "if, unless (kecuali jika), provided/providing (asalkan), in case, whether. Contoh: I will leave at 7:00 if I am ready.",
+        "body_en": "if, unless, provided/providing, in case, whether. Example: I will leave at 7:00 if I am ready."
+      },
+      {
+        "title_id": "3. Contrast connectors",
+        "title_en": "3. Contrast connectors",
+        "body_id": "although, even though, though, while, whereas. Sering pakai koma. Although I was late, I managed to catch the train.",
+        "body_en": "although, even though, though, while, whereas. A comma is often used. Although I was late, I managed to catch the train."
+      },
+      {
+        "title_id": "4. while / whereas = kontras, bukan hanya waktu",
+        "title_en": "4. while / whereas can mean contrast",
+        "body_id": "Selain waktu, while/whereas bisa membandingkan dua fakta: Urban sites show gains, whereas rural sites show none.",
+        "body_en": "Besides time, while/whereas can contrast two facts: Urban sites show gains, whereas rural sites show none."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "You will get a good grade on the exam provided _____.",
+        "options": [
+          "studying",
+          "study",
+          "to study",
+          "you study"
+        ],
+        "correct": 3,
+        "why_en": "provided is an adverb connector, so it needs subject + verb → you study. studying / study / to study are not full clauses.",
+        "why_id": "provided = adverb connector, jadi butuh subject + verb → you study. studying / study / to study bukan clause lengkap."
+      },
+      {
+        "id": "ex2",
+        "stem": "_____ the point estimate is large, the confidence interval still includes zero.",
+        "options": [
+          "Because",
+          "Although",
+          "Until",
+          "Once"
+        ],
+        "correct": 1,
+        "why_en": "Concession/contrast → although.",
+        "why_id": "Konsesi/kontras → although."
+      },
+      {
+        "id": "ex3",
+        "stem": "The program will not be scaled _____ a successful pilot is fully documented.",
+        "options": [
+          "if",
+          "unless",
+          "although",
+          "whereas"
+        ],
+        "correct": 1,
+        "why_en": "unless = except if → will not be scaled unless the pilot is documented.",
+        "why_id": "unless = kecuali jika → tidak akan di-scale unless pilot terdokumentasi."
+      }
+    ],
+    "checklist_id": [
+      "Kenali jenis: condition / contrast / manner / place.",
+      "Setelah connector → subject + verb (bukan V-ing saja).",
+      "Connector di awal → biasanya ada koma.",
+      "provided/if/unless ≠ studying/to study.",
+      "although/even though = kontras; unless = syarat negatif."
+    ],
+    "checklist_en": [
+      "Identify type: condition / contrast / manner / place.",
+      "After the connector → subject + verb (not bare V-ing).",
+      "Connector first → usually a comma.",
+      "provided/if/unless ≠ studying/to study.",
+      "although/even though = contrast; unless = negative condition."
+    ],
+    "remember_id": "Connector adverb (if/although/unless…) **selalu + S + V**. Pola sama dengan Skill 7.",
+    "remember_en": "Adverb connectors (if/although/unless…) **always + S + V**. Same patterns as Skill 7."
+  },
+  {
+    "skillId": "skill-9",
+    "code": "S9",
+    "title_en": "Use noun clause connectors correctly",
+    "title_id": "Gunakan noun clause connector dengan benar",
+    "group_en": "Sentences with Multiple Clauses",
+    "group_id": "Kalimat dengan Beberapa Klausa",
+    "summary_id": "Noun clause = clause yang berfungsi sebagai noun (object verb, object preposition, atau subject). Connector: that, what, when, whether, if, how…",
+    "summary_en": "A noun clause functions as a noun (object of a verb, object of a preposition, or subject). Connectors: that, what, when, whether, if, how…",
+    "formula": [
+      {
+        "label": "Sebagai OBJECT of verb",
+        "en": "S V + noun connector + S V\nI know what you did.\nI know when he will arrive.",
+        "id": "S V + noun connector + S V\nI know what you did.\nI know when he will arrive."
+      },
+      {
+        "label": "Sebagai OBJECT of preposition",
+        "en": "… preposition + noun connector + S V\nI am concerned about when he will arrive.",
+        "id": "… preposition + noun connector + S V\nI am concerned about when he will arrive."
+      },
+      {
+        "label": "Sebagai SUBJECT",
+        "en": "Noun connector + S V  +  V …\nWhen he will arrive is not important.\nThat he was late caused many problems.",
+        "id": "Noun connector + S V  +  V …\nWhen he will arrive is not important.\nThat he was late caused many problems."
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Noun clause = noun",
+        "title_en": "1. A noun clause acts as a noun",
+        "body_id": "Bisa jadi object of verb, object of preposition, atau subject kalimat. Tetap punya subject + verb di dalamnya.",
+        "body_en": "It can be object of a verb, object of a preposition, or subject of the sentence. It still has its own subject + verb inside."
+      },
+      {
+        "title_id": "2. Daftar connector umum",
+        "title_en": "2. Common connectors",
+        "body_id": "what, when, where, why, how · whatever, whenever · whether, if · that",
+        "body_en": "what, when, where, why, how · whatever, whenever · whether, if · that"
+      },
+      {
+        "title_id": "3. that-clause sebagai subject",
+        "title_en": "3. that-clause as subject",
+        "body_id": "That he was late caused many problems. → that he was late = subject dari caused. Opsi The driver hanya satu subject — tidak cukup jika butuh subject untuk was dan untuk caused.",
+        "body_en": "That he was late caused many problems. → that he was late = subject of caused. The driver is only one subject — not enough when both was and caused need subjects."
+      },
+      {
+        "title_id": "4. Embedded = no inversion",
+        "title_en": "4. Embedded = no inversion",
+        "body_id": "Di noun clause, pakai urutan statement: when he will arrive (bukan when will he arrive).",
+        "body_en": "Inside a noun clause, use statement order: when he will arrive (not when will he arrive)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "_____ was late caused many problems.",
+        "options": [
+          "That he",
+          "The driver",
+          "There",
+          "Because"
+        ],
+        "correct": 0,
+        "why_en": "was and caused each need a subject. That he → he is subject of was; That he was late is the subject of caused. The driver is only one subject. There / Because are not subjects for this pattern.",
+        "why_id": "was dan caused masing-masing butuh subject. That he → he subject of was; That he was late subject of caused. The driver hanya satu subject. There / Because tidak cocok."
+      },
+      {
+        "id": "ex2",
+        "stem": "Scientists are now beginning to conduct experiments on _____ trigger different sorts of health risks.",
+        "options": [
+          "noise pollution can",
+          "that noise pollution",
+          "how noise pollution",
+          "how noise pollution can"
+        ],
+        "correct": 3,
+        "why_en": "Noun clause object of on: how noise pollution can trigger… needs connector + subject + verb.",
+        "why_id": "Noun clause object of on: how noise pollution can trigger… butuh connector + subject + verb."
+      },
+      {
+        "id": "ex3",
+        "stem": "It remains unclear _____ the instrument satisfies the exclusion restriction.",
+        "options": [
+          "that",
+          "whether",
+          "which",
+          "who"
+        ],
+        "correct": 1,
+        "why_en": "whether = yes/no uncertainty as noun clause connector.",
+        "why_id": "whether = ketidakpastian ya/tidak sebagai noun clause connector."
+      }
+    ],
+    "checklist_id": [
+      "Identifikasi fungsi: object verb / object preposition / subject.",
+      "Setelah connector noun clause → subject + verb (kecuali connector/subject di S10).",
+      "that / whether / what / how… sesuai makna.",
+      "Subject noun clause → verb utama di luar clause tetap ada.",
+      "Tidak invert di embedded clause."
+    ],
+    "checklist_en": [
+      "Identify role: object of verb / object of preposition / subject.",
+      "After the noun-clause connector → subject + verb (unless connector/subject in S10).",
+      "that / whether / what / how… for the right meaning.",
+      "If the noun clause is subject, the main verb still follows.",
+      "No inversion in the embedded clause."
+    ],
+    "remember_id": "Noun clause = **connector + S + V**, berfungsi seperti noun (object atau subject).",
+    "remember_en": "A noun clause = **connector + S + V**, used like a noun (object or subject)."
+  },
+  {
+    "skillId": "skill-10",
+    "code": "S10",
+    "title_en": "Use noun clause connector/subjects correctly",
+    "title_id": "Gunakan noun clause connector/subject dengan benar",
+    "group_en": "Sentences with Multiple Clauses",
+    "group_id": "Kalimat dengan Beberapa Klausa",
+    "summary_id": "Kadang connector noun clause juga menjadi subject clause itu sendiri: what, who, which, whatever, whoever, whichever.",
+    "summary_en": "Sometimes the noun-clause connector is also the subject of that clause: what, who, which, whatever, whoever, whichever.",
+    "formula": [
+      {
+        "label": "Sebagai OBJECT",
+        "en": "S V + connector/subject + V\nI know what happened.\n(what = subject of happened + connector)",
+        "id": "S V + connector/subject + V\nI know what happened.\n(what = subject of happened + connector)"
+      },
+      {
+        "label": "Sebagai SUBJECT kalimat",
+        "en": "Connector/subject + V  +  V …\nWhat happened was great.\nWhoever is coming to the party must bring a gift.",
+        "id": "Connector/subject + V  +  V …\nWhat happened was great.\nWhoever is coming to the party must bring a gift."
+      },
+      {
+        "label": "Daftar connector/subject",
+        "en": "who, what, which\nwhoever, whatever, whichever",
+        "id": "who, what, which\nwhoever, whatever, whichever"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Satu kata, dua fungsi",
+        "title_en": "1. One word, two jobs",
+        "body_id": "what / who / whoever = connector sekaligus subject di clause dalamnya. Tidak perlu subject ekstra setelahnya.",
+        "body_en": "what / who / whoever = connector and subject inside the clause. Do not add another subject after it."
+      },
+      {
+        "title_id": "2. Beda dengan S9",
+        "title_en": "2. Different from Skill 9",
+        "body_id": "S9: I know what you did → what + subject you + verb did. S10: I know what happened → what langsung + verb (what = subject).",
+        "body_en": "S9: I know what you did → what + subject you + verb did. S10: I know what happened → what + verb (what is the subject)."
+      },
+      {
+        "title_id": "3. Dua verb = dua subject (bisa dari noun clause)",
+        "title_en": "3. Two verbs need two subjects",
+        "body_id": "was on television made me angry → butuh subject untuk was dan untuk made. What mengisi keduanya: what was… = subject of made; what = subject of was.",
+        "body_en": "was on television made me angry → need a subject for was and for made. What covers both: what was… = subject of made; what = subject of was."
+      },
+      {
+        "title_id": "4. when/it bukan connector/subject ini",
+        "title_en": "4. when / it are not this pattern",
+        "body_id": "when bukan subject. it / the story tidak bisa jadi subject untuk dua verb sekaligus dalam pola ini.",
+        "body_en": "when is not a subject. it / the story cannot be the subject of both verbs in this pattern."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "_____ was on television made me angry.",
+        "options": [
+          "It",
+          "The story",
+          "What",
+          "When"
+        ],
+        "correct": 2,
+        "why_en": "was and made each need a subject. What is subject of was and joins the clauses; what was on television is subject of made. It / The story cannot serve both verbs. When is not a subject.",
+        "why_id": "was dan made masing-masing butuh subject. What = subject of was + connector; what was on television = subject of made. It / The story tidak cukup untuk keduanya. When bukan subject."
+      },
+      {
+        "id": "ex2",
+        "stem": "_____ remains most contested is whether the estimate travels beyond the sample.",
+        "options": [
+          "That",
+          "What",
+          "Which",
+          "Who"
+        ],
+        "correct": 1,
+        "why_en": "What remains contested = noun clause subject of is.",
+        "why_id": "What remains contested = noun clause subject of is."
+      },
+      {
+        "id": "ex3",
+        "stem": "_____ decides the primary endpoint should do so before outcomes are seen.",
+        "options": [
+          "That",
+          "What",
+          "Whoever",
+          "Which"
+        ],
+        "correct": 2,
+        "why_en": "Whoever decides… = connector/subject of decides and subject of should do.",
+        "why_id": "Whoever decides… = connector/subject of decides dan subject of should do."
+      }
+    ],
+    "checklist_id": [
+      "Cek apakah connector juga subject (what/who/whoever + V langsung).",
+      "Hitung verb: tiap verb butuh subject.",
+      "Jangan dobel subject (what it was…).",
+      "when/it biasanya salah di pola connector/subject.",
+      "Bedakan S9 (connector + S + V) vs S10 (connector/subject + V)."
+    ],
+    "checklist_en": [
+      "Check whether the connector is also the subject (what/who/whoever + V).",
+      "Count verbs: each needs a subject.",
+      "Avoid a double subject (what it was…).",
+      "when/it are usually wrong in this connector/subject pattern.",
+      "Distinguish S9 (connector + S + V) from S10 (connector/subject + V)."
+    ],
+    "remember_id": "**what/who/whoever + V** — connector sekaligus subject. Satu kata menghubungkan clause dan mengisi subject.",
+    "remember_en": "**what/who/whoever + V** — connector and subject at once. One word joins the clauses and fills the subject slot."
+  },
+  {
+    "skillId": "skill-11",
+    "code": "S11",
+    "title_en": "Use adjective clause connectors correctly",
+    "title_id": "Gunakan adjective clause connector dengan benar",
+    "group_en": "Sentences with Multiple Clauses",
+    "group_id": "Kalimat dengan Beberapa Klausa",
+    "summary_id": "Adjective clause menjelaskan noun dan langsung mengikuti noun itu. Connector: who/whom (orang), which (benda), that (orang/benda). Di dalam clause tetap ada subject + verb.",
+    "summary_en": "An adjective clause describes a noun and sits right after it. Connectors: who/whom (people), which (things), that (people or things). Inside the clause there is still subject + verb.",
+    "formula": [
+      {
+        "label": "Pola dasar",
+        "en": "Noun + adjective connector + S V …\nI liked the book which you recommended.\nThe book which you recommended was interesting.",
+        "id": "Noun + adjective connector + S V …\nI liked the book which you recommended.\nThe book which you recommended was interesting."
+      },
+      {
+        "label": "Connector",
+        "en": "whom  → people (object)\nwhich → things\nthat  → people or things",
+        "id": "whom  → orang (object)\nwhich → benda\nthat  → orang atau benda"
+      },
+      {
+        "label": "Cek TOEFL",
+        "en": "Two clauses → need connector + subject for the second clause.\nwhich we selected  ✓\nbecause / since without subject  ✗\nwas (extra verb only)  ✗",
+        "id": "Dua clause → butuh connector + subject di clause kedua.\nwhich we selected  ✓\nbecause / since tanpa subject  ✗\nwas (hanya verb ekstra)  ✗"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Posisi: langsung setelah noun",
+        "title_en": "1. Position: right after the noun",
+        "body_id": "The glass that she put on the table contains milk. Clause that she put on the table menjelaskan glass.",
+        "body_en": "The glass that she put on the table contains milk. The clause that she put on the table describes glass."
+      },
+      {
+        "title_id": "2. Connector + subject + verb",
+        "title_en": "2. Connector + subject + verb",
+        "body_id": "Di Skill 11, connector (which/that/whom) bukan subject. Setelahnya masih perlu subject: which we selected, that she put.",
+        "body_en": "In Skill 11 the connector (which/that/whom) is not the subject. You still need a subject after it: which we selected, that she put."
+      },
+      {
+        "title_id": "3. whom vs which vs that",
+        "title_en": "3. whom vs which vs that",
+        "body_id": "whom = orang sebagai object. which = benda. that = orang atau benda. Jangan whom untuk novel/benda.",
+        "body_en": "whom = people as object. which = things. that = people or things. Do not use whom for a novel/thing."
+      },
+      {
+        "title_id": "4. Jangan double subject",
+        "title_en": "4. No double subject",
+        "body_id": "Salah: The movie which we watched it was frightening. Benar: The movie which we watched was frightening.",
+        "body_en": "Wrong: The movie which we watched it was frightening. Right: The movie which we watched was frightening."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "The gift _____ selected for the bride was rather expensive.",
+        "options": [
+          "because",
+          "was",
+          "since",
+          "which we"
+        ],
+        "correct": 3,
+        "why_en": "gift is subject of was; selected needs a subject → which we selected. because/since lack a subject; was adds a verb without fixing the second clause.",
+        "why_id": "gift subject of was; selected butuh subject → which we selected. because/since tanpa subject; was menambah verb tanpa memperbaiki clause kedua."
+      },
+      {
+        "id": "ex2",
+        "stem": "Reviewers to _____ the draft was sent requested further checks.",
+        "options": [
+          "who",
+          "which",
+          "whom",
+          "whose"
+        ],
+        "correct": 2,
+        "why_en": "to whom the draft was sent — whom is object of the preposition to (people).",
+        "why_id": "to whom the draft was sent — whom = object of preposition to (orang)."
+      },
+      {
+        "id": "ex3",
+        "stem": "I made an appointment with the doctor _____ you recommended.",
+        "options": [
+          "which",
+          "whom",
+          "who he",
+          "whose"
+        ],
+        "correct": 1,
+        "why_en": "doctor is a person; whom (object of recommended). which is for things; who he is a double subject.",
+        "why_id": "doctor = orang; whom (object of recommended). which untuk benda; who he = double subject."
+      }
+    ],
+    "checklist_id": [
+      "Temukan noun yang dijelaskan clause.",
+      "Setelah connector (which/that/whom) harus ada subject + verb (Skill 11).",
+      "whom = orang object; which = benda; that = keduanya.",
+      "Jangan double subject (…which we watched it…).",
+      "Setiap clause punya subject dan verb."
+    ],
+    "checklist_en": [
+      "Find the noun the clause describes.",
+      "After the connector (which/that/whom) there must be subject + verb (Skill 11).",
+      "whom = people object; which = things; that = either.",
+      "No double subject (…which we watched it…).",
+      "Every clause has a subject and a verb."
+    ],
+    "remember_id": "Adjective clause: **noun + which/that/whom + S + V**. Connector di S11 bukan subject.",
+    "remember_en": "Adjective clause: **noun + which/that/whom + S + V**. In Skill 11 the connector is not the subject."
+  },
+  {
+    "skillId": "skill-12",
+    "code": "S12",
+    "title_en": "Use adjective clause connector/subjects correctly",
+    "title_id": "Gunakan adjective clause connector/subject dengan benar",
+    "group_en": "Sentences with Multiple Clauses",
+    "group_id": "Kalimat dengan Beberapa Klausa",
+    "summary_id": "Kadang connector adjective clause juga subject clause itu: who / which / that + verb langsung (tanpa subject lain).",
+    "summary_en": "Sometimes the adjective-clause connector is also the subject of that clause: who / which / that + verb directly (no extra subject).",
+    "formula": [
+      {
+        "label": "Connector = subject",
+        "en": "Noun + who/which/that + V …\nShe needs a secretary who types fast.\nA secretary who types fast is invaluable.",
+        "id": "Noun + who/which/that + V …\nShe needs a secretary who types fast.\nA secretary who types fast is invaluable."
+      },
+      {
+        "label": "Dua verb = dua subject",
+        "en": "The notebook which is on the table has four sections.\n→ notebook = subject of has\n→ which = subject of is (+ connector)",
+        "id": "The notebook which is on the table has four sections.\n→ notebook = subject of has\n→ which = subject of is (+ connector)"
+      },
+      {
+        "label": "Connector/subject",
+        "en": "who   → people\nwhich → things\nthat  → people or things",
+        "id": "who   → orang\nwhich → benda\nthat  → orang atau benda"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Satu kata, dua fungsi",
+        "title_en": "1. One word, two jobs",
+        "body_id": "that / which / who = connector sekaligus subject di relative clause. The glass that is on the table… → that subject of is.",
+        "body_en": "that / which / who = connector and subject in the relative clause. The glass that is on the table… → that is subject of is."
+      },
+      {
+        "title_id": "2. Beda dengan Skill 11",
+        "title_en": "2. Different from Skill 11",
+        "body_id": "S11: which you recommended → which + subject you + verb. S12: which is on the table → which + verb (which = subject).",
+        "body_en": "S11: which you recommended → which + subject you + verb. S12: which is on the table → which + verb (which = subject)."
+      },
+      {
+        "title_id": "3. Object of preposition bukan subject",
+        "title_en": "3. Object of a preposition is not the subject",
+        "body_id": "on the table → table bukan subject. Subject harus notebook + which (untuk is dan has).",
+        "body_en": "on the table → table is not a subject. Subjects must be notebook + which (for is and has)."
+      },
+      {
+        "title_id": "4. Jangan hanya noun tanpa relative subject",
+        "title_en": "4. Do not leave a verb without a subject",
+        "body_id": "The notebook is on the table has four sections → salah (dua verb, satu subject). The notebook which is on the table has… → benar.",
+        "body_en": "The notebook is on the table has four sections → wrong (two verbs, one subject). The notebook which is on the table has… → correct."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "_____ is on the table has four sections.",
+        "options": [
+          "The notebook",
+          "The notebook which",
+          "Because the notebook",
+          "In the notebook"
+        ],
+        "correct": 1,
+        "why_en": "is and has each need a subject. The notebook which → notebook subject of has; which subject of is. The notebook alone leaves is without a proper relative subject pattern; Because / In the notebook are wrong.",
+        "why_id": "is dan has masing-masing butuh subject. The notebook which → notebook subject of has; which subject of is. The notebook saja tidak cukup; Because / In the notebook salah."
+      },
+      {
+        "id": "ex2",
+        "stem": "Institutions _____ prioritize short-run metrics may underinvest in measurement systems.",
+        "options": [
+          "who",
+          "which",
+          "whom",
+          "whose"
+        ],
+        "correct": 1,
+        "why_en": "which prioritize… — institutions/things; which = subject of prioritize.",
+        "why_id": "which prioritize… — institutions/benda; which = subject of prioritize."
+      },
+      {
+        "id": "ex3",
+        "stem": "Analysts _____ treat complex output as definitive often understate assumption dependence.",
+        "options": [
+          "who",
+          "which",
+          "whom",
+          "whose"
+        ],
+        "correct": 0,
+        "why_en": "who treat… — people; who = subject of treat.",
+        "why_id": "who treat… — orang; who = subject of treat."
+      }
+    ],
+    "checklist_id": [
+      "Cek apakah connector juga subject (who/which/that + V langsung).",
+      "Hitung verb — tiap verb butuh subject.",
+      "Object of preposition (on the table) bukan subject.",
+      "S11: connector + S + V · S12: connector/subject + V.",
+      "who = orang; which = benda; that = keduanya."
+    ],
+    "checklist_en": [
+      "Check whether the connector is also the subject (who/which/that + V).",
+      "Count verbs — each needs a subject.",
+      "Object of a preposition (on the table) is not the subject.",
+      "S11: connector + S + V · S12: connector/subject + V.",
+      "who = people; which = things; that = either."
+    ],
+    "remember_id": "**who/which/that + V** — connector sekaligus subject di adjective clause.",
+    "remember_en": "**who/which/that + V** — connector and subject in the adjective clause."
+  },
+  {
+    "skillId": "skill-13",
+    "code": "S13",
+    "title_en": "Use reduced adjective clauses correctly",
+    "title_id": "Gunakan reduced adjective clause dengan benar",
+    "group_en": "Sentences with Reduced Clauses",
+    "group_id": "Kalimat dengan Klausa yang Diringkas",
+    "summary_id": "Adjective clause bisa diringkas: hilangkan connector/subject + be, atau ubah verb jadi -ing. Hanya jika connector langsung diikuti verb (connector = subject).",
+    "summary_en": "Adjective clauses can reduce: drop connector/subject + be, or change the verb to -ing. Only when the connector is directly followed by a verb (connector = subject).",
+    "formula": [
+      {
+        "label": "Dengan be → hilangkan connector + be",
+        "en": "who is waving → waving\nwhich was written → written\nthat is on the table → on the table",
+        "id": "who is waving → waving\nwhich was written → written\nthat is on the table → on the table"
+      },
+      {
+        "label": "Tanpa be → connector hilang, verb → -ing",
+        "en": "which appears in today's paper → appearing in today's paper",
+        "id": "which appears in today's paper → appearing in today's paper"
+      },
+      {
+        "label": "Dengan koma → bisa dipindah ke depan",
+        "en": "Located in Washington, the White House is…\nNow preparing to give a speech, the president is…",
+        "id": "Located in Washington, the White House is…\nNow preparing to give a speech, the president is…"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Syarat boleh di-reduce",
+        "title_en": "1. When reduction is allowed",
+        "body_id": "Hanya jika connector/subject langsung diikuti verb. The woman that I just met… TIDAK bisa di-reduce (setelah that ada subject I).",
+        "body_en": "Only if the connector/subject is directly followed by a verb. The woman that I just met… does NOT reduce (subject I follows that)."
+      },
+      {
+        "title_id": "2. Ada be → omit connector + be",
+        "title_en": "2. With be → omit connector + be",
+        "body_id": "The letter which was written last week → The letter written last week.",
+        "body_en": "The letter which was written last week → The letter written last week."
+      },
+      {
+        "title_id": "3. Tidak ada be → omit connector, verb jadi -ing",
+        "title_en": "3. No be → omit connector, verb to -ing",
+        "body_id": "the article which appears… → the article appearing…",
+        "body_en": "the article which appears… → the article appearing…"
+      },
+      {
+        "title_id": "4. Reduced dengan koma bisa di depan kalimat",
+        "title_en": "4. Comma-reduced forms can move front",
+        "body_id": "Appearing on several programs, the witness gave… ✓  Who appeared… di awal (bentuk lengkap) ✗  He appeared… (dua clause tanpa connector) ✗",
+        "body_en": "Appearing on several programs, the witness gave… ✓  Who appeared… at the front (full form) ✗  He appeared… (two clauses, no connector) ✗"
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "_____ on several different television programs, the witness gave conflicting accounts.",
+        "options": [
+          "He appeared",
+          "Who appeared",
+          "Appearing",
+          "Appears"
+        ],
+        "correct": 2,
+        "why_en": "Appearing is the reduced form of who appeared and can open the sentence. He appeared needs a connector. Who appeared (full) cannot start the sentence. Appears needs a subject and connector.",
+        "why_id": "Appearing = reduced from who appeared, boleh di depan. He appeared butuh connector. Who appeared (lengkap) tidak boleh di awal. Appears butuh subject + connector."
+      },
+      {
+        "id": "ex2",
+        "stem": "Empirical studies _____ under tightly controlled conditions often fail to replicate in the field.",
+        "options": [
+          "that conducting",
+          "conducted",
+          "conducting",
+          "which they conducted"
+        ],
+        "correct": 1,
+        "why_en": "conducted = reduced passive (that were conducted). which they conducted does not reduce the same way; conducting would be active reduced of that conduct.",
+        "why_id": "conducted = reduced passive (that were conducted)."
+      },
+      {
+        "id": "ex3",
+        "stem": "_____ behind government secrecy for decades, the plant produced plutonium for weapons.",
+        "options": [
+          "It is hidden",
+          "Hidden",
+          "Which is hidden",
+          "The plant is hiding"
+        ],
+        "correct": 1,
+        "why_en": "Hidden behind… = reduced which was hidden… and can front the sentence.",
+        "why_id": "Hidden behind… = reduced which was hidden… dan boleh di depan kalimat."
+      }
+    ],
+    "checklist_id": [
+      "Connector langsung diikuti verb? Jika tidak → jangan reduce.",
+      "Ada be? → hilangkan connector + be.",
+      "Tidak ada be? → hilangkan connector, ubah verb ke -ing.",
+      "Dengan koma? → reduced bisa dipindah ke depan.",
+      "Jangan pakai who appeared… (lengkap) di awal kalimat."
+    ],
+    "checklist_en": [
+      "Is the connector directly followed by a verb? If not → do not reduce.",
+      "Is there be? → drop connector + be.",
+      "No be? → drop connector, change verb to -ing.",
+      "Set off with commas? → reduced form can move to the front.",
+      "Do not put full who appeared… at the start of the sentence."
+    ],
+    "remember_id": "Reduce adjective clause hanya jika **connector = subject** (langsung + verb). **Appearing…,** di depan ✓ · **Who appeared…** di depan ✗",
+    "remember_en": "Reduce an adjective clause only if **connector = subject** (directly + verb). **Appearing…,** at the front ✓ · **Who appeared…** at the front ✗"
+  },
+  {
+    "skillId": "skill-14",
+    "code": "S14",
+    "title_en": "Use reduced adverb clauses correctly",
+    "title_id": "Gunakan reduced adverb clause dengan benar",
+    "group_en": "Sentences with Reduced Clauses",
+    "group_id": "Kalimat dengan Klausa yang Diringkas",
+    "summary_id": "Adverb clause bisa di-reduce: connector tetap, subject (+ be) dihilangkan; atau subject hilang dan verb jadi -ing. Tidak semua connector boleh di semua bentuk (aktif/pasif).",
+    "summary_en": "Adverb clauses can reduce: keep the connector, drop subject (+ be); or drop subject and change the verb to -ing. Not every connector reduces in both active and passive.",
+    "formula": [
+      {
+        "label": "Dengan be → hilangkan subject + be",
+        "en": "Although he is rather unwell → Although rather unwell\nWhen you are ready → When ready",
+        "id": "Although he is rather unwell → Although rather unwell\nWhen you are ready → When ready"
+      },
+      {
+        "label": "Tanpa be → hilangkan subject, verb → -ing",
+        "en": "Although he feels sick → Although feeling sick\nWhen you give your speech → When giving your speech",
+        "id": "Although he feels sick → Although feeling sick\nWhen you give your speech → When giving your speech"
+      },
+      {
+        "label": "Aktif vs pasif",
+        "en": "after/before/while… → often reduce in ACTIVE\nonce/until/when… → may reduce mainly in PASSIVE\nOnce submitted, your thesis will be reviewed. ✓\nOnce you submit… (active) often does not reduce the same way.",
+        "id": "after/before/while… → sering reduce di AKTIF\nonce/until/when… → sering reduce di PASIF\nOnce submitted, your thesis will be reviewed. ✓"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Connector tetap ada",
+        "title_en": "1. The connector stays",
+        "body_id": "Berbeda dengan reduced adjective clause, di reduced adverb clause connector (when, although, if…) tetap ditulis.",
+        "body_en": "Unlike reduced adjective clauses, in reduced adverb clauses the connector (when, although, if…) remains."
+      },
+      {
+        "title_id": "2. Hilangkan subject (+ be)",
+        "title_en": "2. Drop the subject (+ be)",
+        "body_id": "When finished with the report, you are free to leave. = When you are finished…",
+        "body_en": "When finished with the report, you are free to leave. = When you are finished…"
+      },
+      {
+        "title_id": "3. Tidak semua clause bisa di-reduce",
+        "title_en": "3. Not all clauses reduce",
+        "body_id": "Beberapa connector hanya reduce jika verb pasif (once submitted). Bentuk aktif once you submit sering tidak di-reduce.",
+        "body_en": "Some connectors reduce mainly with passive verbs (once submitted). Active once you submit often does not reduce."
+      },
+      {
+        "title_id": "4. Setelah connector jangan hanya noun tanpa struktur reduced",
+        "title_en": "4. Do not leave a bare noun after the connector",
+        "body_id": "When the finished report ✗ · When finished with the report ✓ · When is the report finished ✗ (bukan pertanyaan di sini).",
+        "body_en": "When the finished report ✗ · When finished with the report ✓ · When is the report finished ✗ (not a question here)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "When _____, you are free to leave.",
+        "options": [
+          "the finished report",
+          "finished with the report",
+          "the report",
+          "is the report finished"
+        ],
+        "correct": 1,
+        "why_en": "finished with the report is the reduced form of when you are finished with the report. Bare nouns lack the reduced structure; inversion is wrong here.",
+        "why_id": "finished with the report = reduced dari when you are finished with the report. Noun saja kurang; inversion salah di sini."
+      },
+      {
+        "id": "ex2",
+        "stem": "Kokanee salmon begin to die soon _____ at about four years of age.",
+        "options": [
+          "they spawn",
+          "after spawning",
+          "spawn",
+          "spawned the salmon"
+        ],
+        "correct": 1,
+        "why_en": "after spawning = reduced time clause (after they spawn).",
+        "why_id": "after spawning = reduced time clause (after they spawn)."
+      },
+      {
+        "id": "ex3",
+        "stem": "_____ only a light sweater, she stepped out into the rain.",
+        "options": [
+          "Wear",
+          "Wearing",
+          "Worn",
+          "To wear"
+        ],
+        "correct": 1,
+        "why_en": "Wearing… = reduced (While she was wearing…). Present participle reduction.",
+        "why_id": "Wearing… = reduced (While she was wearing…)."
+      }
+    ],
+    "checklist_id": [
+      "Connector adverb tetap ada (when/although/if…).",
+      "Subject (+ be) dihilangkan, atau verb diubah ke -ing.",
+      "Cek apakah connector ini boleh reduce aktif/pasif.",
+      "Jangan sisakan noun saja setelah connector.",
+      "Beda dari S13: di S14 connector tidak dihapus."
+    ],
+    "checklist_en": [
+      "The adverb connector stays (when/although/if…).",
+      "Drop subject (+ be), or change the verb to -ing.",
+      "Check whether this connector reduces in active/passive.",
+      "Do not leave a bare noun after the connector.",
+      "Unlike S13: in S14 the connector is not deleted."
+    ],
+    "remember_id": "Reduced adverb: **connector tetap** + (tanpa subject/be) atau **-ing**. When finished… ✓ · When the report… ✗",
+    "remember_en": "Reduced adverb: **connector stays** + (no subject/be) or **-ing**. When finished… ✓ · When the report… ✗"
+  },
+  {
+    "skillId": "skill-15",
+    "code": "S15",
+    "title_en": "Invert the subject and verb with question words",
+    "title_id": "Invert subject–verb dengan question words",
+    "group_en": "Sentences with Inverted Subjects and Verbs",
+    "group_id": "Kalimat dengan Subject–Verb Terbalik",
+    "summary_id": "what/when/where/why/how: jika pertanyaan → invert. Jika menghubungkan dua clause (embedded) → JANGAN invert (subject lalu verb).",
+    "summary_en": "what/when/where/why/how: in a real question → invert. When joining two clauses (embedded) → do NOT invert (subject then verb).",
+    "formula": [
+      {
+        "label": "Pertanyaan → INVERT",
+        "en": "question word + V + S ?\nWhat are they?\nWhere are you going?",
+        "id": "question word + V + S ?\nWhat are they?\nWhere are you going?"
+      },
+      {
+        "label": "Embedded (bukan pertanyaan) → TIDAK invert",
+        "en": "S V + question word + S V\nI know what they are.\nThe lawyer asked why he did it.",
+        "id": "S V + question word + S V\nI know what they are.\nThe lawyer asked why he did it."
+      },
+      {
+        "label": "Cek cepat",
+        "en": "Is it a real question ending with ?\nYES → invert\nNO (I know / asked / explain why…) → subject + verb order",
+        "id": "Apakah pertanyaan sungguhan (ada ?)?\nYA → invert\nTIDAK (I know / asked / explain why…) → subject + verb"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Dua fungsi question word",
+        "title_en": "1. Two jobs for question words",
+        "body_id": "Bisa membuka pertanyaan (invert) atau menghubungkan dua clause (tidak invert).",
+        "body_en": "They can open a question (invert) or join two clauses (no invert)."
+      },
+      {
+        "title_id": "2. Embedded: subject dulu",
+        "title_en": "2. Embedded: subject first",
+        "body_id": "why he did it ✓ · why did he do it ✗ (bukan pertanyaan). when the vault will be opened ✓ · when will the vault… ✗ di noun clause.",
+        "body_en": "why he did it ✓ · why did he do it ✗ (not a question). when the vault will be opened ✓ · when will the vault… ✗ in a noun clause."
+      },
+      {
+        "title_id": "3. Setelah know/ask/explain/tell",
+        "title_en": "3. After know/ask/explain/tell",
+        "body_id": "Clause setelahnya hampir selalu embedded → tidak invert.",
+        "body_en": "The clause after these verbs is almost always embedded → no inversion."
+      },
+      {
+        "title_id": "4. Pertanyaan langsung tetap invert",
+        "title_en": "4. Direct questions still invert",
+        "body_id": "Where is it cheapest…? How long has it been…? → invert karena pertanyaan sungguhan.",
+        "body_en": "Where is it cheapest…? How long has it been…? → invert because these are real questions."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "The lawyer asked the client why _____ it.",
+        "options": [
+          "did he do",
+          "did he",
+          "he did",
+          "did"
+        ],
+        "correct": 2,
+        "why_en": "why joins two clauses (not a question) → he did (subject + verb). did he do is inverted and wrong here.",
+        "why_id": "why menghubungkan dua clause (bukan pertanyaan) → he did. did he do = invert, salah di sini."
+      },
+      {
+        "id": "ex2",
+        "stem": "There are several reasons why _____ across cultures.",
+        "options": [
+          "eating habits differ",
+          "do eating habits differ",
+          "are eating habits different",
+          "to differ habits"
+        ],
+        "correct": 0,
+        "why_en": "Embedded why-clause: why + subject + verb → eating habits differ.",
+        "why_id": "Embedded why-clause: why + subject + verb → eating habits differ."
+      },
+      {
+        "id": "ex3",
+        "stem": "Only the pilot can tell you how far _____ on one tank of fuel.",
+        "options": [
+          "can the plane go",
+          "the plane can go",
+          "can go the plane",
+          "the plane go can"
+        ],
+        "correct": 1,
+        "why_en": "After tell you how far… this is embedded → the plane can go (no inversion).",
+        "why_id": "Setelah tell you how far… ini embedded → the plane can go (tidak invert)."
+      }
+    ],
+    "checklist_id": [
+      "Question word di pertanyaan sungguhan? → invert.",
+      "Question word menghubungkan clause (know/ask/why…)? → jangan invert.",
+      "Urutan embedded: question word + subject + verb.",
+      "Hindari did he / can the plane di noun clause.",
+      "Cek tanda tanya di akhir kalimat."
+    ],
+    "checklist_en": [
+      "Question word in a real question? → invert.",
+      "Question word joining clauses (know/ask/why…)? → do not invert.",
+      "Embedded order: question word + subject + verb.",
+      "Avoid did he / can the plane inside a noun clause.",
+      "Check whether the sentence ends with a question mark."
+    ],
+    "remember_id": "**Pertanyaan → invert.** **Embedded (I know why…) → subject + verb.** why **he did** it ✓",
+    "remember_en": "**Question → invert.** **Embedded (I know why…) → subject + verb.** why **he did** it ✓"
+  },
+  {
+    "skillId": "skill-16",
+    "code": "S16",
+    "title_en": "Invert the subject and verb with place expressions",
+    "title_id": "Invert subject–verb dengan place expression",
+    "group_en": "Sentences with Inverted Subjects and Verbs",
+    "group_id": "Kalimat dengan Subject–Verb Terbalik",
+    "summary_id": "Place di depan (here, there, in the closet, beyond the mountains…) → invert **hanya jika** place expression diperlukan untuk melengkapi makna kalimat.",
+    "summary_en": "Place first (here, there, in the closet, beyond the mountains…) → invert **only if** the place expression is needed to complete the sentence meaning.",
+    "formula": [
+      {
+        "label": "Place perlu → INVERT",
+        "en": "PLACE + V + S\nIn the classroom were some old desks.\nHere is the book that you lent me.",
+        "id": "PLACE + V + S\nIn the classroom were some old desks.\nHere is the book that you lent me."
+      },
+      {
+        "label": "Place hanya info ekstra → TIDAK invert",
+        "en": "PLACE , S V\nIn the classroom, I studied very hard.\n(I studied is complete without the place phrase)",
+        "id": "PLACE , S V\nIn the classroom, I studied very hard.\n(I studied sudah lengkap tanpa place phrase)"
+      },
+      {
+        "label": "Contoh kata/frase",
+        "en": "here, there, nowhere\nin the closet, around the corner, beyond the mountains, on the second level…",
+        "id": "here, there, nowhere\nin the closet, around the corner, beyond the mountains, on the second level…"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Place di depan + invert",
+        "title_en": "1. Place first + invert",
+        "body_id": "Here is the book… · There are the keys… · In the closet are the clothes… · Beyond the mountains lies the town…",
+        "body_en": "Here is the book… · There are the keys… · In the closet are the clothes… · Beyond the mountains lies the town…"
+      },
+      {
+        "title_id": "2. Hanya jika place 'necessary'",
+        "title_en": "2. Only if place is necessary",
+        "body_id": "In the forest are many exotic birds. (birds are… butuh place). In the forest I walked for many hours. (I walked sudah lengkap → tidak invert).",
+        "body_en": "In the forest are many exotic birds. (birds are… needs place). In the forest I walked for many hours. (I walked is complete → no invert)."
+      },
+      {
+        "title_id": "3. Verb dulu, subject kemudian",
+        "title_en": "3. Verb first, then subject",
+        "body_id": "are some empty stalls ✓ · some empty stalls are ✗ setelah place expression yang necessary.",
+        "body_en": "are some empty stalls ✓ · some empty stalls are ✗ after a necessary place expression."
+      },
+      {
+        "title_id": "4. Agreement tetap mengikuti subject",
+        "title_en": "4. Agreement still follows the subject",
+        "body_id": "Across the valley lie several settlements (plural). On the wall hangs a map (singular).",
+        "body_en": "Across the valley lie several settlements (plural). On the wall hangs a map (singular)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "On the second level of the parking lot _____.",
+        "options": [
+          "is empty",
+          "are empty",
+          "some empty stalls are",
+          "are some empty stalls"
+        ],
+        "correct": 3,
+        "why_en": "Place expression is necessary to complete the idea. Need inverted V + S → are some empty stalls.",
+        "why_id": "Place expression diperlukan untuk melengkapi ide. Butuh invert V + S → are some empty stalls."
+      },
+      {
+        "id": "ex2",
+        "stem": "Located behind the two lacrimal glands _____.",
+        "options": [
+          "each eyelid",
+          "is each eyelid",
+          "each eyelid are",
+          "each eyelid which is"
+        ],
+        "correct": 1,
+        "why_en": "Fronted place/participle structure → invert: is each eyelid.",
+        "why_id": "Place/participle di depan → invert: is each eyelid."
+      },
+      {
+        "id": "ex3",
+        "stem": "Across the plain _____ a few isolated farmhouses.",
+        "options": [
+          "stands",
+          "stand",
+          "standing",
+          "to stand"
+        ],
+        "correct": 1,
+        "why_en": "Place fronted; subject farmhouses is plural → stand.",
+        "why_id": "Place di depan; subject farmhouses plural → stand."
+      }
+    ],
+    "checklist_id": [
+      "Ada place expression di depan kalimat?",
+      "Apakah place itu necessary untuk melengkapi S+V?",
+      "Jika ya → verb + subject (invert).",
+      "Jika tidak (hanya ekstra) → subject + verb biasa.",
+      "Cocokkan singular/plural subject dengan verb."
+    ],
+    "checklist_en": [
+      "Is there a place expression at the front?",
+      "Is that place necessary to complete S+V?",
+      "If yes → verb + subject (invert).",
+      "If not (only extra) → normal subject + verb.",
+      "Match singular/plural subject with the verb."
+    ],
+    "remember_id": "Place di depan + **perlu** → **V + S**. Place hanya ekstra → **S + V**. are some empty stalls ✓",
+    "remember_en": "Place first + **necessary** → **V + S**. Place only extra → **S + V**. are some empty stalls ✓"
+  },
+  {
+    "skillId": "skill-17",
+    "code": "S17",
+    "title_en": "Invert the subject and verb with negatives",
+    "title_id": "Invert subject–verb dengan negative expressions",
+    "group_en": "Sentences with Inverted Subjects and Verbs",
+    "group_id": "Kalimat dengan Subject–Verb Terbalik",
+    "summary_id": "Negatif / almost-negative di depan (never, not only, rarely, only once, neither, nor…) → subject dan verb di-invert (auxiliary + subject + main verb).",
+    "summary_en": "A negative / almost-negative at the front (never, not only, rarely, only once, neither, nor…) → invert subject and verb (auxiliary + subject + main verb).",
+    "formula": [
+      {
+        "label": "Pola invert",
+        "en": "Negative expression + auxiliary + S + (main verb)\nNever has Mr. Jones taken a vacation.\nOnly once did the manager issue overtime paychecks.",
+        "id": "Negative expression + auxiliary + S + (main verb)\nNever has Mr. Jones taken a vacation.\nOnly once did the manager issue overtime paychecks."
+      },
+      {
+        "label": "Negatif & almost-negative",
+        "en": "no, not, never, neither, nor\nbarely, hardly, only, rarely, scarcely, seldom",
+        "id": "no, not, never, neither, nor\nbarely, hardly, only, rarely, scarcely, seldom"
+      },
+      {
+        "label": "Di tengah kalimat juga",
+        "en": "…, and neither does Tom.\n…, nor is her boss.",
+        "id": "…, and neither does Tom.\n…, nor is her boss."
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Negatif di depan → invert",
+        "title_en": "1. Negative first → invert",
+        "body_id": "Not once did I miss a question. Never has Mr. Jones taken a vacation. At no time can the woman talk on the phone.",
+        "body_en": "Not once did I miss a question. Never has Mr. Jones taken a vacation. At no time can the woman talk on the phone."
+      },
+      {
+        "title_id": "2. Almost-negative sama",
+        "title_en": "2. Almost-negatives too",
+        "body_id": "hardly ever, barely, scarcely, only once, rarely, seldom di depan → invert juga.",
+        "body_en": "hardly ever, barely, scarcely, only once, rarely, seldom at the front → also invert."
+      },
+      {
+        "title_id": "3. neither / nor",
+        "title_en": "3. neither / nor",
+        "body_id": "I do not want to go, and neither does Tom. … nor did he expect to. Setelah neither/nor → invert.",
+        "body_en": "I do not want to go, and neither does Tom. … nor did he expect to. After neither/nor → invert."
+      },
+      {
+        "title_id": "4. Bentuk lengkap: aux + subject + verb",
+        "title_en": "4. Full form: aux + subject + verb",
+        "body_id": "will the printing presses be stopped ✓ · the printing presses will be ✗ · will be the printing presses ✗ (urutan aux-subject-verb).",
+        "body_en": "will the printing presses be stopped ✓ · the printing presses will be ✗ · will be the printing presses ✗ (order: aux-subject-verb)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "Only in extremely dangerous situations _____ stopped.",
+        "options": [
+          "will be the printing presses",
+          "the printing presses will be",
+          "that the printing presses will be",
+          "will the printing presses be"
+        ],
+        "correct": 3,
+        "why_en": "Only… at the front requires inversion: will the printing presses be stopped.",
+        "why_id": "Only… di depan wajib invert: will the printing presses be stopped."
+      },
+      {
+        "id": "ex2",
+        "stem": "Rarely _____ located near city lights or at lower elevations.",
+        "options": [
+          "observatories are",
+          "are",
+          "in the observatories",
+          "are observatories"
+        ],
+        "correct": 3,
+        "why_en": "Rarely + inversion: are observatories located…",
+        "why_id": "Rarely + inversion: are observatories located…"
+      },
+      {
+        "id": "ex3",
+        "stem": "Never in the world _____ that this would happen.",
+        "options": [
+          "I believed",
+          "did I believe",
+          "I did believe",
+          "believed I"
+        ],
+        "correct": 1,
+        "why_en": "Never… → did I believe (aux + subject + verb).",
+        "why_id": "Never… → did I believe (aux + subject + verb)."
+      }
+    ],
+    "checklist_id": [
+      "Ada never/not/only/rarely/neither/nor di depan clause?",
+      "Jika ya → auxiliary + subject + main verb.",
+      "Jangan biarkan subject di depan setelah negatif (Never the boy wrote…).",
+      "neither/nor di tengah juga invert.",
+      "Urutan: will the presses be… bukan will be the presses…"
+    ],
+    "checklist_en": [
+      "Is there never/not/only/rarely/neither/nor before the clause?",
+      "If yes → auxiliary + subject + main verb.",
+      "Do not leave subject first after a negative (Never the boy wrote…).",
+      "neither/nor mid-sentence also invert.",
+      "Order: will the presses be… not will be the presses…"
+    ],
+    "remember_id": "Negatif di depan → **aux + S + V**. Only… **will the printing presses be** stopped ✓",
+    "remember_en": "Negative first → **aux + S + V**. Only… **will the printing presses be** stopped ✓"
+  },
+  {
+    "skillId": "skill-18",
+    "code": "S18",
+    "title_en": "Invert the subject and verb with conditionals",
+    "title_id": "Invert subject–verb dengan conditionals",
+    "group_en": "Sentences with Inverted Subjects and Verbs",
+    "group_id": "Kalimat dengan Subject–Verb Terbalik",
+    "summary_id": "Conditional dengan had / should / were: bisa pakai if (urutan normal) atau hilangkan if lalu invert (Had he taken… / Were I… / Should you arrive…).",
+    "summary_en": "Conditionals with had / should / were: keep if (normal order) or omit if and invert (Had he taken… / Were I… / Should you arrive…).",
+    "formula": [
+      {
+        "label": "Dengan if (tidak invert)",
+        "en": "if + S + had/should/were …\nIf he had taken more time, the results would have been better.",
+        "id": "if + S + had/should/were …\nIf he had taken more time, the results would have been better."
+      },
+      {
+        "label": "Tanpa if (invert)",
+        "en": "Had / Should / Were + S …\nHad he taken more time, the results would have been better.\nWere I in a position to help, I would help you.\nShould you arrive before 6:00, just give me a call.",
+        "id": "Had / Should / Were + S …\nHad he taken more time…\nWere I in a position to help…\nShould you arrive before 6:00…"
+      },
+      {
+        "label": "Verb yang boleh invert",
+        "en": "had · should · were\n(not every conditional inverts — mainly these three)",
+        "id": "had · should · were\n(bukan semua conditional — terutama ketiga ini)"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Dua cara menulis conditional",
+        "title_en": "1. Two ways to write the conditional",
+        "body_id": "If he had taken more time… = Had he taken more time… Makna sama; yang kedua tanpa if + invert.",
+        "body_en": "If he had taken more time… = Had he taken more time… Same meaning; the second omits if and inverts."
+      },
+      {
+        "title_id": "2. Hanya had / should / were",
+        "title_en": "2. Only had / should / were",
+        "body_id": "Pola invert conditional klasik memakai helping verb had, should, atau were di depan subject.",
+        "body_en": "Classic inverted conditionals put helping verb had, should, or were before the subject."
+      },
+      {
+        "title_id": "3. Jangan invert setengah-setengah",
+        "title_en": "3. Do not invert halfway",
+        "body_id": "had more care been taken ✓ · more care had been taken (tanpa if) kurang tepat di pola invert · if more care (tanpa verb) ✗ · had taken more care (subject hilang/tergeser) ✗",
+        "body_en": "had more care been taken ✓ · more care had been taken (no if) is not the inverted pattern · if more care (no verb) ✗ · had taken more care (subject misplaced) ✗"
+      },
+      {
+        "title_id": "4. Main clause tetap normal",
+        "title_en": "4. Main clause stays normal",
+        "body_id": "Invert hanya di conditional clause. the results would have been better tetap S + V.",
+        "body_en": "Invert only in the conditional clause. the results would have been better stays S + V."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "The report would have been accepted _____ in checking its accuracy.",
+        "options": [
+          "if more care",
+          "more care had been taken",
+          "had taken more care",
+          "had more care been taken"
+        ],
+        "correct": 3,
+        "why_en": "Omit if and invert: had more care been taken. (A) has if + no verb. (B) has no if and no inversion. (C) misplaces the subject.",
+        "why_id": "Hilangkan if lalu invert: had more care been taken. (A) if tanpa verb. (B) tanpa if dan tanpa invert. (C) subject salah posisi."
+      },
+      {
+        "id": "ex2",
+        "stem": "_____ milk test positive on arrival, the whole tanker load must be discarded.",
+        "options": [
+          "Should",
+          "If",
+          "If is",
+          "Milk should"
+        ],
+        "correct": 0,
+        "why_en": "Should milk test positive… = inverted conditional (If milk should test / If milk tests…).",
+        "why_id": "Should milk test positive… = inverted conditional."
+      },
+      {
+        "id": "ex3",
+        "stem": "_____ the authors known about the error before submission, the tables would have changed.",
+        "options": [
+          "If",
+          "Had",
+          "Were",
+          "Should"
+        ],
+        "correct": 1,
+        "why_en": "Had the authors known… = If the authors had known…",
+        "why_id": "Had the authors known… = If the authors had known…"
+      }
+    ],
+    "checklist_id": [
+      "Conditional dengan had/should/were?",
+      "Ada if? → urutan normal S + V.",
+      "Tanpa if? → Had/Should/Were + subject + …",
+      "Subject jangan hilang atau tertukar (had more care been taken).",
+      "Invert hanya di if-clause, bukan di main clause."
+    ],
+    "checklist_en": [
+      "Conditional with had/should/were?",
+      "Is if present? → normal S + V order.",
+      "No if? → Had/Should/Were + subject + …",
+      "Do not drop or misplace the subject (had more care been taken).",
+      "Invert only in the if-clause, not the main clause."
+    ],
+    "remember_id": "**Had / Should / Were + S …** = if-clause tanpa if. **Had more care been taken** ✓",
+    "remember_en": "**Had / Should / Were + S …** = if-clause without if. **Had more care been taken** ✓"
+  },
+  {
+    "skillId": "skill-19",
+    "code": "S19",
+    "title_en": "Invert the subject and verb with comparisons",
+    "title_id": "Invert subject–verb dengan comparisons",
+    "group_en": "Sentences with Inverted Subjects and Verbs",
+    "group_id": "Kalimat dengan Subject–Verb Terbalik",
+    "summary_id": "Setelah comparison (more…than, as…as), subject–verb boleh di-invert (opsional, formal). than does John / than were they — keduanya bisa benar.",
+    "summary_en": "After a comparison (more…than, as…as), subject–verb inversion is optional and formal. than does John / than were they — both can be correct.",
+    "formula": [
+      {
+        "label": "Tiga bentuk yang benar",
+        "en": "…more hours than John.\n…more hours than John does.\n…more hours than does John.  ← inverted (formal)",
+        "id": "…more hours than John.\n…more hours than John does.\n…more hours than does John.  ← inverted (formal)"
+      },
+      {
+        "label": "Pola invert",
+        "en": "S V comparison + V + S\nWe were more prepared than were the other performers.",
+        "id": "S V comparison + V + S\nWe were more prepared than were the other performers."
+      },
+      {
+        "label": "Pola normal (juga benar)",
+        "en": "S V comparison + S + V\nWe were more prepared than the other performers were.",
+        "id": "S V comparison + S + V\nWe were more prepared than the other performers were."
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Invert opsional, bukan wajib",
+        "title_en": "1. Inversion is optional, not required",
+        "body_id": "Berbeda dengan never/only (wajib invert), setelah than/as invert bersifat formal dan pilihan.",
+        "body_en": "Unlike never/only (required inversion), after than/as inversion is formal and optional."
+      },
+      {
+        "title_id": "2. Bandingkan dua hal yang sejajar",
+        "title_en": "2. Compare parallel things",
+        "body_id": "the results of the current experiment vs the results of any previous tests. Setelah than butuh verb yang cocok (were), bukan them.",
+        "body_en": "the results of the current experiment vs the results of any previous tests. After than you need a fitting verb (were), not them."
+      },
+      {
+        "title_id": "3. Subject panjang sering di-invert",
+        "title_en": "3. Long subjects often invert",
+        "body_id": "than were the results of any previous tests — verb dulu agar subject panjang tidak terasa berat di tengah.",
+        "body_en": "than were the results of any previous tests — verb first so a long subject is easier to process."
+      },
+      {
+        "title_id": "4. Jangan object pronoun sebagai pengganti clause",
+        "title_en": "4. Do not use a bare object pronoun for the clause",
+        "body_id": "more consistent than them ✗ jika yang dibandingkan adalah full subject + verb idea. than they were / than were they ✓",
+        "body_en": "more consistent than them ✗ when you need a full subject + verb idea. than they were / than were they ✓"
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "The results of the current experiment appear to be more consistent than _____ the results of any previous tests.",
+        "options": [
+          "them",
+          "were",
+          "they were",
+          "were they"
+        ],
+        "correct": 1,
+        "why_en": "The blank is followed by the subject the results of any previous tests, so you need a verb before it: were (inverted). them is not a verb. they were / were they would require the pronoun they, but the full noun phrase is already written after the blank.",
+        "why_id": "Setelah blank sudah ada subject the results of any previous tests, jadi butuh verb di depan: were (invert). them bukan verb. they were / were they memakai they, padahal noun phrase lengkap sudah tertulis setelah blank."
+      },
+      {
+        "id": "ex2",
+        "stem": "New York City's Central Park is nearly twice as large _____ second-smallest country, Monaco.",
+        "options": [
+          "as",
+          "is the",
+          "as is",
+          "as is the"
+        ],
+        "correct": 3,
+        "why_en": "as is the second-smallest country — comparative with optional inversion-like parallel structure.",
+        "why_id": "as is the second-smallest country — struktur parallel comparison."
+      },
+      {
+        "id": "ex3",
+        "stem": "The revised model fits the validation sample far better than _____ the original linear specification.",
+        "options": [
+          "does",
+          "does the original linear specification",
+          "the original linear specification does",
+          "is the original"
+        ],
+        "correct": 1,
+        "why_en": "than does + subject (inverted) is the formal pattern; (C) non-inverted is also grammatical, but (B) matches the inverted comparison skill focus.",
+        "why_id": "than does + subject (inverted) = pola formal skill ini."
+      }
+    ],
+    "checklist_id": [
+      "Ada comparison (more/than, as…as)?",
+      "Invert opsional: than does John / than John does sama-sama bisa.",
+      "Subject yang dibandingkan harus sejajar.",
+      "Hindari them jika butuh subject + verb.",
+      "Pola invert: than + aux/verb + subject."
+    ],
+    "checklist_en": [
+      "Is there a comparison (more/than, as…as)?",
+      "Inversion optional: than does John / than John does both work.",
+      "Compared subjects should be parallel.",
+      "Avoid them when you need subject + verb.",
+      "Inverted pattern: than + aux/verb + subject."
+    ],
+    "remember_id": "Comparison: invert **opsional & formal**. **than were the other performers** / **than does John** ✓",
+    "remember_en": "Comparison: inversion is **optional & formal**. **than were the other performers** / **than does John** ✓"
+  }
+]

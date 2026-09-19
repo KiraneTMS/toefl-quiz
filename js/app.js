@@ -41,6 +41,14 @@ async function loadData() {
     state.skills = [];
   }
   try {
+    state.skillMateri = await (await fetch('data/skill-materi.json')).json();
+  } catch (e) {
+    console.error('Failed to load skill materi', e);
+    state.skillMateri = [];
+  }
+  state.materiLang = localStorage.getItem('toefl_materi_lang') || 'id';
+  state.currentMateriSkillId = null;
+  try {
     state.skillPacks = await (await fetch('data/skill-packs.json')).json();
   } catch (e) {
     console.error('Failed to load skill packs', e);
@@ -107,12 +115,20 @@ function showView(name) {
   document.querySelectorAll('.nav-btn').forEach(btn => {
     btn.classList.toggle('active', btn.dataset.view === name);
   });
+  document.querySelectorAll('.bnav-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.view === name);
+  });
+  if (typeof closeMobileNav === 'function') closeMobileNav();
+  const bn = document.getElementById('bottom-nav');
+  if (bn) bn.style.display = (name === 'quiz') ? 'none' : '';
+  document.body.classList.toggle('in-quiz', name === 'quiz');
 
   if (name === 'progress') renderProgress();
   if (name === 'mistakes') renderMistakes();
   if (name === 'dashboard') renderDashboard();
   if (name === 'wordlist') renderWordlist();
   if (name === 'skills') renderSkillsView();
+  if (name === 'materi') renderMateriView();
 }
 
 document.querySelectorAll('.nav-btn').forEach(btn => {
@@ -865,17 +881,24 @@ function renderSkillsView() {
       html += `<div class="skill-group-label">${sk.group}</div>`;
     }
     const active = state.selectedSkillId === sk.id ? 'active' : '';
+    const hasMateri = (state.skillMateri || []).some(m => m.skillId === sk.id);
     html += `
       <button type="button" class="skill-item ${active}" data-skill="${sk.id}">
         <div class="skill-code">${sk.code}</div>
         <div class="skill-title">${sk.title}</div>
         <div class="skill-desc">${sk.description}</div>
+        ${hasMateri ? `<div class="skill-actions"><span class="mini-btn materi" data-materi="${sk.id}">📖 Materi</span></div>` : ''}
       </button>`;
   });
   list.innerHTML = html || '<p class="hint">Tidak ada skill.</p>';
 
   list.querySelectorAll('.skill-item').forEach(btn => {
-    btn.addEventListener('click', () => {
+    btn.addEventListener('click', (e) => {
+      if (e.target && e.target.classList.contains('materi')) {
+        e.stopPropagation();
+        openMateri(e.target.dataset.materi);
+        return;
+      }
       state.selectedSkillId = btn.dataset.skill;
       state.selectedSeed = null;
       renderSkillsView();
@@ -1015,7 +1038,594 @@ function startSkillPackQuiz() {
 }
 
 
+
+// ---------- Mobile nav ----------
+function closeMobileNav() {
+  const nav = document.getElementById('main-nav');
+  const bd = document.getElementById('nav-backdrop');
+  if (nav) nav.classList.remove('open');
+  if (bd) bd.classList.remove('show');
+  document.body.classList.remove('nav-open');
+}
+
+function initMobileNav() {
+  const toggle = document.getElementById('menu-toggle');
+  const nav = document.getElementById('main-nav');
+  const bd = document.getElementById('nav-backdrop');
+  if (toggle && nav) {
+    toggle.addEventListener('click', () => {
+      const open = nav.classList.toggle('open');
+      if (bd) bd.classList.toggle('show', open);
+      document.body.classList.toggle('nav-open', open);
+    });
+  }
+  if (bd) bd.addEventListener('click', closeMobileNav);
+
+  document.querySelectorAll('.bnav-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const v = btn.dataset.view;
+      if (v) showView(v);
+    });
+  });
+}
+
+
+
+// ---------- Materi / Learn ----------
+function getMateri(skillId) {
+  return (state.skillMateri || []).find(m => m.skillId === skillId) || null;
+}
+
+function openMateri(skillId) {
+  state.currentMateriSkillId = skillId;
+  showView('materi');
+}
+
+function markKeyTerms(text) {
+  if (!text) return '';
+  // longer phrases first
+  const terms = [
+    'object of a preposition', 'object of preposition', 'objects of prepositions',
+    'prepositional phrase', 'preposition', 'appositive', 'present participle', 'past participle', 'participial', 'coordinate connector', 'coordinate',
+    'subject–verb agreement', 'Subject–verb agreement',
+    'SUBJECT + VERB', 'subject and a verb', 'subject and verb',
+    'double subject', 'extra subject', 'extra verb', 'finite verb',
+    'SUBJECT', 'VERB',
+    'singular', 'plural', 'agreement', 'participle', 'auxiliary', 'gerund',
+    'subject', 'verb', 'object', 'Subject', 'Verb', 'Object',
+    'klausa', 'kalimat', 'pelaku'
+  ];
+  // Split by existing tags to avoid nesting; process plain segments only
+  let out = String(text).replace(/\*\*([^*]+)\*\*/g, '<strong class="mk-strong">$1</strong>');
+  // placeholder protect already strong
+  const parts = out.split(/(<[^>]+>)/);
+  out = parts.map(seg => {
+    if (seg.startsWith('<')) return seg;
+    let s = seg;
+    terms.forEach(t => {
+      const re = new RegExp('\\b' + t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b', 'gi');
+      s = s.replace(re, (match) => `<mark class="mk">${match}</mark>`);
+    });
+    // phrases without word boundaries (SUBJECT + VERB)
+    s = s.replace(/SUBJECT\s*\+\s*VERB/gi, '<mark class="mk">SUBJECT + VERB</mark>');
+    return s;
+  }).join('');
+  // collapse accidental double marks
+  out = out.replace(/<mark class="mk"><mark class="mk">/g, '<mark class="mk">')
+           .replace(/<\/mark><\/mark>/g, '</mark>');
+  return out;
+}
+
+function renderMateriView() {
+  initMateriUI();
+  initMateriPdfUI();
+  const root = document.getElementById('materi-content');
+  if (!root) return;
+  const lang = state.materiLang || 'id';
+  const m = getMateri(state.currentMateriSkillId);
+
+  document.querySelectorAll('#materi-lang-toggle .lang-btn').forEach(b => {
+    b.classList.toggle('active', b.dataset.lang === lang);
+  });
+
+  if (!m) {
+    root.innerHTML = `<div class="card"><p class="hint">Materi untuk skill ini belum tersedia. Mulai dari <strong>S1</strong>.</p>
+      <button class="btn secondary" onclick="showView('skills')">← Skills</button></div>`;
+    return;
+  }
+
+  const title = lang === 'id' ? m.title_id : m.title_en;
+  const group = lang === 'id' ? m.group_id : m.group_en;
+  const summary = lang === 'id' ? m.summary_id : m.summary_en;
+  const remember = lang === 'id' ? m.remember_id : m.remember_en;
+  const checklist = lang === 'id' ? m.checklist_id : m.checklist_en;
+
+  const formulaHtml = (m.formula || []).map((f, fi) => `
+    <button type="button" class="formula-card interactive" data-formula="${fi}">
+      <div class="flabel">${f.label}</div>
+      <div class="fbody">${markKeyTerms(lang === 'id' ? f.id : f.en)}</div>
+      <span class="tap-hint">${lang === 'id' ? 'ketuk untuk tandai' : 'tap to pin'}</span>
+    </button>`).join('');
+
+  const rulesHtml = (m.rules || []).map((r, ri) => `
+    <details class="rule-item interactive" ${ri === 0 ? 'open' : ''}>
+      <summary>
+        <span class="rule-num">${ri + 1}</span>
+        <span>${lang === 'id' ? r.title_id : r.title_en}</span>
+      </summary>
+      <p>${markKeyTerms(lang === 'id' ? r.body_id : r.body_en)}</p>
+    </details>`).join('');
+
+  const letters = ['A', 'B', 'C', 'D'];
+  const examplesHtml = (m.examples || []).map((ex, i) => {
+    const opts = ex.options.map((o, idx) =>
+      `<button type="button" class="opt quiz-opt" data-ex="${i}" data-idx="${idx}">${letters[idx]}. ${o}</button>`
+    ).join('');
+    return `
+      <div class="example-card interactive" data-example="${i}" data-correct="${ex.correct}">
+        <div class="example-head">
+          <span class="materi-section-label">${lang === 'id' ? 'Contoh' : 'Example'} ${i + 1}</span>
+          <span class="ex-status">${lang === 'id' ? 'Pilih jawaban' : 'Pick an answer'}</span>
+        </div>
+        <div class="stem">${ex.stem}</div>
+        <div class="example-opts">${opts}</div>
+        <div class="example-why hidden" data-why="${i}">${markKeyTerms(lang === 'id' ? ex.why_id : ex.why_en)}</div>
+        <button type="button" class="btn secondary small reveal-btn" data-reveal="${i}">
+          ${lang === 'id' ? 'Lihat jawaban & penjelasan' : 'Show answer & explanation'}
+        </button>
+      </div>`;
+  }).join('');
+
+  const checkHtml = checklist.map((c, ci) => `
+    <label class="check-row">
+      <input type="checkbox" data-check="${ci}">
+      <span>${markKeyTerms(c)}</span>
+    </label>`).join('');
+
+  root.innerHTML = `
+    <div class="materi-banner">
+      <div class="materi-code">${m.code}</div>
+      <h2>${markKeyTerms(title)}</h2>
+      <div class="group">${group}</div>
+      <p class="summary">${markKeyTerms(summary)}</p>
+    </div>
+
+    <div class="key-legend">
+      <span><mark class="mk">highlight</mark> = istilah penting</span>
+      <span>📌 ketuk rumus untuk pin</span>
+      <span>✓ checklist bisa dicentang</span>
+    </div>
+
+    <div class="materi-section-label">${lang === 'id' ? 'Rumus cepat' : 'Quick formula'}</div>
+    <div class="formula-grid">${formulaHtml}</div>
+
+    <div class="materi-section-label">${lang === 'id' ? 'Aturan (ketuk untuk buka)' : 'Rules (tap to expand)'}</div>
+    <div class="rule-list">${rulesHtml}</div>
+
+    <div class="materi-section-label">${lang === 'id' ? 'Latihan mini — pilih jawaban' : 'Mini practice — pick answers'}</div>
+    ${examplesHtml}
+
+    <div class="materi-section-label">${lang === 'id' ? 'Checklist (centang saat paham)' : 'Checklist (tick when clear)'}</div>
+    <div class="checklist-box interactive">${checkHtml}</div>
+
+    <div class="materi-section-label">${lang === 'id' ? 'Ingat' : 'Remember'}</div>
+    <div class="remember-box">${markKeyTerms(remember)}</div>
+  `;
+
+  bindMateriInteractions(root, m, lang);
+
+  const practiceBtn = document.getElementById('btn-materi-practice');
+  if (practiceBtn) {
+    practiceBtn.onclick = () => {
+      state.selectedSkillId = m.skillId;
+      state.selectedSeed = null;
+      showView('skills');
+    };
+  }
+}
+
+function bindMateriInteractions(root, m, lang) {
+  // Pin formula cards
+  root.querySelectorAll('.formula-card.interactive').forEach(card => {
+    card.addEventListener('click', () => {
+      card.classList.toggle('pinned');
+    });
+  });
+
+  // Example: try answer
+  root.querySelectorAll('.quiz-opt').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const card = btn.closest('.example-card');
+      if (!card || card.classList.contains('revealed')) return;
+      const correct = parseInt(card.dataset.correct, 10);
+      const idx = parseInt(btn.dataset.idx, 10);
+      const status = card.querySelector('.ex-status');
+      card.querySelectorAll('.quiz-opt').forEach(o => {
+        o.classList.remove('picked', 'ok', 'bad');
+        o.disabled = true;
+      });
+      btn.classList.add('picked');
+      if (idx === correct) {
+        btn.classList.add('ok');
+        if (status) status.textContent = lang === 'id' ? '✓ Benar' : '✓ Correct';
+        if (status) status.classList.add('good');
+      } else {
+        btn.classList.add('bad');
+        const right = card.querySelector(`.quiz-opt[data-idx="${correct}"]`);
+        if (right) right.classList.add('ok');
+        if (status) status.textContent = lang === 'id' ? '✗ Salah — lihat yang hijau' : '✗ Wrong — see green';
+        if (status) status.classList.add('bad');
+      }
+      const why = card.querySelector('.example-why');
+      if (why) why.classList.remove('hidden');
+      card.classList.add('revealed');
+      const rev = card.querySelector('.reveal-btn');
+      if (rev) rev.classList.add('hidden');
+    });
+  });
+
+  // Reveal without answering
+  root.querySelectorAll('.reveal-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const card = btn.closest('.example-card');
+      if (!card) return;
+      const correct = parseInt(card.dataset.correct, 10);
+      card.querySelectorAll('.quiz-opt').forEach(o => {
+        o.disabled = true;
+        if (parseInt(o.dataset.idx, 10) === correct) o.classList.add('ok');
+      });
+      const why = card.querySelector('.example-why');
+      if (why) why.classList.remove('hidden');
+      card.classList.add('revealed');
+      const status = card.querySelector('.ex-status');
+      if (status) status.textContent = lang === 'id' ? 'Jawaban ditampilkan' : 'Answer shown';
+      btn.classList.add('hidden');
+    });
+  });
+
+  // Checklist progress
+  const checks = root.querySelectorAll('.check-row input');
+  checks.forEach(inp => {
+    inp.addEventListener('change', () => {
+      const row = inp.closest('.check-row');
+      if (row) row.classList.toggle('done', inp.checked);
+      const box = root.querySelector('.checklist-box');
+      if (!box) return;
+      const total = checks.length;
+      const done = [...checks].filter(c => c.checked).length;
+      let bar = box.querySelector('.check-progress');
+      if (!bar) {
+        bar = document.createElement('div');
+        bar.className = 'check-progress';
+        box.prepend(bar);
+      }
+      bar.textContent = lang === 'id'
+        ? `${done}/${total} poin dicentang`
+        : `${done}/${total} items checked`;
+      bar.style.setProperty('--pct', total ? (done / total * 100) + '%' : '0%');
+    });
+  });
+}
+
+function initMateriUI() {
+  const back = document.getElementById('btn-materi-back');
+  if (back && !back._bound) {
+    back._bound = true;
+    back.addEventListener('click', () => showView('skills'));
+  }
+  document.querySelectorAll('#materi-lang-toggle .lang-btn').forEach(btn => {
+    if (btn._bound) return;
+    btn._bound = true;
+    btn.addEventListener('click', () => {
+      state.materiLang = btn.dataset.lang;
+      localStorage.setItem('toefl_materi_lang', state.materiLang);
+      renderMateriView();
+    });
+  });
+}
+
+
+
+// ---------- Materi PDF export ----------
+function openMateriPdfModal(preselectIds) {
+  const modal = document.getElementById('materi-pdf-modal');
+  const list = document.getElementById('materi-pdf-checklist');
+  if (!modal || !list) return;
+  const items = state.skillMateri || [];
+  if (!items.length) {
+    alert('Belum ada materi yang bisa diunduh.');
+    return;
+  }
+  const pre = new Set(preselectIds || []);
+  list.innerHTML = items.map(m => {
+    const checked = pre.size ? pre.has(m.skillId) : true;
+    const title = (state.materiLang === 'en' ? m.title_en : m.title_id) || m.title_en;
+    return `<label class="pdf-check-row">
+      <input type="checkbox" value="${m.skillId}" ${checked ? 'checked' : ''}>
+      <span class="code">${m.code}</span>
+      <span>${title}</span>
+    </label>`;
+  }).join('');
+  modal.classList.remove('hidden');
+}
+
+function closeMateriPdfModal() {
+  const modal = document.getElementById('materi-pdf-modal');
+  if (modal) modal.classList.add('hidden');
+}
+
+function getSelectedMateriForPdf() {
+  const boxes = document.querySelectorAll('#materi-pdf-checklist input[type="checkbox"]:checked');
+  const ids = [...boxes].map(b => b.value);
+  return (state.skillMateri || []).filter(m => ids.includes(m.skillId));
+}
+
+function escapeHtml(s) {
+  return String(s || '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+function buildMateriPdfHtml(items, langMode) {
+  const letters = ['A', 'B', 'C', 'D'];
+  const blocks = items.map(m => {
+    const parts = [];
+    const langs = langMode === 'both' ? ['id', 'en'] : [langMode];
+
+    langs.forEach(lang => {
+      const title = lang === 'id' ? m.title_id : m.title_en;
+      const group = lang === 'id' ? m.group_id : m.group_en;
+      const summary = lang === 'id' ? m.summary_id : m.summary_en;
+      const remember = lang === 'id' ? m.remember_id : m.remember_en;
+      const checklist = lang === 'id' ? m.checklist_id : m.checklist_en;
+
+      const formulas = (m.formula || []).map(f => `
+        <div class="fcard">
+          <div class="flabel">${escapeHtml(f.label)}</div>
+          <pre>${escapeHtml(lang === 'id' ? f.id : f.en)}</pre>
+        </div>`).join('');
+
+      const rules = (m.rules || []).map((r, i) => `
+        <div class="rule">
+          <h4>${i + 1}. ${escapeHtml(lang === 'id' ? r.title_id : r.title_en)}</h4>
+          <p>${escapeHtml(lang === 'id' ? r.body_id : r.body_en)}</p>
+        </div>`).join('');
+
+      const examples = (m.examples || []).map((ex, i) => {
+        const opts = ex.options.map((o, idx) => {
+          const mark = idx === ex.correct ? ' ✓' : '';
+          const cls = idx === ex.correct ? 'ok' : '';
+          return `<div class="opt ${cls}">${letters[idx]}. ${escapeHtml(o)}${mark}</div>`;
+        }).join('');
+        const why = lang === 'id' ? ex.why_id : ex.why_en;
+        return `<div class="ex">
+          <div class="ex-label">${lang === 'id' ? 'Contoh' : 'Example'} ${i + 1}</div>
+          <div class="stem">${escapeHtml(ex.stem)}</div>
+          ${opts}
+          <div class="why">${escapeHtml(why)}</div>
+        </div>`;
+      }).join('');
+
+      const checks = (checklist || []).map(c => `<li>${escapeHtml(c)}</li>`).join('');
+      const langTag = lang === 'id' ? 'Bahasa Indonesia' : 'English';
+
+      parts.push(`
+        <section class="skill-block">
+          <div class="banner">
+            <div class="code">${escapeHtml(m.code)}</div>
+            <h2>${escapeHtml(title)}</h2>
+            <div class="group">${escapeHtml(group)} · ${langTag}</div>
+            <p>${escapeHtml(summary)}</p>
+          </div>
+          <h3>Rumus / Formula</h3>
+          <div class="fgrid">${formulas}</div>
+          <h3>${lang === 'id' ? 'Aturan' : 'Rules'}</h3>
+          ${rules}
+          <h3>${lang === 'id' ? 'Contoh' : 'Examples'}</h3>
+          ${examples}
+          <h3>Checklist</h3>
+          <ol>${checks}</ol>
+          <div class="remember"><strong>${lang === 'id' ? 'Ingat' : 'Remember'}:</strong> ${escapeHtml(remember)}</div>
+        </section>`);
+    });
+    return parts.join('<div class="page-break"></div>');
+  }).join('<div class="page-break"></div>');
+
+  const codes = items.map(m => m.code).join(', ');
+  return `<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>TOEFL Materi — ${escapeHtml(codes)}</title>
+<style>
+  @page { margin: 16mm; }
+  * { box-sizing: border-box; }
+  body {
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+    color: #0f172a;
+    line-height: 1.45;
+    font-size: 11pt;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 12px;
+  }
+  h1 { font-size: 18pt; margin: 0 0 4px; color: #1d4ed8; }
+  .meta { color: #64748b; font-size: 9pt; margin-bottom: 18px; }
+  .skill-block { margin-bottom: 8px; }
+  .banner {
+    background: #eff6ff;
+    border: 1px solid #bfdbfe;
+    border-left: 5px solid #2563eb;
+    border-radius: 10px;
+    padding: 12px 14px;
+    margin-bottom: 12px;
+  }
+  .code {
+    display: inline-block;
+    font-family: ui-monospace, monospace;
+    font-weight: 800;
+    font-size: 9pt;
+    background: #dbeafe;
+    color: #1e40af;
+    padding: 2px 8px;
+    border-radius: 4px;
+  }
+  .banner h2 { font-size: 14pt; margin: 6px 0 2px; }
+  .group { color: #3b82f6; font-size: 9pt; margin-bottom: 6px; }
+  h3 {
+    font-size: 11pt;
+    color: #334155;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 3px;
+    margin: 14px 0 8px;
+  }
+  .fgrid { display: grid; grid-template-columns: 1fr; gap: 8px; }
+  .fcard {
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 8px 10px;
+    background: #f8fafc;
+  }
+  .flabel { font-size: 8pt; text-transform: uppercase; letter-spacing: 0.04em; color: #2563eb; font-weight: 700; }
+  pre {
+    margin: 4px 0 0;
+    white-space: pre-wrap;
+    font-family: ui-monospace, Menlo, monospace;
+    font-size: 9.5pt;
+  }
+  .rule { margin-bottom: 8px; }
+  .rule h4 { margin: 0 0 2px; font-size: 10.5pt; }
+  .rule p { margin: 0; color: #475569; font-size: 10pt; }
+  .ex {
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 8px;
+  }
+  .ex-label { font-size: 8pt; font-weight: 700; color: #64748b; text-transform: uppercase; }
+  .stem { font-weight: 600; margin: 4px 0 6px; }
+  .opt { padding: 3px 6px; border-radius: 4px; font-size: 10pt; }
+  .opt.ok { background: #dcfce7; border: 1px solid #86efac; font-weight: 600; }
+  .why { margin-top: 6px; padding-top: 6px; border-top: 1px dashed #cbd5e1; color: #475569; font-size: 9.5pt; }
+  ol { margin: 0 0 0 18px; padding: 0; }
+  li { margin-bottom: 3px; font-size: 10pt; }
+  .remember {
+    background: #f0fdf4;
+    border: 1px solid #bbf7d0;
+    border-radius: 8px;
+    padding: 10px 12px;
+    margin-top: 8px;
+    font-size: 10pt;
+  }
+  .page-break { page-break-after: always; height: 12px; }
+  .no-print { margin: 12px 0 20px; }
+  @media print {
+    .no-print { display: none !important; }
+    body { padding: 0; }
+  }
+</style>
+</head>
+<body>
+  <div class="no-print">
+    <button onclick="window.print()" style="padding:10px 16px;font-weight:700;cursor:pointer;border-radius:8px;border:none;background:#2563eb;color:#fff;">
+      Print / Save as PDF
+    </button>
+    <span style="margin-left:8px;color:#64748b;font-size:12px;">Pilih “Save as PDF” di dialog print.</span>
+  </div>
+  <h1>TOEFL Skills — Materi</h1>
+  <p class="meta">Skill: ${escapeHtml(codes)} · Generated from TOEFL Quiz · Not official ETS material</p>
+  ${blocks}
+  <script>setTimeout(() => { try { window.print(); } catch(e) {} }, 350);</script>
+</body>
+</html>`;
+}
+
+function generateMateriPdf(items, langMode) {
+  if (!items || !items.length) {
+    alert(langMode === 'en' ? 'Select at least one skill.' : 'Pilih minimal satu skill.');
+    return;
+  }
+  const html = buildMateriPdfHtml(items, langMode || 'id');
+  const w = window.open('', '_blank');
+  if (!w) {
+    alert('Popup diblokir. Izinkan popup untuk mengunduh PDF.');
+    return;
+  }
+  w.document.open();
+  w.document.write(html);
+  w.document.close();
+}
+
+function initMateriPdfUI() {
+  const openBtn = document.getElementById('btn-open-materi-pdf');
+  if (openBtn && !openBtn._bound) {
+    openBtn._bound = true;
+    openBtn.addEventListener('click', () => openMateriPdfModal());
+  }
+  const pickBtn = document.getElementById('btn-materi-pdf-pick');
+  if (pickBtn && !pickBtn._bound) {
+    pickBtn._bound = true;
+    pickBtn.addEventListener('click', () => openMateriPdfModal(
+      state.currentMateriSkillId ? [state.currentMateriSkillId] : []
+    ));
+  }
+  const curBtn = document.getElementById('btn-materi-pdf-current');
+  if (curBtn && !curBtn._bound) {
+    curBtn._bound = true;
+    curBtn.addEventListener('click', () => {
+      const m = getMateri(state.currentMateriSkillId);
+      if (!m) {
+        alert('Buka materi skill dulu.');
+        return;
+      }
+      const lang = document.getElementById('materi-pdf-lang')?.value || state.materiLang || 'id';
+      generateMateriPdf([m], lang === 'both' ? 'both' : (state.materiLang || 'id'));
+    });
+  }
+  document.querySelectorAll('[data-close-modal]').forEach(el => {
+    if (el._bound) return;
+    el._bound = true;
+    el.addEventListener('click', closeMateriPdfModal);
+  });
+  const all = document.getElementById('pdf-select-all');
+  const none = document.getElementById('pdf-select-none');
+  if (all && !all._bound) {
+    all._bound = true;
+    all.addEventListener('click', () => {
+      document.querySelectorAll('#materi-pdf-checklist input').forEach(i => { i.checked = true; });
+    });
+  }
+  if (none && !none._bound) {
+    none._bound = true;
+    none.addEventListener('click', () => {
+      document.querySelectorAll('#materi-pdf-checklist input').forEach(i => { i.checked = false; });
+    });
+  }
+  const gen = document.getElementById('btn-generate-materi-pdf');
+  if (gen && !gen._bound) {
+    gen._bound = true;
+    gen.addEventListener('click', () => {
+      const items = getSelectedMateriForPdf();
+      const lang = document.getElementById('materi-pdf-lang')?.value || 'id';
+      generateMateriPdf(items, lang);
+      closeMateriPdfModal();
+    });
+  }
+}
+
+
 // ---------- Init ----------
 loadData().then(() => {
+  initMateriUI();
+  initMateriPdfUI();
   showView('dashboard');
 });
+
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', () => initMobileNav());
+} else {
+  initMobileNav();
+}
