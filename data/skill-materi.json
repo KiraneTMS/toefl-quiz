@@ -2090,5 +2090,885 @@
     ],
     "remember_id": "Comparison: invert **opsional & formal**. **than were the other performers** / **than does John** ✓",
     "remember_en": "Comparison: inversion is **optional & formal**. **than were the other performers** / **than does John** ✓"
+  },
+  {
+    "skillId": "skill-20",
+    "code": "WE20",
+    "title_en": "Make verbs agree after prepositional phrases",
+    "title_id": "Agreesikan verb setelah prepositional phrase",
+    "group_en": "Subject–Verb Agreement",
+    "group_id": "Kesepakatan Subject–Verb",
+    "summary_id": "Prepositional phrase sering menyisip di antara subject dan verb. Object of preposition BUKAN subject — verb harus setuju dengan subject yang sebenarnya.",
+    "summary_en": "A prepositional phrase often sits between the subject and the verb. The object of the preposition is NOT the subject — the verb must agree with the real subject.",
+    "formula": [
+      {
+        "label": "Pola",
+        "en": "S  (prepositional phrase)  V\nThe key (to the doors) is in the drawer.\nThe keys (to the door) are in the drawer.",
+        "id": "S  (prepositional phrase)  V\nThe key (to the doors) is in the drawer.\nThe keys (to the door) are in the drawer."
+      },
+      {
+        "label": "Aturan inti",
+        "en": "Ignore the noun after the preposition.\nAgree the verb with the subject before the phrase.",
+        "id": "Abaikan noun setelah preposition.\nSamakan verb dengan subject sebelum frase."
+      },
+      {
+        "label": "Cek cepat",
+        "en": "1) Find the real subject (not the object of of/to/in…)\n2) Is the subject singular or plural?\n3) Match the verb (is/are, was/were, has/have…)",
+        "id": "1) Cari subject asli (bukan object of of/to/in…)\n2) Subject singular atau plural?\n3) Cocokkan verb (is/are, was/were, has/have…)"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Object of preposition ≠ subject",
+        "title_en": "1. Object of a preposition ≠ subject",
+        "body_id": "The key to the doors is… → subject = key (singular), bukan doors. Verb = is, bukan are.",
+        "body_en": "The key to the doors is… → subject = key (singular), not doors. Verb = is, not are."
+      },
+      {
+        "title_id": "2. Kesalahan klasik TOEFL",
+        "title_en": "2. Classic TOEFL trap",
+        "body_id": "Noun plural tepat sebelum verb membuat seolah-olah subject plural. Coret prepositional phrase dulu, baru cek agreement.",
+        "body_en": "A plural noun right before the verb can look like the subject. Cross out the prepositional phrase first, then check agreement."
+      },
+      {
+        "title_id": "3. Frase bisa panjang",
+        "title_en": "3. The phrase can be long",
+        "body_id": "The results of the multi-site experiment conducted under controlled conditions were… → subject = results (plural).",
+        "body_en": "The results of the multi-site experiment conducted under controlled conditions were… → subject = results (plural)."
+      },
+      {
+        "title_id": "4. Written Expression = temukan error",
+        "title_en": "4. Written Expression = find the error",
+        "body_id": "Di WE, sering ada verb yang salah agreement. Pilih bagian yang salah (A–D), biasanya verb-nya.",
+        "body_en": "In WE you often get a wrong agreement verb. Choose the underlined error (A–D), usually the verb."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "The key to the doors _____ in the drawer.",
+        "options": [
+          "are",
+          "is",
+          "be",
+          "being"
+        ],
+        "correct": 1,
+        "why_en": "Subject = key (singular). doors is only the object of to. Singular → is.",
+        "why_id": "Subject = key (singular). doors hanya object of to. Singular → is."
+      },
+      {
+        "id": "ex2",
+        "stem": "The keys to the door _____ in the drawer.",
+        "options": [
+          "is",
+          "are",
+          "was",
+          "being"
+        ],
+        "correct": 1,
+        "why_en": "Subject = keys (plural). door is object of to. Plural → are.",
+        "why_id": "Subject = keys (plural). door = object of to. Plural → are."
+      },
+      {
+        "id": "ex3",
+        "stem": "The cost of materials and labor _____ risen sharply this year.",
+        "options": [
+          "have",
+          "has",
+          "are",
+          "were"
+        ],
+        "correct": 1,
+        "why_en": "Subject = cost (singular). materials and labor are objects inside the of-phrase. Singular → has.",
+        "why_id": "Subject = cost (singular). materials and labor hanya di dalam frase of. Singular → has."
+      }
+    ],
+    "checklist_id": [
+      "Lingkari / coret prepositional phrase (of, to, in, with…).",
+      "Tandai subject di luar frase itu.",
+      "Tentukan singular vs plural.",
+      "Cocokkan verb (is/are, was/were, has/have, V1/Vs).",
+      "Jangan setujukan verb dengan object of preposition."
+    ],
+    "checklist_en": [
+      "Circle / cross out the prepositional phrase (of, to, in, with…).",
+      "Mark the subject outside that phrase.",
+      "Decide singular vs plural.",
+      "Match the verb (is/are, was/were, has/have, V1/Vs).",
+      "Do not agree the verb with the object of the preposition."
+    ],
+    "remember_id": "**S (prep phrase) V** — verb mengikuti **subject**, bukan object of preposition. *The key to the doors **is**…*",
+    "remember_en": "**S (prep phrase) V** — the verb follows the **subject**, not the object of the preposition. *The key to the doors **is**…*"
+  },
+  {
+    "skillId": "skill-21",
+    "code": "WE21",
+    "title_en": "Make verbs agree after expressions of quantity",
+    "title_id": "Agreesikan verb setelah expression of quantity",
+    "group_en": "Subject–Verb Agreement",
+    "group_id": "Kesepakatan Subject–Verb",
+    "summary_id": "Dengan all / most / some / half + of, verb mengikuti **object setelah of** (singular, plural, atau uncountable) — bukan kata quantity-nya sendiri.",
+    "summary_en": "With all / most / some / half + of, the verb agrees with the **object after of** (singular, plural, or uncountable) — not with the quantity word itself.",
+    "formula": [
+      {
+        "label": "Pola",
+        "en": "all / most / some / half  +  of the (OBJECT)  +  V\n→ Verb agrees with OBJECT",
+        "id": "all / most / some / half  +  of the (OBJECT)  +  V\n→ Verb mengikuti OBJECT"
+      },
+      {
+        "label": "Tiga kasus",
+        "en": "All of the book was interesting.     → singular\nAll of the books were interesting.    → plural\nAll of the information was interesting. → uncountable (= singular)",
+        "id": "All of the book was interesting.     → singular\nAll of the books were interesting.    → plural\nAll of the information was interesting. → uncountable (= singular)"
+      },
+      {
+        "label": "Cek cepat",
+        "en": "1) Find of + noun\n2) Is that noun singular, plural, or uncountable?\n3) Match the verb to that noun",
+        "id": "1) Cari of + noun\n2) Noun itu singular, plural, atau uncountable?\n3) Samakan verb dengan noun itu"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Verb mengikuti object setelah of",
+        "title_en": "1. The verb follows the object after of",
+        "body_id": "All of the book was… · All of the books were… · Most of the data was… (data sering singular di formal academic).",
+        "body_en": "All of the book was… · All of the books were… · Most of the data was… (data often singular in formal academic English)."
+      },
+      {
+        "title_id": "2. Uncountable = singular",
+        "title_en": "2. Uncountable = singular",
+        "body_id": "information, equipment, research, evidence, advice → treat as singular after of.",
+        "body_en": "information, equipment, research, evidence, advice → treat as singular after of."
+      },
+      {
+        "title_id": "3. Beda dengan WE20",
+        "title_en": "3. Different from WE20",
+        "body_id": "WE20: subject di depan prep phrase (The key to the doors is…). WE21: quantity word + of — agreement dari noun setelah of.",
+        "body_en": "WE20: subject before the prep phrase (The key to the doors is…). WE21: quantity + of — agreement from the noun after of."
+      },
+      {
+        "title_id": "4. half / some / most sama polanya",
+        "title_en": "4. half / some / most use the same pattern",
+        "body_id": "Half of the sample was… · Half of the samples were… · Some of the equipment was damaged.",
+        "body_en": "Half of the sample was… · Half of the samples were… · Some of the equipment was damaged."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "All of the book _____ interesting.",
+        "options": [
+          "were",
+          "was",
+          "are",
+          "have been"
+        ],
+        "correct": 1,
+        "why_en": "of the book → book is singular → was.",
+        "why_id": "of the book → book singular → was."
+      },
+      {
+        "id": "ex2",
+        "stem": "All of the books _____ interesting.",
+        "options": [
+          "was",
+          "is",
+          "were",
+          "has been"
+        ],
+        "correct": 2,
+        "why_en": "of the books → books is plural → were.",
+        "why_id": "of the books → books plural → were."
+      },
+      {
+        "id": "ex3",
+        "stem": "Most of the information _____ outdated by the time of publication.",
+        "options": [
+          "were",
+          "are",
+          "was",
+          "have been"
+        ],
+        "correct": 2,
+        "why_en": "information is uncountable → singular → was.",
+        "why_id": "information uncountable → singular → was."
+      }
+    ],
+    "checklist_id": [
+      "Cari all/most/some/half + of.",
+      "Lihat noun setelah of.",
+      "Singular / plural / uncountable?",
+      "Samakan verb dengan noun itu (bukan dengan all/most).",
+      "Uncountable (information, equipment…) → singular."
+    ],
+    "checklist_en": [
+      "Find all/most/some/half + of.",
+      "Look at the noun after of.",
+      "Singular / plural / uncountable?",
+      "Agree the verb with that noun (not with all/most).",
+      "Uncountable (information, equipment…) → singular."
+    ],
+    "remember_id": "**all/most/some/half of + OBJECT** → verb mengikuti **OBJECT**. *All of the books **were**…* · *All of the information **was**…*",
+    "remember_en": "**all/most/some/half of + OBJECT** → verb agrees with the **OBJECT**. *All of the books **were**…* · *All of the information **was**…*"
+  },
+  {
+    "skillId": "skill-22",
+    "code": "WE22",
+    "title_en": "Make inverted verbs agree",
+    "title_id": "Agreesikan verb pada struktur inverted",
+    "group_en": "Subject–Verb Agreement",
+    "group_id": "Kesepakatan Subject–Verb",
+    "summary_id": "Saat subject di belakang verb (place, negative, question, conditional tanpa if, comparison), verb tetap harus setuju dengan subject yang datang belakangan — bukan dengan noun di depan.",
+    "summary_en": "When the subject follows the verb (place, negative, question, conditional without if, comparison), the verb still agrees with that later subject — not with a noun in front.",
+    "formula": [
+      {
+        "label": "Pola invert",
+        "en": "PLACE / NEGATIVE / …  +  V  +  S\nBehind the house were the bicycles I wanted.\nNever have the results been so clear.",
+        "id": "PLACE / NEGATIVE / …  +  V  +  S\nBehind the house were the bicycles I wanted.\nNever have the results been so clear."
+      },
+      {
+        "label": "Agreement",
+        "en": "Verb agrees with S (after the verb)\nBehind the house was* the bicycles → were the bicycles\nBehind the houses were* the bicycle → was the bicycle",
+        "id": "Verb mengikuti S (setelah verb)\nBehind the house was* the bicycles → were the bicycles\nBehind the houses were* the bicycle → was the bicycle"
+      },
+      {
+        "label": "Pemicu invert (ingat S15–S19)",
+        "en": "question words · place expressions · negatives\nconditionals without if · comparisons",
+        "id": "question words · place expressions · negatives\nconditionals without if · comparisons"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Subject bisa di belakang verb",
+        "title_en": "1. The subject may come after the verb",
+        "body_id": "Behind the house were the bicycles… → subject = bicycles (plural), bukan house.",
+        "body_en": "Behind the house were the bicycles… → subject = bicycles (plural), not house."
+      },
+      {
+        "title_id": "2. Jangan setujukan dengan object of preposition di depan",
+        "title_en": "2. Do not agree with a fronted object of a preposition",
+        "body_id": "house / houses hanya object of behind. Agreement dari subject setelah verb.",
+        "body_en": "house / houses is only the object of behind. Agreement comes from the subject after the verb."
+      },
+      {
+        "title_id": "3. Cari subject setelah verb, lalu cek singular/plural",
+        "title_en": "3. Find the subject after the verb, then check number",
+        "body_id": "… was the report… / … were the reports… · Never has the committee… / Never have the members…",
+        "body_en": "… was the report… / … were the reports… · Never has the committee… / Never have the members…"
+      },
+      {
+        "title_id": "4. Auxiliary ikut agreement",
+        "title_en": "4. Auxiliaries also agree",
+        "body_id": "has/have, is/are, was/were, does/do harus cocok dengan subject yang di-invert.",
+        "body_en": "has/have, is/are, was/were, does/do must match the inverted subject."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "Behind the house _____ the bicycles I wanted.",
+        "options": [
+          "was",
+          "were",
+          "is",
+          "has"
+        ],
+        "correct": 1,
+        "why_en": "Subject after the verb = bicycles (plural) → were. house is only object of behind.",
+        "why_id": "Subject setelah verb = bicycles (plural) → were. house hanya object of behind."
+      },
+      {
+        "id": "ex2",
+        "stem": "Behind the houses _____ the bicycle I wanted.",
+        "options": [
+          "were",
+          "are",
+          "was",
+          "have"
+        ],
+        "correct": 2,
+        "why_en": "Subject = bicycle (singular) → was.",
+        "why_id": "Subject = bicycle (singular) → was."
+      },
+      {
+        "id": "ex3",
+        "stem": "Never _____ the final estimates been released to the public.",
+        "options": [
+          "has",
+          "have",
+          "is",
+          "was"
+        ],
+        "correct": 1,
+        "why_en": "Inverted after Never; subject = estimates (plural) → have.",
+        "why_id": "Invert setelah Never; subject = estimates (plural) → have."
+      }
+    ],
+    "checklist_id": [
+      "Apakah struktur inverted (place/negative/question… di depan)?",
+      "Cari subject SETELAH verb.",
+      "Singular atau plural?",
+      "Samakan verb/auxiliary dengan subject itu.",
+      "Jangan ikuti noun di dalam place/negative phrase di depan."
+    ],
+    "checklist_en": [
+      "Is the structure inverted (place/negative/question… first)?",
+      "Find the subject AFTER the verb.",
+      "Singular or plural?",
+      "Match the verb/auxiliary to that subject.",
+      "Do not follow a noun inside the fronted place/negative phrase."
+    ],
+    "remember_id": "Invert: **V + S** — verb mengikuti **S di belakang**. *Behind the house **were** the bicycles…*",
+    "remember_en": "Invert: **V + S** — the verb agrees with **S after it**. *Behind the house **were** the bicycles…*"
+  },
+  {
+    "skillId": "skill-23",
+    "code": "WE23",
+    "title_en": "Make verbs agree after certain words",
+    "title_id": "Agreesikan verb setelah kata tertentu (indefinite)",
+    "group_en": "Subject–Verb Agreement",
+    "group_id": "Kesepakatan Subject–Verb",
+    "summary_id": "Kata seperti everybody, anyone, each, every, something secara tata bahasa **selalu singular**, meski maknanya terasa jamak. Pakai verb singular.",
+    "summary_en": "Words like everybody, anyone, each, every, something are grammatically **always singular**, even when the meaning feels plural. Use a singular verb.",
+    "formula": [
+      {
+        "label": "Selalu singular",
+        "en": "everybody / everyone / everything\nsomebody / someone / something\nnobody / no one / nothing\nanybody / anyone / anything\neach (+ noun) · every (+ noun)",
+        "id": "everybody / everyone / everything\nsomebody / someone / something\nnobody / no one / nothing\nanybody / anyone / anything\neach (+ noun) · every (+ noun)"
+      },
+      {
+        "label": "Contoh",
+        "en": "Everybody is going to the theater.  ✓\nEverybody are going…  ✗\nEach of the proposals requires review.  ✓",
+        "id": "Everybody is going to the theater.  ✓\nEverybody are going…  ✗\nEach of the proposals requires review.  ✓"
+      },
+      {
+        "label": "Cek cepat",
+        "en": "Subject = everybody / each / every… ?\n→ use is / was / has / V-s (singular)",
+        "id": "Subject = everybody / each / every… ?\n→ pakai is / was / has / V-s (singular)"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Makna jamak ≠ tata bahasa jamak",
+        "title_en": "1. Plural meaning ≠ plural grammar",
+        "body_id": "Everybody are going* → salah. Meski banyak orang, everybody = singular → is going.",
+        "body_en": "Everybody are going* → wrong. Even if many people are meant, everybody is singular → is going."
+      },
+      {
+        "title_id": "2. each / every + noun",
+        "title_en": "2. each / every + noun",
+        "body_id": "Each proposal requires… · Every student has… · Each of the files is labeled…",
+        "body_en": "Each proposal requires… · Every student has… · Each of the files is labeled…"
+      },
+      {
+        "title_id": "3. -body / -one / -thing",
+        "title_en": "3. -body / -one / -thing",
+        "body_id": "anyone, someone, no one, nothing, everything → singular verb.",
+        "body_en": "anyone, someone, no one, nothing, everything → singular verb."
+      },
+      {
+        "title_id": "4. Jangan tertipu oleh of-phrase jamak",
+        "title_en": "4. Do not be misled by a plural of-phrase",
+        "body_id": "Each of the candidates is qualified. (each singular; candidates hanya object of of).",
+        "body_en": "Each of the candidates is qualified. (each is singular; candidates is only the object of of)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "Everybody _____ going to the theater.",
+        "options": [
+          "are",
+          "is",
+          "were",
+          "have been"
+        ],
+        "correct": 1,
+        "why_en": "everybody is grammatically singular → is.",
+        "why_id": "everybody secara tata bahasa singular → is."
+      },
+      {
+        "id": "ex2",
+        "stem": "Each of the proposals _____ further review.",
+        "options": [
+          "require",
+          "requires",
+          "are requiring",
+          "have required"
+        ],
+        "correct": 1,
+        "why_en": "Each is singular; proposals is object of of → requires.",
+        "why_id": "Each singular; proposals = object of of → requires."
+      },
+      {
+        "id": "ex3",
+        "stem": "Nothing in the appendices _____ been redacted.",
+        "options": [
+          "have",
+          "has",
+          "are",
+          "were"
+        ],
+        "correct": 1,
+        "why_en": "Nothing is singular → has.",
+        "why_id": "Nothing singular → has."
+      }
+    ],
+    "checklist_id": [
+      "Subject-nya everybody/anyone/each/every/something…?",
+      "Jika ya → verb singular (is/was/has/V-s).",
+      "Abaikan of + plural noun setelah each/every.",
+      "Jangan pakai are/were/have hanya karena makna 'banyak orang'.",
+      "everything/nothing/anything → singular."
+    ],
+    "checklist_en": [
+      "Is the subject everybody/anyone/each/every/something…?",
+      "If yes → singular verb (is/was/has/V-s).",
+      "Ignore of + plural noun after each/every.",
+      "Do not use are/were/have just because the meaning is 'many people'.",
+      "everything/nothing/anything → singular."
+    ],
+    "remember_id": "**everybody / each / every / anyone / nothing** → **singular**. *Everybody **is** going…* · *Each of the files **is**…*",
+    "remember_en": "**everybody / each / every / anyone / nothing** → **singular**. *Everybody **is** going…* · *Each of the files **is**…*"
+  },
+  {
+    "skillId": "skill-24",
+    "code": "WE24",
+    "title_en": "Use parallel structure with coordinate conjunctions",
+    "title_id": "Gunakan parallel structure dengan coordinate conjunctions",
+    "group_en": "Parallel Structure",
+    "group_id": "Struktur Sejajar",
+    "summary_id": "and / but / or menghubungkan elemen yang **bentuknya sama**: noun dengan noun, verb dengan verb, adjective dengan adjective, frase dengan frase, clause dengan clause.",
+    "summary_en": "and / but / or join elements of the **same form**: noun with noun, verb with verb, adjective with adjective, phrase with phrase, clause with clause.",
+    "formula": [
+      {
+        "label": "Pola",
+        "en": "(same structure)  and / but / or  (same structure)\nI like to sing and to dance.  ✓\nI like singing and dancing.  ✓\nI like to sing and dancing.  ✗",
+        "id": "(struktur sama)  and / but / or  (struktur sama)\nI like to sing and to dance.  ✓\nI like singing and dancing.  ✓\nI like to sing and dancing.  ✗"
+      },
+      {
+        "label": "Yang boleh digabung",
+        "en": "noun + noun · verb + verb · adjective + adjective\nphrase + phrase · clause + clause",
+        "id": "noun + noun · verb + verb · adjective + adjective\nfrase + frase · clause + clause"
+      },
+      {
+        "label": "Cek cepat",
+        "en": "1) Find and / but / or\n2) Compare the forms on both sides\n3) Make them match",
+        "id": "1) Cari and / but / or\n2) Bandingkan bentuk di kedua sisi\n3) Samakan bentuknya"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Koordinat = elemen setara",
+        "title_en": "1. Coordinates = equal elements",
+        "body_id": "and/but/or menyambung dua (atau lebih) bagian yang sama jenisnya, bukan mencampur to-infinitive dengan gerund tanpa alasan.",
+        "body_en": "and/but/or link two (or more) parts of the same type — do not mix a to-infinitive with a gerund without a reason."
+      },
+      {
+        "title_id": "2. Contoh sejajar",
+        "title_en": "2. Parallel examples",
+        "body_id": "hiking and kayaking · short but difficult · in the classroom and in front of the building · what you say or what you do.",
+        "body_en": "hiking and kayaking · short but difficult · in the classroom and in front of the building · what you say or what you do."
+      },
+      {
+        "title_id": "3. Perbaiki dengan menyamakan bentuk",
+        "title_en": "3. Fix by matching forms",
+        "body_id": "to sing and dancing → to sing and to dance ATAU singing and dancing.",
+        "body_en": "to sing and dancing → to sing and to dance OR singing and dancing."
+      },
+      {
+        "title_id": "4. Seri tiga item",
+        "title_en": "4. Series of three",
+        "body_id": "A, B, and C — ketiganya harus paralel: collected, cleaned, and labeled (bukan collected, cleaned, and labeling).",
+        "body_en": "A, B, and C — all three must be parallel: collected, cleaned, and labeled (not collected, cleaned, and labeling)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "The analyst prefers _____ the raw files and documenting each transform.",
+        "options": [
+          "to clean",
+          "cleaning",
+          "clean",
+          "cleaned"
+        ],
+        "correct": 1,
+        "why_en": "Parallel with documenting (gerund) → cleaning … and documenting.",
+        "why_id": "Sejajar dengan documenting (gerund) → cleaning … and documenting."
+      },
+      {
+        "id": "ex2",
+        "stem": "The report is short _____ thorough.",
+        "options": [
+          "and",
+          "but",
+          "or",
+          "so"
+        ],
+        "correct": 1,
+        "why_en": "short but thorough — two adjectives with contrast → but.",
+        "why_id": "short but thorough — dua adjective kontras → but."
+      },
+      {
+        "id": "ex3",
+        "stem": "Staff may work on site _____ remotely, according to the policy.",
+        "options": [
+          "and",
+          "but",
+          "or",
+          "so"
+        ],
+        "correct": 2,
+        "why_en": "Choice between two parallel options → or.",
+        "why_id": "Pilihan antara dua opsi sejajar → or."
+      }
+    ],
+    "checklist_id": [
+      "Temukan and / but / or.",
+      "Tandai elemen di kiri dan kanan.",
+      "Apakah bentuknya sama (noun/verb/adj/frase/clause)?",
+      "Jika seri A, B, and C — ketiga item sejajar?",
+      "Perbaiki dengan menyamakan bentuk, bukan hanya mengganti kata sambung."
+    ],
+    "checklist_en": [
+      "Find and / but / or.",
+      "Mark the elements on the left and right.",
+      "Are the forms the same (noun/verb/adj/phrase/clause)?",
+      "In a series A, B, and C — are all three parallel?",
+      "Fix by matching forms, not only by changing the conjunction."
+    ],
+    "remember_id": "**and / but / or** → struktur kiri = struktur kanan. *to sing and **to dance*** · *singing and **dancing***",
+    "remember_en": "**and / but / or** → left structure = right structure. *to sing and **to dance*** · *singing and **dancing***"
+  },
+  {
+    "skillId": "skill-25",
+    "code": "WE25",
+    "title_en": "Use parallel structure with paired conjunctions",
+    "title_id": "Gunakan parallel structure dengan paired conjunctions",
+    "group_en": "Parallel Structure",
+    "group_id": "Struktur Sejajar",
+    "summary_id": "Pasangan both…and, either…or, neither…nor, not only…but also harus (1) dipasangkan benar dan (2) menghubungkan bentuk yang sejajar di kedua sisi.",
+    "summary_en": "The pairs both…and, either…or, neither…nor, not only…but also must (1) use the correct partners and (2) join parallel forms on both sides.",
+    "formula": [
+      {
+        "label": "Pasangan yang benar",
+        "en": "both … and\neither … or\nneither … nor\nnot only … but also",
+        "id": "both … and\neither … or\nneither … nor\nnot only … but also"
+      },
+      {
+        "label": "Parallel di kedua sisi",
+        "en": "either to go by train or to go by plane  ✓\nto go either by train or by plane  ✓\neither to go by train or by plane  ✗",
+        "id": "either to go by train or to go by plane  ✓\nto go either by train or by plane  ✓\neither to go by train or by plane  ✗"
+      },
+      {
+        "label": "Pasangan salah",
+        "en": "both … or  ✗  (butuh and)\neither … nor  ✗  (butuh or)",
+        "id": "both … or  ✗  (butuh and)\neither … nor  ✗  (butuh or)"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Pakai pasangan yang benar",
+        "title_en": "1. Use the correct pair",
+        "body_id": "both hanya dengan and; either dengan or; neither dengan nor; not only dengan but also.",
+        "body_en": "both only with and; either with or; neither with nor; not only with but also."
+      },
+      {
+        "title_id": "2. Bentuk kiri = bentuk kanan",
+        "title_en": "2. Left form = right form",
+        "body_id": "I know both where you went and what you did. · neither in my pocket nor in my purse.",
+        "body_en": "I know both where you went and what you did. · neither in my pocket nor in my purse."
+      },
+      {
+        "title_id": "3. Posisikan pasangan agar paralel",
+        "title_en": "3. Place the pair so both sides match",
+        "body_id": "either to go by train or by plane salah; perbaiki: either to go by train or to go by plane / to go either by train or by plane.",
+        "body_en": "either to go by train or by plane is wrong; fix: either to go by train or to go by plane / to go either by train or by plane."
+      },
+      {
+        "title_id": "4. not only … but also",
+        "title_en": "4. not only … but also",
+        "body_id": "not only an excellent student but also an outstanding athlete — dua noun phrase sejajar.",
+        "body_en": "not only an excellent student but also an outstanding athlete — two parallel noun phrases."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "He wants either to go by train or _____.",
+        "options": [
+          "by plane",
+          "to go by plane",
+          "going by plane",
+          "plane"
+        ],
+        "correct": 1,
+        "why_en": "Parallel after either: to go by train // to go by plane.",
+        "why_id": "Paralel setelah either: to go by train // to go by plane."
+      },
+      {
+        "id": "ex2",
+        "stem": "I want both this book _____ that one.",
+        "options": [
+          "or",
+          "and",
+          "nor",
+          "but also"
+        ],
+        "correct": 1,
+        "why_en": "both pairs with and, not or.",
+        "why_id": "both berpasangan dengan and, bukan or."
+      },
+      {
+        "id": "ex3",
+        "stem": "Either Sam _____ Sue is taking the course.",
+        "options": [
+          "nor",
+          "and",
+          "or",
+          "but also"
+        ],
+        "correct": 2,
+        "why_en": "either pairs with or, not nor.",
+        "why_id": "either berpasangan dengan or, bukan nor."
+      }
+    ],
+    "checklist_id": [
+      "Pasangan lengkap? both–and / either–or / neither–nor / not only–but also",
+      "Jangan both…or atau either…nor.",
+      "Bentuk di antara pasangan sejajar?",
+      "Geser posisi pasangan jika perlu agar paralel.",
+      "not only X but also Y — X dan Y jenis sama."
+    ],
+    "checklist_en": [
+      "Complete pair? both–and / either–or / neither–nor / not only–but also",
+      "Avoid both…or or either…nor.",
+      "Are the forms inside the pair parallel?",
+      "Move the pair if needed to keep parallelism.",
+      "not only X but also Y — X and Y same type."
+    ],
+    "remember_id": "**both…and · either…or · neither…nor · not only…but also** + struktur sejajar.",
+    "remember_en": "**both…and · either…or · neither…nor · not only…but also** + parallel structures."
+  },
+  {
+    "skillId": "skill-26",
+    "code": "WE26",
+    "title_en": "Use parallel structure with comparisons",
+    "title_id": "Gunakan parallel structure dengan comparisons",
+    "group_en": "Parallel Structure",
+    "group_id": "Struktur Sejajar",
+    "summary_id": "Saat membandingkan (more/-er…than, as…as, the same as, similar to), kedua sisi harus **bentuk yang sama**.",
+    "summary_en": "When you compare (more/-er…than, as…as, the same as, similar to), both sides must have the **same form**.",
+    "formula": [
+      {
+        "label": "Pola",
+        "en": "(same structure)  more / -er / less … than  (same structure)\n(same structure)  as … as  (same structure)\n(same structure)  the same as / similar to  (same structure)",
+        "id": "(struktur sama)  more / -er / less … than  (struktur sama)\n(struktur sama)  as … as  (struktur sama)\n(struktur sama)  the same as / similar to  (struktur sama)"
+      },
+      {
+        "label": "Contoh benar",
+        "en": "To be rich is better than to be poor.\nWhat is written is more easily understood than what is spoken.\nRenting costs about the same as leasing.",
+        "id": "To be rich is better than to be poor.\nWhat is written is more easily understood than what is spoken.\nRenting costs about the same as leasing."
+      },
+      {
+        "label": "Cek cepat",
+        "en": "1) Find than / as / similar to\n2) Match the grammatical form on both sides\n3) Noun//noun, infinitive//infinitive, clause//clause…",
+        "id": "1) Cari than / as / similar to\n2) Samakan bentuk tata bahasa di kedua sisi\n3) Noun//noun, infinitive//infinitive, clause//clause…"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Kedua sisi perbandingan sejajar",
+        "title_en": "1. Both sides of the comparison are parallel",
+        "body_id": "farther than your school · better than to be poor · as big as a small house.",
+        "body_en": "farther than your school · better than to be poor · as big as a small house."
+      },
+      {
+        "title_id": "2. Infinitive // infinitive, gerund // gerund",
+        "title_en": "2. Infinitive // infinitive, gerund // gerund",
+        "body_id": "To replicate is harder than to pilot. · Renting costs the same as leasing. Jangan: to rent … than leasing.",
+        "body_en": "To replicate is harder than to pilot. · Renting costs the same as leasing. Avoid: to rent … than leasing."
+      },
+      {
+        "title_id": "3. Clause // clause",
+        "title_en": "3. Clause // clause",
+        "body_id": "What is written … than what is spoken. · The work that I did is similar to the work that you did.",
+        "body_en": "What is written … than what is spoken. · The work that I did is similar to the work that you did."
+      },
+      {
+        "title_id": "4. Marker comparison",
+        "title_en": "4. Comparison markers",
+        "body_id": "more…than, -er…than, less…than, as…as, the same…as, similar…to.",
+        "body_en": "more…than, -er…than, less…than, as…as, the same…as, similar…to."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "To be rich is better than _____.",
+        "options": [
+          "poor",
+          "to be poor",
+          "being a poor",
+          "poverty"
+        ],
+        "correct": 1,
+        "why_en": "Parallel infinitives: to be rich // to be poor.",
+        "why_id": "Infinitive sejajar: to be rich // to be poor."
+      },
+      {
+        "id": "ex2",
+        "stem": "Renting those apartments costs about the same as _____.",
+        "options": [
+          "to lease them",
+          "leasing them",
+          "lease them",
+          "they lease"
+        ],
+        "correct": 1,
+        "why_en": "Parallel gerunds: Renting // leasing.",
+        "why_id": "Gerund sejajar: Renting // leasing."
+      },
+      {
+        "id": "ex3",
+        "stem": "What is written is more easily understood than _____.",
+        "options": [
+          "spoken",
+          "what is spoken",
+          "speaking",
+          "to speak"
+        ],
+        "correct": 1,
+        "why_en": "Parallel clauses: What is written // what is spoken.",
+        "why_id": "Clause sejajar: What is written // what is spoken."
+      }
+    ],
+    "checklist_id": [
+      "Cari more/-er/less…than, as…as, the same as, similar to.",
+      "Tandai elemen kiri dan kanan perbandingan.",
+      "Samakan bentuk (noun/infinitive/gerund/clause).",
+      "Hindari to V … than V-ing.",
+      "Clause: what/that … than what/that …"
+    ],
+    "checklist_en": [
+      "Find more/-er/less…than, as…as, the same as, similar to.",
+      "Mark the left and right sides of the comparison.",
+      "Match forms (noun/infinitive/gerund/clause).",
+      "Avoid to V … than V-ing.",
+      "Clauses: what/that … than what/that …"
+    ],
+    "remember_id": "Comparison → **bentuk kiri = bentuk kanan**. *to be rich than **to be poor*** · *Renting … as **leasing***",
+    "remember_en": "Comparison → **left form = right form**. *to be rich than **to be poor*** · *Renting … as **leasing***"
+  },
+  {
+    "skillId": "skill-27",
+    "code": "WE27",
+    "title_en": "Form comparatives and superlatives correctly",
+    "title_id": "Bentuk comparative dan superlative dengan benar",
+    "group_en": "Comparatives and Superlatives",
+    "group_id": "Comparative dan Superlative",
+    "summary_id": "Comparative: **-er** atau **more** + **than**. Superlative: **the** + **-est** atau **most** (sering + in/of/that). Adjective pendek → -er/-est; panjang → more/most.",
+    "summary_en": "Comparative: **-er** or **more** + **than**. Superlative: **the** + **-est** or **most** (often + in/of/that). Short adjectives → -er/-est; longer ones → more/most.",
+    "formula": [
+      {
+        "label": "Comparative",
+        "en": "short:  Adj-er + than\nlong:   more + Adj + than\nBob is taller than Ron.\nSally is more beautiful than Sharon.",
+        "id": "pendek:  Adj-er + than\npanjang: more + Adj + than\nBob is taller than Ron.\nSally is more beautiful than Sharon."
+      },
+      {
+        "label": "Superlative",
+        "en": "short:  the + Adj-est (+ in/of/that…)\nlong:   the most + Adj (+ in/of/that…)\nBob is the tallest man in the room.\nSally is the most beautiful of all the women…",
+        "id": "pendek:  the + Adj-est (+ in/of/that…)\npanjang: the most + Adj (+ in/of/that…)\nBob is the tallest man in the room.\nSally is the most beautiful of all the women…"
+      },
+      {
+        "label": "Hindari",
+        "en": "more taller  ✗  (double comparative)\nthe most tallest  ✗  (double superlative)\nmore beautiful than  ✓",
+        "id": "more taller  ✗  (double comparative)\nthe most tallest  ✗  (double superlative)\nmore beautiful than  ✓"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Pendek → -er / -est",
+        "title_en": "1. Short → -er / -est",
+        "body_id": "tall → taller / tallest · fast → faster / fastest · large → larger / largest.",
+        "body_en": "tall → taller / tallest · fast → faster / fastest · large → larger / largest."
+      },
+      {
+        "title_id": "2. Panjang → more / most",
+        "title_en": "2. Long → more / most",
+        "body_id": "beautiful → more beautiful / the most beautiful · important → more important / the most important.",
+        "body_en": "beautiful → more beautiful / the most beautiful · important → more important / the most important."
+      },
+      {
+        "title_id": "3. Comparative butuh than; superlative sering the",
+        "title_en": "3. Comparative needs than; superlative often needs the",
+        "body_id": "taller than… · the tallest… · the most interesting study that I have read.",
+        "body_en": "taller than… · the tallest… · the most interesting study that I have read."
+      },
+      {
+        "title_id": "4. Jangan dobel penanda",
+        "title_en": "4. Do not double the markers",
+        "body_id": "more easier* · most easiest* · more better* → salah. Pilih satu pola saja.",
+        "body_en": "more easier* · most easiest* · more better* → wrong. Use only one pattern."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "This version is _____ than the pilot draft.",
+        "options": [
+          "more clear",
+          "clearer",
+          "more clearer",
+          "clearest"
+        ],
+        "correct": 1,
+        "why_en": "clear is short → clearer than (not more clear / more clearer).",
+        "why_id": "clear pendek → clearer than (bukan more clear / more clearer)."
+      },
+      {
+        "id": "ex2",
+        "stem": "This is _____ robust specification in the paper.",
+        "options": [
+          "the more",
+          "the most",
+          "most",
+          "more"
+        ],
+        "correct": 1,
+        "why_en": "Superlative of long adjective: the most robust.",
+        "why_id": "Superlative adjective panjang: the most robust."
+      },
+      {
+        "id": "ex3",
+        "stem": "She is _____ of all the presenters today.",
+        "options": [
+          "more prepared",
+          "the most prepared",
+          "most prepared",
+          "preparer"
+        ],
+        "correct": 1,
+        "why_en": "Superlative with of: the most prepared of all…",
+        "why_id": "Superlative dengan of: the most prepared of all…"
+      }
+    ],
+    "checklist_id": [
+      "Adjective pendek atau panjang?",
+      "Comparative → -er/more + than.",
+      "Superlative → the + -est/most.",
+      "Jangan more + -er atau most + -est.",
+      "Cek than (comparative) dan the (superlative)."
+    ],
+    "checklist_en": [
+      "Is the adjective short or long?",
+      "Comparative → -er/more + than.",
+      "Superlative → the + -est/most.",
+      "Avoid more + -er or most + -est.",
+      "Check than (comparative) and the (superlative)."
+    ],
+    "remember_id": "**taller than** · **more beautiful than** · **the tallest** · **the most beautiful**. Jangan *more taller*.",
+    "remember_en": "**taller than** · **more beautiful than** · **the tallest** · **the most beautiful**. Avoid *more taller*."
   }
 ]

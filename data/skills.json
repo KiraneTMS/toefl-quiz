@@ -4,132 +4,232 @@
     "code": "S1",
     "group": "Sentences with One Clause",
     "title": "Subject and Verb",
-    "description": "Pastikan kalimat punya subject dan verb yang lengkap."
+    "description": "Pastikan kalimat punya subject dan verb yang lengkap.",
+    "section": "structure"
   },
   {
     "id": "skill-2",
     "code": "S2",
     "group": "Sentences with One Clause",
     "title": "Objects of Prepositions",
-    "description": "Object of preposition bukan subject."
+    "description": "Object of preposition bukan subject.",
+    "section": "structure"
   },
   {
     "id": "skill-3",
     "code": "S3",
     "group": "Sentences with One Clause",
     "title": "Appositives",
-    "description": "Appositive menjelaskan noun; bukan subject utama."
+    "description": "Appositive menjelaskan noun; bukan subject utama.",
+    "section": "structure"
   },
   {
     "id": "skill-4",
     "code": "S4",
     "group": "Sentences with One Clause",
     "title": "Present Participles",
-    "description": "Present participle (-ing) sebagai modifier \u2014 bedakan dari verb utama."
+    "description": "Present participle (-ing) sebagai modifier — bedakan dari verb utama.",
+    "section": "structure"
   },
   {
     "id": "skill-5",
     "code": "S5",
     "group": "Sentences with One Clause",
     "title": "Past Participles",
-    "description": "Past participle sebagai modifier/passive \u2014 bedakan dari verb utama."
+    "description": "Past participle sebagai modifier/passive — bedakan dari verb utama.",
+    "section": "structure"
   },
   {
     "id": "skill-6",
     "code": "S6",
     "group": "Sentences with Multiple Clauses",
     "title": "Coordinate Connectors",
-    "description": "and, but, or, so, yet \u2014 independent clauses."
+    "description": "and, but, or, so, yet — independent clauses.",
+    "section": "structure"
   },
   {
     "id": "skill-7",
     "code": "S7",
     "group": "Sentences with Multiple Clauses",
     "title": "Adverb Time & Cause Connectors",
-    "description": "when, while, before, after, since, because, as."
+    "description": "when, while, before, after, since, because, as.",
+    "section": "structure"
   },
   {
     "id": "skill-8",
     "code": "S8",
     "group": "Sentences with Multiple Clauses",
     "title": "Other Adverb Connectors",
-    "description": "although, even though, if, unless, whereas, whether."
+    "description": "although, even though, if, unless, whereas, whether.",
+    "section": "structure"
   },
   {
     "id": "skill-9",
     "code": "S9",
     "group": "Sentences with Multiple Clauses",
     "title": "Noun Clause Connectors",
-    "description": "that, what, whether, if, how sebagai object/complement."
+    "description": "that, what, whether, if, how sebagai object/complement.",
+    "section": "structure"
   },
   {
     "id": "skill-10",
     "code": "S10",
     "group": "Sentences with Multiple Clauses",
     "title": "Noun Clause Connector/Subjects",
-    "description": "what/whether/whoever sebagai subject clause."
+    "description": "what/whether/whoever sebagai subject clause.",
+    "section": "structure"
   },
   {
     "id": "skill-11",
     "code": "S11",
     "group": "Sentences with Multiple Clauses",
     "title": "Adjective Clause Connectors",
-    "description": "who, which, that, whom, whose, where, when."
+    "description": "who, which, that, whom, whose, where, when.",
+    "section": "structure"
   },
   {
     "id": "skill-12",
     "code": "S12",
     "group": "Sentences with Multiple Clauses",
     "title": "Adjective Clause Connector/Subjects",
-    "description": "who/which/that sebagai subject di relative clause."
+    "description": "who/which/that sebagai subject di relative clause.",
+    "section": "structure"
   },
   {
     "id": "skill-13",
     "code": "S13",
     "group": "Sentences with Reduced Clauses",
     "title": "Reduced Adjective Clauses",
-    "description": "Kurangi adjective clause (who/which/that + be) jadi participle/adjective phrase."
+    "description": "Kurangi adjective clause (who/which/that + be) jadi participle/adjective phrase.",
+    "section": "structure"
   },
   {
     "id": "skill-14",
     "code": "S14",
     "group": "Sentences with Reduced Clauses",
     "title": "Reduced Adverb Clauses",
-    "description": "Kurangi adverb clause (when/while/because/if + subject + be) jadi participle phrase."
+    "description": "Kurangi adverb clause (when/while/because/if + subject + be) jadi participle phrase.",
+    "section": "structure"
   },
   {
     "id": "skill-15",
     "code": "S15",
     "group": "Sentences with Inverted Subjects and Verbs",
     "title": "Invert with Question Words",
-    "description": "Do NOT invert in embedded questions (after know, ask, determine, etc.)."
+    "description": "Do NOT invert in embedded questions (after know, ask, determine, etc.).",
+    "section": "structure"
   },
   {
     "id": "skill-16",
     "code": "S16",
     "group": "Sentences with Inverted Subjects and Verbs",
     "title": "Invert with Place Expressions",
-    "description": "Invert after place expressions (here, there, across the valley...)."
+    "description": "Invert after place expressions (here, there, across the valley...).",
+    "section": "structure"
   },
   {
     "id": "skill-17",
     "code": "S17",
     "group": "Sentences with Inverted Subjects and Verbs",
     "title": "Invert with Negatives",
-    "description": "Invert after negative/limiting adverbs (never, rarely, not only...)."
+    "description": "Invert after negative/limiting adverbs (never, rarely, not only...).",
+    "section": "structure"
   },
   {
     "id": "skill-18",
     "code": "S18",
     "group": "Sentences with Inverted Subjects and Verbs",
     "title": "Invert with Conditionals",
-    "description": "Inverted conditionals: Had I known, Were he here, Should you need."
+    "description": "Inverted conditionals: Had I known, Were he here, Should you need.",
+    "section": "structure"
   },
   {
     "id": "skill-19",
     "code": "S19",
     "group": "Sentences with Inverted Subjects and Verbs",
     "title": "Invert with Comparisons",
-    "description": "Inversion in comparisons: as does she, than do they."
+    "description": "Inversion in comparisons: as does she, than do they.",
+    "section": "structure"
+  },
+  {
+    "id": "skill-20",
+    "code": "WE20",
+    "section": "written-expression",
+    "group": "Subject–Verb Agreement",
+    "title": "Verbs after prepositional phrases",
+    "description": "Subject–verb agreement: ignore objects of prepositions between subject and verb.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-21",
+    "code": "WE21",
+    "section": "written-expression",
+    "group": "Subject–Verb Agreement",
+    "title": "Verbs after expressions of quantity",
+    "description": "all/most/some/half of… — verb follows the object after of (singular, plural, or uncountable).",
+    "placeholder": false
+  },
+  {
+    "id": "skill-22",
+    "code": "WE22",
+    "section": "written-expression",
+    "group": "Subject–Verb Agreement",
+    "title": "Agreement with inverted verbs",
+    "description": "Setelah place/negative/question inversion, verb harus setuju dengan subject yang datang SETELAH verb.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-23",
+    "code": "WE23",
+    "section": "written-expression",
+    "group": "Subject–Verb Agreement",
+    "title": "Agreement after certain words",
+    "description": "everybody/anyone/each/every/something… selalu singular secara tata bahasa.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-24",
+    "code": "WE24",
+    "section": "written-expression",
+    "group": "Parallel Structure",
+    "title": "Parallel structure with coordinate conjunctions",
+    "description": "and / but / or harus menghubungkan bentuk yang sejajar (noun–noun, verb–verb, dll.).",
+    "placeholder": false
+  },
+  {
+    "id": "skill-25",
+    "code": "WE25",
+    "section": "written-expression",
+    "group": "Parallel Structure",
+    "title": "Parallel structure with paired conjunctions",
+    "description": "both…and / either…or / neither…nor / not only…but also — pasangan benar + bentuk sejajar.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-26",
+    "code": "WE26",
+    "section": "written-expression",
+    "group": "Parallel Structure",
+    "title": "Parallel structure with comparisons",
+    "description": "more/-er…than, as…as, the same as, similar to — kedua sisi perbandingan harus sejajar.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-27",
+    "code": "WE27",
+    "section": "written-expression",
+    "group": "Comparatives and Superlatives",
+    "title": "Form comparatives and superlatives correctly",
+    "description": "-er/more + than · the + -est/most — bentuk comparative & superlative yang benar.",
+    "placeholder": false
+  },
+  {
+    "id": "we-skill-more",
+    "code": "WE…",
+    "section": "written-expression",
+    "group": "Comparatives and Superlatives",
+    "title": "Skill berikutnya — coming soon",
+    "description": "Slot untuk skill Written Expression selanjutnya.",
+    "placeholder": true
   }
 ]
