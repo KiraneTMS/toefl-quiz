@@ -224,6 +224,24 @@
     "placeholder": false
   },
   {
+    "id": "skill-28",
+    "code": "WE28",
+    "section": "written-expression",
+    "group": "Comparatives and Superlatives",
+    "title": "Use comparatives and superlatives correctly",
+    "description": "Comparative = banding 2 hal · Superlative = yang paling di antara banyak.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-29",
+    "code": "WE29",
+    "section": "written-expression",
+    "group": "Comparatives and Superlatives",
+    "title": "The irregular -er, -er structure",
+    "description": "the harder…, the further… — dua comparative paralel diawali the.",
+    "placeholder": false
+  },
+  {
     "id": "we-skill-more",
     "code": "WE…",
     "section": "written-expression",

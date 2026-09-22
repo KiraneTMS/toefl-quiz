@@ -2970,5 +2970,225 @@
     ],
     "remember_id": "**taller than** · **more beautiful than** · **the tallest** · **the most beautiful**. Jangan *more taller*.",
     "remember_en": "**taller than** · **more beautiful than** · **the tallest** · **the most beautiful**. Avoid *more taller*."
+  },
+  {
+    "skillId": "skill-28",
+    "code": "WE28",
+    "title_en": "Use comparatives and superlatives correctly",
+    "title_id": "Pakai comparative dan superlative dengan tepat",
+    "group_en": "Comparatives and Superlatives",
+    "group_id": "Comparative dan Superlative",
+    "summary_id": "**Comparative** membandingkan **dua** hal. **Superlative** menunjukkan satu yang paling menonjol di antara **lebih dari dua**.",
+    "summary_en": "The **comparative** compares **two** equal things. The **superlative** shows which one of **many** is the most outstanding in some way.",
+    "formula": [
+      {
+        "label": "Comparative (2 items)",
+        "en": "A is larger / more intelligent than B.\nThe history class is larger than the math class.\nMary is more intelligent than Sue.",
+        "id": "A lebih … daripada B.\nThe history class is larger than the math class.\nMary is more intelligent than Sue."
+      },
+      {
+        "label": "Superlative (3+ items)",
+        "en": "A is the largest / the most intelligent …\nThe history class is the largest in the school.\nMary is the most intelligent of all the students in the class.",
+        "id": "A yang paling …\nThe history class is the largest in the school.\nMary is the most intelligent of all the students in the class."
+      },
+      {
+        "label": "Salah pakai",
+        "en": "Of the two rooms, this is the largest*  → larger\nShe is more intelligent of all*  → the most intelligent of all",
+        "id": "Of the two rooms, this is the largest*  → larger\nShe is more intelligent of all*  → the most intelligent of all"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Dua hal → comparative",
+        "title_en": "1. Two things → comparative",
+        "body_id": "history class vs math class → larger than. Mary vs Sue → more intelligent than.",
+        "body_en": "history class vs math class → larger than. Mary vs Sue → more intelligent than."
+      },
+      {
+        "title_id": "2. Banyak / grup → superlative",
+        "title_en": "2. Many / a group → superlative",
+        "body_id": "the largest in the school · the most intelligent of all the students.",
+        "body_en": "the largest in the school · the most intelligent of all the students."
+      },
+      {
+        "title_id": "3. of the two → comparative",
+        "title_en": "3. of the two → comparative",
+        "body_id": "Of the two designs, this one is clearer (bukan the clearest).",
+        "body_en": "Of the two designs, this one is clearer (not the clearest)."
+      },
+      {
+        "title_id": "4. of all / in the class → superlative",
+        "title_en": "4. of all / in the class → superlative",
+        "body_id": "of all the candidates · in the department → the most / the -est.",
+        "body_en": "of all the candidates · in the department → the most / the -est."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "Of the two schedules, the afternoon one is _____.",
+        "options": [
+          "the most convenient",
+          "more convenient",
+          "most convenient",
+          "convenienter"
+        ],
+        "correct": 1,
+        "why_en": "Two schedules → comparative: more convenient.",
+        "why_id": "Dua jadwal → comparative: more convenient."
+      },
+      {
+        "id": "ex2",
+        "stem": "Of all the schedules, the afternoon one is _____.",
+        "options": [
+          "more convenient",
+          "the more convenient",
+          "the most convenient",
+          "convenienter"
+        ],
+        "correct": 2,
+        "why_en": "Of all → superlative: the most convenient.",
+        "why_id": "Of all → superlative: the most convenient."
+      },
+      {
+        "id": "ex3",
+        "stem": "This site is _____ than the backup location.",
+        "options": [
+          "the closest",
+          "closer",
+          "closest",
+          "more closer"
+        ],
+        "correct": 1,
+        "why_en": "Two places → comparative: closer than.",
+        "why_id": "Dua lokasi → comparative: closer than."
+      }
+    ],
+    "checklist_id": [
+      "Berapa item yang dibandingkan: 2 atau lebih?",
+      "2 → comparative (-er/more + than).",
+      "3+ / of all / in the group → superlative (the -est / the most).",
+      "of the two → jangan superlative.",
+      "than biasanya menandai comparative."
+    ],
+    "checklist_en": [
+      "How many items: 2 or more?",
+      "2 → comparative (-er/more + than).",
+      "3+ / of all / in the group → superlative (the -est / the most).",
+      "of the two → do not use the superlative.",
+      "than usually signals the comparative."
+    ],
+    "remember_id": "**2 hal → comparative.** **Banyak → superlative.** *larger than* · *the largest in the school*",
+    "remember_en": "**2 things → comparative.** **Many → superlative.** *larger than* · *the largest in the school*"
+  },
+  {
+    "skillId": "skill-29",
+    "code": "WE29",
+    "title_en": "Use the irregular -er, -er structure correctly",
+    "title_id": "Gunakan struktur the -er…, the -er… dengan benar",
+    "group_en": "Comparatives and Superlatives",
+    "group_id": "Comparative dan Superlative",
+    "summary_id": "Pola **the + comparative, the + comparative** menunjukkan hubungan sejajar: semakin X, semakin Y. Kedua sisi paralel; boleh tanpa verb.",
+    "summary_en": "The pattern **the + comparative, the + comparative** shows a linked relationship: the more X, the more Y. Both sides are parallel; a verb is optional.",
+    "formula": [
+      {
+        "label": "Pola inti",
+        "en": "THE + (-er / more…) + structure,  THE + (-er / more…) + structure\nThe harder he tried, the further he fell behind.\nThe older the children are, the more their parents expect.",
+        "id": "THE + (-er / more…) + struktur,  THE + (-er / more…) + struktur\nThe harder he tried, the further he fell behind.\nThe older the children are, the more their parents expect."
+      },
+      {
+        "label": "Variasi struktur setelah the + comp",
+        "en": "The more children you have, the bigger the house you need.\nThe harder you work, the more you accomplish.\nThe greater the experience, the higher the salary.  (no verb — OK)",
+        "id": "The more children you have, the bigger the house you need.\nThe harder you work, the more you accomplish.\nThe greater the experience, the higher the salary.  (tanpa verb — OK)"
+      },
+      {
+        "label": "Cek cepat",
+        "en": "1) Both parts start with the + comparative\n2) Structures on both sides match in type\n3) Do not drop the on one side only",
+        "id": "1) Kedua bagian diawali the + comparative\n2) Struktur kedua sisi sejajar\n3) Jangan hilangkan the hanya di satu sisi"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. the + comparative di kedua sisi",
+        "title_en": "1. the + comparative on both sides",
+        "body_id": "The harder…, the further… · The more…, the more… — bukan Harder…, the further…",
+        "body_en": "The harder…, the further… · The more…, the more… — not Harder…, the further…"
+      },
+      {
+        "title_id": "2. Parallel structure",
+        "title_en": "2. Parallel structure",
+        "body_id": "Setelah masing-masing comparative, bentuknya konsisten (clause // clause, noun // noun, dll.).",
+        "body_en": "After each comparative, keep consistent forms (clause // clause, noun // noun, etc.)."
+      },
+      {
+        "title_id": "3. Verb boleh tidak ada",
+        "title_en": "3. A verb is optional",
+        "body_id": "The greater the experience, the higher the salary. — struktur formal yang valid di TOEFL.",
+        "body_en": "The greater the experience, the higher the salary. — a valid formal structure on the TOEFL."
+      },
+      {
+        "title_id": "4. more + noun juga masuk pola",
+        "title_en": "4. more + noun also fits",
+        "body_id": "The more children you have… · The more you practice…",
+        "body_en": "The more children you have… · The more you practice…"
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "The harder he tried, _____ he fell behind.",
+        "options": [
+          "further",
+          "the further",
+          "farthest",
+          "the farthest"
+        ],
+        "correct": 1,
+        "why_en": "Parallel the + comparative: the harder…, the further…",
+        "why_id": "Paralel the + comparative: the harder…, the further…"
+      },
+      {
+        "id": "ex2",
+        "stem": "_____ children you have, the bigger the house you need.",
+        "options": [
+          "More",
+          "The more",
+          "Most",
+          "The most"
+        ],
+        "correct": 1,
+        "why_en": "Both sides need the + comparative: The more…, the bigger…",
+        "why_id": "Kedua sisi butuh the + comparative: The more…, the bigger…"
+      },
+      {
+        "id": "ex3",
+        "stem": "The greater the experience, _____ the salary.",
+        "options": [
+          "higher",
+          "the higher",
+          "highest",
+          "the highest"
+        ],
+        "correct": 1,
+        "why_en": "the greater…, the higher… (verb optional).",
+        "why_id": "the greater…, the higher… (verb opsional)."
+      }
+    ],
+    "checklist_id": [
+      "Ada dua comparative yang terhubung?",
+      "Keduanya diawali the?",
+      "Struktur setelah comparative sejajar?",
+      "Boleh tanpa verb jika hanya noun phrase.",
+      "Jangan campur superlative (the most) di pola -er, -er ini."
+    ],
+    "checklist_en": [
+      "Are there two linked comparatives?",
+      "Does each start with the?",
+      "Are the structures after them parallel?",
+      "Verb optional if only noun phrases follow.",
+      "Do not mix in a superlative (the most) in this -er, -er pattern."
+    ],
+    "remember_id": "**The + comp, the + comp.** *The harder…, the further…* · *The more…, the more…*",
+    "remember_en": "**The + comp, the + comp.** *The harder…, the further…* · *The more…, the more…*"
   }
 ]

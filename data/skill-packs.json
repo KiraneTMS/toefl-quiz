@@ -19438,5 +19438,1445 @@
         "seed": "WE27-04"
       }
     ]
+  },
+  {
+    "seed": "WE28-01",
+    "skillId": "skill-28",
+    "skillCode": "WE28",
+    "packNumber": 1,
+    "title": "WE28 Pack 1 — Use comparatives vs superlatives",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we28-1-1",
+        "question": "Of the two pipelines, the automated one is _____.",
+        "options": [
+          "the fastest",
+          "faster",
+          "fastest",
+          "more fastest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. faster. of the two → comparative.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-01"
+      },
+      {
+        "id": "we28-1-2",
+        "question": "Of all the pipelines, the automated one is _____.",
+        "options": [
+          "faster",
+          "the faster",
+          "the fastest",
+          "more fast"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. the fastest. of all → superlative.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-01"
+      },
+      {
+        "id": "we28-1-3",
+        "question": "This draft is _____ than the previous submission.",
+        "options": [
+          "the clearest",
+          "clearer",
+          "clearest",
+          "more clearer"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. clearer. two drafts → comparative + than.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-01"
+      },
+      {
+        "id": "we28-1-4",
+        "question": "This draft is _____ we have submitted this year.",
+        "options": [
+          "clearer",
+          "the clearer",
+          "the clearest",
+          "more clear"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. the clearest. among many this year → superlative.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-01"
+      },
+      {
+        "id": "we28-1-5",
+        "question": "Mary is more careful than _____.",
+        "options": [
+          "all the team",
+          "Sue",
+          "anyone else of all",
+          "the most careful"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. Sue. comparative compares two people.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-01"
+      },
+      {
+        "id": "we28-1-6",
+        "question": "Mary is the most careful _____ in the unit.",
+        "options": [
+          "than Sue",
+          "of all the analysts",
+          "as Sue",
+          "more than all"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. of all the analysts. superlative + of/in group.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-01"
+      },
+      {
+        "id": "we28-1-7",
+        "question": "Between these two metrics, reliability is _____.",
+        "options": [
+          "the most important",
+          "more important",
+          "most important",
+          "importanter"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. more important. between two → comparative.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-01"
+      },
+      {
+        "id": "we28-1-8",
+        "question": "Among the five metrics, reliability is _____.",
+        "options": [
+          "more important",
+          "the more important",
+          "the most important",
+          "importanter"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. the most important. among five → superlative.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-01"
+      },
+      {
+        "id": "we28-1-9",
+        "question": "Site A is closer to the lab than _____.",
+        "options": [
+          "any other sites",
+          "Site B",
+          "all sites",
+          "the closest site"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. Site B. two sites → comparative.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-01"
+      },
+      {
+        "id": "we28-1-10",
+        "question": "Site A is _____ site in the network.",
+        "options": [
+          "closer",
+          "the closer",
+          "the closest",
+          "more close"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. the closest. in the network (many) → superlative.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-01"
+      }
+    ]
+  },
+  {
+    "seed": "WE28-02",
+    "skillId": "skill-28",
+    "skillCode": "WE28",
+    "packNumber": 2,
+    "title": "WE28 Pack 2 — Use comparatives vs superlatives",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we28-2-1",
+        "question": "Of the two abstracts, the shorter one is _____.",
+        "options": [
+          "the most effective",
+          "more effective",
+          "most effective",
+          "effectiver"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. more effective.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-02"
+      },
+      {
+        "id": "we28-2-2",
+        "question": "This is _____ session of the entire conference.",
+        "options": [
+          "longer",
+          "the longer",
+          "the longest",
+          "more long"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. the longest.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-02"
+      },
+      {
+        "id": "we28-2-3",
+        "question": "Her score is higher than _____.",
+        "options": [
+          "the class",
+          "Tom's",
+          "everyone of all",
+          "the highest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. Tom's. two scores → comparative.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-02"
+      },
+      {
+        "id": "we28-2-4",
+        "question": "Her score is _____ in the class.",
+        "options": [
+          "higher",
+          "the higher",
+          "the highest",
+          "more high"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. the highest.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-02"
+      },
+      {
+        "id": "we28-2-5",
+        "question": "Compared with the pilot, the full study is _____.",
+        "options": [
+          "the more complex",
+          "more complex",
+          "most complex",
+          "the most complex"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. more complex. two studies → comparative.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-02"
+      },
+      {
+        "id": "we28-2-6",
+        "question": "This is _____ complex study we have run.",
+        "options": [
+          "more",
+          "the more",
+          "the most",
+          "most"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. the most.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-02"
+      },
+      {
+        "id": "we28-2-7",
+        "question": "Of the two vendors, this one is _____.",
+        "options": [
+          "the cheapest",
+          "cheaper",
+          "cheapest",
+          "more cheap"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. cheaper.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-02"
+      },
+      {
+        "id": "we28-2-8",
+        "question": "This vendor is _____ on the approved list.",
+        "options": [
+          "cheaper",
+          "the cheaper",
+          "the cheapest",
+          "more cheap"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. the cheapest.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-02"
+      },
+      {
+        "id": "we28-2-9",
+        "question": "The afternoon slot is more convenient than _____.",
+        "options": [
+          "all morning slots",
+          "the morning slot",
+          "every slot",
+          "the most convenient slot"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the morning slot. two slots.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-02"
+      },
+      {
+        "id": "we28-2-10",
+        "question": "The afternoon slot is _____ option on the form.",
+        "options": [
+          "more convenient",
+          "the more convenient",
+          "the most convenient",
+          "convenienter"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. the most convenient.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-02"
+      }
+    ]
+  },
+  {
+    "seed": "WE28-03",
+    "skillId": "skill-28",
+    "skillCode": "WE28",
+    "packNumber": 3,
+    "title": "WE28 Pack 3 — Use comparatives vs superlatives",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we28-3-1",
+        "question": "Between method A and method B, A is _____.",
+        "options": [
+          "the most accurate",
+          "more accurate",
+          "most accurate",
+          "accurater"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. more accurate.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-03"
+      },
+      {
+        "id": "we28-3-2",
+        "question": "Method A is _____ accurate method tested so far.",
+        "options": [
+          "more",
+          "the more",
+          "the most",
+          "most"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. the most.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-03"
+      },
+      {
+        "id": "we28-3-3",
+        "question": "This corridor is quieter than _____.",
+        "options": [
+          "the building",
+          "the other corridor",
+          "all corridors",
+          "the quietest corridor"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the other corridor.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-03"
+      },
+      {
+        "id": "we28-3-4",
+        "question": "This corridor is _____ in the building.",
+        "options": [
+          "quieter",
+          "the quieter",
+          "the quietest",
+          "more quiet"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. the quietest.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-03"
+      },
+      {
+        "id": "we28-3-5",
+        "question": "Of the two hypotheses, the second is _____.",
+        "options": [
+          "the most plausible",
+          "more plausible",
+          "most plausible",
+          "plausibler"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. more plausible.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-03"
+      },
+      {
+        "id": "we28-3-6",
+        "question": "The second hypothesis is _____ of those listed in Section 2.",
+        "options": [
+          "more plausible",
+          "the more plausible",
+          "the most plausible",
+          "plausibler"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. the most plausible.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-03"
+      },
+      {
+        "id": "we28-3-7",
+        "question": "File A is larger than _____.",
+        "options": [
+          "the folder",
+          "File B",
+          "all files",
+          "the largest file"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. File B.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-03"
+      },
+      {
+        "id": "we28-3-8",
+        "question": "File A is _____ file in the archive.",
+        "options": [
+          "larger",
+          "the larger",
+          "the largest",
+          "more large"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. the largest.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-03"
+      },
+      {
+        "id": "we28-3-9",
+        "question": "This wording is clearer than _____.",
+        "options": [
+          "the whole chapter",
+          "the previous wording",
+          "every wording",
+          "the clearest wording"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the previous wording.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-03"
+      },
+      {
+        "id": "we28-3-10",
+        "question": "This wording is _____ in the chapter.",
+        "options": [
+          "clearer",
+          "the clearer",
+          "the clearest",
+          "more clear"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. the clearest.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-03"
+      }
+    ]
+  },
+  {
+    "seed": "WE28-04",
+    "skillId": "skill-28",
+    "skillCode": "WE28",
+    "packNumber": 4,
+    "title": "WE28 Pack 4 — Use comparatives vs superlatives",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we28-4-1",
+        "question": "Of the two dashboards, the internal one is _____.",
+        "options": [
+          "the most detailed",
+          "more detailed",
+          "most detailed",
+          "detailer"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. more detailed.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-04"
+      },
+      {
+        "id": "we28-4-2",
+        "question": "The internal dashboard is _____ detailed view we provide.",
+        "options": [
+          "more",
+          "the more",
+          "the most",
+          "most"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. the most.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-04"
+      },
+      {
+        "id": "we28-4-3",
+        "question": "Team A's turnaround is faster than _____.",
+        "options": [
+          "the department",
+          "Team B's",
+          "all teams",
+          "the fastest team"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. Team B's.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-04"
+      },
+      {
+        "id": "we28-4-4",
+        "question": "Team A has _____ turnaround in the department.",
+        "options": [
+          "faster",
+          "the faster",
+          "the fastest",
+          "more fast"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. the fastest.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-04"
+      },
+      {
+        "id": "we28-4-5",
+        "question": "This batch is cleaner than _____.",
+        "options": [
+          "production",
+          "the previous batch",
+          "all batches",
+          "the cleanest batch"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the previous batch.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-04"
+      },
+      {
+        "id": "we28-4-6",
+        "question": "This batch is _____ we have released.",
+        "options": [
+          "cleaner",
+          "the cleaner",
+          "the cleanest",
+          "more clean"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. the cleanest.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-04"
+      },
+      {
+        "id": "we28-4-7",
+        "question": "Between the two auditors, Kim is _____.",
+        "options": [
+          "the most thorough",
+          "more thorough",
+          "most thorough",
+          "thorougher"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. more thorough.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-04"
+      },
+      {
+        "id": "we28-4-8",
+        "question": "Kim is _____ thorough auditor on staff.",
+        "options": [
+          "more",
+          "the more",
+          "the most",
+          "most"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. the most.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-04"
+      },
+      {
+        "id": "we28-4-9",
+        "question": "Version 2 is more stable than _____.",
+        "options": [
+          "the product",
+          "Version 1",
+          "all versions",
+          "the most stable version"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. Version 1.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-04"
+      },
+      {
+        "id": "we28-4-10",
+        "question": "Version 2 is _____ stable release to date.",
+        "options": [
+          "more",
+          "the more",
+          "the most",
+          "most"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. the most.",
+        "section": "written-expression",
+        "category": "skill-28",
+        "difficulty": "hard",
+        "skillId": "skill-28",
+        "seed": "WE28-04"
+      }
+    ]
+  },
+  {
+    "seed": "WE29-01",
+    "skillId": "skill-29",
+    "skillCode": "WE29",
+    "packNumber": 1,
+    "title": "WE29 Pack 1 — The -er, -er structure",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we29-1-1",
+        "question": "The harder the team pushed, _____ the schedule slipped.",
+        "options": [
+          "further",
+          "the further",
+          "farthest",
+          "the farthest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the further. the + comparative // the + comparative.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-01"
+      },
+      {
+        "id": "we29-1-2",
+        "question": "_____ data you collect, the stronger the estimates become.",
+        "options": [
+          "More",
+          "The more",
+          "Most",
+          "The most"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. The more.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-01"
+      },
+      {
+        "id": "we29-1-3",
+        "question": "The older the equipment gets, _____ the maintenance costs rise.",
+        "options": [
+          "higher",
+          "the higher",
+          "highest",
+          "the highest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the higher.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-01"
+      },
+      {
+        "id": "we29-1-4",
+        "question": "The more carefully you annotate, _____ later analysis becomes.",
+        "options": [
+          "easier",
+          "the easier",
+          "easiest",
+          "the easiest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the easier.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-01"
+      },
+      {
+        "id": "we29-1-5",
+        "question": "The greater the sample size, _____ the confidence interval.",
+        "options": [
+          "narrower",
+          "the narrower",
+          "narrowest",
+          "the narrowest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the narrower. verb optional.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-01"
+      },
+      {
+        "id": "we29-1-6",
+        "question": "_____ you practice the pipeline, the fewer mistakes you make.",
+        "options": [
+          "Harder",
+          "The harder",
+          "Hardest",
+          "The hardest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. The harder.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-01"
+      },
+      {
+        "id": "we29-1-7",
+        "question": "The sooner the keys are locked, _____ the risk of leakage.",
+        "options": [
+          "lower",
+          "the lower",
+          "lowest",
+          "the lowest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the lower.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-01"
+      },
+      {
+        "id": "we29-1-8",
+        "question": "The more transparent the process, _____ the trust from partners.",
+        "options": [
+          "greater",
+          "the greater",
+          "greatest",
+          "the greatest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the greater.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-01"
+      },
+      {
+        "id": "we29-1-9",
+        "question": "_____ complex the model, the harder it is to explain.",
+        "options": [
+          "More",
+          "The more",
+          "Most",
+          "The most"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. The more.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-01"
+      },
+      {
+        "id": "we29-1-10",
+        "question": "The longer the delay, _____ the chance of missing the window.",
+        "options": [
+          "higher",
+          "the higher",
+          "highest",
+          "the highest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the higher.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-01"
+      }
+    ]
+  },
+  {
+    "seed": "WE29-02",
+    "skillId": "skill-29",
+    "skillCode": "WE29",
+    "packNumber": 2,
+    "title": "WE29 Pack 2 — The -er, -er structure",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we29-2-1",
+        "question": "The faster the exports run, _____ room remains for manual checks.",
+        "options": [
+          "less",
+          "the less",
+          "least",
+          "the least"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the less.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-02"
+      },
+      {
+        "id": "we29-2-2",
+        "question": "_____ detailed the codebook, the fewer coding errors appear.",
+        "options": [
+          "More",
+          "The more",
+          "Most",
+          "The most"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. The more.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-02"
+      },
+      {
+        "id": "we29-2-3",
+        "question": "The broader the inclusion criteria, _____ the sample becomes.",
+        "options": [
+          "larger",
+          "the larger",
+          "largest",
+          "the largest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the larger.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-02"
+      },
+      {
+        "id": "we29-2-4",
+        "question": "The more often you back up, _____ you fear a disk failure.",
+        "options": [
+          "less",
+          "the less",
+          "least",
+          "the least"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the less.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-02"
+      },
+      {
+        "id": "we29-2-5",
+        "question": "The clearer the hypothesis, _____ the test you can design.",
+        "options": [
+          "sharper",
+          "the sharper",
+          "sharpest",
+          "the sharpest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the sharper.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-02"
+      },
+      {
+        "id": "we29-2-6",
+        "question": "_____ the stakes, the more documentation reviewers demand.",
+        "options": [
+          "Higher",
+          "The higher",
+          "Highest",
+          "The highest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. The higher.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-02"
+      },
+      {
+        "id": "we29-2-7",
+        "question": "The deeper the archive, _____ it is to retrieve old versions.",
+        "options": [
+          "harder",
+          "the harder",
+          "hardest",
+          "the hardest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the harder.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-02"
+      },
+      {
+        "id": "we29-2-8",
+        "question": "The more parallel the tasks, _____ the coordination cost.",
+        "options": [
+          "greater",
+          "the greater",
+          "greatest",
+          "the greatest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the greater.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-02"
+      },
+      {
+        "id": "we29-2-9",
+        "question": "_____ strict the access rules, the safer the identifiable files.",
+        "options": [
+          "More",
+          "The more",
+          "Most",
+          "The most"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. The more.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-02"
+      },
+      {
+        "id": "we29-2-10",
+        "question": "The shorter the instrument, _____ the response rate tends to be.",
+        "options": [
+          "higher",
+          "the higher",
+          "highest",
+          "the highest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the higher.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-02"
+      }
+    ]
+  },
+  {
+    "seed": "WE29-03",
+    "skillId": "skill-29",
+    "skillCode": "WE29",
+    "packNumber": 3,
+    "title": "WE29 Pack 3 — The -er, -er structure",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we29-3-1",
+        "question": "The more variables you add, _____ the risk of overfitting.",
+        "options": [
+          "greater",
+          "the greater",
+          "greatest",
+          "the greatest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the greater.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-03"
+      },
+      {
+        "id": "we29-3-2",
+        "question": "_____ early you lock the analysis plan, the fewer disputes arise later.",
+        "options": [
+          "Sooner",
+          "The sooner",
+          "Soonest",
+          "The soonest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. The sooner.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-03"
+      },
+      {
+        "id": "we29-3-3",
+        "question": "The wider the confidence band, _____ the estimate.",
+        "options": [
+          "weaker",
+          "the weaker",
+          "weakest",
+          "the weakest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the weaker.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-03"
+      },
+      {
+        "id": "we29-3-4",
+        "question": "The more automated the checks, _____ time remains for judgment calls.",
+        "options": [
+          "more",
+          "the more",
+          "most",
+          "the most"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the more.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-03"
+      },
+      {
+        "id": "we29-3-5",
+        "question": "_____ dense the prose, the slower the review.",
+        "options": [
+          "More",
+          "The more",
+          "Most",
+          "The most"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. The more.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-03"
+      },
+      {
+        "id": "we29-3-6",
+        "question": "The closer the deadline, _____ the pressure on the writing team.",
+        "options": [
+          "greater",
+          "the greater",
+          "greatest",
+          "the greatest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the greater.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-03"
+      },
+      {
+        "id": "we29-3-7",
+        "question": "The better the training data, _____ the model performs out of sample.",
+        "options": [
+          "better",
+          "the better",
+          "best",
+          "the best"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the better.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-03"
+      },
+      {
+        "id": "we29-3-8",
+        "question": "_____ frequent the audits, the fewer unresolved findings accumulate.",
+        "options": [
+          "More",
+          "The more",
+          "Most",
+          "The most"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. The more.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-03"
+      },
+      {
+        "id": "we29-3-9",
+        "question": "The larger the residual, _____ the observation deserves scrutiny.",
+        "options": [
+          "more",
+          "the more",
+          "most",
+          "the most"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the more.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-03"
+      },
+      {
+        "id": "we29-3-10",
+        "question": "The thinner the ice on the claim, _____ the supporting citations you need.",
+        "options": [
+          "more",
+          "the more",
+          "most",
+          "the most"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the more.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-03"
+      }
+    ]
+  },
+  {
+    "seed": "WE29-04",
+    "skillId": "skill-29",
+    "skillCode": "WE29",
+    "packNumber": 4,
+    "title": "WE29 Pack 4 — The -er, -er structure",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we29-4-1",
+        "question": "The more sites you include, _____ the logistics become.",
+        "options": [
+          "complexer",
+          "the more complex",
+          "most complex",
+          "the most complex"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the more complex. the + more + long adj.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-04"
+      },
+      {
+        "id": "we29-4-2",
+        "question": "_____ transparent the ranking, the easier it is to defend.",
+        "options": [
+          "More",
+          "The more",
+          "Most",
+          "The most"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. The more.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-04"
+      },
+      {
+        "id": "we29-4-3",
+        "question": "The longer the embargo, _____ the public value of early sharing.",
+        "options": [
+          "lower",
+          "the lower",
+          "lowest",
+          "the lowest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the lower.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-04"
+      },
+      {
+        "id": "we29-4-4",
+        "question": "The sharper the pre-registration, _____ room remains for HARKing.",
+        "options": [
+          "less",
+          "the less",
+          "least",
+          "the least"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the less.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-04"
+      },
+      {
+        "id": "we29-4-5",
+        "question": "_____ accurate the timestamps, the cleaner the event study.",
+        "options": [
+          "More",
+          "The more",
+          "Most",
+          "The most"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. The more.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-04"
+      },
+      {
+        "id": "we29-4-6",
+        "question": "The heavier the regulatory load, _____ the compliance staff you need.",
+        "options": [
+          "larger",
+          "the larger",
+          "largest",
+          "the largest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the larger.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-04"
+      },
+      {
+        "id": "we29-4-7",
+        "question": "The more you document edge cases, _____ surprises appear in production.",
+        "options": [
+          "fewer",
+          "the fewer",
+          "fewest",
+          "the fewest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the fewer.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-04"
+      },
+      {
+        "id": "we29-4-8",
+        "question": "_____ stable the API, the fewer client breakages.",
+        "options": [
+          "More",
+          "The more",
+          "Most",
+          "The most"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. The more.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-04"
+      },
+      {
+        "id": "we29-4-9",
+        "question": "The broader the waiver, _____ the residual risk.",
+        "options": [
+          "higher",
+          "the higher",
+          "highest",
+          "the highest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the higher.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-04"
+      },
+      {
+        "id": "we29-4-10",
+        "question": "The clearer the ownership map, _____ the handoffs between teams.",
+        "options": [
+          "smoother",
+          "the smoother",
+          "smoothest",
+          "the smoothest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the smoother.",
+        "section": "written-expression",
+        "category": "skill-29",
+        "difficulty": "hard",
+        "skillId": "skill-29",
+        "seed": "WE29-04"
+      }
+    ]
   }
 ]
