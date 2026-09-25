@@ -3190,5 +3190,1545 @@
     ],
     "remember_id": "**The + comp, the + comp.** *The harder…, the further…* · *The more…, the more…*",
     "remember_en": "**The + comp, the + comp.** *The harder…, the further…* · *The more…, the more…*"
+  },
+  {
+    "skillId": "skill-30",
+    "code": "WE30",
+    "title_en": "After have, use the past participle",
+    "title_id": "Setelah have, pakai past participle",
+    "group_en": "Verb Form Problems",
+    "group_id": "Masalah Bentuk Verb",
+    "summary_id": "Setiap bentuk **have** (have/has/had/having) harus diikuti **past participle (V3)**. Jangan V1/V2. Jika hanya V3 tanpa have, sering kurang helping verb.",
+    "summary_en": "Every form of **have** (have/has/had/having) must be followed by a **past participle (V3)**. Not the base or simple past. A lone V3 often needs have.",
+    "formula": [
+      {
+        "label": "Pola wajib",
+        "en": "HAVE / HAS / HAD / HAVING  +  past participle\nhave seen · has taken · had walked · Having eaten",
+        "id": "HAVE / HAS / HAD / HAVING  +  past participle\nhave seen · has taken · had walked · Having eaten"
+      },
+      {
+        "label": "Salah → benar",
+        "en": "had walk* → had walked\nhave see* → have seen\nhas took* → has taken\nHaving ate* → Having eaten\nshould have did* → should have done",
+        "id": "had walk* → had walked\nhave see* → have seen\nhas took* → has taken\nHaving ate* → Having eaten\nshould have did* → should have done"
+      },
+      {
+        "label": "V3 tanpa have",
+        "en": "My friend sung* in the choir.\n→ sang (simple past) OR has sung (perfect)",
+        "id": "My friend sung* in the choir.\n→ sang (simple past) ATAU has sung (perfect)"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. have + V3 saja",
+        "title_en": "1. have + V3 only",
+        "body_id": "Setelah have/has/had/having, verb berikutnya harus past participle, bukan present atau simple past.",
+        "body_en": "After have/has/had/having, the next verb must be a past participle, not present or simple past."
+      },
+      {
+        "title_id": "2. Irregular V3 sering salah",
+        "title_en": "2. Irregular V3s are often wrong",
+        "body_id": "take–took–taken · see–saw–seen · eat–ate–eaten · do–did–done · sing–sang–sung · sink–sank–sunk · become–became–become.",
+        "body_en": "take–took–taken · see–saw–seen · eat–ate–eaten · do–did–done · sing–sang–sung · sink–sank–sunk · become–became–become."
+      },
+      {
+        "title_id": "3. Modal + have + V3",
+        "title_en": "3. Modal + have + V3",
+        "body_id": "should have done · could have written · might have been — tetap V3 setelah have.",
+        "body_en": "should have done · could have written · might have been — still V3 after have."
+      },
+      {
+        "title_id": "4. Past participle sendirian",
+        "title_en": "4. A bare past participle",
+        "body_id": "Jika subject + sung/sunk/become tanpa have dan bukan simple past yang tepat, tambahkan have atau ganti ke simple past (sang/sank/became).",
+        "body_en": "If subject + sung/sunk/become lacks have and is not a correct simple past, add have or switch to simple past (sang/sank/became)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "They had _____ to school before the bell rang.",
+        "options": [
+          "walk",
+          "walked",
+          "walking",
+          "walks"
+        ],
+        "correct": 1,
+        "why_en": "had + past participle → walked.",
+        "why_id": "had + past participle → walked."
+      },
+      {
+        "id": "ex2",
+        "stem": "She should have _____ the work earlier.",
+        "options": [
+          "did",
+          "done",
+          "do",
+          "doing"
+        ],
+        "correct": 1,
+        "why_en": "should have + done (not did).",
+        "why_id": "should have + done (bukan did)."
+      },
+      {
+        "id": "ex3",
+        "stem": "Having _____ lunch, he returned to the lab.",
+        "options": [
+          "ate",
+          "eaten",
+          "eat",
+          "eats"
+        ],
+        "correct": 1,
+        "why_en": "Having + past participle → eaten.",
+        "why_id": "Having + past participle → eaten."
+      }
+    ],
+    "checklist_id": [
+      "Ada have/has/had/having?",
+      "Verb setelahnya = past participle (V3)?",
+      "Modal + have → tetap V3.",
+      "Irregular: taken/seen/done/eaten/sung…",
+      "V3 sendirian → perlu have atau ubah ke simple past."
+    ],
+    "checklist_en": [
+      "Is there have/has/had/having?",
+      "Is the following verb a past participle (V3)?",
+      "Modal + have → still V3.",
+      "Irregulars: taken/seen/done/eaten/sung…",
+      "Bare V3 → add have or use simple past."
+    ],
+    "remember_id": "**HAVE + past participle.** *has **taken*** · *should have **done*** · *Having **eaten***",
+    "remember_en": "**HAVE + past participle.** *has **taken*** · *should have **done*** · *Having **eaten***"
+  },
+  {
+    "skillId": "skill-31",
+    "code": "WE31",
+    "title_en": "After be, use the present participle or the past participle",
+    "title_id": "Setelah be, pakai present participle atau past participle",
+    "group_en": "Verb Form Problems",
+    "group_id": "Masalah Bentuk Verb",
+    "summary_id": "Setelah **be** (am/is/are/was/were/be/been/being), verb berikutnya harus **V-ing** (progressive/aktif) atau **V3** (pasif) — bukan bentuk dasar *do/take*.",
+    "summary_en": "After **be** (am/is/are/was/were/be/been/being), the next verb must be a **present participle (V-ing)** or a **past participle (V3)** — not a base form like *do/take*.",
+    "formula": [
+      {
+        "label": "Pola",
+        "en": "BE + present participle  → progressive / active sense\nBE + past participle     → passive\nare doing · was done · is taking · was taken",
+        "id": "BE + present participle  → progressive / aktif\nBE + past participle     → pasif\nare doing · was done · is taking · was taken"
+      },
+      {
+        "label": "Salah → benar",
+        "en": "are do* → are doing\nwas do* → was done\nis take* → is taking\nwas take* → was taken",
+        "id": "are do* → are doing\nwas do* → was done\nis take* → is taking\nwas take* → was taken"
+      },
+      {
+        "label": "Cek cepat",
+        "en": "Active ongoing? → be + V-ing\nPassive / object as subject? → be + V3",
+        "id": "Aktif berlangsung? → be + V-ing\nPasif / object jadi subject? → be + V3"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. be + V-ing",
+        "title_en": "1. be + V-ing",
+        "body_id": "We are doing our homework. · Tom is taking the book. Progressive: is/are/was/were + V-ing.",
+        "body_en": "We are doing our homework. · Tom is taking the book. Progressive: is/are/was/were + V-ing."
+      },
+      {
+        "title_id": "2. be + V3 (pasif)",
+        "title_en": "2. be + V3 (passive)",
+        "body_id": "The homework was done early. · The book was taken by Tom.",
+        "body_en": "The homework was done early. · The book was taken by Tom."
+      },
+      {
+        "title_id": "3. Jangan base form setelah be",
+        "title_en": "3. No base form after be",
+        "body_id": "are do* · is take* · was write* → salah. Ganti do→doing/done, take→taking/taken, write→writing/written.",
+        "body_en": "are do* · is take* · was write* → wrong. Use doing/done, taking/taken, writing/written."
+      },
+      {
+        "title_id": "4. been/being juga be",
+        "title_en": "4. been/being also count as be",
+        "body_id": "has been completed · is being reviewed — tetap V3 atau V-ing sesuai makna.",
+        "body_en": "has been completed · is being reviewed — still V3 or V-ing as required by meaning."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "We are _____ our homework now.",
+        "options": [
+          "do",
+          "doing",
+          "done",
+          "did"
+        ],
+        "correct": 1,
+        "why_en": "are + present participle → doing.",
+        "why_id": "are + present participle → doing."
+      },
+      {
+        "id": "ex2",
+        "stem": "The homework was _____ early.",
+        "options": [
+          "do",
+          "doing",
+          "done",
+          "did"
+        ],
+        "correct": 2,
+        "why_en": "Passive: was + past participle → done.",
+        "why_id": "Pasif: was + past participle → done."
+      },
+      {
+        "id": "ex3",
+        "stem": "The book was _____ by Tom.",
+        "options": [
+          "take",
+          "taking",
+          "taken",
+          "took"
+        ],
+        "correct": 2,
+        "why_en": "Passive: was + taken.",
+        "why_id": "Pasif: was + taken."
+      }
+    ],
+    "checklist_id": [
+      "Ada be (am/is/are/was/were/be/been/being)?",
+      "Makna aktif progressive → V-ing.",
+      "Makna pasif → V3.",
+      "Jangan biarkan base form (do/take/write) setelah be.",
+      "is being + V3 untuk pasif progresif."
+    ],
+    "checklist_en": [
+      "Is there be (am/is/are/was/were/be/been/being)?",
+      "Active progressive meaning → V-ing.",
+      "Passive meaning → V3.",
+      "Do not leave a base form (do/take/write) after be.",
+      "is being + V3 for progressive passive."
+    ],
+    "remember_id": "**BE + V-ing** (aktif) · **BE + V3** (pasif). *are **doing*** · *was **done***",
+    "remember_en": "**BE + V-ing** (active) · **BE + V3** (passive). *are **doing*** · *was **done***"
+  },
+  {
+    "skillId": "skill-32",
+    "code": "WE32",
+    "title_en": "After will, would, or other modals, use the base form of the verb",
+    "title_id": "Setelah modal, pakai base form (V1)",
+    "group_en": "Verb Form Problems",
+    "group_id": "Masalah Bentuk Verb",
+    "summary_id": "Setelah **modal** (will, would, shall, should, can, could, may, might, must), verb berikutnya harus **base form (V1)** — bukan V-ing, V3, atau Vs.",
+    "summary_en": "After a **modal** (will, would, shall, should, can, could, may, might, must), the next verb must be the **base form (V1)** — not V-ing, V3, or Vs.",
+    "formula": [
+      {
+        "label": "Pola",
+        "en": "MODAL + base form\nwill leave · may arrive · must take · should check",
+        "id": "MODAL + base form\nwill leave · may arrive · must take · should check"
+      },
+      {
+        "label": "Salah → benar",
+        "en": "will leaving* → will leave\nmay arrives* → may arrive\nmust taken* → must take",
+        "id": "will leaving* → will leave\nmay arrives* → may arrive\nmust taken* → must take"
+      },
+      {
+        "label": "Daftar modal umum",
+        "en": "will · would · shall · should · can · could · may · might · must",
+        "id": "will · would · shall · should · can · could · may · might · must"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Modal + V1 saja",
+        "title_en": "1. Modal + base form only",
+        "body_id": "Tidak ada -s, -ing, atau past participle langsung setelah modal (kecuali struktur modal + have + V3).",
+        "body_en": "No -s, -ing, or past participle right after the modal (except modal + have + V3)."
+      },
+      {
+        "title_id": "2. Beda dari have + V3",
+        "title_en": "2. Different from have + V3",
+        "body_id": "must take (modal + V1) vs must have taken (modal + have + V3). Skill 32 fokus modal + V1.",
+        "body_en": "must take (modal + V1) vs must have taken (modal + have + V3). Skill 32 focuses on modal + V1."
+      },
+      {
+        "title_id": "3. Subject tidak mengubah modal",
+        "title_en": "3. Subject does not change the modal pattern",
+        "body_id": "He can go · They can go — tetap base form, bukan goes.",
+        "body_en": "He can go · They can go — still the base form, not goes."
+      },
+      {
+        "title_id": "4. will/would + V1 untuk future/conditional sense",
+        "title_en": "4. will/would + V1 for future/conditional sense",
+        "body_id": "The boat will leave at 3:00. · She would prefer a later slot.",
+        "body_en": "The boat will leave at 3:00. · She would prefer a later slot."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "The boat will _____ at 3:00.",
+        "options": [
+          "leaving",
+          "leave",
+          "left",
+          "leaves"
+        ],
+        "correct": 1,
+        "why_en": "will + base form → leave.",
+        "why_id": "will + base form → leave."
+      },
+      {
+        "id": "ex2",
+        "stem": "The doctor may _____ soon.",
+        "options": [
+          "arrives",
+          "arrive",
+          "arrived",
+          "arriving"
+        ],
+        "correct": 1,
+        "why_en": "may + base form → arrive (not arrives).",
+        "why_id": "may + base form → arrive (bukan arrives)."
+      },
+      {
+        "id": "ex3",
+        "stem": "The students must _____ the exam.",
+        "options": [
+          "taken",
+          "taking",
+          "take",
+          "takes"
+        ],
+        "correct": 2,
+        "why_en": "must + base form → take.",
+        "why_id": "must + base form → take."
+      }
+    ],
+    "checklist_id": [
+      "Ada will/would/can/could/may/might/must/should/shall?",
+      "Verb langsung setelahnya = base form (V1)?",
+      "Jangan V-ing, V3, atau Vs setelah modal.",
+      "must take ✓ · must taken ✗ · must takes ✗",
+      "modal + have + V3 adalah pola lain (perfect)."
+    ],
+    "checklist_en": [
+      "Is there will/would/can/could/may/might/must/should/shall?",
+      "Is the next verb the base form (V1)?",
+      "No V-ing, V3, or Vs right after the modal.",
+      "must take ✓ · must taken ✗ · must takes ✗",
+      "modal + have + V3 is a different (perfect) pattern."
+    ],
+    "remember_id": "**MODAL + base form.** *will **leave*** · *may **arrive*** · *must **take***",
+    "remember_en": "**MODAL + base form.** *will **leave*** · *may **arrive*** · *must **take***"
+  },
+  {
+    "skillId": "skill-33",
+    "code": "WE33",
+    "title_en": "Know when to use the past with the present",
+    "title_id": "Ketahui kapan past boleh bersama present",
+    "group_en": "Verb Tense Use",
+    "group_id": "Penggunaan Tense Verb",
+    "summary_id": "Campuran **past + present** sering salah jika tidak logis. Boleh benar jika makna masuk akal (tahu sekarang tentang peristiwa kemarin). Selalu cek makna.",
+    "summary_en": "Mixing **past + present** is often wrong when it is not logical. It can be correct when the meaning makes sense (knowing now about something that happened yesterday). Always check meaning.",
+    "formula": [
+      {
+        "label": "Sering salah",
+        "en": "He took the money when he wants* it.\n→ past action triggered by present desire = illogical",
+        "id": "He took the money when he wants* it.\n→ aksi past dipicu keinginan present = tidak logis"
+      },
+      {
+        "label": "Perbaikan (satu time frame)",
+        "en": "He took the money when he wanted it.  (both past)\nHe takes the money when he wants it.   (both present/habitual)",
+        "id": "He took the money when he wanted it.  (keduanya past)\nHe takes the money when he wants it.   (keduanya present/habitual)"
+      },
+      {
+        "label": "Boleh campur (logis)",
+        "en": "I know that he took the money yesterday.\n(present knowledge about a past event)",
+        "id": "I know that he took the money yesterday.\n(pengetahuan present tentang peristiwa past)"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Past + present tanpa alasan → curigai error",
+        "title_en": "1. Past + present for no reason → suspect error",
+        "body_id": "when-clause atau cause-effect yang mencampur time frame tanpa logika biasanya salah.",
+        "body_en": "A when-clause or cause-effect that mixes time frames without logic is usually wrong."
+      },
+      {
+        "title_id": "2. Samakan time frame jika peristiwa terkait",
+        "title_en": "2. Align time frames when events are linked",
+        "body_id": "took … when he wanted · takes … when he wants.",
+        "body_en": "took … when he wanted · takes … when he wants."
+      },
+      {
+        "title_id": "3. Reporting / knowledge sekarang tentang past = OK",
+        "title_en": "3. Present reporting of past facts = OK",
+        "body_id": "I know / remember / see that + past clause — logis.",
+        "body_en": "I know / remember / see that + past clause — logical."
+      },
+      {
+        "title_id": "4. Cek makna, bukan hanya bentuk",
+        "title_en": "4. Check meaning, not form alone",
+        "body_id": "TOEFL menguji apakah campuran tense masuk akal, bukan melarang semua past+present.",
+        "body_en": "TOEFL tests whether the tense mix makes sense — it does not ban every past+present pair."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "He took the money when he _____ it.",
+        "options": [
+          "wants",
+          "wanted",
+          "wanting",
+          "has wanted"
+        ],
+        "correct": 1,
+        "why_en": "Past main verb → past in the when-clause: wanted (not wants).",
+        "why_id": "Verb utama past → when-clause past: wanted (bukan wants)."
+      },
+      {
+        "id": "ex2",
+        "stem": "He takes the money when he _____ it.",
+        "options": [
+          "wanted",
+          "wants",
+          "has wanted",
+          "wanting"
+        ],
+        "correct": 1,
+        "why_en": "Habitual present → wants.",
+        "why_id": "Habitual present → wants."
+      },
+      {
+        "id": "ex3",
+        "stem": "I know that he _____ the money yesterday.",
+        "options": [
+          "takes",
+          "took",
+          "taking",
+          "take"
+        ],
+        "correct": 1,
+        "why_en": "Present knowledge + past event yesterday → took is logical.",
+        "why_id": "Tahu sekarang + peristiwa kemarin → took logis."
+      }
+    ],
+    "checklist_id": [
+      "Ada past dan present dalam satu kalimat?",
+      "Apakah hubungan waktunya logis?",
+      "Peristiwa terkait → samakan tense.",
+      "Pengetahuan/reporting sekarang tentang past → boleh campur.",
+      "Jangan past action karena present desire tanpa logika."
+    ],
+    "checklist_en": [
+      "Are past and present both in the sentence?",
+      "Is the time relationship logical?",
+      "Linked events → align tenses.",
+      "Present knowledge/reporting of the past → mixing OK.",
+      "Avoid past action caused by present desire with no logic."
+    ],
+    "remember_id": "Past + present **hanya jika logis**. *took when he **wanted*** · *I **know** that he **took***",
+    "remember_en": "Past + present **only if logical**. *took when he **wanted*** · *I **know** that he **took***"
+  },
+  {
+    "skillId": "skill-34",
+    "code": "WE34",
+    "title_en": "Use have and had correctly",
+    "title_id": "Pakai have dan had dengan benar",
+    "group_en": "Verb Tense Use",
+    "group_id": "Penggunaan Tense Verb",
+    "summary_id": "**have + V3** (present perfect) = dari past sampai **sekarang**. **had + V3** (past perfect) = past yang **berakhir sebelum past lain**. Jangan pakai have untuk past-only, atau had bersama present tanpa logika.",
+    "summary_en": "**have + V3** (present perfect) = from the past up to **now**. **had + V3** (past perfect) = a past that **ended before another past**. Do not use have for past-only, or had with present without logic.",
+    "formula": [
+      {
+        "label": "Present perfect",
+        "en": "have / has + past participle\n= past up to now\nSue has lived in L.A. for ten years. (still true now)",
+        "id": "have / has + past participle\n= past sampai sekarang\nSue has lived in L.A. for ten years. (masih berlaku sekarang)"
+      },
+      {
+        "label": "Past perfect",
+        "en": "had + past participle\n= before past, up to past\nSue had lived in L.A. for ten years when she moved to San Diego.",
+        "id": "had + past participle\n= sebelum past, sampai past\nSue had lived in L.A. for ten years when she moved to San Diego."
+      },
+      {
+        "label": "Salah klasik",
+        "en": "In 1801, Jefferson has become* president. → became\nEvery time Jim worked…, he has improved* it. → improved\nTom had finished… when the teacher collects* the papers. → collected",
+        "id": "In 1801, Jefferson has become* president. → became\nEvery time Jim worked…, he has improved* it. → improved\nTom had finished… when the teacher collects* the papers. → collected"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. have = sampai sekarang",
+        "title_en": "1. have = up to now",
+        "body_id": "Jangan have + V3 jika time marker hanya past (in 1801, yesterday, last year tanpa since).",
+        "body_en": "Do not use have + V3 when the time marker is past only (in 1801, yesterday, last year without since)."
+      },
+      {
+        "title_id": "2. had = sebelum peristiwa past lain",
+        "title_en": "2. had = before another past event",
+        "body_id": "had finished when the teacher collected… — kedua sisi past.",
+        "body_en": "had finished when the teacher collected… — both sides past."
+      },
+      {
+        "title_id": "3. Past perfect jarang berpasangan dengan present",
+        "title_en": "3. Past perfect rarely pairs with present",
+        "body_id": "had finished … when the teacher collects* → tidak logis; collects → collected.",
+        "body_en": "had finished … when the teacher collects* → illogical; collects → collected."
+      },
+      {
+        "title_id": "4. for/since sering dengan present perfect",
+        "title_en": "4. for/since often with present perfect",
+        "body_id": "has lived for ten years · has worked since 2019 (masih relevan sekarang).",
+        "body_en": "has lived for ten years · has worked since 2019 (still relevant now)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "At the start of the nineteenth century, Jefferson _____ president.",
+        "options": [
+          "has become",
+          "became",
+          "had become",
+          "becomes"
+        ],
+        "correct": 1,
+        "why_en": "Past-only time → simple past became (not has become).",
+        "why_id": "Waktu past-only → simple past became (bukan has become)."
+      },
+      {
+        "id": "ex2",
+        "stem": "Sue _____ in Los Angeles for ten years (and still lives there).",
+        "options": [
+          "lived",
+          "has lived",
+          "had lived",
+          "lives"
+        ],
+        "correct": 1,
+        "why_en": "Past up to now → has lived.",
+        "why_id": "Past sampai sekarang → has lived."
+      },
+      {
+        "id": "ex3",
+        "stem": "Sue had lived in L.A. for ten years when she _____ to San Diego.",
+        "options": [
+          "moves",
+          "moved",
+          "has moved",
+          "is moving"
+        ],
+        "correct": 1,
+        "why_en": "Past perfect needs another past: moved.",
+        "why_id": "Past perfect butuh past lain: moved."
+      }
+    ],
+    "checklist_id": [
+      "have/has + V3 = sampai sekarang?",
+      "had + V3 = sebelum past lain?",
+      "Time marker past-only → simple past, bukan have.",
+      "had … + present verb → biasanya salah.",
+      "for/since + have sering benar jika masih relevan."
+    ],
+    "checklist_en": [
+      "have/has + V3 = up to now?",
+      "had + V3 = before another past?",
+      "Past-only time marker → simple past, not have.",
+      "had … + present verb → usually wrong.",
+      "for/since + have often OK if still relevant."
+    ],
+    "remember_id": "**have** = past→now · **had** = past→past. *has lived for…* · *had lived … when she **moved***",
+    "remember_en": "**have** = past→now · **had** = past→past. *has lived for…* · *had lived … when she **moved***"
+  },
+  {
+    "skillId": "skill-35",
+    "code": "WE35",
+    "title_en": "Use the correct tense with time expressions",
+    "title_id": "Pakai tense yang benar dengan time expression",
+    "group_en": "Verb Tense Use",
+    "group_id": "Penggunaan Tense Verb",
+    "summary_id": "Time expression sering menentukan tense: **ago / last / in + tahun** → simple past; **by + waktu past** → past perfect; **since / lately** → present perfect.",
+    "summary_en": "Time expressions often fix the tense: **ago / last / in + year** → simple past; **by + past time** → past perfect; **since / lately** → present perfect.",
+    "formula": [
+      {
+        "label": "Simple past",
+        "en": "in 1980 · (two years) ago · last week/year\nWe moved to New York in 1980.\nShe got a job two years ago.\nShe started working last week.",
+        "id": "in 1980 · (two years) ago · last week/year\nWe moved to New York in 1980.\nShe got a job two years ago.\nShe started working last week."
+      },
+      {
+        "label": "Past perfect",
+        "en": "by 1990 · by the time …\nWe had left there by 1990.",
+        "id": "by 1990 · by the time …\nWe had left there by 1990."
+      },
+      {
+        "label": "Present perfect",
+        "en": "since 1999 · lately · so far · for + duration (up to now)\nWe have lived in San Francisco since 1999.\nShe has worked very hard lately.",
+        "id": "since 1999 · lately · so far · for + duration (sampai sekarang)\nWe have lived in San Francisco since 1999.\nShe has worked very hard lately."
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. ago / last / in + past year → simple past",
+        "title_en": "1. ago / last / in + past year → simple past",
+        "body_id": "two years ago · last week · in 1980 → moved / got / started — bukan have moved.",
+        "body_en": "two years ago · last week · in 1980 → moved / got / started — not have moved."
+      },
+      {
+        "title_id": "2. by + past time → past perfect",
+        "title_en": "2. by + past time → past perfect",
+        "body_id": "by 1990 · by the end of the trial → had left / had finished.",
+        "body_en": "by 1990 · by the end of the trial → had left / had finished."
+      },
+      {
+        "title_id": "3. since / lately → present perfect",
+        "title_en": "3. since / lately → present perfect",
+        "body_id": "since 1999 · lately · recently (often) → have lived / has worked.",
+        "body_en": "since 1999 · lately · recently (often) → have lived / has worked."
+      },
+      {
+        "title_id": "4. Cocokkan expression dengan tense",
+        "title_en": "4. Match the expression to the tense",
+        "body_id": "Jangan since + simple past saja, atau ago + have + V3, tanpa konteks khusus.",
+        "body_en": "Avoid since + simple past alone, or ago + have + V3, without a special context."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "We _____ to New York in 1980.",
+        "options": [
+          "have moved",
+          "moved",
+          "had move",
+          "move"
+        ],
+        "correct": 1,
+        "why_en": "in 1980 → simple past moved.",
+        "why_id": "in 1980 → simple past moved."
+      },
+      {
+        "id": "ex2",
+        "stem": "We _____ there by 1990.",
+        "options": [
+          "left",
+          "have left",
+          "had left",
+          "leave"
+        ],
+        "correct": 2,
+        "why_en": "by 1990 → past perfect had left.",
+        "why_id": "by 1990 → past perfect had left."
+      },
+      {
+        "id": "ex3",
+        "stem": "We _____ in San Francisco since 1999.",
+        "options": [
+          "lived",
+          "have lived",
+          "had lived",
+          "live"
+        ],
+        "correct": 1,
+        "why_en": "since 1999 → present perfect have lived.",
+        "why_id": "since 1999 → present perfect have lived."
+      }
+    ],
+    "checklist_id": [
+      "Cari time expression (ago, last, in, by, since, lately…).",
+      "ago/last/in → simple past.",
+      "by + past → past perfect.",
+      "since/lately → present perfect.",
+      "Jangan mismatch expression vs tense."
+    ],
+    "checklist_en": [
+      "Find the time expression (ago, last, in, by, since, lately…).",
+      "ago/last/in → simple past.",
+      "by + past → past perfect.",
+      "since/lately → present perfect.",
+      "Do not mismatch expression and tense."
+    ],
+    "remember_id": "**ago/last/in** → past · **by** → had · **since/lately** → have",
+    "remember_en": "**ago/last/in** → past · **by** → had · **since/lately** → have"
+  },
+  {
+    "skillId": "skill-36",
+    "code": "WE36",
+    "title_en": "Use the correct tense with will and would",
+    "title_id": "Pakai tense yang benar dengan will dan would",
+    "group_en": "Verb Tense Use",
+    "group_id": "Penggunaan Tense Verb",
+    "summary_id": "**Present + will** dan **past + would** adalah pasangan umum. Jangan **past + will** atau **present + would** (kecuali *would like* sopan).",
+    "summary_en": "**Present + will** and **past + would** are the usual pairs. Avoid **past + will** or **present + would** (except polite *would like*).",
+    "formula": [
+      {
+        "label": "Pasangan benar",
+        "en": "I know that they will arrive soon.\nIt is certain that he will graduate.\nI knew that he would arrive.\nIt was certain that he would graduate.",
+        "id": "I know that they will arrive soon.\nIt is certain that he will graduate.\nI knew that he would arrive.\nIt was certain that he would graduate."
+      },
+      {
+        "label": "Salah → perbaikan",
+        "en": "I know that he would* arrive. → know…will / knew…would\nIt was certain that he will* graduate. → was…would / is…will",
+        "id": "I know that he would* arrive. → know…will / knew…would\nIt was certain that he will* graduate. → was…would / is…will"
+      },
+      {
+        "label": "Pengecualian",
+        "en": "Polite would + present is OK:\nI would like to know if you have a pencil…",
+        "id": "would sopan + present OK:\nI would like to know if you have a pencil…"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Present reporting → will",
+        "title_en": "1. Present reporting → will",
+        "body_id": "I know / It is certain / We expect + will.",
+        "body_en": "I know / It is certain / We expect + will."
+      },
+      {
+        "title_id": "2. Past reporting → would",
+        "title_en": "2. Past reporting → would",
+        "body_id": "I knew / It was certain / We expected + would.",
+        "body_en": "I knew / It was certain / We expected + would."
+      },
+      {
+        "title_id": "3. Jangan silang",
+        "title_en": "3. Do not cross-pair",
+        "body_id": "present + would* dan past + will* biasanya error di TOEFL (bukan polite request).",
+        "body_en": "present + would* and past + will* are usually TOEFL errors (unless a polite request)."
+      },
+      {
+        "title_id": "4. would like sopan",
+        "title_en": "4. Polite would like",
+        "body_id": "I would like to know if you have… — present di clause kedua boleh.",
+        "body_en": "I would like to know if you have… — present in the second clause is fine."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "I know that they _____ arrive soon.",
+        "options": [
+          "would",
+          "will",
+          "will be",
+          "would be to"
+        ],
+        "correct": 1,
+        "why_en": "Present know → will.",
+        "why_id": "Present know → will."
+      },
+      {
+        "id": "ex2",
+        "stem": "I knew that he _____ arrive soon.",
+        "options": [
+          "will",
+          "would",
+          "will be",
+          "woulds"
+        ],
+        "correct": 1,
+        "why_en": "Past knew → would.",
+        "why_id": "Past knew → would."
+      },
+      {
+        "id": "ex3",
+        "stem": "It was certain that he _____ graduate.",
+        "options": [
+          "will",
+          "would",
+          "will be",
+          "graduates"
+        ],
+        "correct": 1,
+        "why_en": "Past was certain → would.",
+        "why_id": "Past was certain → would."
+      }
+    ],
+    "checklist_id": [
+      "Clause utama present atau past?",
+      "Present → will (bukan would).",
+      "Past → would (bukan will).",
+      "Pengecualian: would like sopan.",
+      "Samakan time frame reporting vs predicted action."
+    ],
+    "checklist_en": [
+      "Is the main clause present or past?",
+      "Present → will (not would).",
+      "Past → would (not will).",
+      "Exception: polite would like.",
+      "Align reporting time frame with the predicted action."
+    ],
+    "remember_id": "**know → will** · **knew → would**. *It **is** certain he **will*** · *It **was** certain he **would***",
+    "remember_en": "**know → will** · **knew → would**. *It **is** certain he **will*** · *It **was** certain he **would***"
+  },
+  {
+    "skillId": "skill-37",
+    "code": "WE37",
+    "title_en": "Use the correct form of the passive",
+    "title_id": "Gunakan bentuk passive yang benar",
+    "group_en": "Passive Verbs",
+    "group_id": "Verb Pasif",
+    "summary_id": "Passive = **be + past participle**. Bukan V-ing sebagai V3, dan jangan hilangkan *be*. *by + object* opsional.",
+    "summary_en": "Passive = **be + past participle**. Not a present participle as V3, and do not drop *be*. *by + object* is optional.",
+    "formula": [
+      {
+        "label": "Bentuk",
+        "en": "BE + past participle  (+ by + object)\nThe letter was written (by Margaret).\nThe project will be finished by Tim.",
+        "id": "BE + past participle  (+ by + object)\nThe letter was written (by Margaret).\nThe project will be finished by Tim."
+      },
+      {
+        "label": "Active → passive",
+        "en": "Margaret wrote the letter.\n→ The letter was written by Margaret.\n(be matches active tense; main verb → V3)",
+        "id": "Margaret wrote the letter.\n→ The letter was written by Margaret.\n(be mengikuti tense active; verb utama → V3)"
+      },
+      {
+        "label": "Salah → benar",
+        "en": "was painting* → was painted\nwill finished* → will be finished",
+        "id": "was painting* → was painted\nwill finished* → will be finished"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Wajib be + V3",
+        "title_en": "1. Must be be + V3",
+        "body_id": "Setiap passive butuh bentuk be (am/is/are/was/were/be/been/being) + past participle.",
+        "body_en": "Every passive needs a form of be + a past participle."
+      },
+      {
+        "title_id": "2. Bukan present participle",
+        "title_en": "2. Not a present participle",
+        "body_id": "was painting* (salah untuk passive) → was painted.",
+        "body_en": "was painting* (wrong for passive) → was painted."
+      },
+      {
+        "title_id": "3. Jangan hilangkan be",
+        "title_en": "3. Do not omit be",
+        "body_id": "will finished* → will be finished · has completed* (jika maksud passive) → has been completed.",
+        "body_en": "will finished* → will be finished · has completed* (if passive is meant) → has been completed."
+      },
+      {
+        "title_id": "4. by + agent opsional",
+        "title_en": "4. by + agent is optional",
+        "body_id": "The letter was written yesterday. ✓ (tanpa by Margaret juga benar).",
+        "body_en": "The letter was written yesterday. ✓ (correct without by Margaret too)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "The portrait was _____ by a famous artist.",
+        "options": [
+          "painting",
+          "painted",
+          "paint",
+          "paints"
+        ],
+        "correct": 1,
+        "why_en": "Passive needs past participle: was painted.",
+        "why_id": "Passive butuh past participle: was painted."
+      },
+      {
+        "id": "ex2",
+        "stem": "The project will _____ by Tim.",
+        "options": [
+          "finished",
+          "be finished",
+          "finishing",
+          "finish"
+        ],
+        "correct": 1,
+        "why_en": "will + be + V3 → will be finished.",
+        "why_id": "will + be + V3 → will be finished."
+      },
+      {
+        "id": "ex3",
+        "stem": "The letter was written yesterday _____.",
+        "options": [
+          "by Margaret",
+          "Margaret",
+          "of Margaret",
+          "to Margaret"
+        ],
+        "correct": 0,
+        "why_en": "Optional agent uses by + object.",
+        "why_id": "Agent opsional memakai by + object."
+      }
+    ],
+    "checklist_id": [
+      "Apakah kalimat passive (subject menerima aksi)?",
+      "Ada be + past participle?",
+      "Jangan V-ing menggantikan V3 di passive.",
+      "Jangan hilangkan be (will finished*).",
+      "by + agent boleh dihilangkan."
+    ],
+    "checklist_en": [
+      "Is the sentence passive (subject receives the action)?",
+      "Is there be + past participle?",
+      "Do not use V-ing instead of V3 in a passive.",
+      "Do not drop be (will finished*).",
+      "by + agent may be omitted."
+    ],
+    "remember_id": "**BE + past participle.** *was **painted*** · *will **be finished***",
+    "remember_en": "**BE + past participle.** *was **painted*** · *will **be finished***"
+  },
+  {
+    "skillId": "skill-38",
+    "code": "WE38",
+    "title_en": "Recognize active and passive meanings",
+    "title_id": "Kenali makna active vs passive",
+    "group_en": "Passive Verbs",
+    "group_id": "Verb Pasif",
+    "summary_id": "Tanpa *by + object*, tentukan dari makna: subject **melakukan** aksi → active; subject **menerima** aksi → passive. *The letter mailed** → salah; surat tidak mengirim dirinya sendiri.",
+    "summary_en": "Without *by + object*, decide from meaning: subject **does** the action → active; subject **receives** the action → passive. *The letter mailed** is wrong; a letter does not mail itself.",
+    "formula": [
+      {
+        "label": "Active vs passive",
+        "en": "ACTIVE: subject does the action\nWe mailed the package.\nPASSIVE: subject receives the action\nThe letter was mailed (by us).",
+        "id": "ACTIVE: subject melakukan aksi\nWe mailed the package.\nPASSIVE: subject menerima aksi\nThe letter was mailed (by us)."
+      },
+      {
+        "label": "Error tipikal TOEFL",
+        "en": "The letter mailed* today before noon.\n→ looks like active, but letter cannot mail itself\n→ The letter was mailed today before noon.",
+        "id": "The letter mailed* today before noon.\n→ tampak active, tapi letter tidak mengirim sendiri\n→ The letter was mailed today before noon."
+      },
+      {
+        "label": "Pertanyaan kunci",
+        "en": "Does the subject do the verb's action?\nYES → active\nNO (subject is affected) → passive",
+        "id": "Apakah subject melakukan aksi verb?\nYA → active\nTIDAK (subject dikenai aksi) → passive"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Cek makna subject + verb",
+        "title_en": "1. Check subject + verb meaning",
+        "body_id": "letter + mailed → letter menerima pengiriman → butuh was mailed.",
+        "body_en": "letter + mailed → letter receives mailing → needs was mailed."
+      },
+      {
+        "title_id": "2. Passive tanpa by tetap valid",
+        "title_en": "2. Passive without by is still valid",
+        "body_id": "The letter was mailed today. ✓",
+        "body_en": "The letter was mailed today. ✓"
+      },
+      {
+        "title_id": "3. Active dengan object jelas",
+        "title_en": "3. Active with a clear object",
+        "body_id": "We mailed the package. — we melakukan aksi; package object.",
+        "body_en": "We mailed the package. — we do the action; package is the object."
+      },
+      {
+        "title_id": "4. Benda/abstrak jarang 'melakukan' aksi transitif",
+        "title_en": "4. Things/abstracts rarely 'do' transitive actions",
+        "body_id": "The report published* → was published. The door opened (intransitive/ergative kadang OK) — bedakan makna.",
+        "body_en": "The report published* → was published. The door opened (sometimes OK intransitively) — check meaning."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "The letter _____ today before noon.",
+        "options": [
+          "mailed",
+          "was mailed",
+          "mailing",
+          "mails"
+        ],
+        "correct": 1,
+        "why_en": "A letter receives mailing → passive was mailed.",
+        "why_id": "Letter menerima pengiriman → passive was mailed."
+      },
+      {
+        "id": "ex2",
+        "stem": "We _____ the package at the post office.",
+        "options": [
+          "were mailed",
+          "mailed",
+          "was mailed",
+          "mailing"
+        ],
+        "correct": 1,
+        "why_en": "We do the action → active mailed.",
+        "why_id": "We melakukan aksi → active mailed."
+      },
+      {
+        "id": "ex3",
+        "stem": "The results _____ in last month's journal.",
+        "options": [
+          "published",
+          "were published",
+          "publishing",
+          "publish"
+        ],
+        "correct": 1,
+        "why_en": "Results are published by someone → were published.",
+        "why_id": "Results dipublikasikan orang → were published."
+      }
+    ],
+    "checklist_id": [
+      "Subject melakukan atau menerima aksi?",
+      "Menerima → butuh be + V3.",
+      "Melakukan (+ object) → active V2/V1.",
+      "Tanpa by bukan berarti active otomatis.",
+      "Letter/report/package + verb transitif → sering passive."
+    ],
+    "checklist_en": [
+      "Does the subject do or receive the action?",
+      "Receives → need be + V3.",
+      "Does (+ object) → active verb.",
+      "No by does not automatically mean active.",
+      "Letter/report/package + transitive verb → often passive."
+    ],
+    "remember_id": "**Subject = pelaku → active.** **Subject = penerima → passive.** *The letter **was mailed***",
+    "remember_en": "**Subject = doer → active.** **Subject = receiver → passive.** *The letter **was mailed***"
+  },
+  {
+    "skillId": "skill-39",
+    "code": "WE39",
+    "title_en": "Use the correct singular or plural noun",
+    "title_id": "Gunakan noun singular atau plural yang benar",
+    "group_en": "Problems with Nouns",
+    "group_id": "Masalah Noun",
+    "summary_id": "Kata kunci menentukan singular/plural: **each, every, a, one, single** → singular; **many, several, both, various, two…** → plural.",
+    "summary_en": "Key words fix singular/plural: **each, every, a, one, single** → singular; **many, several, both, various, two…** → plural.",
+    "formula": [
+      {
+        "label": "Singular markers",
+        "en": "each · every · single · one · a\nevery test ✓ · every tests* ✗\neach proposal ✓",
+        "id": "each · every · single · one · a\nevery test ✓ · every tests* ✗\neach proposal ✓"
+      },
+      {
+        "label": "Plural markers",
+        "en": "both · two (and other numbers >1) · many · several · various\nmany dishes ✓ · many dish* ✗\nboth keys ✓",
+        "id": "both · two (dan angka >1) · many · several · various\nmany dishes ✓ · many dish* ✗\nboth keys ✓"
+      },
+      {
+        "label": "Contoh error",
+        "en": "many dish* → many dishes\nevery tests* → every test",
+        "id": "many dish* → many dishes\nevery tests* → every test"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Cari key word di depan noun",
+        "title_en": "1. Find the key word before the noun",
+        "body_id": "each/every/a/one → noun singular. many/several/both/two → noun plural.",
+        "body_en": "each/every/a/one → singular noun. many/several/both/two → plural noun."
+      },
+      {
+        "title_id": "2. every / each selalu singular",
+        "title_en": "2. every / each always singular",
+        "body_id": "every test · each file — bukan every tests · each files.",
+        "body_en": "every test · each file — not every tests · each files."
+      },
+      {
+        "title_id": "3. many / several / various → plural",
+        "title_en": "3. many / several / various → plural",
+        "body_id": "many dishes · several options · various methods.",
+        "body_en": "many dishes · several options · various methods."
+      },
+      {
+        "title_id": "4. both dan angka >1 → plural",
+        "title_en": "4. both and numbers >1 → plural",
+        "body_id": "both doors · two models · three sites.",
+        "body_en": "both doors · two models · three sites."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "On the table there were many _____.",
+        "options": [
+          "dish",
+          "dishes",
+          "a dish",
+          "one dish"
+        ],
+        "correct": 1,
+        "why_en": "many → plural dishes.",
+        "why_id": "many → plural dishes."
+      },
+      {
+        "id": "ex2",
+        "stem": "The lab assistant finished every _____.",
+        "options": [
+          "tests",
+          "test",
+          "testing",
+          "a tests"
+        ],
+        "correct": 1,
+        "why_en": "every → singular test.",
+        "why_id": "every → singular test."
+      },
+      {
+        "id": "ex3",
+        "stem": "Both _____ must be signed before release.",
+        "options": [
+          "form",
+          "forms",
+          "a form",
+          "one form"
+        ],
+        "correct": 1,
+        "why_en": "both → plural forms.",
+        "why_id": "both → plural forms."
+      }
+    ],
+    "checklist_id": [
+      "Ada each/every/a/one/single? → noun singular.",
+      "Ada many/several/both/various/two+? → noun plural.",
+      "every tests* / many dish* = error klasik.",
+      "Cocokkan noun dengan marker, bukan dengan verb saja.",
+      "Angka kecuali one → plural."
+    ],
+    "checklist_en": [
+      "each/every/a/one/single? → singular noun.",
+      "many/several/both/various/two+? → plural noun.",
+      "every tests* / many dish* = classic errors.",
+      "Match the noun to the marker, not only to the verb.",
+      "Numbers other than one → plural."
+    ],
+    "remember_id": "**every/each/a/one** → singular · **many/several/both/two** → plural",
+    "remember_en": "**every/each/a/one** → singular · **many/several/both/two** → plural"
+  },
+  {
+    "skillId": "skill-40",
+    "code": "WE40",
+    "title_en": "Distinguish countable and uncountable nouns",
+    "title_id": "Bedakan noun countable dan uncountable",
+    "group_en": "Problems with Nouns",
+    "group_id": "Masalah Noun",
+    "summary_id": "**Countable** bisa dihitung (book/books). **Uncountable** massa/abstrak (milk, fun, information). Marker: **many/few/number** → countable; **much/little/amount** → uncountable.",
+    "summary_en": "**Countable** nouns can be counted (book/books). **Uncountable** nouns are mass/abstract (milk, fun, information). Markers: **many/few/number** → countable; **much/little/amount** → uncountable.",
+    "formula": [
+      {
+        "label": "Countable markers",
+        "en": "many · few · fewer · a number of\nmany films ✓ · much films* ✗",
+        "id": "many · few · fewer · a number of\nmany films ✓ · much films* ✗"
+      },
+      {
+        "label": "Uncountable markers",
+        "en": "much · little · less · an amount of\nmuch fun ✓ · many fun* ✗\nmuch information ✓",
+        "id": "much · little · less · an amount of\nmuch fun ✓ · many fun* ✗\nmuch information ✓"
+      },
+      {
+        "label": "Contoh uncountable umum",
+        "en": "milk · water · oil · equipment · research · evidence\nadvice · furniture · information · progress · traffic",
+        "id": "milk · water · oil · equipment · research · evidence\nadvice · furniture · information · progress · traffic"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. many/few + countable",
+        "title_en": "1. many/few + countable",
+        "body_id": "many foreign films · few errors — bukan much films.",
+        "body_en": "many foreign films · few errors — not much films."
+      },
+      {
+        "title_id": "2. much/little + uncountable",
+        "title_en": "2. much/little + uncountable",
+        "body_id": "much fun · little progress · less equipment.",
+        "body_en": "much fun · little progress · less equipment."
+      },
+      {
+        "title_id": "3. number of vs amount of",
+        "title_en": "3. number of vs amount of",
+        "body_id": "a number of tickets (countable) · an amount of time (uncountable).",
+        "body_en": "a number of tickets (countable) · an amount of time (uncountable)."
+      },
+      {
+        "title_id": "4. fewer vs less",
+        "title_en": "4. fewer vs less",
+        "body_id": "fewer samples (countable) · less data/time (uncountable) — TOEFL sering menguji ini.",
+        "body_en": "fewer samples (countable) · less data/time (uncountable) — often tested on TOEFL."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "He has seen _____ foreign films.",
+        "options": [
+          "much",
+          "many",
+          "little",
+          "an amount of"
+        ],
+        "correct": 1,
+        "why_en": "films is countable → many.",
+        "why_id": "films countable → many."
+      },
+      {
+        "id": "ex2",
+        "stem": "He didn't have _____ fun at the movies.",
+        "options": [
+          "many",
+          "much",
+          "few",
+          "a number of"
+        ],
+        "correct": 1,
+        "why_en": "fun is uncountable → much.",
+        "why_id": "fun uncountable → much."
+      },
+      {
+        "id": "ex3",
+        "stem": "There is _____ information in the appendix.",
+        "options": [
+          "many",
+          "few",
+          "much",
+          "a number of"
+        ],
+        "correct": 2,
+        "why_en": "information is uncountable → much.",
+        "why_id": "information uncountable → much."
+      }
+    ],
+    "checklist_id": [
+      "Noun bisa dihitung (1, 2, 3…)? → countable.",
+      "Massa/abstrak? → uncountable.",
+      "many/few/number → countable.",
+      "much/little/amount → uncountable.",
+      "fewer + countable · less + uncountable."
+    ],
+    "checklist_en": [
+      "Can the noun be counted (1, 2, 3…)? → countable.",
+      "Mass/abstract? → uncountable.",
+      "many/few/number → countable.",
+      "much/little/amount → uncountable.",
+      "fewer + countable · less + uncountable."
+    ],
+    "remember_id": "**many/few** + countable · **much/little** + uncountable. *many films* · *much fun*",
+    "remember_en": "**many/few** + countable · **much/little** + uncountable. *many films* · *much fun*"
+  },
+  {
+    "skillId": "skill-41",
+    "code": "WE41",
+    "title_en": "Recognize irregular plurals of nouns",
+    "title_id": "Kenali plural tidak beraturan",
+    "group_en": "Problems with Nouns",
+    "group_id": "Masalah Noun",
+    "summary_id": "Beberapa plural **tidak berakhir -s** (criteria, data, phenomena, analyses…). Bentuknya plural → verb **plural**. Jangan tertipu karena tidak ada -s.",
+    "summary_en": "Some plurals **do not end in -s** (criteria, data, phenomena, analyses…). They are plural → use a **plural** verb. Do not be fooled by the missing -s.",
+    "formula": [
+      {
+        "label": "Latin/Greek -a plurals",
+        "en": "criterion → criteria\nphenomenon → phenomena\nbacterium → bacteria\ndatum → data\ncurriculum → curricula",
+        "id": "criterion → criteria\nphenomenon → phenomena\nbacterium → bacteria\ndatum → data\ncurriculum → curricula"
+      },
+      {
+        "label": "-is → -es",
+        "en": "analysis → analyses\ncrisis → crises\nhypothesis → hypotheses\nthesis → theses\ndiagnosis → diagnoses",
+        "id": "analysis → analyses\ncrisis → crises\nhypothesis → hypotheses\nthesis → theses\ndiagnosis → diagnoses"
+      },
+      {
+        "label": "Lainnya",
+        "en": "man/men · woman/women · child/children\nsheep/sheep · fish/fish · deer/deer\nalumnus/alumni · stimulus/stimuli",
+        "id": "man/men · woman/women · child/children\nsheep/sheep · fish/fish · deer/deer\nalumnus/alumni · stimulus/stimuli"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Tidak ada -s ≠ singular otomatis",
+        "title_en": "1. No final -s ≠ automatically singular",
+        "body_id": "criteria was* → criteria were. phenomena is* → phenomena are.",
+        "body_en": "criteria was* → criteria were. phenomena is* → phenomena are."
+      },
+      {
+        "title_id": "2. data sering plural di TOEFL formal",
+        "title_en": "2. data often plural in formal TOEFL style",
+        "body_id": "The data show… / were collected… (meski dalam bahasa modern kadang singular).",
+        "body_en": "The data show… / were collected… (even if modern usage sometimes treats data as singular)."
+      },
+      {
+        "title_id": "3. Singular pasangan",
+        "title_en": "3. Matching singulars",
+        "body_id": "one criterion · this phenomenon · that analysis — singular verb.",
+        "body_en": "one criterion · this phenomenon · that analysis — singular verb."
+      },
+      {
+        "title_id": "4. Same-form plurals",
+        "title_en": "4. Same-form plurals",
+        "body_id": "sheep, fish, deer, trout — bentuk sama; cek determiner/konteks untuk number.",
+        "body_en": "sheep, fish, deer, trout — same form; check determiner/context for number."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "Different criteria _____ used to evaluate the performers.",
+        "options": [
+          "was",
+          "were",
+          "is",
+          "has been"
+        ],
+        "correct": 1,
+        "why_en": "criteria is plural → were.",
+        "why_id": "criteria plural → were."
+      },
+      {
+        "id": "ex2",
+        "stem": "This criterion _____ the strongest predictor.",
+        "options": [
+          "are",
+          "were",
+          "is",
+          "have been"
+        ],
+        "correct": 2,
+        "why_en": "criterion is singular → is.",
+        "why_id": "criterion singular → is."
+      },
+      {
+        "id": "ex3",
+        "stem": "Several hypotheses _____ tested in the pilot.",
+        "options": [
+          "was",
+          "were",
+          "is",
+          "has been"
+        ],
+        "correct": 1,
+        "why_en": "hypotheses is plural → were.",
+        "why_id": "hypotheses plural → were."
+      }
+    ],
+    "checklist_id": [
+      "Noun berakhir -a/-es tanpa -s biasa? Cek apakah plural Latin/Greek.",
+      "criteria/data/phenomena/analyses → plural verb.",
+      "criterion/datum/phenomenon/analysis → singular verb.",
+      "Jangan andalkan akhiran -s saja.",
+      "sheep/fish: lihat many/these vs a/this."
+    ],
+    "checklist_en": [
+      "Noun ends in -a/-es without normal -s? Check Latin/Greek plural.",
+      "criteria/data/phenomena/analyses → plural verb.",
+      "criterion/datum/phenomenon/analysis → singular verb.",
+      "Do not rely on a final -s alone.",
+      "sheep/fish: check many/these vs a/this."
+    ],
+    "remember_id": "**criteria / data / phenomena / analyses** = plural. *criteria **were** used*",
+    "remember_en": "**criteria / data / phenomena / analyses** = plural. *criteria **were** used*"
+  },
+  {
+    "skillId": "skill-42",
+    "code": "WE42",
+    "title_en": "Distinguish the person from the thing",
+    "title_id": "Bedakan person dari thing",
+    "group_en": "Problems with Nouns",
+    "group_id": "Masalah Noun",
+    "summary_id": "Jangan menukar **orang** dengan **hal/bidang**. *Ralph Nader is an **authority*** (bukan *authorization*). *jobs in **accounting*** (bukan *accountant*).",
+    "summary_en": "Do not swap a **person** with a **thing/field**. *Ralph Nader is an **authority*** (not *authorization*). *jobs in **accounting*** (not *accountant*).",
+    "formula": [
+      {
+        "label": "Person vs thing (contoh pasangan)",
+        "en": "authority (person) / authorization (thing)\naccountant (person) / accounting (field)\neconomist / economics\nhistorian / history\nchemist / chemistry\nmusician / music",
+        "id": "authority (orang) / authorization (hal)\naccountant (orang) / accounting (bidang)\neconomist / economics\nhistorian / history\nchemist / chemistry\nmusician / music"
+      },
+      {
+        "label": "Salah → benar",
+        "en": "an authorization* in the field → an authority in the field\njob opportunities in accountant* → in accounting",
+        "id": "an authorization* in the field → an authority in the field\njob opportunities in accountant* → in accounting"
+      },
+      {
+        "label": "Cek cepat",
+        "en": "Is the noun referring to a person or a field/thing?\nPerson slot → -ist/-er/-or/authority…\nField/thing slot → -ing/-ics/-y/authorization…",
+        "id": "Noun merujuk orang atau bidang/hal?\nSlot orang → -ist/-er/-or/authority…\nSlot bidang/hal → -ing/-ics/-y/authorization…"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Person di slot orang",
+        "title_en": "1. Person in a person slot",
+        "body_id": "She is a well-known economist. · He is an authority on consumer law.",
+        "body_en": "She is a well-known economist. · He is an authority on consumer law."
+      },
+      {
+        "title_id": "2. Thing/field di slot bidang",
+        "title_en": "2. Thing/field in a field slot",
+        "body_id": "a degree in economics · careers in accounting · research in chemistry.",
+        "body_en": "a degree in economics · careers in accounting · research in chemistry."
+      },
+      {
+        "title_id": "3. Akhiran sering memberi petunjuk",
+        "title_en": "3. Endings often tip you off",
+        "body_id": "-ist/-er/-or/-ian sering person; -ics/-ing/-tion/-ment sering thing/field.",
+        "body_en": "-ist/-er/-or/-ian often person; -ics/-ing/-tion/-ment often thing/field."
+      },
+      {
+        "title_id": "4. Cek subjek/preposisi",
+        "title_en": "4. Check the subject/preposition",
+        "body_id": "Subject orang + is an X → X harus person. in/for + field → thing/field noun.",
+        "body_en": "Person subject + is an X → X must be a person. in/for + field → thing/field noun."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "Ralph Nader is an _____ in the field of consumer affairs.",
+        "options": [
+          "authorization",
+          "authority",
+          "authorize",
+          "authorizing"
+        ],
+        "correct": 1,
+        "why_en": "Person slot → authority (not authorization).",
+        "why_id": "Slot orang → authority (bukan authorization)."
+      },
+      {
+        "id": "ex2",
+        "stem": "There are many job opportunities in _____.",
+        "options": [
+          "accountant",
+          "accounting",
+          "account",
+          "accountable"
+        ],
+        "correct": 1,
+        "why_en": "Field after in → accounting (not accountant).",
+        "why_id": "Bidang setelah in → accounting (bukan accountant)."
+      },
+      {
+        "id": "ex3",
+        "stem": "She is a respected _____ of modern art.",
+        "options": [
+          "history",
+          "historian",
+          "historical",
+          "historically"
+        ],
+        "correct": 1,
+        "why_en": "Person → historian.",
+        "why_id": "Orang → historian."
+      }
+    ],
+    "checklist_id": [
+      "Slot untuk orang atau untuk bidang/hal?",
+      "Orang → authority, accountant, economist, historian…",
+      "Bidang/hal → authorization, accounting, economics, history…",
+      "Setelah in/field of → biasanya thing/field.",
+      "Subject orang + is a/an → biasanya person noun."
+    ],
+    "checklist_en": [
+      "Is the slot for a person or a field/thing?",
+      "Person → authority, accountant, economist, historian…",
+      "Field/thing → authorization, accounting, economics, history…",
+      "After in/field of → usually thing/field.",
+      "Person subject + is a/an → usually person noun."
+    ],
+    "remember_id": "**Person ≠ thing.** *an **authority*** · *jobs in **accounting***",
+    "remember_en": "**Person ≠ thing.** *an **authority*** · *jobs in **accounting***"
+  },
+  {
+    "skillId": "skill-43",
+    "code": "WE43",
+    "title_en": "Distinguish subject and object pronouns",
+    "title_id": "Bedakan subject dan object pronoun",
+    "group_en": "Problems with Pronouns",
+    "group_id": "Masalah Pronoun",
+    "summary_id": "**Subject pronoun** (I, he, she, we, they) untuk subjek verb. **Object pronoun** (me, him, her, us, them) untuk objek verb atau preposition. Jangan *Him and the girl are…* atau *for you and I*.",
+    "summary_en": "**Subject pronouns** (I, he, she, we, they) are subjects of verbs. **Object pronouns** (me, him, her, us, them) are objects of verbs or prepositions. Avoid *Him and the girl are…* or *for you and I*.",
+    "formula": [
+      {
+        "label": "Subject vs object",
+        "en": "SUBJECT: I · you · he · she · it · we · they\nOBJECT:  me · you · him · her · it · us · them",
+        "id": "SUBJECT: I · you · he · she · it · we · they\nOBJECT:  me · you · him · her · it · us · them"
+      },
+      {
+        "label": "Contoh benar",
+        "en": "Sally gave the book to John.\nShe gave it to him.\n(subject she · object it · object of prep him)",
+        "id": "Sally gave the book to John.\nShe gave it to him.\n(subject she · object it · object of prep him)"
+      },
+      {
+        "label": "Error klasik",
+        "en": "Him* and the girl are going shopping. → He and the girl…\nfor you and I* → for you and me",
+        "id": "Him* and the girl are going shopping. → He and the girl…\nfor you and I* → for you and me"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Subject of a verb → subject pronoun",
+        "title_en": "1. Subject of a verb → subject pronoun",
+        "body_id": "He and the girl are going… · She submitted the form.",
+        "body_en": "He and the girl are going… · She submitted the form."
+      },
+      {
+        "title_id": "2. Object of verb or preposition → object pronoun",
+        "title_en": "2. Object of verb or preposition → object pronoun",
+        "body_id": "The gift was for you and me. · They invited us. · between him and her.",
+        "body_en": "The gift was for you and me. · They invited us. · between him and her."
+      },
+      {
+        "title_id": "3. Compound subjects/objects",
+        "title_en": "3. Compound subjects/objects",
+        "body_id": "Uji dengan menghapus bagian lain: Him and the girl are… → Him are… salah → He. for you and I → for I salah → me.",
+        "body_en": "Test by dropping the other part: Him and the girl are… → Him are… wrong → He. for you and I → for I wrong → me."
+      },
+      {
+        "title_id": "4. you / it tidak berubah",
+        "title_en": "4. you / it do not change form",
+        "body_id": "you dan it sama untuk subject dan object.",
+        "body_en": "you and it are the same for subject and object."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "_____ and the analyst reviewed the logs together.",
+        "options": [
+          "Him",
+          "He",
+          "His",
+          "Himself"
+        ],
+        "correct": 1,
+        "why_en": "Subject of reviewed → He (not Him).",
+        "why_id": "Subject of reviewed → He (bukan Him)."
+      },
+      {
+        "id": "ex2",
+        "stem": "The packet was intended for you and _____.",
+        "options": [
+          "I",
+          "me",
+          "my",
+          "mine"
+        ],
+        "correct": 1,
+        "why_en": "Object of for → me (not I).",
+        "why_id": "Object of for → me (bukan I)."
+      },
+      {
+        "id": "ex3",
+        "stem": "She gave the keys to _____.",
+        "options": [
+          "they",
+          "them",
+          "their",
+          "theirs"
+        ],
+        "correct": 1,
+        "why_en": "Object of to → them.",
+        "why_id": "Object of to → them."
+      }
+    ],
+    "checklist_id": [
+      "Pronoun = subject verb? → I/he/she/we/they.",
+      "Pronoun = object verb/preposition? → me/him/her/us/them.",
+      "Compound: uji satu per satu (hapus bagian lain).",
+      "for/between/with/to + pronoun → object form.",
+      "Hindari Him are… dan for I…."
+    ],
+    "checklist_en": [
+      "Pronoun = verb subject? → I/he/she/we/they.",
+      "Pronoun = verb/prep object? → me/him/her/us/them.",
+      "Compound: test one part alone.",
+      "for/between/with/to + pronoun → object form.",
+      "Avoid Him are… and for I…."
+    ],
+    "remember_id": "**Subject:** I he she we they · **Object:** me him her us them. *for you and **me***",
+    "remember_en": "**Subject:** I he she we they · **Object:** me him her us them. *for you and **me***"
   }
 ]

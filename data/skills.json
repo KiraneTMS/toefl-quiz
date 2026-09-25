@@ -242,10 +242,136 @@
     "placeholder": false
   },
   {
+    "id": "skill-30",
+    "code": "WE30",
+    "section": "written-expression",
+    "group": "Verb Form Problems",
+    "title": "After have, use the past participle",
+    "description": "have/has/had/having + past participle (V3), bukan V1/V2.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-31",
+    "code": "WE31",
+    "section": "written-expression",
+    "group": "Verb Form Problems",
+    "title": "After be, use present or past participle",
+    "description": "be (am/is/are/was…) + V-ing (aktif) atau V3 (pasif).",
+    "placeholder": false
+  },
+  {
+    "id": "skill-32",
+    "code": "WE32",
+    "section": "written-expression",
+    "group": "Verb Form Problems",
+    "title": "After modals, use the base form",
+    "description": "will/would/can/must… + V1 (base form), bukan V-ing/V3/Vs.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-33",
+    "code": "WE33",
+    "section": "written-expression",
+    "group": "Verb Tense Use",
+    "title": "Past with present — logical mixing",
+    "description": "Jangan campur past & present tanpa alasan logis; periksa makna kalimat.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-34",
+    "code": "WE34",
+    "section": "written-expression",
+    "group": "Verb Tense Use",
+    "title": "Use have and had correctly",
+    "description": "have + V3 = past→now · had + V3 = past before past.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-35",
+    "code": "WE35",
+    "section": "written-expression",
+    "group": "Verb Tense Use",
+    "title": "Correct tense with time expressions",
+    "description": "ago/last/in → simple past · by → past perfect · since/lately → present perfect.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-36",
+    "code": "WE36",
+    "section": "written-expression",
+    "group": "Verb Tense Use",
+    "title": "Correct tense with will and would",
+    "description": "present + will · past + would — jangan campur (kecuali polite would).",
+    "placeholder": false
+  },
+  {
+    "id": "skill-37",
+    "code": "WE37",
+    "section": "written-expression",
+    "group": "Passive Verbs",
+    "title": "Correct form of the passive",
+    "description": "Passive = be + past participle (by + object opsional).",
+    "placeholder": false
+  },
+  {
+    "id": "skill-38",
+    "code": "WE38",
+    "section": "written-expression",
+    "group": "Passive Verbs",
+    "title": "Recognize active and passive meanings",
+    "description": "Subject melakukan aksi → active; subject menerima aksi → passive.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-39",
+    "code": "WE39",
+    "section": "written-expression",
+    "group": "Problems with Nouns",
+    "title": "Correct singular or plural noun",
+    "description": "each/every/a/one → singular · many/several/both/two → plural.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-40",
+    "code": "WE40",
+    "section": "written-expression",
+    "group": "Problems with Nouns",
+    "title": "Countable vs uncountable nouns",
+    "description": "many/few/number → countable · much/little/amount → uncountable.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-41",
+    "code": "WE41",
+    "section": "written-expression",
+    "group": "Problems with Nouns",
+    "title": "Irregular plurals of nouns",
+    "description": "criteria/data/phenomena… plural tanpa -s — verb harus plural.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-42",
+    "code": "WE42",
+    "section": "written-expression",
+    "group": "Problems with Nouns",
+    "title": "Distinguish the person from the thing",
+    "description": "Jangan tukar person (authority, accountant) dengan thing (authorization, accounting).",
+    "placeholder": false
+  },
+  {
+    "id": "skill-43",
+    "code": "WE43",
+    "section": "written-expression",
+    "group": "Problems with Pronouns",
+    "title": "Subject and object pronouns",
+    "description": "I/he/she/we/they = subject · me/him/her/us/them = object (verb atau preposition).",
+    "placeholder": false
+  },
+  {
     "id": "we-skill-more",
     "code": "WE…",
     "section": "written-expression",
-    "group": "Comparatives and Superlatives",
+    "group": "Problems with Pronouns",
     "title": "Skill berikutnya — coming soon",
     "description": "Slot untuk skill Written Expression selanjutnya.",
     "placeholder": true
