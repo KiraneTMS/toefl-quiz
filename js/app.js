@@ -965,11 +965,45 @@ function getPackBySeed(seed) {
 }
 
 function renderSkillsView() {
+  initSkillsSectionTabs();
   const list = document.getElementById('skills-list');
   if (!list) return;
 
-  const skills = state.skills || [];
+  if (!state.skillsSection) state.skillsSection = 'structure';
+  const section = state.skillsSection;
+
+  // section tabs UI state
+  document.querySelectorAll('#skills-section-tabs .section-tab').forEach(t => {
+    t.classList.toggle('active', t.dataset.section === section);
+  });
+  const hint = document.getElementById('skills-section-hint');
+  if (hint) {
+    hint.innerHTML = section === 'structure'
+      ? '💡 Pilih skill Structure, lalu buka <strong>Materi</strong> sebelum latihan.'
+      : '✍️ Written Expression — pilih skill, buka <strong>Materi</strong>. Pack soal menyusul.';
+  }
+  const pdfBtn = document.getElementById('btn-open-materi-pdf');
+  if (pdfBtn) {
+    const sectionSkillIds = new Set((state.skills || []).filter(s => (s.section || 'structure') === section && !s.placeholder).map(s => s.id));
+    const hasAnyMateri = (state.skillMateri || []).some(m => sectionSkillIds.has(m.skillId));
+    pdfBtn.style.display = hasAnyMateri ? '' : 'none';
+  }
+
+  const skills = (state.skills || []).filter(sk => {
+    const sec = sk.section || 'structure';
+    return sec === section;
+  });
+
   let html = '';
+  if (section === 'written-expression') {
+    const ready = skills.filter(s => !s.placeholder).length;
+    if (!ready) {
+      html += `<div class="we-empty-banner">Written Expression skills masih placeholder. Kirim materi/contoh soal nanti — slot sudah siap diisi.</div>`;
+    } else {
+      html += `<div class="we-empty-banner">${ready} skill WE siap (materi). Pack soal latihan menyusul.</div>`;
+    }
+  }
+
   let lastGroup = '';
   skills.forEach(sk => {
     if (sk.group !== lastGroup) {
@@ -978,12 +1012,15 @@ function renderSkillsView() {
     }
     const active = state.selectedSkillId === sk.id ? 'active' : '';
     const hasMateri = (state.skillMateri || []).some(m => m.skillId === sk.id);
+    const ph = sk.placeholder ? 'placeholder' : '';
+    const disabled = sk.placeholder ? 'disabled' : '';
     html += `
-      <button type="button" class="skill-item ${active}" data-skill="${sk.id}">
+      <button type="button" class="skill-item ${active} ${ph}" data-skill="${sk.id}" ${disabled}>
         <div class="skill-code">${sk.code}</div>
         <div class="skill-title">${sk.title}</div>
         <div class="skill-desc">${sk.description}</div>
         ${hasMateri ? `<div class="skill-actions"><span class="mini-btn materi" data-materi="${sk.id}">📖 Materi</span></div>` : ''}
+        ${sk.placeholder ? `<div class="skill-actions"><span class="mini-btn" style="opacity:.7">🔒 Segera</span></div>` : ''}
       </button>`;
   });
   list.innerHTML = html || '<p class="hint">Tidak ada skill.</p>';
@@ -1182,7 +1219,7 @@ function markKeyTerms(text) {
   // longer phrases first
   const terms = [
     'object of a preposition', 'object of preposition', 'objects of prepositions',
-    'prepositional phrase', 'preposition', 'appositive', 'present participle', 'past participle', 'participial', 'coordinate connector', 'coordinate',
+    'prepositional phrase', 'preposition', 'appositive', 'present participle', 'past participle', 'participial', 'coordinate connector', 'coordinate', 'prepositional phrase', 'subject/verb agreement',
     'subject–verb agreement', 'Subject–verb agreement',
     'SUBJECT + VERB', 'subject and a verb', 'subject and verb',
     'double subject', 'extra subject', 'extra verb', 'finite verb',
@@ -1433,7 +1470,15 @@ function openMateriPdfModal(preselectIds) {
     return;
   }
   const pre = new Set(preselectIds || []);
-  list.innerHTML = items.map(m => {
+  const sec = state.skillsSection || 'structure';
+  const skillMap = Object.fromEntries((state.skills || []).map(s => [s.id, s]));
+  const filtered = items.filter(m => {
+    const sk = skillMap[m.skillId];
+    const msec = (sk && sk.section) || (String(m.code).startsWith('WE') ? 'written-expression' : 'structure');
+    return msec === sec || pre.size;
+  });
+  const useItems = filtered.length ? filtered : items;
+  list.innerHTML = useItems.map(m => {
     const checked = pre.size ? pre.has(m.skillId) : true;
     const title = (state.materiLang === 'en' ? m.title_en : m.title_id) || m.title_en;
     return `<label class="pdf-check-row">
@@ -1711,6 +1756,21 @@ function initMateriPdfUI() {
   }
 }
 
+
+
+function initSkillsSectionTabs() {
+  const tabs = document.querySelectorAll('#skills-section-tabs .section-tab');
+  tabs.forEach(tab => {
+    if (tab._bound) return;
+    tab._bound = true;
+    tab.addEventListener('click', () => {
+      state.skillsSection = tab.dataset.section || 'structure';
+      state.selectedSkillId = null;
+      state.selectedSeed = null;
+      renderSkillsView();
+    });
+  });
+}
 
 // ---------- Init ----------
 loadData().then(() => {
