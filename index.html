@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>TOEFL Quiz</title>
-  <link rel="stylesheet" href="css/styles.css?v=13">
+  <link rel="stylesheet" href="css/styles.css?v=14">
 </head>
 <body>
   <div id="app">
@@ -232,7 +232,11 @@
         <div class="page-hero">
           <h2>Latihan per skill</h2>
           <p class="subtitle">Pilih materi &amp; seed (pack code) supaya bisa review set soal yang sama.</p>
-          <p class="hint">💡 Pilih skill, lalu buka <strong>Materi</strong> untuk ringkasan + rumus sebelum latihan.</p>
+          <div class="section-tabs" id="skills-section-tabs" role="tablist">
+            <button type="button" class="section-tab active" data-section="structure">Structure</button>
+            <button type="button" class="section-tab" data-section="written-expression">Written Expression</button>
+          </div>
+          <p class="hint" id="skills-section-hint">💡 Pilih skill Structure, lalu buka <strong>Materi</strong> sebelum latihan.</p>
           <button type="button" class="btn secondary small" id="btn-open-materi-pdf">📄 Download materi PDF</button>
         </div>
 
@@ -339,6 +343,6 @@
 
   </div>
 
-  <script src="js/app.js?v=13"></script>
+  <script src="js/app.js?v=14"></script>
 </body>
 </html>
