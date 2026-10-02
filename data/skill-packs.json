@@ -30958,5 +30958,3605 @@
         "seed": "WE43-04"
       }
     ]
+  },
+  {
+    "seed": "WE44-01",
+    "skillId": "skill-44",
+    "skillCode": "WE44",
+    "packNumber": 1,
+    "title": "WE44 Pack 1 — Possessive adjectives vs pronouns",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we44-1-1",
+        "question": "Each morning they check _____ logs before the stand-up.",
+        "options": [
+          "theirs",
+          "their",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. their. logs follows → adjective.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-01"
+      },
+      {
+        "id": "we44-1-2",
+        "question": "That backup drive is _____.",
+        "options": [
+          "our",
+          "ours",
+          "us",
+          "we"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. ours. No noun after → pronoun.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-01"
+      },
+      {
+        "id": "we44-1-3",
+        "question": "Please return _____ badge at the desk.",
+        "options": [
+          "yours",
+          "your",
+          "you",
+          "yourself"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. your. badge follows → adjective.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-01"
+      },
+      {
+        "id": "we44-1-4",
+        "question": "If you need a spare cable, take _____.",
+        "options": [
+          "my",
+          "mine",
+          "me",
+          "I"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. mine. Stands alone.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-01"
+      },
+      {
+        "id": "we44-1-5",
+        "question": "The team stored _____ samples in the freezer.",
+        "options": [
+          "theirs",
+          "their",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. their.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-01"
+      },
+      {
+        "id": "we44-1-6",
+        "question": "These seats are _____.",
+        "options": [
+          "their",
+          "theirs",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. theirs.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-01"
+      },
+      {
+        "id": "we44-1-7",
+        "question": "She updated _____ abstract overnight.",
+        "options": [
+          "hers",
+          "her",
+          "she",
+          "herself"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. her.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-01"
+      },
+      {
+        "id": "we44-1-8",
+        "question": "The red notebook is _____.",
+        "options": [
+          "her",
+          "hers",
+          "she",
+          "herself"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. hers.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-01"
+      },
+      {
+        "id": "we44-1-9",
+        "question": "We aligned _____ estimates with the pilot data.",
+        "options": [
+          "ours",
+          "our",
+          "us",
+          "we"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. our.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-01"
+      },
+      {
+        "id": "we44-1-10",
+        "question": "That estimate is _____, not the vendor's.",
+        "options": [
+          "our",
+          "ours",
+          "us",
+          "we"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. ours.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-01"
+      }
+    ]
+  },
+  {
+    "seed": "WE44-02",
+    "skillId": "skill-44",
+    "skillCode": "WE44",
+    "packNumber": 2,
+    "title": "WE44 Pack 2 — Possessive adjectives vs pronouns",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we44-2-1",
+        "question": "He left _____ laptop in the secure cabinet.",
+        "options": [
+          "his",
+          "him",
+          "he",
+          "himself"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. his. laptop follows → adjective (same form as pronoun).",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-02"
+      },
+      {
+        "id": "we44-2-2",
+        "question": "This laptop is _____.",
+        "options": [
+          "his",
+          "him",
+          "he",
+          "himself"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. his. Pronoun use.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-02"
+      },
+      {
+        "id": "we44-2-3",
+        "question": "Please do not edit _____ files without a ticket.",
+        "options": [
+          "theirs",
+          "their",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. their.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-02"
+      },
+      {
+        "id": "we44-2-4",
+        "question": "Those files are _____.",
+        "options": [
+          "their",
+          "theirs",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. theirs.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-02"
+      },
+      {
+        "id": "we44-2-5",
+        "question": "I finished _____ section of the report.",
+        "options": [
+          "mine",
+          "my",
+          "me",
+          "I"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. my.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-02"
+      },
+      {
+        "id": "we44-2-6",
+        "question": "The last section is _____.",
+        "options": [
+          "my",
+          "mine",
+          "me",
+          "I"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. mine.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-02"
+      },
+      {
+        "id": "we44-2-7",
+        "question": "They revised _____ protocol after the audit.",
+        "options": [
+          "theirs",
+          "their",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. their.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-02"
+      },
+      {
+        "id": "we44-2-8",
+        "question": "Is this protocol _____?",
+        "options": [
+          "their",
+          "theirs",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. theirs.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-02"
+      },
+      {
+        "id": "we44-2-9",
+        "question": "Could you send me _____?",
+        "options": [
+          "your",
+          "yours",
+          "you",
+          "yourself"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. yours. No noun.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-02"
+      },
+      {
+        "id": "we44-2-10",
+        "question": "Could you send me _____ checklist?",
+        "options": [
+          "yours",
+          "your",
+          "you",
+          "yourself"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. your. checklist follows.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-02"
+      }
+    ]
+  },
+  {
+    "seed": "WE44-03",
+    "skillId": "skill-44",
+    "skillCode": "WE44",
+    "packNumber": 3,
+    "title": "WE44 Pack 3 — Possessive adjectives vs pronouns",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we44-3-1",
+        "question": "The lab labeled _____ vials clearly.",
+        "options": [
+          "ours",
+          "our",
+          "us",
+          "we"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. our.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-03"
+      },
+      {
+        "id": "we44-3-2",
+        "question": "Those vials are _____.",
+        "options": [
+          "our",
+          "ours",
+          "us",
+          "we"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. ours.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-03"
+      },
+      {
+        "id": "we44-3-3",
+        "question": "She stored _____ notes in the shared drive.",
+        "options": [
+          "hers",
+          "her",
+          "she",
+          "herself"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. her.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-03"
+      },
+      {
+        "id": "we44-3-4",
+        "question": "The handwritten notes are _____.",
+        "options": [
+          "her",
+          "hers",
+          "she",
+          "herself"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. hers.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-03"
+      },
+      {
+        "id": "we44-3-5",
+        "question": "Please respect _____ deadlines.",
+        "options": [
+          "theirs",
+          "their",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. their.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-03"
+      },
+      {
+        "id": "we44-3-6",
+        "question": "These deadlines are _____, not optional.",
+        "options": [
+          "their",
+          "theirs",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. theirs.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-03"
+      },
+      {
+        "id": "we44-3-7",
+        "question": "I need _____ signature on page two.",
+        "options": [
+          "yours",
+          "your",
+          "you",
+          "yourself"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. your.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-03"
+      },
+      {
+        "id": "we44-3-8",
+        "question": "If you have already signed, send _____.",
+        "options": [
+          "your",
+          "yours",
+          "you",
+          "yourself"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. yours.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-03"
+      },
+      {
+        "id": "we44-3-9",
+        "question": "We compared _____ results with the baseline.",
+        "options": [
+          "ours",
+          "our",
+          "us",
+          "we"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. our.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-03"
+      },
+      {
+        "id": "we44-3-10",
+        "question": "The baseline results were _____.",
+        "options": [
+          "our",
+          "ours",
+          "us",
+          "we"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. ours — wait: 'were ours' means they belonged to us. OK.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-03"
+      }
+    ]
+  },
+  {
+    "seed": "WE44-04",
+    "skillId": "skill-44",
+    "skillCode": "WE44",
+    "packNumber": 4,
+    "title": "WE44 Pack 4 — Possessive adjectives vs pronouns",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we44-4-1",
+        "question": "Each site uploaded _____ consent forms.",
+        "options": [
+          "its",
+          "it",
+          "itself",
+          "it's"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. its. forms follows → adjective.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-04"
+      },
+      {
+        "id": "we44-4-2",
+        "question": "He locked _____ workstation before leaving.",
+        "options": [
+          "his",
+          "him",
+          "he",
+          "himself"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. his.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-04"
+      },
+      {
+        "id": "we44-4-3",
+        "question": "That workstation is _____.",
+        "options": [
+          "his",
+          "him",
+          "he",
+          "himself"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. his.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-04"
+      },
+      {
+        "id": "we44-4-4",
+        "question": "They printed _____ boarding passes early.",
+        "options": [
+          "theirs",
+          "their",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. their.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-04"
+      },
+      {
+        "id": "we44-4-5",
+        "question": "These boarding passes are _____.",
+        "options": [
+          "their",
+          "theirs",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. theirs.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-04"
+      },
+      {
+        "id": "we44-4-6",
+        "question": "Please use _____ template for the abstract.",
+        "options": [
+          "mine",
+          "my",
+          "me",
+          "I"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. my.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-04"
+      },
+      {
+        "id": "we44-4-7",
+        "question": "That template is _____; feel free to copy it.",
+        "options": [
+          "my",
+          "mine",
+          "me",
+          "I"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. mine.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-04"
+      },
+      {
+        "id": "we44-4-8",
+        "question": "We archived _____ older releases last month.",
+        "options": [
+          "ours",
+          "our",
+          "us",
+          "we"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. our.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-04"
+      },
+      {
+        "id": "we44-4-9",
+        "question": "The older releases are _____.",
+        "options": [
+          "our",
+          "ours",
+          "us",
+          "we"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. ours.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-04"
+      },
+      {
+        "id": "we44-4-10",
+        "question": "Do not open _____ package without clearance.",
+        "options": [
+          "theirs",
+          "their",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. their.",
+        "section": "written-expression",
+        "category": "skill-44",
+        "difficulty": "hard",
+        "skillId": "skill-44",
+        "seed": "WE44-04"
+      }
+    ]
+  },
+  {
+    "seed": "WE45-01",
+    "skillId": "skill-45",
+    "skillCode": "WE45",
+    "packNumber": 1,
+    "title": "WE45 Pack 1 — Pronoun reference agreement",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we45-1-1",
+        "question": "The analysts will miss the deadline if you rush _____.",
+        "options": [
+          "him",
+          "them",
+          "he",
+          "it"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. them. analysts plural.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-01"
+      },
+      {
+        "id": "we45-1-2",
+        "question": "Everyone must submit _____ form by Friday.",
+        "options": [
+          "their",
+          "his or her",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. his or her. everyone singular (TOEFL formal).",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-01"
+      },
+      {
+        "id": "we45-1-3",
+        "question": "Each file was hashed before _____ was uploaded.",
+        "options": [
+          "they",
+          "them",
+          "it",
+          "their"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. it. Each file singular.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-01"
+      },
+      {
+        "id": "we45-1-4",
+        "question": "The samples were discarded after _____ failed validation.",
+        "options": [
+          "it",
+          "they",
+          "he",
+          "him"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. they. samples plural.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-01"
+      },
+      {
+        "id": "we45-1-5",
+        "question": "Anybody who enters must show _____ badge.",
+        "options": [
+          "their",
+          "his or her",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. his or her.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-01"
+      },
+      {
+        "id": "we45-1-6",
+        "question": "The report was revised after _____ was reviewed.",
+        "options": [
+          "they",
+          "them",
+          "it",
+          "their"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. it.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-01"
+      },
+      {
+        "id": "we45-1-7",
+        "question": "The interns left early because _____ had finished.",
+        "options": [
+          "he",
+          "they",
+          "him",
+          "it"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. they.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-01"
+      },
+      {
+        "id": "we45-1-8",
+        "question": "Neither option was ideal, so we rejected _____.",
+        "options": [
+          "them",
+          "it",
+          "they",
+          "their"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. it. Neither = singular.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-01"
+      },
+      {
+        "id": "we45-1-9",
+        "question": "The boys will cause trouble if you let _____.",
+        "options": [
+          "him",
+          "them",
+          "he",
+          "it"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. them.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-01"
+      },
+      {
+        "id": "we45-1-10",
+        "question": "Someone left _____ laptop on the bench.",
+        "options": [
+          "their",
+          "his or her",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. his or her.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-01"
+      }
+    ]
+  },
+  {
+    "seed": "WE45-02",
+    "skillId": "skill-45",
+    "skillCode": "WE45",
+    "packNumber": 2,
+    "title": "WE45 Pack 2 — Pronoun reference agreement",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we45-2-1",
+        "question": "The sensors failed when _____ lost power.",
+        "options": [
+          "it",
+          "they",
+          "he",
+          "him"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. they.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-02"
+      },
+      {
+        "id": "we45-2-2",
+        "question": "Each participant signed _____ consent form.",
+        "options": [
+          "their",
+          "his or her",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. his or her.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-02"
+      },
+      {
+        "id": "we45-2-3",
+        "question": "The committee published _____ findings last week.",
+        "options": [
+          "its",
+          "their",
+          "it",
+          "them"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. its. committee as singular unit (or B their as plural members — TOEFL often accepts its for group noun as unit). Prefer its for formal singular group.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-02"
+      },
+      {
+        "id": "we45-2-4",
+        "question": "If the students arrive late, do not admit _____.",
+        "options": [
+          "him",
+          "them",
+          "he",
+          "it"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. them.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-02"
+      },
+      {
+        "id": "we45-2-5",
+        "question": "Nobody remembered to save _____ work.",
+        "options": [
+          "their",
+          "his or her",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. his or her.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-02"
+      },
+      {
+        "id": "we45-2-6",
+        "question": "The package was returned because _____ lacked a label.",
+        "options": [
+          "they",
+          "them",
+          "it",
+          "their"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. it.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-02"
+      },
+      {
+        "id": "we45-2-7",
+        "question": "Both candidates presented _____ proposals clearly.",
+        "options": [
+          "his",
+          "their",
+          "him",
+          "it"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. their. Both = plural.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-02"
+      },
+      {
+        "id": "we45-2-8",
+        "question": "Either method will work if you document _____.",
+        "options": [
+          "them",
+          "it",
+          "they",
+          "their"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. it. Either singular.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-02"
+      },
+      {
+        "id": "we45-2-9",
+        "question": "The technicians calibrated the units before shipping _____.",
+        "options": [
+          "it",
+          "them",
+          "he",
+          "him"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. them.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-02"
+      },
+      {
+        "id": "we45-2-10",
+        "question": "Everybody needs to update _____ password.",
+        "options": [
+          "their",
+          "his or her",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. his or her.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-02"
+      }
+    ]
+  },
+  {
+    "seed": "WE45-03",
+    "skillId": "skill-45",
+    "skillCode": "WE45",
+    "packNumber": 3,
+    "title": "WE45 Pack 3 — Pronoun reference agreement",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we45-3-1",
+        "question": "The datasets were locked after _____ had been cleaned.",
+        "options": [
+          "it",
+          "they",
+          "he",
+          "him"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. they.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-03"
+      },
+      {
+        "id": "we45-3-2",
+        "question": "Each vendor must provide _____ insurance certificate.",
+        "options": [
+          "their",
+          "its",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. its. Each vendor singular (company → its).",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-03"
+      },
+      {
+        "id": "we45-3-3",
+        "question": "If anyone objects, ask _____ to write a note.",
+        "options": [
+          "them",
+          "him or her",
+          "they",
+          "their"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. him or her.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-03"
+      },
+      {
+        "id": "we45-3-4",
+        "question": "The appendix lists the codes and explains _____.",
+        "options": [
+          "it",
+          "them",
+          "he",
+          "him"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. them. codes plural.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-03"
+      },
+      {
+        "id": "we45-3-5",
+        "question": "A researcher should cite _____ sources carefully.",
+        "options": [
+          "their",
+          "his or her",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. his or her. A researcher singular.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-03"
+      },
+      {
+        "id": "we45-3-6",
+        "question": "The windows were sealed after _____ were inspected.",
+        "options": [
+          "it",
+          "they",
+          "he",
+          "him"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. they.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-03"
+      },
+      {
+        "id": "we45-3-7",
+        "question": "Neither of the pilots has finished _____ checklist.",
+        "options": [
+          "their",
+          "his",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. his. Neither singular (or his or her).",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-03"
+      },
+      {
+        "id": "we45-3-8",
+        "question": "The board will announce _____ decision tomorrow.",
+        "options": [
+          "its",
+          "their",
+          "it",
+          "them"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. its. board as unit.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-03"
+      },
+      {
+        "id": "we45-3-9",
+        "question": "Please remind the authors to check _____ figures.",
+        "options": [
+          "his",
+          "their",
+          "him",
+          "it"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. their.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-03"
+      },
+      {
+        "id": "we45-3-10",
+        "question": "Someone left _____ keys at the security desk.",
+        "options": [
+          "their",
+          "his or her",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. his or her.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-03"
+      }
+    ]
+  },
+  {
+    "seed": "WE45-04",
+    "skillId": "skill-45",
+    "skillCode": "WE45",
+    "packNumber": 4,
+    "title": "WE45 Pack 4 — Pronoun reference agreement",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we45-4-1",
+        "question": "The logs were archived as soon as _____ filled the disk.",
+        "options": [
+          "it",
+          "they",
+          "he",
+          "him"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. they.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-04"
+      },
+      {
+        "id": "we45-4-2",
+        "question": "Every employee must renew _____ badge annually.",
+        "options": [
+          "their",
+          "his or her",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. his or her.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-04"
+      },
+      {
+        "id": "we45-4-3",
+        "question": "The manuscript was accepted after _____ was revised.",
+        "options": [
+          "they",
+          "them",
+          "it",
+          "their"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. it.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-04"
+      },
+      {
+        "id": "we45-4-4",
+        "question": "Do not ignore the warnings; address _____ immediately.",
+        "options": [
+          "it",
+          "them",
+          "he",
+          "him"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. them.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-04"
+      },
+      {
+        "id": "we45-4-5",
+        "question": "Each of the interns completed _____ orientation.",
+        "options": [
+          "their",
+          "his or her",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. his or her.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-04"
+      },
+      {
+        "id": "we45-4-6",
+        "question": "The machines stopped when _____ overheated.",
+        "options": [
+          "it",
+          "they",
+          "he",
+          "him"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. they.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-04"
+      },
+      {
+        "id": "we45-4-7",
+        "question": "Anybody can join if _____ registers online.",
+        "options": [
+          "they",
+          "he or she",
+          "them",
+          "their"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. he or she.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-04"
+      },
+      {
+        "id": "we45-4-8",
+        "question": "The policy requires staff to update _____ contact details.",
+        "options": [
+          "his",
+          "their",
+          "him",
+          "it"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. their. staff plural sense here.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-04"
+      },
+      {
+        "id": "we45-4-9",
+        "question": "One of the files lost _____ timestamp.",
+        "options": [
+          "their",
+          "its",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. its.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-04"
+      },
+      {
+        "id": "we45-4-10",
+        "question": "The children will wait outside until you call _____.",
+        "options": [
+          "him",
+          "them",
+          "he",
+          "it"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. them.",
+        "section": "written-expression",
+        "category": "skill-45",
+        "difficulty": "hard",
+        "skillId": "skill-45",
+        "seed": "WE45-04"
+      }
+    ]
+  },
+  {
+    "seed": "WE46-01",
+    "skillId": "skill-46",
+    "skillCode": "WE46",
+    "packNumber": 1,
+    "title": "WE46 Pack 1 — Basic adjectives and adverbs",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we46-1-1",
+        "question": "They sat at a _____ table near the window.",
+        "options": [
+          "largely",
+          "large",
+          "largeness",
+          "larger"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. large. Modifies noun table.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-01"
+      },
+      {
+        "id": "we46-1-2",
+        "question": "The child answered _____ and then left.",
+        "options": [
+          "quick",
+          "quickly",
+          "quickness",
+          "quicker"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. quickly. Modifies verb answered.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-01"
+      },
+      {
+        "id": "we46-1-3",
+        "question": "We reviewed an _____ long appendix.",
+        "options": [
+          "extreme",
+          "extremely",
+          "extremity",
+          "extremes"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. extremely. Modifies adjective long.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-01"
+      },
+      {
+        "id": "we46-1-4",
+        "question": "The lab published a _____ report last month.",
+        "options": [
+          "recently",
+          "recent",
+          "recency",
+          "more recently"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. recent. Modifies noun report.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-01"
+      },
+      {
+        "id": "we46-1-5",
+        "question": "She _____ finished the calibration before noon.",
+        "options": [
+          "careful",
+          "carefully",
+          "carefulness",
+          "more careful"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. carefully. Modifies verb finished.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-01"
+      },
+      {
+        "id": "we46-1-6",
+        "question": "It was a _____ designed protocol.",
+        "options": [
+          "careful",
+          "carefully",
+          "carefulness",
+          "care"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. carefully. Modifies adjective designed.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-01"
+      },
+      {
+        "id": "we46-1-7",
+        "question": "The sensors failed _____ during the storm.",
+        "options": [
+          "sudden",
+          "suddenly",
+          "suddenness",
+          "more sudden"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. suddenly.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-01"
+      },
+      {
+        "id": "we46-1-8",
+        "question": "They need a _____ solution, not a temporary patch.",
+        "options": [
+          "permanently",
+          "permanent",
+          "permanence",
+          "more permanent"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. permanent. Modifies noun solution.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-01"
+      },
+      {
+        "id": "we46-1-9",
+        "question": "The model performs _____ on sparse categories.",
+        "options": [
+          "poor",
+          "poorly",
+          "poverty",
+          "poorer"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. poorly. Modifies verb performs.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-01"
+      },
+      {
+        "id": "we46-1-10",
+        "question": "This is a _____ effective screening rule.",
+        "options": [
+          "high",
+          "highly",
+          "height",
+          "higher"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. highly. Modifies adjective effective.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-01"
+      }
+    ]
+  },
+  {
+    "seed": "WE46-02",
+    "skillId": "skill-46",
+    "skillCode": "WE46",
+    "packNumber": 2,
+    "title": "WE46 Pack 2 — Basic adjectives and adverbs",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we46-2-1",
+        "question": "He submitted a _____ draft of the abstract.",
+        "options": [
+          "complete",
+          "completely",
+          "completion",
+          "more complete"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. complete. Modifies noun draft.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-02"
+      },
+      {
+        "id": "we46-2-2",
+        "question": "He _____ rewrote the abstract overnight.",
+        "options": [
+          "complete",
+          "completely",
+          "completion",
+          "more complete"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. completely. Modifies verb rewrote.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-02"
+      },
+      {
+        "id": "we46-2-3",
+        "question": "The hallway was _____ quiet after hours.",
+        "options": [
+          "unusual",
+          "unusually",
+          "unusualness",
+          "more unusual"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. unusually. Modifies adjective quiet.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-02"
+      },
+      {
+        "id": "we46-2-4",
+        "question": "They chose an _____ path through the buffer zone.",
+        "options": [
+          "alternate",
+          "alternately",
+          "alternation",
+          "more alternate"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. alternate. Modifies noun path.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-02"
+      },
+      {
+        "id": "we46-2-5",
+        "question": "The script runs _____ if memory is low.",
+        "options": [
+          "slow",
+          "slowly",
+          "slowness",
+          "slower"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. slowly.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-02"
+      },
+      {
+        "id": "we46-2-6",
+        "question": "We need a _____ estimate for the budget meeting.",
+        "options": [
+          "roughly",
+          "rough",
+          "roughness",
+          "more rough"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. rough.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-02"
+      },
+      {
+        "id": "we46-2-7",
+        "question": "She spoke _____ during the site visit.",
+        "options": [
+          "clear",
+          "clearly",
+          "clarity",
+          "clearer"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. clearly.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-02"
+      },
+      {
+        "id": "we46-2-8",
+        "question": "It was a _____ written methods section.",
+        "options": [
+          "clear",
+          "clearly",
+          "clarity",
+          "clearer"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. clearly. Modifies written.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-02"
+      },
+      {
+        "id": "we46-2-9",
+        "question": "The team made a _____ decision under pressure.",
+        "options": [
+          "quick",
+          "quickly",
+          "quickness",
+          "quicker"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. quick. Modifies noun decision.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-02"
+      },
+      {
+        "id": "we46-2-10",
+        "question": "The alarm sounded _____ when the door opened.",
+        "options": [
+          "loud",
+          "loudly",
+          "loudness",
+          "louder"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. loudly.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-02"
+      }
+    ]
+  },
+  {
+    "seed": "WE46-03",
+    "skillId": "skill-46",
+    "skillCode": "WE46",
+    "packNumber": 3,
+    "title": "WE46 Pack 3 — Basic adjectives and adverbs",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we46-3-1",
+        "question": "They installed a _____ camera at the entrance.",
+        "options": [
+          "securely",
+          "secure",
+          "security",
+          "more secure"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. secure.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-03"
+      },
+      {
+        "id": "we46-3-2",
+        "question": "The files were _____ encrypted before transfer.",
+        "options": [
+          "secure",
+          "securely",
+          "security",
+          "more secure"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. securely.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-03"
+      },
+      {
+        "id": "we46-3-3",
+        "question": "This is an _____ rare failure mode.",
+        "options": [
+          "extreme",
+          "extremely",
+          "extremity",
+          "extremes"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. extremely. Modifies rare.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-03"
+      },
+      {
+        "id": "we46-3-4",
+        "question": "The pilot used a _____ sample of volunteers.",
+        "options": [
+          "small",
+          "smallly",
+          "smallness",
+          "smaller"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. small.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-03"
+      },
+      {
+        "id": "we46-3-5",
+        "question": "Errors increase _____ near the detection limit.",
+        "options": [
+          "sharp",
+          "sharply",
+          "sharpness",
+          "sharper"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. sharply.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-03"
+      },
+      {
+        "id": "we46-3-6",
+        "question": "She gave a _____ summary of the findings.",
+        "options": [
+          "brief",
+          "briefly",
+          "brevity",
+          "briefer"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. brief.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-03"
+      },
+      {
+        "id": "we46-3-7",
+        "question": "She summarized the findings _____.",
+        "options": [
+          "brief",
+          "briefly",
+          "brevity",
+          "briefer"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. briefly.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-03"
+      },
+      {
+        "id": "we46-3-8",
+        "question": "It was a _____ organized archive.",
+        "options": [
+          "good",
+          "well",
+          "goodness",
+          "better"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. well. well organized (adverb + participle adjective).",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-03"
+      },
+      {
+        "id": "we46-3-9",
+        "question": "The courier arrived _____ than expected.",
+        "options": [
+          "late",
+          "lately",
+          "lateness",
+          "later"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. late. late can be adv; 'arrived late' is standard. lately = recently.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-03"
+      },
+      {
+        "id": "we46-3-10",
+        "question": "A _____ review caught the coding error.",
+        "options": [
+          "careful",
+          "carefully",
+          "carefulness",
+          "more careful"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. careful. Modifies noun review.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-03"
+      }
+    ]
+  },
+  {
+    "seed": "WE46-04",
+    "skillId": "skill-46",
+    "skillCode": "WE46",
+    "packNumber": 4,
+    "title": "WE46 Pack 4 — Basic adjectives and adverbs",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we46-4-1",
+        "question": "The board issued a _____ statement.",
+        "options": [
+          "publicly",
+          "public",
+          "publicity",
+          "more public"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. public.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-04"
+      },
+      {
+        "id": "we46-4-2",
+        "question": "The results were _____ disclosed on the portal.",
+        "options": [
+          "public",
+          "publicly",
+          "publicity",
+          "more public"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. publicly.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-04"
+      },
+      {
+        "id": "we46-4-3",
+        "question": "This is a _____ complex interaction term.",
+        "options": [
+          "true",
+          "truly",
+          "truth",
+          "truer"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. truly. Modifies complex.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-04"
+      },
+      {
+        "id": "we46-4-4",
+        "question": "They need a _____ answer by Monday.",
+        "options": [
+          "final",
+          "finally",
+          "finality",
+          "more final"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. final.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-04"
+      },
+      {
+        "id": "we46-4-5",
+        "question": "She _____ closed the ticket after verification.",
+        "options": [
+          "final",
+          "finally",
+          "finality",
+          "more final"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. finally.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-04"
+      },
+      {
+        "id": "we46-4-6",
+        "question": "The machine stopped _____ without warning.",
+        "options": [
+          "abrupt",
+          "abruptly",
+          "abruptness",
+          "more abrupt"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. abruptly.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-04"
+      },
+      {
+        "id": "we46-4-7",
+        "question": "It was an _____ decision under the old policy.",
+        "options": [
+          "abrupt",
+          "abruptly",
+          "abruptness",
+          "more abrupt"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. abrupt.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-04"
+      },
+      {
+        "id": "we46-4-8",
+        "question": "The estimate was _____ accurate for planning.",
+        "options": [
+          "sufficient",
+          "sufficiently",
+          "sufficiency",
+          "more sufficient"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. sufficiently. Modifies accurate.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-04"
+      },
+      {
+        "id": "we46-4-9",
+        "question": "They requested a _____ extension of the embargo.",
+        "options": [
+          "formal",
+          "formally",
+          "formality",
+          "more formal"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. formal.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-04"
+      },
+      {
+        "id": "we46-4-10",
+        "question": "The waiver was _____ approved by legal.",
+        "options": [
+          "formal",
+          "formally",
+          "formality",
+          "more formal"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. formally.",
+        "section": "written-expression",
+        "category": "skill-46",
+        "difficulty": "hard",
+        "skillId": "skill-46",
+        "seed": "WE46-04"
+      }
+    ]
+  },
+  {
+    "seed": "WE47-01",
+    "skillId": "skill-47",
+    "skillCode": "WE47",
+    "packNumber": 1,
+    "title": "WE47 Pack 1 — Adjectives after linking verbs",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we47-1-1",
+        "question": "The draft looks _____ after the last revision.",
+        "options": [
+          "strongly",
+          "strong",
+          "strength",
+          "more strongly"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. strong. looks linking → adjective.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-01"
+      },
+      {
+        "id": "we47-1-2",
+        "question": "She spoke _____ at the all-hands meeting.",
+        "options": [
+          "confident",
+          "confidently",
+          "confidence",
+          "more confident"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. confidently. spoke = regular verb.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-01"
+      },
+      {
+        "id": "we47-1-3",
+        "question": "The solution seems _____ for production use.",
+        "options": [
+          "safely",
+          "safe",
+          "safety",
+          "more safely"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. safe.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-01"
+      },
+      {
+        "id": "we47-1-4",
+        "question": "He feels _____ about the timeline.",
+        "options": [
+          "uneasily",
+          "uneasy",
+          "unease",
+          "more uneasily"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. uneasy. feels linking.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-01"
+      },
+      {
+        "id": "we47-1-5",
+        "question": "The results appear _____ consistent across sites.",
+        "options": [
+          "remarkable",
+          "remarkably",
+          "remark",
+          "more remarkable"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. remarkably. modifies consistent.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-01"
+      },
+      {
+        "id": "we47-1-6",
+        "question": "The soup tastes _____.",
+        "options": [
+          "saltily",
+          "salty",
+          "salt",
+          "more saltily"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. salty.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-01"
+      },
+      {
+        "id": "we47-1-7",
+        "question": "She looked _____ at the residual plot.",
+        "options": [
+          "careful",
+          "carefully",
+          "care",
+          "more careful"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. carefully. looked = action, not linking.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-01"
+      },
+      {
+        "id": "we47-1-8",
+        "question": "She looks _____ in the staff photo.",
+        "options": [
+          "professionally",
+          "professional",
+          "profession",
+          "more professionally"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. professional. looks linking.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-01"
+      },
+      {
+        "id": "we47-1-9",
+        "question": "The plan became _____ after stakeholder input.",
+        "options": [
+          "clearly",
+          "clear",
+          "clarity",
+          "more clearly"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. clear.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-01"
+      },
+      {
+        "id": "we47-1-10",
+        "question": "The hypothesis proved _____ under replication.",
+        "options": [
+          "correctly",
+          "correct",
+          "correction",
+          "more correctly"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. correct.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-01"
+      }
+    ]
+  },
+  {
+    "seed": "WE47-02",
+    "skillId": "skill-47",
+    "skillCode": "WE47",
+    "packNumber": 2,
+    "title": "WE47 Pack 2 — Adjectives after linking verbs",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we47-2-1",
+        "question": "The hallway smells _____ after cleaning.",
+        "options": [
+          "freshly",
+          "fresh",
+          "freshness",
+          "more freshly"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. fresh.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-02"
+      },
+      {
+        "id": "we47-2-2",
+        "question": "He answered _____ during the interview.",
+        "options": [
+          "honest",
+          "honestly",
+          "honesty",
+          "more honest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. honestly. answered = regular.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-02"
+      },
+      {
+        "id": "we47-2-3",
+        "question": "The estimate seems _____ optimistic.",
+        "options": [
+          "overly",
+          "over",
+          "overness",
+          "more over"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. overly. modifies optimistic.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-02"
+      },
+      {
+        "id": "we47-2-4",
+        "question": "The board remains _____ on the waiver.",
+        "options": [
+          "cautiously",
+          "cautious",
+          "caution",
+          "more cautiously"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. cautious. remains/be-type linking.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-02"
+      },
+      {
+        "id": "we47-2-5",
+        "question": "The signal appears _____ weaker at night.",
+        "options": [
+          "slight",
+          "slightly",
+          "slightness",
+          "more slight"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. slightly. modifies weaker.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-02"
+      },
+      {
+        "id": "we47-2-6",
+        "question": "She feels _____ after the night shift.",
+        "options": [
+          "tiredly",
+          "tired",
+          "tiredness",
+          "more tiredly"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. tired.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-02"
+      },
+      {
+        "id": "we47-2-7",
+        "question": "They worked _____ to meet the cutover.",
+        "options": [
+          "hard",
+          "hardly",
+          "hardness",
+          "harder"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. hard. hard is adverb here (hardly = almost not).",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-02"
+      },
+      {
+        "id": "we47-2-8",
+        "question": "The interface looks _____ after the redesign.",
+        "options": [
+          "cleanly",
+          "clean",
+          "cleanliness",
+          "more cleanly"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. clean.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-02"
+      },
+      {
+        "id": "we47-2-9",
+        "question": "The claim sounds _____ without more data.",
+        "options": [
+          "weakly",
+          "weak",
+          "weakness",
+          "more weakly"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. weak. sounds linking.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-02"
+      },
+      {
+        "id": "we47-2-10",
+        "question": "He became _____ as the deadline neared.",
+        "options": [
+          "anxiously",
+          "anxious",
+          "anxiety",
+          "more anxiously"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. anxious.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-02"
+      }
+    ]
+  },
+  {
+    "seed": "WE47-03",
+    "skillId": "skill-47",
+    "skillCode": "WE47",
+    "packNumber": 3,
+    "title": "WE47 Pack 3 — Adjectives after linking verbs",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we47-3-1",
+        "question": "The sample looks _____ under the microscope.",
+        "options": [
+          "normally",
+          "normal",
+          "normality",
+          "more normally"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. normal.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-03"
+      },
+      {
+        "id": "we47-3-2",
+        "question": "She checked the vials _____.",
+        "options": [
+          "careful",
+          "carefully",
+          "care",
+          "more careful"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. carefully.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-03"
+      },
+      {
+        "id": "we47-3-3",
+        "question": "The policy appears _____ with federal guidance.",
+        "options": [
+          "consistent",
+          "consistently",
+          "consistency",
+          "more consistent"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. consistent.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-03"
+      },
+      {
+        "id": "we47-3-4",
+        "question": "The policy appears _____ aligned with federal guidance.",
+        "options": [
+          "close",
+          "closely",
+          "closeness",
+          "more close"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. closely. modifies aligned.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-03"
+      },
+      {
+        "id": "we47-3-5",
+        "question": "He seemed _____ during the debrief.",
+        "options": [
+          "defensively",
+          "defensive",
+          "defense",
+          "more defensively"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. defensive.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-03"
+      },
+      {
+        "id": "we47-3-6",
+        "question": "The machine ran _____ all night.",
+        "options": [
+          "smooth",
+          "smoothly",
+          "smoothness",
+          "smoother"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. smoothly. ran = regular.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-03"
+      },
+      {
+        "id": "we47-3-7",
+        "question": "The summary feels _____ for a ten-page report.",
+        "options": [
+          "briefly",
+          "brief",
+          "brevity",
+          "more briefly"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. brief.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-03"
+      },
+      {
+        "id": "we47-3-8",
+        "question": "The air tastes _____ near the vents.",
+        "options": [
+          "metallically",
+          "metallic",
+          "metal",
+          "more metallically"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. metallic.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-03"
+      },
+      {
+        "id": "we47-3-9",
+        "question": "She proved _____ under pressure.",
+        "options": [
+          "reliably",
+          "reliable",
+          "reliability",
+          "more reliably"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. reliable. proved linking.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-03"
+      },
+      {
+        "id": "we47-3-10",
+        "question": "They argued _____ for a longer embargo.",
+        "options": [
+          "strong",
+          "strongly",
+          "strength",
+          "stronger"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. strongly. argued = regular.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-03"
+      }
+    ]
+  },
+  {
+    "seed": "WE47-04",
+    "skillId": "skill-47",
+    "skillCode": "WE47",
+    "packNumber": 4,
+    "title": "WE47 Pack 4 — Adjectives after linking verbs",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we47-4-1",
+        "question": "The figures look _____ after the rescale.",
+        "options": [
+          "better",
+          "more well",
+          "well",
+          "bestly"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. better. looks linking → adjective comparative.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-04"
+      },
+      {
+        "id": "we47-4-2",
+        "question": "He drove _____ through the restricted zone.",
+        "options": [
+          "careful",
+          "carefully",
+          "care",
+          "more careful"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. carefully.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-04"
+      },
+      {
+        "id": "we47-4-3",
+        "question": "The patient feels _____ today than yesterday.",
+        "options": [
+          "worse",
+          "more badly",
+          "badlier",
+          "worst"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. worse. feels linking → adjective.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-04"
+      },
+      {
+        "id": "we47-4-4",
+        "question": "The odor smells _____ in the morning.",
+        "options": [
+          "stronger",
+          "more strongly",
+          "stronglier",
+          "strong"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. stronger. smells linking.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-04"
+      },
+      {
+        "id": "we47-4-5",
+        "question": "The design seems _____ incomplete.",
+        "options": [
+          "odd",
+          "oddly",
+          "oddness",
+          "more odd"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. oddly. modifies incomplete.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-04"
+      },
+      {
+        "id": "we47-4-6",
+        "question": "She remains _____ about remote enrollment.",
+        "options": [
+          "skeptical",
+          "skeptically",
+          "skepticism",
+          "more skeptical"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. skeptical.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-04"
+      },
+      {
+        "id": "we47-4-7",
+        "question": "The engine sounded _____ before the shutdown.",
+        "options": [
+          "rough",
+          "roughly",
+          "roughness",
+          "more rough"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. rough. sounded linking.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-04"
+      },
+      {
+        "id": "we47-4-8",
+        "question": "He wrote the note _____.",
+        "options": [
+          "quick",
+          "quickly",
+          "quickness",
+          "quicker"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. quickly.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-04"
+      },
+      {
+        "id": "we47-4-9",
+        "question": "The room grew _____ as more people entered.",
+        "options": [
+          "warmly",
+          "warm",
+          "warmth",
+          "more warmly"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. warm. grew linking.",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-04"
+      },
+      {
+        "id": "we47-4-10",
+        "question": "The recommendation appears _____ sound.",
+        "options": [
+          "fundamentally",
+          "fundamental",
+          "foundation",
+          "more fundamental"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. fundamentally. modifies sound (adj).",
+        "section": "written-expression",
+        "category": "skill-47",
+        "difficulty": "hard",
+        "skillId": "skill-47",
+        "seed": "WE47-04"
+      }
+    ]
+  },
+  {
+    "seed": "WE48-01",
+    "skillId": "skill-48",
+    "skillCode": "WE48",
+    "packNumber": 1,
+    "title": "WE48 Pack 1 — Position of adjectives and adverbs",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we48-1-1",
+        "question": "The _____ is summarized on page one.",
+        "options": [
+          "information important",
+          "important information",
+          "importantly information",
+          "information importantly"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. important information. Adj before noun.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-01"
+      },
+      {
+        "id": "we48-1-2",
+        "question": "She has _____ the final checklist.",
+        "options": [
+          "completed already",
+          "already completed",
+          "already complete",
+          "completed already the"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. already completed. Not between V and object.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-01"
+      },
+      {
+        "id": "we48-1-3",
+        "question": "They need a _____ before the audit.",
+        "options": [
+          "review careful",
+          "careful review",
+          "carefully review",
+          "review carefully the"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. careful review.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-01"
+      },
+      {
+        "id": "we48-1-4",
+        "question": "He _____ the sensors this morning.",
+        "options": [
+          "calibrated carefully",
+          "carefully calibrated",
+          "careful calibrated",
+          "calibrated careful"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. carefully calibrated — or A if object follows later; 'calibrated carefully the sensors' is wrong. With object after: carefully calibrated the sensors.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-01"
+      },
+      {
+        "id": "we48-1-5",
+        "question": "A _____ appears in Appendix B.",
+        "options": [
+          "table detailed",
+          "detailed table",
+          "detail table",
+          "table detail"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. detailed table.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-01"
+      },
+      {
+        "id": "we48-1-6",
+        "question": "We have _____ three sites this quarter.",
+        "options": [
+          "visited already",
+          "already visited",
+          "already visit",
+          "visited already the"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. already visited.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-01"
+      },
+      {
+        "id": "we48-1-7",
+        "question": "Please read the _____ first.",
+        "options": [
+          "instructions clear",
+          "clear instructions",
+          "clearly instructions",
+          "instructions clearly the"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. clear instructions.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-01"
+      },
+      {
+        "id": "we48-1-8",
+        "question": "The team _____ the protocol last night.",
+        "options": [
+          "revised thoroughly",
+          "thoroughly revised",
+          "thorough revised",
+          "revised thorough"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. thoroughly revised.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-01"
+      },
+      {
+        "id": "we48-1-9",
+        "question": "There was a _____ during overnight processing.",
+        "options": [
+          "failure major",
+          "major failure",
+          "majorly failure",
+          "failure majorly"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. major failure.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-01"
+      },
+      {
+        "id": "we48-1-10",
+        "question": "She submitted the form _____.",
+        "options": [
+          "carefully",
+          "careful",
+          "carefulness",
+          "more careful"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. carefully. After object OK.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-01"
+      }
+    ]
+  },
+  {
+    "seed": "WE48-02",
+    "skillId": "skill-48",
+    "skillCode": "WE48",
+    "packNumber": 2,
+    "title": "WE48 Pack 2 — Position of adjectives and adverbs",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we48-2-1",
+        "question": "The _____ must be locked before analysis.",
+        "options": [
+          "dataset primary",
+          "primary dataset",
+          "primarily dataset",
+          "dataset primarily"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. primary dataset.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-02"
+      },
+      {
+        "id": "we48-2-2",
+        "question": "They have _____ the encryption keys.",
+        "options": [
+          "rotated recently",
+          "recently rotated",
+          "recent rotated",
+          "rotated recent"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. recently rotated.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-02"
+      },
+      {
+        "id": "we48-2-3",
+        "question": "We found a _____ in the join logic.",
+        "options": [
+          "bug critical",
+          "critical bug",
+          "critically bug",
+          "bug critically"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. critical bug.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-02"
+      },
+      {
+        "id": "we48-2-4",
+        "question": "He _____ the thresholds after the pilot.",
+        "options": [
+          "adjusted slightly",
+          "slightly adjusted",
+          "slight adjusted",
+          "adjusted slight"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. slightly adjusted.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-02"
+      },
+      {
+        "id": "we48-2-5",
+        "question": "A _____ is required for site activation.",
+        "options": [
+          "visit monitoring",
+          "monitoring visit",
+          "monitor visit",
+          "visit monitor"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. monitoring visit.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-02"
+      },
+      {
+        "id": "we48-2-6",
+        "question": "Legal has _____ the waiver language.",
+        "options": [
+          "approved already",
+          "already approved",
+          "already approve",
+          "approved already the"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. already approved.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-02"
+      },
+      {
+        "id": "we48-2-7",
+        "question": "Store the _____ in the freezer.",
+        "options": [
+          "samples frozen",
+          "frozen samples",
+          "freeze samples",
+          "samples freeze"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. frozen samples.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-02"
+      },
+      {
+        "id": "we48-2-8",
+        "question": "She _____ the abstract for length.",
+        "options": [
+          "shortened carefully",
+          "carefully shortened",
+          "careful shortened",
+          "shortened careful"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. carefully shortened.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-02"
+      },
+      {
+        "id": "we48-2-9",
+        "question": "The _____ delayed the shipment.",
+        "options": [
+          "storm severe",
+          "severe storm",
+          "severely storm",
+          "storm severely"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. severe storm.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-02"
+      },
+      {
+        "id": "we48-2-10",
+        "question": "They archived the logs _____.",
+        "options": [
+          "yesterday",
+          "yesterdays",
+          "yester",
+          "more yesterday"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. yesterday. End position OK.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-02"
+      }
+    ]
+  },
+  {
+    "seed": "WE48-03",
+    "skillId": "skill-48",
+    "skillCode": "WE48",
+    "packNumber": 3,
+    "title": "WE48 Pack 3 — Position of adjectives and adverbs",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we48-3-1",
+        "question": "Please update the _____ before Friday.",
+        "options": [
+          "roster staff",
+          "staff roster",
+          "staffs roster",
+          "roster staffs"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. staff roster.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-03"
+      },
+      {
+        "id": "we48-3-2",
+        "question": "IT has _____ the legacy scanners.",
+        "options": [
+          "replaced already",
+          "already replaced",
+          "already replace",
+          "replaced already the"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. already replaced.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-03"
+      },
+      {
+        "id": "we48-3-3",
+        "question": "We need _____ for the next build.",
+        "options": [
+          "tests additional",
+          "additional tests",
+          "additionally tests",
+          "tests additionally"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. additional tests.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-03"
+      },
+      {
+        "id": "we48-3-4",
+        "question": "The analyst _____ the merge keys.",
+        "options": [
+          "verified twice",
+          "twice verified",
+          "two verified",
+          "verified two"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. verified twice — after object. 'twice verified the keys' also OK; avoid verified twice the keys.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-03"
+      },
+      {
+        "id": "we48-3-5",
+        "question": "A _____ protects the identifiable fields.",
+        "options": [
+          "rule strict",
+          "strict rule",
+          "strictly rule",
+          "rule strictly"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. strict rule.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-03"
+      },
+      {
+        "id": "we48-3-6",
+        "question": "They will _____ the public dashboard.",
+        "options": [
+          "update soon",
+          "soon update",
+          "sooner update",
+          "update sooner the"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. soon update — or update the dashboard soon. Not update soon the dashboard.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-03"
+      },
+      {
+        "id": "we48-3-7",
+        "question": "Remove the _____ from the export.",
+        "options": [
+          "columns unused",
+          "unused columns",
+          "unuse columns",
+          "columns unuse"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. unused columns.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-03"
+      },
+      {
+        "id": "we48-3-8",
+        "question": "She has _____ the orientation module.",
+        "options": [
+          "completed just",
+          "just completed",
+          "just complete",
+          "completed just the"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. just completed.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-03"
+      },
+      {
+        "id": "we48-3-9",
+        "question": "The _____ arrived this morning.",
+        "options": [
+          "shipment final",
+          "final shipment",
+          "finally shipment",
+          "shipment finally"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. final shipment.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-03"
+      },
+      {
+        "id": "we48-3-10",
+        "question": "He reviewed the residuals _____.",
+        "options": [
+          "carefully",
+          "careful",
+          "carefulness",
+          "more careful"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. carefully.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-03"
+      }
+    ]
+  },
+  {
+    "seed": "WE48-04",
+    "skillId": "skill-48",
+    "skillCode": "WE48",
+    "packNumber": 4,
+    "title": "WE48 Pack 4 — Position of adjectives and adverbs",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "we48-4-1",
+        "question": "Post the _____ on the portal.",
+        "options": [
+          "agenda weekly",
+          "weekly agenda",
+          "week agenda",
+          "agenda week"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. weekly agenda.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-04"
+      },
+      {
+        "id": "we48-4-2",
+        "question": "Support has _____ the oldest tickets.",
+        "options": [
+          "cleared already",
+          "already cleared",
+          "already clear",
+          "cleared already the"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. already cleared.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-04"
+      },
+      {
+        "id": "we48-4-3",
+        "question": "We observed a _____ in latency.",
+        "options": [
+          "drop sharp",
+          "sharp drop",
+          "sharply drop",
+          "drop sharply the"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. sharp drop.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-04"
+      },
+      {
+        "id": "we48-4-4",
+        "question": "They _____ the consent language.",
+        "options": [
+          "revised extensively",
+          "extensively revised",
+          "extensive revised",
+          "revised extensive"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. extensively revised.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-04"
+      },
+      {
+        "id": "we48-4-5",
+        "question": "Keep a _____ of every change.",
+        "options": [
+          "log detailed",
+          "detailed log",
+          "detail log",
+          "log detail"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. detailed log.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-04"
+      },
+      {
+        "id": "we48-4-6",
+        "question": "The courier has _____ the wrong address.",
+        "options": [
+          "used twice",
+          "twice used",
+          "two used",
+          "used two"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. twice used. Not used twice the address.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-04"
+      },
+      {
+        "id": "we48-4-7",
+        "question": "Install the _____ on all workstations.",
+        "options": [
+          "patch security",
+          "security patch",
+          "secure patch",
+          "patch secure"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. security patch.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-04"
+      },
+      {
+        "id": "we48-4-8",
+        "question": "She _____ the boarding passes early.",
+        "options": [
+          "printed already",
+          "already printed",
+          "already print",
+          "printed already the"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. already printed.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-04"
+      },
+      {
+        "id": "we48-4-9",
+        "question": "A _____ delayed enrollment.",
+        "options": [
+          "issue technical",
+          "technical issue",
+          "technically issue",
+          "issue technical the"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. technical issue.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-04"
+      },
+      {
+        "id": "we48-4-10",
+        "question": "They closed the ticket _____.",
+        "options": [
+          "promptly",
+          "prompt",
+          "promptness",
+          "more prompt"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. promptly. After object OK.",
+        "section": "written-expression",
+        "category": "skill-48",
+        "difficulty": "hard",
+        "skillId": "skill-48",
+        "seed": "WE48-04"
+      }
+    ]
   }
 ]

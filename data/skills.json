@@ -368,10 +368,55 @@
     "placeholder": false
   },
   {
+    "id": "skill-44",
+    "code": "WE44",
+    "section": "written-expression",
+    "group": "Problems with Pronouns",
+    "title": "Possessive adjectives vs pronouns",
+    "description": "their + noun · theirs tanpa noun — jangan theirs newspapers / give me your.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-45",
+    "code": "WE45",
+    "section": "written-expression",
+    "group": "Problems with Pronouns",
+    "title": "Pronoun reference agreement",
+    "description": "Pronoun/possessive harus agree dengan noun yang diacu (boys→them, everyone→his/her).",
+    "placeholder": false
+  },
+  {
+    "id": "skill-46",
+    "code": "WE46",
+    "section": "written-expression",
+    "group": "Adjectives and Adverbs",
+    "title": "Basic adjectives and adverbs",
+    "description": "Adjective → noun/pronoun · Adverb → verb/adjective/adverb.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-47",
+    "code": "WE47",
+    "section": "written-expression",
+    "group": "Adjectives and Adverbs",
+    "title": "Adjectives after linking verbs",
+    "description": "look/seem/feel/be… + adjective (bukan adverb) — She looks nice.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-48",
+    "code": "WE48",
+    "section": "written-expression",
+    "group": "Adjectives and Adverbs",
+    "title": "Position adjectives and adverbs correctly",
+    "description": "Adjective satu kata di depan noun · adverb tidak di antara verb dan object.",
+    "placeholder": false
+  },
+  {
     "id": "we-skill-more",
     "code": "WE…",
     "section": "written-expression",
-    "group": "Problems with Pronouns",
+    "group": "Adjectives and Adverbs",
     "title": "Skill berikutnya — coming soon",
     "description": "Slot untuk skill Written Expression selanjutnya.",
     "placeholder": true

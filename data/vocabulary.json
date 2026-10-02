@@ -6046,5 +6046,725 @@
     "question": "What does the word \"justify\" mean?",
     "correct": "Membenarkan",
     "explanation": "Justify = membenarkan. Contoh: Justify the exclusion restriction."
+  },
+  {
+    "id": "voc-673",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"latent\" mean?",
+    "correct": "Laten / tersembunyi",
+    "explanation": "Latent = laten. Contoh: Latent confounding remains a concern."
+  },
+  {
+    "id": "voc-674",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"legitimate\" mean?",
+    "correct": "Sah / legitimate",
+    "explanation": "Legitimate = sah. Contoh: A legitimate identifying assumption."
+  },
+  {
+    "id": "voc-675",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"liable\" mean?",
+    "correct": "Rentan / bertanggung jawab",
+    "explanation": "Liable = rentan. Contoh: Liable to selection bias."
+  },
+  {
+    "id": "voc-676",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"likewise\" mean?",
+    "correct": "Demikian pula",
+    "explanation": "Likewise = demikian pula. Contoh: Likewise, the placebo tests pass."
+  },
+  {
+    "id": "voc-677",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"magnitude\" mean?",
+    "correct": "Besaran",
+    "explanation": "Magnitude = besaran. Contoh: Effects of modest magnitude."
+  },
+  {
+    "id": "voc-678",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"manifest\" mean?",
+    "correct": "Nyata / mewujudkan",
+    "explanation": "Manifest = nyata. Contoh: Bias may manifest in the tails."
+  },
+  {
+    "id": "voc-679",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"marginal\" mean?",
+    "correct": "Marjinal",
+    "explanation": "Marginal = marjinal. Contoh: Marginal treatment effects."
+  },
+  {
+    "id": "voc-680",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"mechanism\" mean?",
+    "correct": "Mekanisme",
+    "explanation": "Mechanism = mekanisme. Contoh: The mechanism remains unclear."
+  },
+  {
+    "id": "voc-681",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"mediate\" mean?",
+    "correct": "Memediasi",
+    "explanation": "Mediate = memediasi. Contoh: Factors that mediate the effect."
+  },
+  {
+    "id": "voc-682",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"methodology\" mean?",
+    "correct": "Metodologi",
+    "explanation": "Methodology = metodologi. Contoh: Transparent methodology."
+  },
+  {
+    "id": "voc-683",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"migrate\" mean?",
+    "correct": "Bermigrasi",
+    "explanation": "Migrate = bermigrasi. Contoh: Estimates migrate under alternative cuts."
+  },
+  {
+    "id": "voc-684",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"minimal\" mean?",
+    "correct": "Minimal",
+    "explanation": "Minimal = minimal. Contoh: Minimal detectable effect."
+  },
+  {
+    "id": "voc-685",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"minimize\" mean?",
+    "correct": "Meminimalkan",
+    "explanation": "Minimize = meminimalkan. Contoh: Minimize researcher degrees of freedom."
+  },
+  {
+    "id": "voc-686",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"moderate\" mean?",
+    "correct": "Sedang / memoderasi",
+    "explanation": "Moderate = memoderasi. Contoh: Variables that moderate the effect."
+  },
+  {
+    "id": "voc-687",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"modify\" mean?",
+    "correct": "Memodifikasi",
+    "explanation": "Modify = memodifikasi. Contoh: Modify the inclusion criteria."
+  },
+  {
+    "id": "voc-688",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"monitor\" mean?",
+    "correct": "Memantau",
+    "explanation": "Monitor = memantau. Contoh: Monitor balance after matching."
+  },
+  {
+    "id": "voc-689",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"mutual\" mean?",
+    "correct": "Saling / mutual",
+    "explanation": "Mutual = saling. Contoh: Mutual consistency of estimates."
+  },
+  {
+    "id": "voc-690",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"narrative\" mean?",
+    "correct": "Narasi",
+    "explanation": "Narrative = narasi. Contoh: A coherent causal narrative."
+  },
+  {
+    "id": "voc-691",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"negligible\" mean?",
+    "correct": "Dapat diabaikan",
+    "explanation": "Negligible = dapat diabaikan. Contoh: Negligible in practical terms."
+  },
+  {
+    "id": "voc-692",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"neutral\" mean?",
+    "correct": "Netral",
+    "explanation": "Neutral = netral. Contoh: A value-neutral description."
+  },
+  {
+    "id": "voc-693",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"nominal\" mean?",
+    "correct": "Nominal",
+    "explanation": "Nominal = nominal. Contoh: Nominal significance levels."
+  },
+  {
+    "id": "voc-694",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"nonetheless\" mean?",
+    "correct": "Meskipun demikian",
+    "explanation": "Nonetheless = meskipun demikian."
+  },
+  {
+    "id": "voc-695",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"norm\" mean?",
+    "correct": "Norma",
+    "explanation": "Norm = norma. Contoh: Professional norms of reporting."
+  },
+  {
+    "id": "voc-696",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"notable\" mean?",
+    "correct": "Menonjol",
+    "explanation": "Notable = menonjol. Contoh: A notable exception."
+  },
+  {
+    "id": "voc-697",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"notify\" mean?",
+    "correct": "Memberitahu",
+    "explanation": "Notify = memberitahu. Contoh: Notify readers of deviations."
+  },
+  {
+    "id": "voc-698",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"notion\" mean?",
+    "correct": "Gagasan",
+    "explanation": "Notion = gagasan. Contoh: The notion of external validity."
+  },
+  {
+    "id": "voc-699",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"notwithstanding\" mean?",
+    "correct": "Meskipun",
+    "explanation": "Notwithstanding = meskipun. Contoh: Notwithstanding these limits."
+  },
+  {
+    "id": "voc-700",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"novel\" mean?",
+    "correct": "Baru / novel",
+    "explanation": "Novel = baru. Contoh: A novel identification strategy."
+  },
+  {
+    "id": "voc-701",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"nuance\" mean?",
+    "correct": "Nuansa",
+    "explanation": "Nuance = nuansa. Contoh: Important nuance in interpretation."
+  },
+  {
+    "id": "voc-702",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"objective\" mean?",
+    "correct": "Objektif / tujuan",
+    "explanation": "Objective = objektif. Contoh: Objective measures of performance."
+  },
+  {
+    "id": "voc-703",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"obligation\" mean?",
+    "correct": "Kewajiban",
+    "explanation": "Obligation = kewajiban. Contoh: Obligation to share data."
+  },
+  {
+    "id": "voc-704",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"obscure\" mean?",
+    "correct": "Mengaburkan",
+    "explanation": "Obscure = mengaburkan. Contoh: Choices that obscure uncertainty."
+  },
+  {
+    "id": "voc-705",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"obtain\" mean?",
+    "correct": "Memperoleh",
+    "explanation": "Obtain = memperoleh. Contoh: Obtain tighter bounds."
+  },
+  {
+    "id": "voc-706",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"obvious\" mean?",
+    "correct": "Jelas",
+    "explanation": "Obvious = jelas. Contoh: The most obvious threat to validity."
+  },
+  {
+    "id": "voc-707",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"occupation\" mean?",
+    "correct": "Pekerjaan / okupasi",
+    "explanation": "Occupation = pekerjaan. Contoh: Occupation-level controls."
+  },
+  {
+    "id": "voc-708",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"occur\" mean?",
+    "correct": "Terjadi",
+    "explanation": "Occur = terjadi. Contoh: Failures that occur under stress."
+  },
+  {
+    "id": "voc-709",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"odds\" mean?",
+    "correct": "Peluang / odds",
+    "explanation": "Odds = peluang. Contoh: Odds of false discovery."
+  },
+  {
+    "id": "voc-710",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"offset\" mean?",
+    "correct": "Mengimbangi",
+    "explanation": "Offset = mengimbangi. Contoh: Gains offset by later losses."
+  },
+  {
+    "id": "voc-711",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"omission\" mean?",
+    "correct": "Penghilangan",
+    "explanation": "Omission = penghilangan. Contoh: Omission of key confounders."
+  },
+  {
+    "id": "voc-712",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"ongoing\" mean?",
+    "correct": "Berlangsung",
+    "explanation": "Ongoing = berlangsung. Contoh: Ongoing debates in the literature."
+  },
+  {
+    "id": "voc-713",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"option\" mean?",
+    "correct": "Opsi",
+    "explanation": "Option = opsi. Contoh: A less parametric option."
+  },
+  {
+    "id": "voc-714",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"orient\" mean?",
+    "correct": "Mengorientasikan",
+    "explanation": "Orient = mengarahkan. Contoh: Orient the discussion toward policy."
+  },
+  {
+    "id": "voc-715",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"outcome\" mean?",
+    "correct": "Hasil / outcome",
+    "explanation": "Outcome = hasil. Contoh: Primary outcome measures."
+  },
+  {
+    "id": "voc-716",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"outline\" mean?",
+    "correct": "Menguraikan garis besar",
+    "explanation": "Outline = menguraikan. Contoh: Outline the identification strategy."
+  },
+  {
+    "id": "voc-717",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"output\" mean?",
+    "correct": "Keluaran",
+    "explanation": "Output = keluaran. Contoh: Model output under stress tests."
+  },
+  {
+    "id": "voc-718",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"overall\" mean?",
+    "correct": "Keseluruhan",
+    "explanation": "Overall = keseluruhan. Contoh: Overall pattern of results."
+  },
+  {
+    "id": "voc-719",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"overlap\" mean?",
+    "correct": "Tumpang tindih",
+    "explanation": "Overlap = tumpang tindih. Contoh: Limited covariate overlap."
+  },
+  {
+    "id": "voc-720",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"oversee\" mean?",
+    "correct": "Mengawasi",
+    "explanation": "Oversee = mengawasi. Contoh: Bodies that oversee compliance."
+  },
+  {
+    "id": "voc-721",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"panel\" mean?",
+    "correct": "Panel (data)",
+    "explanation": "Panel = panel. Contoh: Panel data methods."
+  },
+  {
+    "id": "voc-722",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"parameter\" mean?",
+    "correct": "Parameter",
+    "explanation": "Parameter = parameter. Contoh: Structural parameters of interest."
+  },
+  {
+    "id": "voc-723",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"partial\" mean?",
+    "correct": "Sebagian",
+    "explanation": "Partial = sebagian. Contoh: Partial identification."
+  },
+  {
+    "id": "voc-724",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"passive\" mean?",
+    "correct": "Pasif",
+    "explanation": "Passive = pasif. Contoh: Passive observation of behavior."
+  },
+  {
+    "id": "voc-725",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"pattern\" mean?",
+    "correct": "Pola",
+    "explanation": "Pattern = pola. Contoh: A consistent pattern across studies."
+  },
+  {
+    "id": "voc-726",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"peak\" mean?",
+    "correct": "Puncak",
+    "explanation": "Peak = puncak. Contoh: Peak effects in the short run."
+  },
+  {
+    "id": "voc-727",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"perceive\" mean?",
+    "correct": "Mempersepsikan",
+    "explanation": "Perceive = mempersepsikan. Contoh: How agents perceive risk."
+  },
+  {
+    "id": "voc-728",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"period\" mean?",
+    "correct": "Periode",
+    "explanation": "Period = periode. Contoh: The sample period."
+  },
+  {
+    "id": "voc-729",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"persist\" mean?",
+    "correct": "Bertahan",
+    "explanation": "Persist = bertahan. Contoh: Effects that persist over time."
+  },
+  {
+    "id": "voc-730",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"phase\" mean?",
+    "correct": "Fase",
+    "explanation": "Phase = fase. Contoh: Pilot phase of the trial."
+  },
+  {
+    "id": "voc-731",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"phenomenon\" mean?",
+    "correct": "Fenomena",
+    "explanation": "Phenomenon = fenomena. Contoh: A well-documented phenomenon."
+  },
+  {
+    "id": "voc-732",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"plausible\" mean?",
+    "correct": "Masuk akal",
+    "explanation": "Plausible = masuk akal. Contoh: Plausible alternative stories."
+  },
+  {
+    "id": "voc-733",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"plot\" mean?",
+    "correct": "Plot / menggambarkan",
+    "explanation": "Plot = plot. Contoh: Plot residuals against fitted values."
+  },
+  {
+    "id": "voc-734",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"policy\" mean?",
+    "correct": "Kebijakan",
+    "explanation": "Policy = kebijakan. Contoh: Policy-relevant magnitudes."
+  },
+  {
+    "id": "voc-735",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"pool\" mean?",
+    "correct": "Menggabungkan",
+    "explanation": "Pool = menggabungkan. Contoh: Pool estimates across sites."
+  },
+  {
+    "id": "voc-736",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"portion\" mean?",
+    "correct": "Bagian",
+    "explanation": "Portion = bagian. Contoh: A non-trivial portion of the effect."
+  },
+  {
+    "id": "voc-737",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"pose\" mean?",
+    "correct": "Menimbulkan (masalah)",
+    "explanation": "Pose = menimbulkan. Contoh: Pose a threat to identification."
+  },
+  {
+    "id": "voc-738",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"position\" mean?",
+    "correct": "Posisi",
+    "explanation": "Position = posisi. Contoh: The authors' position on external validity."
+  },
+  {
+    "id": "voc-739",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"positive\" mean?",
+    "correct": "Positif",
+    "explanation": "Positive = positif. Contoh: Positive and significant coefficients."
+  },
+  {
+    "id": "voc-740",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"potential\" mean?",
+    "correct": "Potensial",
+    "explanation": "Potential = potensial. Contoh: Potential outcomes framework."
+  },
+  {
+    "id": "voc-741",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"pragmatic\" mean?",
+    "correct": "Pragmatis",
+    "explanation": "Pragmatic = pragmatis. Contoh: A pragmatic compromise."
+  },
+  {
+    "id": "voc-742",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"precede\" mean?",
+    "correct": "Mendahului",
+    "explanation": "Precede = mendahului. Contoh: Shocks that precede the reform."
+  },
+  {
+    "id": "voc-743",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"precise\" mean?",
+    "correct": "Presisi",
+    "explanation": "Precise = presisi. Contoh: More precise under larger samples."
+  },
+  {
+    "id": "voc-744",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"preclude\" mean?",
+    "correct": "Menutup kemungkinan",
+    "explanation": "Preclude = menutup. Contoh: Designs that preclude certain biases."
+  },
+  {
+    "id": "voc-745",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"predict\" mean?",
+    "correct": "Memprediksi",
+    "explanation": "Predict = memprediksi. Contoh: Predict out of sample."
+  },
+  {
+    "id": "voc-746",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"predominant\" mean?",
+    "correct": "Dominan",
+    "explanation": "Predominant = dominan. Contoh: The predominant explanation."
+  },
+  {
+    "id": "voc-747",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"preliminary\" mean?",
+    "correct": "Pendahuluan",
+    "explanation": "Preliminary = pendahuluan. Contoh: Preliminary robustness checks."
+  },
+  {
+    "id": "voc-748",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"premise\" mean?",
+    "correct": "Premis",
+    "explanation": "Premise = premis. Contoh: The central premise of the argument."
+  },
+  {
+    "id": "voc-749",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"premium\" mean?",
+    "correct": "Premi / kelebihan harga",
+    "explanation": "Premium = premi. Contoh: A risk premium."
+  },
+  {
+    "id": "voc-750",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"prescribe\" mean?",
+    "correct": "Menentukan / meresepkan",
+    "explanation": "Prescribe = menentukan. Contoh: Guidelines that prescribe reporting standards."
+  },
+  {
+    "id": "voc-751",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"preserve\" mean?",
+    "correct": "Mempertahankan",
+    "explanation": "Preserve = mempertahankan. Contoh: Preserve the original coding."
+  },
+  {
+    "id": "voc-752",
+    "section": "vocabulary",
+    "category": "meaning",
+    "difficulty": "hard",
+    "question": "What does the word \"prevail\" mean?",
+    "correct": "Berlaku / unggul",
+    "explanation": "Prevail = berlaku. Contoh: Assumptions that still prevail."
   }
 ]

@@ -2698,5 +2698,185 @@
     ],
     "correct": 1,
     "explanation": "Whose identification strategy."
+  },
+  {
+    "id": "we-181",
+    "section": "written-expression",
+    "category": "subject-verb-agreement",
+    "difficulty": "hard",
+    "question": "Each of the alternative estimators / yield / point estimates / within a narrow band.",
+    "options": [
+      "Each of the alternative estimators",
+      "yield",
+      "point estimates",
+      "within a narrow band"
+    ],
+    "correct": 1,
+    "explanation": "Each \u2192 yields."
+  },
+  {
+    "id": "we-182",
+    "section": "written-expression",
+    "category": "verb-tenses",
+    "difficulty": "hard",
+    "question": "The authors claim they / register / the plan / before seeing outcomes.",
+    "options": [
+      "The authors claim they",
+      "register",
+      "the plan",
+      "before seeing outcomes"
+    ],
+    "correct": 1,
+    "explanation": "Had registered / registered (past)."
+  },
+  {
+    "id": "we-183",
+    "section": "written-expression",
+    "category": "parallel-structure",
+    "difficulty": "hard",
+    "question": "Good practice includes pre-registration, / sharing code, / and / analysts are blinded.",
+    "options": [
+      "Good practice includes pre-registration",
+      "sharing code",
+      "and",
+      "analysts are blinded"
+    ],
+    "correct": 3,
+    "explanation": "Parallel nouns: and blinded analysis."
+  },
+  {
+    "id": "we-184",
+    "section": "written-expression",
+    "category": "word-form",
+    "difficulty": "hard",
+    "question": "The / stable / of the estimates / across specifications is reassuring.",
+    "options": [
+      "The",
+      "stable",
+      "of the estimates",
+      "across specifications is reassuring"
+    ],
+    "correct": 1,
+    "explanation": "Noun: stability."
+  },
+  {
+    "id": "we-185",
+    "section": "written-expression",
+    "category": "prepositions",
+    "difficulty": "hard",
+    "question": "Results are consistent / to / findings / from administrative data.",
+    "options": [
+      "Results are consistent",
+      "to",
+      "findings",
+      "from administrative data"
+    ],
+    "correct": 1,
+    "explanation": "Consistent with."
+  },
+  {
+    "id": "we-186",
+    "section": "written-expression",
+    "category": "relative-clauses",
+    "difficulty": "hard",
+    "question": "Covariates / who / fail balance tests / were dropped from the preferred specification.",
+    "options": [
+      "Covariates",
+      "who",
+      "fail balance tests",
+      "were dropped from the preferred specification"
+    ],
+    "correct": 1,
+    "explanation": "Which/that."
+  },
+  {
+    "id": "we-187",
+    "section": "written-expression",
+    "category": "comparatives",
+    "difficulty": "hard",
+    "question": "This approach is / more superior / when / attrition is non-random.",
+    "options": [
+      "This approach is",
+      "more superior",
+      "when",
+      "attrition is non-random"
+    ],
+    "correct": 1,
+    "explanation": "Superior already comparative."
+  },
+  {
+    "id": "we-188",
+    "section": "written-expression",
+    "category": "verb-tenses",
+    "difficulty": "hard",
+    "question": "If the weights / would have been / normalized, / the margins would sum to one.",
+    "options": [
+      "If the weights",
+      "would have been",
+      "normalized",
+      "the margins would sum to one"
+    ],
+    "correct": 1,
+    "explanation": "Had been."
+  },
+  {
+    "id": "we-189",
+    "section": "written-expression",
+    "category": "word-form",
+    "difficulty": "hard",
+    "question": "A / caution / interpretation / is warranted given the sample size.",
+    "options": [
+      "A",
+      "caution",
+      "interpretation",
+      "is warranted given the sample size"
+    ],
+    "correct": 1,
+    "explanation": "Adjective: cautious."
+  },
+  {
+    "id": "we-190",
+    "section": "written-expression",
+    "category": "prepositions",
+    "difficulty": "hard",
+    "question": "The claim rests / in / a strong form / of exogenous selection.",
+    "options": [
+      "The claim rests",
+      "in",
+      "a strong form",
+      "of exogenous selection"
+    ],
+    "correct": 1,
+    "explanation": "Rests on."
+  },
+  {
+    "id": "we-191",
+    "section": "written-expression",
+    "category": "subject-verb-agreement",
+    "difficulty": "hard",
+    "question": "What matters most / are / the credibility / of the design.",
+    "options": [
+      "What matters most",
+      "are",
+      "the credibility",
+      "of the design"
+    ],
+    "correct": 1,
+    "explanation": "Singular complement \u2192 is."
+  },
+  {
+    "id": "we-192",
+    "section": "written-expression",
+    "category": "articles",
+    "difficulty": "hard",
+    "question": "She received / a / honorary / fellowship for the contribution.",
+    "options": [
+      "She received",
+      "a",
+      "honorary",
+      "fellowship for the contribution"
+    ],
+    "correct": 1,
+    "explanation": "An honorary."
   }
 ]

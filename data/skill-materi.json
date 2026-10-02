@@ -4730,5 +4730,550 @@
     ],
     "remember_id": "**Subject:** I he she we they · **Object:** me him her us them. *for you and **me***",
     "remember_en": "**Subject:** I he she we they · **Object:** me him her us them. *for you and **me***"
+  },
+  {
+    "skillId": "skill-44",
+    "code": "WE44",
+    "title_en": "Distinguish possessive adjectives and pronouns",
+    "title_id": "Bedakan possessive adjective dan possessive pronoun",
+    "group_en": "Problems with Pronouns",
+    "group_id": "Masalah Pronoun",
+    "summary_id": "**Possessive adjective** (my, your, their…) **harus** diikuti noun. **Possessive pronoun** (mine, yours, theirs…) **tidak** diikuti noun.",
+    "summary_en": "A **possessive adjective** (my, your, their…) **must** be followed by a noun. A **possessive pronoun** (mine, yours, theirs…) **cannot** be followed by a noun.",
+    "formula": [
+      {
+        "label": "Dua jenis",
+        "en": "ADJECTIVE (+ noun): my · your · his · her · its · our · their\nPRONOUN (no noun):  mine · yours · his · hers · its · ours · theirs",
+        "id": "ADJECTIVE (+ noun): my · your · his · her · its · our · their\nPRONOUN (tanpa noun): mine · yours · his · hers · its · ours · theirs"
+      },
+      {
+        "label": "Benar",
+        "en": "They lent me their book.\nThey lent me theirs.",
+        "id": "They lent me their book.\nThey lent me theirs."
+      },
+      {
+        "label": "Salah → benar",
+        "en": "theirs* newspapers → their newspapers\ngive me your* → give me yours",
+        "id": "theirs* newspapers → their newspapers\ngive me your* → give me yours"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Adjective + noun wajib",
+        "title_en": "1. Adjective must take a noun",
+        "body_id": "their book · my laptop · our results — bukan their / my / our sendirian sebagai objek penuh.",
+        "body_en": "their book · my laptop · our results — not bare their / my / our as a full object."
+      },
+      {
+        "title_id": "2. Pronoun berdiri sendiri",
+        "title_en": "2. Pronoun stands alone",
+        "body_id": "This laptop is mine. · That copy is yours. · These seats are theirs.",
+        "body_en": "This laptop is mine. · That copy is yours. · These seats are theirs."
+      },
+      {
+        "title_id": "3. his / its sama bentuk",
+        "title_en": "3. his / its look the same",
+        "body_id": "his book (adj) · This book is his (pronoun). its cover (adj) — its jarang sebagai pronoun mandiri.",
+        "body_en": "his book (adj) · This book is his (pronoun). its cover (adj) — its rarely stands alone as a pronoun."
+      },
+      {
+        "title_id": "4. Cek: ada noun setelahnya?",
+        "title_en": "4. Check: is a noun right after it?",
+        "body_id": "Ada noun → pakai adjective (their). Tidak ada → pakai pronoun (theirs).",
+        "body_en": "Noun follows → adjective (their). No noun → pronoun (theirs)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "Each morning they read _____ newspapers.",
+        "options": [
+          "theirs",
+          "their",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "why_en": "newspapers follows → possessive adjective their.",
+        "why_id": "Ada newspapers → possessive adjective their."
+      },
+      {
+        "id": "ex2",
+        "stem": "Could you give me _____?",
+        "options": [
+          "your",
+          "yours",
+          "you",
+          "yourself"
+        ],
+        "correct": 1,
+        "why_en": "No noun after → possessive pronoun yours.",
+        "why_id": "Tidak ada noun setelahnya → possessive pronoun yours."
+      },
+      {
+        "id": "ex3",
+        "stem": "This codebook is _____.",
+        "options": [
+          "our",
+          "ours",
+          "us",
+          "we"
+        ],
+        "correct": 1,
+        "why_en": "Stands alone after is → ours.",
+        "why_id": "Berdiri sendiri setelah is → ours."
+      }
+    ],
+    "checklist_id": [
+      "Ada noun langsung setelah possessive? → adjective (my/your/their…).",
+      "Tidak ada noun? → pronoun (mine/yours/theirs…).",
+      "theirs newspapers* / your* (sendirian sebagai objek) = error.",
+      "his/its: cek fungsi, bentuk sama.",
+      "This is mine / That is theirs = pronoun."
+    ],
+    "checklist_en": [
+      "Noun right after the possessive? → adjective (my/your/their…).",
+      "No noun? → pronoun (mine/yours/theirs…).",
+      "theirs newspapers* / bare your* as object = error.",
+      "his/its: same form — check function.",
+      "This is mine / That is theirs = pronoun."
+    ],
+    "remember_id": "**their book** · **theirs** (tanpa noun). *theirs newspapers* ✗ · *give me your* ✗",
+    "remember_en": "**their book** · **theirs** (no noun). *theirs newspapers* ✗ · *give me your* ✗"
+  },
+  {
+    "skillId": "skill-45",
+    "code": "WE45",
+    "title_en": "Check pronoun reference for agreement",
+    "title_id": "Cek agreement pronoun dengan noun acuan",
+    "group_en": "Problems with Pronouns",
+    "group_id": "Masalah Pronoun",
+    "summary_id": "Setiap pronoun/possessive harus **agree** (singular/plural, gender jika relevan) dengan noun yang digantikannya. *boys → them* · *everyone → his/her* (bukan their di TOEFL formal).",
+    "summary_en": "Every pronoun/possessive must **agree** (singular/plural, gender when relevant) with the noun it refers to. *boys → them* · *everyone → his/her* (not their in formal TOEFL style).",
+    "formula": [
+      {
+        "label": "Cek mundur",
+        "en": "Find the pronoun → find its antecedent noun → match number (and gender if needed).",
+        "id": "Cari pronoun → cari noun acuan → samakan number (dan gender jika perlu)."
+      },
+      {
+        "label": "Salah → benar",
+        "en": "The boys… if you let him* → them\nEveryone must give their* name → his or her name",
+        "id": "The boys… if you let him* → them\nEveryone must give their* name → his or her name"
+      },
+      {
+        "label": "Singular indefinite",
+        "en": "everyone · everybody · anyone · anybody · someone · somebody · no one · nobody · each · either · neither\n→ singular pronoun (he/she/his/her) in formal TOEFL",
+        "id": "everyone · everybody · anyone · anybody · someone · somebody · no one · nobody · each · either · neither\n→ pronoun singular (he/she/his/her) di TOEFL formal"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Plural noun → plural pronoun",
+        "title_en": "1. Plural noun → plural pronoun",
+        "body_id": "The boys… them · The samples… they/them · The analysts… their.",
+        "body_en": "The boys… them · The samples… they/them · The analysts… their."
+      },
+      {
+        "title_id": "2. Singular noun → singular pronoun",
+        "title_en": "2. Singular noun → singular pronoun",
+        "body_id": "The student… he/she · The report… it · Each file… its.",
+        "body_en": "The student… he/she · The report… it · Each file… its."
+      },
+      {
+        "title_id": "3. everyone/anybody = singular di TOEFL",
+        "title_en": "3. everyone/anybody = singular on TOEFL",
+        "body_id": "Everyone must give his or her name — bukan their (meski bahasa modern sering their).",
+        "body_en": "Everyone must give his or her name — not their (even if modern English often uses their)."
+      },
+      {
+        "title_id": "4. Cek ke belakang dalam kalimat",
+        "title_en": "4. Check back in the sentence",
+        "body_id": "Antecedent biasanya noun lebih awal; pastikan number cocok.",
+        "body_en": "The antecedent is usually an earlier noun; make sure the number matches."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "The boys will cause trouble if you let _____.",
+        "options": [
+          "him",
+          "them",
+          "he",
+          "it"
+        ],
+        "correct": 1,
+        "why_en": "boys is plural → them.",
+        "why_id": "boys plural → them."
+      },
+      {
+        "id": "ex2",
+        "stem": "Everyone must give _____ name.",
+        "options": [
+          "their",
+          "his or her",
+          "them",
+          "they"
+        ],
+        "correct": 1,
+        "why_en": "everyone is singular in formal TOEFL → his or her.",
+        "why_id": "everyone singular di TOEFL formal → his or her."
+      },
+      {
+        "id": "ex3",
+        "stem": "Each sample was labeled before _____ was stored.",
+        "options": [
+          "they",
+          "them",
+          "it",
+          "their"
+        ],
+        "correct": 2,
+        "why_en": "Each sample is singular → it.",
+        "why_id": "Each sample singular → it."
+      }
+    ],
+    "checklist_id": [
+      "Cari antecedent (noun yang diacu).",
+      "Singular antecedent → singular pronoun.",
+      "Plural antecedent → plural pronoun.",
+      "everyone/anybody/each → singular (his/her/it).",
+      "Jangan their untuk everyone di gaya TOEFL formal."
+    ],
+    "checklist_en": [
+      "Find the antecedent noun.",
+      "Singular antecedent → singular pronoun.",
+      "Plural antecedent → plural pronoun.",
+      "everyone/anybody/each → singular (his/her/it).",
+      "Avoid their for everyone in formal TOEFL style."
+    ],
+    "remember_id": "**Agree with the antecedent.** *boys → **them*** · *everyone → **his or her***",
+    "remember_en": "**Agree with the antecedent.** *boys → **them*** · *everyone → **his or her***"
+  },
+  {
+    "skillId": "skill-46",
+    "code": "WE46",
+    "title_en": "Use basic adjectives and adverbs correctly",
+    "title_id": "Pakai adjective dan adverb dasar dengan benar",
+    "group_en": "Adjectives and Adverbs",
+    "group_id": "Adjective dan Adverb",
+    "summary_id": "**Adjective** mendeskripsikan **noun/pronoun**. **Adverb** mendeskripsikan **verb, adjective, atau adverb lain**. *large table* · *talked quickly* · *extremely long*.",
+    "summary_en": "An **adjective** describes a **noun/pronoun**. An **adverb** describes a **verb, adjective, or another adverb**. *large table* · *talked quickly* · *extremely long*.",
+    "formula": [
+      {
+        "label": "Adjective",
+        "en": "describes noun or pronoun\na beautiful woman · She is beautiful.",
+        "id": "mendeskripsikan noun atau pronoun\na beautiful woman · She is beautiful."
+      },
+      {
+        "label": "Adverb",
+        "en": "describes verb / adjective / adverb\nsings beautifully · beautifully dressed · truly beautifully dressed",
+        "id": "mendeskripsikan verb / adjective / adverb\nsings beautifully · beautifully dressed · truly beautifully dressed"
+      },
+      {
+        "label": "Salah → benar",
+        "en": "a largely* table → a large table\ntalked quick* → talked quickly\nan extreme* long story → an extremely long story",
+        "id": "a largely* table → a large table\ntalked quick* → talked quickly\nan extreme* long story → an extremely long story"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Di depan noun → biasanya adjective",
+        "title_en": "1. Before a noun → usually adjective",
+        "body_id": "a large table · a recent report — bukan largely table.",
+        "body_en": "a large table · a recent report — not largely table."
+      },
+      {
+        "title_id": "2. Memodifikasi verb → adverb",
+        "title_en": "2. Modifying a verb → adverb",
+        "body_id": "talked quickly · arrived late · works hard.",
+        "body_en": "talked quickly · arrived late · works hard."
+      },
+      {
+        "title_id": "3. Memodifikasi adjective → adverb",
+        "title_en": "3. Modifying an adjective → adverb",
+        "body_id": "extremely long · carefully designed · highly effective.",
+        "body_en": "extremely long · carefully designed · highly effective."
+      },
+      {
+        "title_id": "4. -ly sering adverb, tapi bukan selalu",
+        "title_en": "4. -ly is often adverb, not always",
+        "body_id": "friendly, lonely = adjective. Cek fungsi, bukan hanya akhiran.",
+        "body_en": "friendly, lonely = adjectives. Check function, not only the ending."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "They were seated at a _____ table.",
+        "options": [
+          "largely",
+          "large",
+          "largeness",
+          "larger"
+        ],
+        "correct": 1,
+        "why_en": "Modifies noun table → adjective large.",
+        "why_id": "Memodifikasi noun table → adjective large."
+      },
+      {
+        "id": "ex2",
+        "stem": "The child talked _____ to her mother.",
+        "options": [
+          "quick",
+          "quickly",
+          "quickness",
+          "quicker"
+        ],
+        "correct": 1,
+        "why_en": "Modifies verb talked → adverb quickly.",
+        "why_id": "Memodifikasi verb talked → adverb quickly."
+      },
+      {
+        "id": "ex3",
+        "stem": "We read an _____ long story.",
+        "options": [
+          "extreme",
+          "extremely",
+          "extremity",
+          "extremes"
+        ],
+        "correct": 1,
+        "why_en": "Modifies adjective long → adverb extremely.",
+        "why_id": "Memodifikasi adjective long → adverb extremely."
+      }
+    ],
+    "checklist_id": [
+      "Yang dimodifikasi noun/pronoun? → adjective.",
+      "Yang dimodifikasi verb? → adverb.",
+      "Yang dimodifikasi adjective/adverb? → adverb.",
+      "largely table* / talked quick* / extreme long* = error.",
+      "Jangan andalkan -ly saja (friendly = adj)."
+    ],
+    "checklist_en": [
+      "Modifying a noun/pronoun? → adjective.",
+      "Modifying a verb? → adverb.",
+      "Modifying an adjective/adverb? → adverb.",
+      "largely table* / talked quick* / extreme long* = errors.",
+      "Do not rely on -ly alone (friendly = adj)."
+    ],
+    "remember_id": "**Adj → noun.** **Adv → verb/adj/adv.** *large table* · *talked **quickly*** · ***extremely** long*",
+    "remember_en": "**Adj → noun.** **Adv → verb/adj/adv.** *large table* · *talked **quickly*** · ***extremely** long*"
+  },
+  {
+    "skillId": "skill-47",
+    "code": "WE47",
+    "title_en": "Use adjectives after linking verbs",
+    "title_id": "Pakai adjective setelah linking verb",
+    "group_en": "Adjectives and Adverbs",
+    "group_id": "Adjective dan Adverb",
+    "summary_id": "Setelah **linking verb** (be, look, seem, feel, become, appear, prove, smell, taste…), pakai **adjective** yang mendeskripsikan subject — bukan adverb. *She looks **nice**.* Adverb boleh hanya jika memodifikasi adjective: *unusually nice*.",
+    "summary_en": "After a **linking verb** (be, look, seem, feel, become, appear, prove, smell, taste…), use an **adjective** that describes the subject — not an adverb. *She looks **nice**.* An adverb is OK only if it modifies the adjective: *unusually nice*.",
+    "formula": [
+      {
+        "label": "Regular verb",
+        "en": "subject + regular verb + adverb\nShe spoke nicely.",
+        "id": "subject + regular verb + adverb\nShe spoke nicely."
+      },
+      {
+        "label": "Linking verb",
+        "en": "subject + linking verb + adjective\nShe looks nice.\nHe seems unusually nice.  (adv + adj)",
+        "id": "subject + linking verb + adjective\nShe looks nice.\nHe seems unusually nice.  (adv + adj)"
+      },
+      {
+        "label": "Linking verbs umum",
+        "en": "appear · be · become · feel · look · prove · seem · smell · taste",
+        "id": "appear · be · become · feel · look · prove · seem · smell · taste"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Linking verb + adjective",
+        "title_en": "1. Linking verb + adjective",
+        "body_id": "The plan looks solid. · She feels confident. · It seems ready.",
+        "body_en": "The plan looks solid. · She feels confident. · It seems ready."
+      },
+      {
+        "title_id": "2. Bukan adverb setelah linking verb (untuk subject)",
+        "title_en": "2. Not an adverb after linking verb (for the subject)",
+        "body_id": "looks nicely* → looks nice. feels badly* (untuk kesehatan/emosi) → feels bad.",
+        "body_en": "looks nicely* → looks nice. feels badly* (for health/emotion) → feels bad."
+      },
+      {
+        "title_id": "3. Adv + adj setelah linking verb OK",
+        "title_en": "3. Adv + adj after linking verb is OK",
+        "body_id": "seems unusually quiet · appears highly effective.",
+        "body_en": "seems unusually quiet · appears highly effective."
+      },
+      {
+        "title_id": "4. Regular verb tetap + adverb",
+        "title_en": "4. Regular verbs still take adverbs",
+        "body_id": "She looked carefully at the chart. (look = regular action, not linking).",
+        "body_en": "She looked carefully at the chart. (look = regular action, not linking)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "She looks _____ in that report photo.",
+        "options": [
+          "nicely",
+          "nice",
+          "niceness",
+          "more nicely"
+        ],
+        "correct": 1,
+        "why_en": "looks is linking → adjective nice.",
+        "why_id": "looks linking → adjective nice."
+      },
+      {
+        "id": "ex2",
+        "stem": "He seems _____ prepared for the audit.",
+        "options": [
+          "unusual",
+          "unusually",
+          "unusualness",
+          "more unusual"
+        ],
+        "correct": 1,
+        "why_en": "unusually modifies prepared (adj); linking + adv + adj OK.",
+        "why_id": "unusually memodifikasi prepared; linking + adv + adj OK."
+      },
+      {
+        "id": "ex3",
+        "stem": "She spoke _____ during the briefing.",
+        "options": [
+          "clear",
+          "clearly",
+          "clarity",
+          "clearer"
+        ],
+        "correct": 1,
+        "why_en": "spoke is a regular verb → adverb clearly.",
+        "why_id": "spoke regular verb → adverb clearly."
+      }
+    ],
+    "checklist_id": [
+      "Verb = linking (be/look/seem/feel…)?",
+      "Ya → adjective untuk subject (looks nice).",
+      "Adv hanya jika memodifikasi adjective (unusually nice).",
+      "Regular verb → adverb (spoke clearly).",
+      "look carefully at… = regular look, bukan linking."
+    ],
+    "checklist_en": [
+      "Is the verb linking (be/look/seem/feel…)?",
+      "Yes → adjective for the subject (looks nice).",
+      "Adverb only if it modifies an adjective (unusually nice).",
+      "Regular verb → adverb (spoke clearly).",
+      "look carefully at… = regular look, not linking."
+    ],
+    "remember_id": "**Linking → adjective.** *looks **nice*** · *seems **unusually** quiet*",
+    "remember_en": "**Linking → adjective.** *looks **nice*** · *seems **unusually** quiet*"
+  },
+  {
+    "skillId": "skill-48",
+    "code": "WE48",
+    "title_en": "Position adjectives and adverbs correctly",
+    "title_id": "Posisikan adjective dan adverb dengan benar",
+    "group_en": "Adjectives and Adverbs",
+    "group_id": "Adjective dan Adverb",
+    "summary_id": "**Adjective satu kata** biasanya **sebelum** noun (*important information*, bukan *information important*). **Adverb** tidak boleh di **antara verb dan object-nya** (*has taken recently a course* ✗).",
+    "summary_en": "A **one-word adjective** usually comes **before** its noun (*important information*, not *information important*). An **adverb** must not sit **between a verb and its object** (*has taken recently a course* ✗).",
+    "formula": [
+      {
+        "label": "Adjective position",
+        "en": "one-word adj + noun\nthe important information ✓\nthe information important* ✗",
+        "id": "adj satu kata + noun\nthe important information ✓\nthe information important* ✗"
+      },
+      {
+        "label": "Adverb + object",
+        "en": "Do NOT put adverb between verb and object:\nhas taken recently* an English course ✗\nRecently he has taken… ✓\nHe has recently taken… ✓\nHe has taken an English course recently. ✓",
+        "id": "Jangan taruh adverb di antara verb dan object:\nhas taken recently* an English course ✗\nRecently he has taken… ✓\nHe has recently taken… ✓\nHe has taken an English course recently. ✓"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Adj satu kata di depan noun",
+        "title_en": "1. One-word adj before the noun",
+        "body_id": "a recent report · critical findings — bukan report recent*.",
+        "body_en": "a recent report · critical findings — not report recent*."
+      },
+      {
+        "title_id": "2. Adverb tidak di antara V dan object",
+        "title_en": "2. Adverb not between V and object",
+        "body_id": "submitted carefully the form* → carefully submitted the form / submitted the form carefully.",
+        "body_en": "submitted carefully the form* → carefully submitted the form / submitted the form carefully."
+      },
+      {
+        "title_id": "3. Banyak posisi adverb yang valid",
+        "title_en": "3. Many valid adverb positions",
+        "body_id": "awal kalimat · sebelum verb utama · setelah object · akhir kalimat.",
+        "body_en": "sentence start · before main verb · after object · sentence end."
+      },
+      {
+        "title_id": "4. Relative clause / phrase panjang beda",
+        "title_en": "4. Longer modifiers can follow",
+        "body_id": "information that is important · the report published last year — phrase/clause boleh setelah noun.",
+        "body_en": "information that is important · the report published last year — phrases/clauses may follow the noun."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "The _____ is on the first page.",
+        "options": [
+          "information important",
+          "important information",
+          "importantly information",
+          "information importantly"
+        ],
+        "correct": 1,
+        "why_en": "One-word adjective before noun: important information.",
+        "why_id": "Adjective satu kata sebelum noun: important information."
+      },
+      {
+        "id": "ex2",
+        "stem": "He has _____ an English course.",
+        "options": [
+          "taken recently",
+          "recently taken",
+          "recent taken",
+          "taken recent"
+        ],
+        "correct": 1,
+        "why_en": "Adverb before the main verb (not between verb and object): has recently taken.",
+        "why_id": "Adverb sebelum main verb (bukan di antara verb dan object): has recently taken."
+      },
+      {
+        "id": "ex3",
+        "stem": "She submitted the form _____.",
+        "options": [
+          "carefully",
+          "careful",
+          "carefulness",
+          "more careful"
+        ],
+        "correct": 0,
+        "why_en": "Adverb after the object is fine: submitted the form carefully.",
+        "why_id": "Adverb setelah object OK: submitted the form carefully."
+      }
+    ],
+    "checklist_id": [
+      "Adjective satu kata: sebelum noun?",
+      "Adverb: tidak di antara verb dan object?",
+      "information important* / taken recently a course* = error.",
+      "Adverb boleh: awal / sebelum V / setelah object / akhir.",
+      "Clause/phrase panjang boleh setelah noun."
+    ],
+    "checklist_en": [
+      "One-word adjective: before the noun?",
+      "Adverb: not between verb and object?",
+      "information important* / taken recently a course* = errors.",
+      "Adverb OK: start / before V / after object / end.",
+      "Long phrases/clauses may follow the noun."
+    ],
+    "remember_id": "**important information** · **has recently taken** (bukan *taken recently a course*)",
+    "remember_en": "**important information** · **has recently taken** (not *taken recently a course*)"
   }
 ]
