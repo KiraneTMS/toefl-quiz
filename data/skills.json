@@ -413,10 +413,118 @@
     "placeholder": false
   },
   {
+    "id": "skill-49",
+    "code": "WE49",
+    "section": "written-expression",
+    "group": "More Problems with Adjectives",
+    "title": "Recognize -ly adjectives",
+    "description": "weekly/daily/friendly… berakhir -ly tapi adjective (bukan adverb).",
+    "placeholder": false
+  },
+  {
+    "id": "skill-50",
+    "code": "WE50",
+    "section": "written-expression",
+    "group": "More Problems with Adjectives",
+    "title": "Predicate adjectives",
+    "description": "alive/alone/asleep/afraid/alike hanya setelah linking verb — bukan di depan noun.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-51",
+    "code": "WE51",
+    "section": "written-expression",
+    "group": "More Problems with Adjectives",
+    "title": "-ed and -ing adjectives",
+    "description": "-ing = noun melakukan aksi · -ed = noun menerima aksi.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-52",
+    "code": "WE52",
+    "section": "written-expression",
+    "group": "Problems with Articles",
+    "title": "Articles with singular nouns",
+    "description": "Countable singular wajib a/an/the (atau determiner lain) — tidak boleh tanpa article.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-53",
+    "code": "WE53",
+    "section": "written-expression",
+    "group": "Problems with Articles",
+    "title": "Distinguish a and an",
+    "description": "a + consonant sound · an + vowel sound (hati-hati h dan u).",
+    "placeholder": false
+  },
+  {
+    "id": "skill-54",
+    "code": "WE54",
+    "section": "written-expression",
+    "group": "Problems with Articles",
+    "title": "Articles agree with nouns",
+    "description": "Jangan a/an + plural noun · another + singular · other + plural.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-55",
+    "code": "WE55",
+    "section": "written-expression",
+    "group": "Problems with Articles",
+    "title": "Specific vs general articles",
+    "description": "the = spesifik/unik · a/an = umum/salah satu dari banyak.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-56",
+    "code": "WE56",
+    "section": "written-expression",
+    "group": "Problems with Prepositions",
+    "title": "Recognize incorrect prepositions",
+    "description": "Idiom preposition salah: call off (bukan on) · count on (bukan in).",
+    "placeholder": false
+  },
+  {
+    "id": "skill-57",
+    "code": "WE57",
+    "section": "written-expression",
+    "group": "Problems with Prepositions",
+    "title": "Omitted prepositions",
+    "description": "Preposition wajib hilang: wait for · plan on · listen to · depend on.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-58",
+    "code": "WE58",
+    "section": "written-expression",
+    "group": "Problems with Usage",
+    "title": "Distinguish make and do",
+    "description": "make ≈ create/construct · do ≈ complete/perform — plus idiom tetap.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-59",
+    "code": "WE59",
+    "section": "written-expression",
+    "group": "Problems with Usage",
+    "title": "Like, alike, and unlike",
+    "description": "alike predikat · like adj di depan noun / prep + object · unlike = berbeda.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-60",
+    "code": "WE60",
+    "section": "written-expression",
+    "group": "Problems with Usage",
+    "title": "Other, another, and others",
+    "description": "another = singular indefinite · others = plural pronoun · other = sisanya.",
+    "placeholder": false
+  },
+  {
     "id": "we-skill-more",
     "code": "WE…",
     "section": "written-expression",
-    "group": "Adjectives and Adverbs",
+    "group": "Problems with Usage",
     "title": "Skill berikutnya — coming soon",
     "description": "Slot untuk skill Written Expression selanjutnya.",
     "placeholder": true

@@ -5275,5 +5275,1295 @@
     ],
     "remember_id": "**important information** · **has recently taken** (bukan *taken recently a course*)",
     "remember_en": "**important information** · **has recently taken** (not *taken recently a course*)"
+  },
+  {
+    "skillId": "skill-49",
+    "code": "WE49",
+    "title_en": "Recognize -ly adjectives",
+    "title_id": "Kenali adjective berakhiran -ly",
+    "group_en": "More Problems with Adjectives",
+    "group_id": "Masalah Lain dengan Adjective",
+    "summary_id": "Kebanyakan kata **-ly** adalah adverb, tapi beberapa adalah **adjective** yang bisa mendeskripsikan noun: *weekly report*, *friendly staff*, *likely outcome*.",
+    "summary_en": "Most **-ly** words are adverbs, but some are **adjectives** that can describe nouns: *weekly report*, *friendly staff*, *likely outcome*.",
+    "formula": [
+      {
+        "label": "-ly adjectives umum",
+        "en": "costly · likely · friendly · lively · lonely · lovely · kindly · manly\nearly · daily · hourly · nightly · weekly · monthly · quarterly · yearly\nnortherly · easterly · southerly · westerly",
+        "id": "costly · likely · friendly · lively · lonely · lovely · kindly · manly\nearly · daily · hourly · nightly · weekly · monthly · quarterly · yearly\nnortherly · easterly · southerly · westerly"
+      },
+      {
+        "label": "Benar",
+        "en": "The manager turned in his weekly report.\nADJ + NOUN",
+        "id": "The manager turned in his weekly report.\nADJ + NOUN"
+      },
+      {
+        "label": "Jangan salah anggap error",
+        "en": "weekly report looks like adv + noun, but weekly is an adjective here.",
+        "id": "weekly report tampak seperti adv + noun, tapi weekly di sini adjective."
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. -ly di depan noun sering adjective",
+        "title_en": "1. -ly before a noun is often an adjective",
+        "body_id": "daily log · monthly summary · friendly reminder · likely cause.",
+        "body_en": "daily log · monthly summary · friendly reminder · likely cause."
+      },
+      {
+        "title_id": "2. Time -ly adjectives",
+        "title_en": "2. Time -ly adjectives",
+        "body_id": "hourly / daily / weekly / monthly / quarterly / yearly + noun = frekuensi sebagai adjective.",
+        "body_en": "hourly / daily / weekly / monthly / quarterly / yearly + noun = frequency as adjective."
+      },
+      {
+        "title_id": "3. Personality / cost / probability",
+        "title_en": "3. Personality / cost / probability",
+        "body_id": "friendly colleague · costly mistake · likely delay · lonely outpost.",
+        "body_en": "friendly colleague · costly mistake · likely delay · lonely outpost."
+      },
+      {
+        "title_id": "4. Bukan semua -ly = adverb error",
+        "title_en": "4. Not every -ly is an adverb error",
+        "body_id": "Jika -ly memodifikasi noun, itu adjective yang valid — jangan 'perbaiki' jadi bentuk lain tanpa perlu.",
+        "body_en": "If -ly modifies a noun, it is a valid adjective — do not 'fix' it needlessly."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "The manager submitted his _____ report.",
+        "options": [
+          "week",
+          "weekly",
+          "weeklys",
+          "weeked"
+        ],
+        "correct": 1,
+        "why_en": "weekly is an -ly adjective before report.",
+        "why_id": "weekly adalah -ly adjective sebelum report."
+      },
+      {
+        "id": "ex2",
+        "stem": "A _____ outcome is still possible.",
+        "options": [
+          "like",
+          "likely",
+          "liked",
+          "liking"
+        ],
+        "correct": 1,
+        "why_en": "likely adjective + noun outcome.",
+        "why_id": "likely adjective + noun outcome."
+      },
+      {
+        "id": "ex3",
+        "stem": "They sent a _____ reminder to all sites.",
+        "options": [
+          "friend",
+          "friendly",
+          "friends",
+          "friendless"
+        ],
+        "correct": 1,
+        "why_en": "friendly adjective + noun reminder.",
+        "why_id": "friendly adjective + noun reminder."
+      }
+    ],
+    "checklist_id": [
+      "Ada -ly di depan noun?",
+      "Termasuk daftar -ly adjective (weekly, daily, friendly, likely…)?",
+      "Ya → valid sebagai adjective, bukan error adverb.",
+      "Time words: hourly/daily/weekly/monthly/yearly.",
+      "Jangan otomatis anggap -ly = harus adverb."
+    ],
+    "checklist_en": [
+      "Is there -ly before a noun?",
+      "Is it a known -ly adjective (weekly, daily, friendly, likely…)?",
+      "Yes → valid adjective, not an adverb error.",
+      "Time words: hourly/daily/weekly/monthly/yearly.",
+      "Do not assume every -ly must be an adverb."
+    ],
+    "remember_id": "**-ly ≠ selalu adverb.** *weekly report* · *friendly staff* · *likely delay*",
+    "remember_en": "**-ly ≠ always an adverb.** *weekly report* · *friendly staff* · *likely delay*"
+  },
+  {
+    "skillId": "skill-50",
+    "code": "WE50",
+    "title_en": "Use predicate adjectives correctly",
+    "title_id": "Pakai predicate adjective dengan benar",
+    "group_en": "More Problems with Adjectives",
+    "group_id": "Masalah Lain dengan Adjective",
+    "summary_id": "**Predicate adjectives** (alive, alone, asleep, afraid, alike…) hanya setelah **linking verb**, tidak langsung di depan noun. Di depan noun pakai pasangan lain: *live/living*, *lone*, *sleeping*, *frightened*, *like/similar*.",
+    "summary_en": "**Predicate adjectives** (alive, alone, asleep, afraid, alike…) appear only after a **linking verb**, not directly before a noun. Before a noun use related forms: *live/living*, *lone*, *sleeping*, *frightened*, *like/similar*.",
+    "formula": [
+      {
+        "label": "Predicate only → form before noun",
+        "en": "alike → like, similar\nalive → live, living\nalone → lone\nafraid → frightened\nasleep → sleeping",
+        "id": "alike → like, similar\nalive → live, living\nalone → lone\nafraid → frightened\nasleep → sleeping"
+      },
+      {
+        "label": "Benar vs salah",
+        "en": "The snake was alive. ✓\nThe alive* snake… ✗ → The live / living snake…",
+        "id": "The snake was alive. ✓\nThe alive* snake… ✗ → The live / living snake…"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Setelah be/look/seem… → predicate OK",
+        "title_en": "1. After be/look/seem… → predicate OK",
+        "body_id": "She was alone. · The patients were asleep. · The twins look alike.",
+        "body_en": "She was alone. · The patients were asleep. · The twins look alike."
+      },
+      {
+        "title_id": "2. Di depan noun → ganti bentuk",
+        "title_en": "2. Before a noun → use the other form",
+        "body_id": "a living specimen · a lone outpost · a sleeping infant · a frightened child · similar results.",
+        "body_en": "a living specimen · a lone outpost · a sleeping infant · a frightened child · similar results."
+      },
+      {
+        "title_id": "3. alive ≠ live di posisi attributive",
+        "title_en": "3. alive ≠ live in attributive position",
+        "body_id": "alive snake* salah; live wire / living tissue benar.",
+        "body_en": "alive snake* is wrong; live wire / living tissue are correct."
+      },
+      {
+        "title_id": "4. alike hanya predikat",
+        "title_en": "4. alike is only predicative",
+        "body_id": "They are alike. · alike methods* → similar methods.",
+        "body_en": "They are alike. · alike methods* → similar methods."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "The snake on the rock was _____.",
+        "options": [
+          "live",
+          "alive",
+          "livingly",
+          "alively"
+        ],
+        "correct": 1,
+        "why_en": "After linking was → predicate alive.",
+        "why_id": "Setelah linking was → predicate alive."
+      },
+      {
+        "id": "ex2",
+        "stem": "The _____ snake was lying on the rock.",
+        "options": [
+          "alive",
+          "live",
+          "alively",
+          "aliveed"
+        ],
+        "correct": 1,
+        "why_en": "Before noun → live (not alive).",
+        "why_id": "Sebelum noun → live (bukan alive)."
+      },
+      {
+        "id": "ex3",
+        "stem": "The two protocols look _____.",
+        "options": [
+          "similar",
+          "alike",
+          "both A and B work",
+          "alikely"
+        ],
+        "correct": 2,
+        "why_en": "After linking look, both similar and alike work; alike is predicate-only OK here.",
+        "why_id": "Setelah linking look, similar dan alike keduanya OK; alike predikat valid di sini."
+      }
+    ],
+    "checklist_id": [
+      "Adjective = alive/alone/asleep/afraid/alike?",
+      "Setelah linking verb? → OK.",
+      "Langsung di depan noun? → ganti (live, lone, sleeping, frightened, similar).",
+      "alike methods* / alive snake* = error.",
+      "They are alike ✓ · similar methods ✓"
+    ],
+    "checklist_en": [
+      "Is the adjective alive/alone/asleep/afraid/alike?",
+      "After a linking verb? → OK.",
+      "Directly before a noun? → switch form (live, lone, sleeping, frightened, similar).",
+      "alike methods* / alive snake* = errors.",
+      "They are alike ✓ · similar methods ✓"
+    ],
+    "remember_id": "**alive/alone/asleep/afraid/alike** = predikat saja. *was **alive*** · *a **living** snake*",
+    "remember_en": "**alive/alone/asleep/afraid/alike** = predicate only. *was **alive*** · *a **living** snake*"
+  },
+  {
+    "skillId": "skill-51",
+    "code": "WE51",
+    "title_en": "Use -ed and -ing adjectives correctly",
+    "title_id": "Pakai adjective -ed dan -ing dengan benar",
+    "group_en": "More Problems with Adjectives",
+    "group_id": "Masalah Lain dengan Adjective",
+    "summary_id": "**-ing** adjective = noun **melakukan** aksi (aktif). **-ed** adjective = noun **menerima** aksi (pasif). *cleaning woman* · *cleaned car* — bukan *cleaning car* / *cleaned woman*.",
+    "summary_en": "An **-ing** adjective = the noun **does** the action (active). An **-ed** adjective = the noun **receives** the action (passive). *cleaning woman* · *cleaned car* — not *cleaning car* / *cleaned woman*.",
+    "formula": [
+      {
+        "label": "-ING (active)",
+        "en": "noun does the verb's action\nthe happily playing children (children play)\nthe cleaning woman (woman cleans)",
+        "id": "noun melakukan aksi verb\nthe happily playing children (children play)\nthe cleaning woman (woman cleans)"
+      },
+      {
+        "label": "-ED (passive)",
+        "en": "noun receives the verb's action\nthe frequently played record (someone plays it)\nthe cleaned car (someone cleaned it)",
+        "id": "noun menerima aksi verb\nthe frequently played record (seseorang memainkannya)\nthe cleaned car (seseorang membersihkannya)"
+      },
+      {
+        "label": "Salah",
+        "en": "the cleaning* car (car does not clean)\nthe cleaned* woman (woman is not being cleaned here)",
+        "id": "the cleaning* car (mobil tidak membersihkan)\nthe cleaned* woman (wanita tidak sedang dibersihkan di konteks ini)"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Tanya: siapa yang melakukan aksi?",
+        "title_en": "1. Ask: who does the action?",
+        "body_id": "Jika noun = pelaku → -ing. Jika noun = penerima → -ed.",
+        "body_en": "If the noun is the doer → -ing. If the noun is the receiver → -ed."
+      },
+      {
+        "title_id": "2. Mirip active vs passive",
+        "title_en": "2. Like active vs passive",
+        "body_id": "playing children ≈ children play · played record ≈ record is played.",
+        "body_en": "playing children ≈ children play · played record ≈ record is played."
+      },
+      {
+        "title_id": "3. Feelings: -ed vs -ing",
+        "title_en": "3. Feelings: -ed vs -ing",
+        "body_id": "interested student (receives interest) · interesting lecture (causes interest).",
+        "body_en": "interested student (receives interest) · interesting lecture (causes interest)."
+      },
+      {
+        "title_id": "4. Object tidak 'melakukan' aksi transitif",
+        "title_en": "4. Objects do not 'do' transitive actions",
+        "body_id": "written report · published paper · locked door — biasanya -ed.",
+        "body_en": "written report · published paper · locked door — usually -ed."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "The _____ woman worked on the car.",
+        "options": [
+          "cleaned",
+          "cleaning",
+          "clean",
+          "cleans"
+        ],
+        "correct": 1,
+        "why_en": "Woman does the cleaning → cleaning.",
+        "why_id": "Woman melakukan cleaning → cleaning."
+      },
+      {
+        "id": "ex2",
+        "stem": "She put the _____ car back in the garage.",
+        "options": [
+          "cleaning",
+          "cleaned",
+          "cleanly",
+          "cleans"
+        ],
+        "correct": 1,
+        "why_en": "Car receives cleaning → cleaned.",
+        "why_id": "Car menerima cleaning → cleaned."
+      },
+      {
+        "id": "ex3",
+        "stem": "The lecture was so _____ that several students stayed after class.",
+        "options": [
+          "interested",
+          "interesting",
+          "interest",
+          "interests"
+        ],
+        "correct": 1,
+        "why_en": "Lecture causes interest → interesting.",
+        "why_id": "Lecture menimbulkan interest → interesting."
+      }
+    ],
+    "checklist_id": [
+      "Noun pelaku aksi? → -ing.",
+      "Noun penerima aksi? → -ed.",
+      "cleaning car* / cleaned woman* (salah konteks) = error.",
+      "interesting (penyebab) vs interested (yang merasa).",
+      "published paper / locked door → biasanya -ed."
+    ],
+    "checklist_en": [
+      "Noun does the action? → -ing.",
+      "Noun receives the action? → -ed.",
+      "cleaning car* / cleaned woman* (wrong sense) = errors.",
+      "interesting (causes) vs interested (feels).",
+      "published paper / locked door → usually -ed."
+    ],
+    "remember_id": "**-ing** = pelaku · **-ed** = penerima. *cleaning woman* · *cleaned car*",
+    "remember_en": "**-ing** = doer · **-ed** = receiver. *cleaning woman* · *cleaned car*"
+  },
+  {
+    "skillId": "skill-52",
+    "code": "WE52",
+    "title_en": "Use articles with singular nouns",
+    "title_id": "Pakai article dengan singular noun",
+    "group_en": "Problems with Articles",
+    "group_id": "Masalah Article",
+    "summary_id": "**Countable singular** harus punya **a / an / the** (atau determiner lain: my, each…). Plural dan uncountable boleh tanpa article.",
+    "summary_en": "A **countable singular** noun must have **a / an / the** (or another determiner: my, each…). Plurals and uncountables may appear with no article.",
+    "formula": [
+      {
+        "label": "Wajib article (singular countable)",
+        "en": "I have a book. ✓\nI have book.* ✗",
+        "id": "I have a book. ✓\nI have book.* ✗"
+      },
+      {
+        "label": "Boleh tanpa article",
+        "en": "I have books. (plural)\nI have money. (uncountable)",
+        "id": "I have books. (plural)\nI have money. (uncountable)"
+      },
+      {
+        "label": "Determiner lain OK",
+        "en": "my book · each sample · this report · one file\n(no need for a/an/the in addition)",
+        "id": "my book · each sample · this report · one file\n(tidak perlu a/an/the tambahan)"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Singular countable → harus determiner",
+        "title_en": "1. Singular countable → must have a determiner",
+        "body_id": "a report · an estimate · the protocol — bukan report* sendirian.",
+        "body_en": "a report · an estimate · the protocol — not bare report*."
+      },
+      {
+        "title_id": "2. a vs an",
+        "title_en": "2. a vs an",
+        "body_id": "a sebelum konsonan sound · an sebelum vowel sound (an hour, an SOP).",
+        "body_en": "a before consonant sounds · an before vowel sounds (an hour, an SOP)."
+      },
+      {
+        "title_id": "3. Plural / uncountable boleh Ø",
+        "title_en": "3. Plural / uncountable may take Ø",
+        "body_id": "Samples were stored… · Evidence supports…",
+        "body_en": "Samples were stored… · Evidence supports…"
+      },
+      {
+        "title_id": "4. Jangan dobel determiner",
+        "title_en": "4. Do not double determiners",
+        "body_id": "the my book* · a each sample* — salah.",
+        "body_en": "the my book* · a each sample* — wrong."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "I have _____ book on the shelf.",
+        "options": [
+          "—",
+          "a",
+          "some",
+          "many"
+        ],
+        "correct": 1,
+        "why_en": "Singular countable book needs an article → a.",
+        "why_id": "Singular countable book butuh article → a."
+      },
+      {
+        "id": "ex2",
+        "stem": "I have _____ books on the shelf.",
+        "options": [
+          "a",
+          "an",
+          "— (no article OK)",
+          "the each"
+        ],
+        "correct": 2,
+        "why_en": "Plural books may have no article.",
+        "why_id": "Plural books boleh tanpa article."
+      },
+      {
+        "id": "ex3",
+        "stem": "_____ sample must be labeled before storage.",
+        "options": [
+          "—",
+          "A",
+          "Some",
+          "Many"
+        ],
+        "correct": 1,
+        "why_en": "Singular sample needs A/An/The.",
+        "why_id": "Singular sample butuh A/An/The."
+      }
+    ],
+    "checklist_id": [
+      "Noun singular countable?",
+      "Ada a/an/the atau my/each/this/one…?",
+      "Tidak ada → error.",
+      "Plural/uncountable → boleh tanpa article.",
+      "a + consonant sound · an + vowel sound."
+    ],
+    "checklist_en": [
+      "Is the noun singular countable?",
+      "Is there a/an/the or my/each/this/one…?",
+      "If not → error.",
+      "Plural/uncountable → no article is OK.",
+      "a + consonant sound · an + vowel sound."
+    ],
+    "remember_id": "**Singular countable → article/determiner wajib.** *a book* · bukan *book**",
+    "remember_en": "**Singular countable → article/determiner required.** *a book* · not *book**"
+  },
+  {
+    "skillId": "skill-53",
+    "code": "WE53",
+    "title_en": "Distinguish a and an",
+    "title_id": "Bedakan a dan an",
+    "group_en": "Problems with Articles",
+    "group_id": "Masalah Article",
+    "summary_id": "**a** di depan **consonant sound**, **an** di depan **vowel sound**. Bukan huruf tertulis — suara. Hati-hati **h** (honor → an) dan **u** (university → a).",
+    "summary_en": "**a** before a **consonant sound**, **an** before a **vowel sound**. Base it on sound, not spelling. Watch **h** (honor → an) and **u** (university → a).",
+    "formula": [
+      {
+        "label": "Dasar",
+        "en": "a + consonant sound: a book · a man · a page\nan + vowel sound: an orange · an illness · an automobile",
+        "id": "a + consonant sound: a book · a man · a page\nan + vowel sound: an orange · an illness · an automobile"
+      },
+      {
+        "label": "U dan H",
+        "en": "a university · a unit  (u = /ju/)\nan unhappy man · an understanding\na hospital · a heart\nan honor · an herb  (h silent)",
+        "id": "a university · a unit  (u = /ju/)\nan unhappy man · an understanding\na hospital · a heart\nan honor · an herb  (h tidak dilafalkan)"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Dengarkan suara pertama",
+        "title_en": "1. Listen to the first sound",
+        "body_id": "an SOP · an MRI · an hour · a USB · a one-time fee.",
+        "body_en": "an SOP · an MRI · an hour · a USB · a one-time fee."
+      },
+      {
+        "title_id": "2. u seperti 'you' → a",
+        "title_en": "2. u like 'you' → a",
+        "body_id": "a university · a unique ID · a useful tool.",
+        "body_en": "a university · a unique ID · a useful tool."
+      },
+      {
+        "title_id": "3. h diam → an",
+        "title_en": "3. Silent h → an",
+        "body_id": "an hour · an honor · an honest review · an heir.",
+        "body_en": "an hour · an honor · an honest review · an heir."
+      },
+      {
+        "title_id": "4. h dilafalkan → a",
+        "title_en": "4. Pronounced h → a",
+        "body_id": "a hospital · a hypothesis · a high threshold.",
+        "body_en": "a hospital · a hypothesis · a high threshold."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "She works at _____ university near the coast.",
+        "options": [
+          "an",
+          "a",
+          "the the",
+          "—"
+        ],
+        "correct": 1,
+        "why_en": "university begins with /ju/ consonant sound → a.",
+        "why_id": "university dimulai /ju/ → a."
+      },
+      {
+        "id": "ex2",
+        "stem": "It took _____ hour to finish the checks.",
+        "options": [
+          "a",
+          "an",
+          "the the",
+          "—"
+        ],
+        "correct": 1,
+        "why_en": "hour has silent h → vowel sound → an.",
+        "why_id": "hour h diam → an."
+      },
+      {
+        "id": "ex3",
+        "stem": "They proposed _____ honest assessment of risk.",
+        "options": [
+          "a",
+          "an",
+          "the the",
+          "—"
+        ],
+        "correct": 1,
+        "why_en": "honest has silent h → an.",
+        "why_id": "honest h diam → an."
+      }
+    ],
+    "checklist_id": [
+      "Suara pertama vowel atau consonant?",
+      "Vowel sound → an.",
+      "Consonant sound → a.",
+      "university/unique/useful → a.",
+      "hour/honor/honest → an."
+    ],
+    "checklist_en": [
+      "First sound vowel or consonant?",
+      "Vowel sound → an.",
+      "Consonant sound → a.",
+      "university/unique/useful → a.",
+      "hour/honor/honest → an."
+    ],
+    "remember_id": "**a** + consonant sound · **an** + vowel sound. *a university* · *an hour*",
+    "remember_en": "**a** + consonant sound · **an** + vowel sound. *a university* · *an hour*"
+  },
+  {
+    "skillId": "skill-54",
+    "code": "WE54",
+    "title_en": "Make articles agree with nouns",
+    "title_id": "Samakan article dengan noun",
+    "group_en": "Problems with Articles",
+    "group_id": "Masalah Article",
+    "summary_id": "**a / an** hanya untuk **singular**. Jangan *a movies* · *a mountains*. **another** + singular · **other** + plural.",
+    "summary_en": "**a / an** only with **singular** nouns. Never *a movies* · *a mountains*. **another** + singular · **other** + plural.",
+    "formula": [
+      {
+        "label": "Jangan a/an + plural",
+        "en": "a new movie ✓ · new movies ✓\na new movies* ✗",
+        "id": "a new movie ✓ · new movies ✓\na new movies* ✗"
+      },
+      {
+        "label": "another vs other",
+        "en": "another book (singular)\nother books (plural)\nanother books* ✗",
+        "id": "another book (singular)\nother books (plural)\nanother books* ✗"
+      },
+      {
+        "label": "the OK untuk singular & plural",
+        "en": "the report · the reports — both fine",
+        "id": "the report · the reports — keduanya OK"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. a/an = singular only",
+        "title_en": "1. a/an = singular only",
+        "body_id": "a sample · an error — bukan a samples* · an errors*.",
+        "body_en": "a sample · an error — not a samples* · an errors*."
+      },
+      {
+        "title_id": "2. Plural → Ø atau the/some/many…",
+        "title_en": "2. Plural → Ø or the/some/many…",
+        "body_id": "nearby mountains · the nearby mountains — bukan a nearby mountains*.",
+        "body_en": "nearby mountains · the nearby mountains — not a nearby mountains*."
+      },
+      {
+        "title_id": "3. another vs other",
+        "title_en": "3. another vs other",
+        "body_id": "another file · other files · the other files.",
+        "body_en": "another file · other files · the other files."
+      },
+      {
+        "title_id": "4. Perbaiki dengan singular atau buang a/an",
+        "title_en": "4. Fix by singularizing or dropping a/an",
+        "body_id": "a new movies* → a new movie ATAU new movies.",
+        "body_en": "a new movies* → a new movie OR new movies."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "He saw _____ new movies last week.",
+        "options": [
+          "a",
+          "an",
+          "— (no a/an)",
+          "another"
+        ],
+        "correct": 2,
+        "why_en": "movies is plural → no a/an.",
+        "why_id": "movies plural → tanpa a/an."
+      },
+      {
+        "id": "ex2",
+        "stem": "Do you have _____ books on this topic?",
+        "options": [
+          "another",
+          "other",
+          "an other",
+          "a"
+        ],
+        "correct": 1,
+        "why_en": "books plural → other (not another).",
+        "why_id": "books plural → other (bukan another)."
+      },
+      {
+        "id": "ex3",
+        "stem": "Do you have _____ book on this topic?",
+        "options": [
+          "other",
+          "another",
+          "others",
+          "an other"
+        ],
+        "correct": 1,
+        "why_en": "book singular → another.",
+        "why_id": "book singular → another."
+      }
+    ],
+    "checklist_id": [
+      "Ada a/an di depan plural? → error.",
+      "another + plural? → ganti other.",
+      "other + singular? → ganti another.",
+      "the boleh singular maupun plural.",
+      "Perbaiki: jadikan singular ATAU hapus a/an."
+    ],
+    "checklist_en": [
+      "a/an before a plural? → error.",
+      "another + plural? → use other.",
+      "other + singular? → use another.",
+      "the works for singular and plural.",
+      "Fix: make singular OR drop a/an."
+    ],
+    "remember_id": "**Never a/an + plural.** *a movie* · *movies* · *another book* · *other books*",
+    "remember_en": "**Never a/an + plural.** *a movie* · *movies* · *another book* · *other books*"
+  },
+  {
+    "skillId": "skill-55",
+    "code": "WE55",
+    "title_en": "Distinguish specific and general ideas",
+    "title_id": "Bedakan ide spesifik dan umum (the vs a/an)",
+    "group_en": "Problems with Articles",
+    "group_id": "Masalah Article",
+    "summary_id": "**the** = spesifik / satu-satunya / sudah diketahui. **a/an** = umum / salah satu dari banyak / tidak penting yang mana.",
+    "summary_en": "**the** = specific / the only one / already identified. **a/an** = general / one of many / which one does not matter.",
+    "formula": [
+      {
+        "label": "THE (specific)",
+        "en": "Tom will bring the book. (one known book)\nthe first Tuesday in July (only one)\nthe Pacific Ocean (unique)",
+        "id": "Tom will bring the book. (satu buku yang diketahui)\nthe first Tuesday in July (hanya satu)\nthe Pacific Ocean (unik)"
+      },
+      {
+        "label": "A / AN (general)",
+        "en": "Tom will bring a book. (any book)\na Tuesday in July (one of several)\nan ocean (any ocean)",
+        "id": "Tom will bring a book. (buku mana saja)\na Tuesday in July (salah satu dari beberapa)\nan ocean (lautan mana saja)"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Unik / superlatif / ordinal → the",
+        "title_en": "1. Unique / superlative / ordinal → the",
+        "body_id": "the sun · the best estimate · the first sample · the Pacific.",
+        "body_en": "the sun · the best estimate · the first sample · the Pacific."
+      },
+      {
+        "title_id": "2. Sudah disebut / diketahui bersama → the",
+        "title_en": "2. Already mentioned / shared knowledge → the",
+        "body_id": "Open a file… Now edit the file.",
+        "body_en": "Open a file… Now edit the file."
+      },
+      {
+        "title_id": "3. Pertama kali / salah satu dari banyak → a/an",
+        "title_en": "3. First mention / one of many → a/an",
+        "body_id": "She needs a reviewer. · They ordered a freezer.",
+        "body_en": "She needs a reviewer. · They ordered a freezer."
+      },
+      {
+        "title_id": "4. Jangan the untuk ide generik singular baru",
+        "title_en": "4. Avoid the for a brand-new generic singular",
+        "body_id": "Bring the book* (jika belum spesifik) → Bring a book.",
+        "body_en": "Bring the book* (if not specific yet) → Bring a book."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "Tom will bring _____ book we discussed yesterday.",
+        "options": [
+          "a",
+          "an",
+          "the",
+          "—"
+        ],
+        "correct": 2,
+        "why_en": "Specific book already identified → the.",
+        "why_id": "Buku spesifik yang sudah dibahas → the."
+      },
+      {
+        "id": "ex2",
+        "stem": "Tom will bring _____ book tomorrow (any title is fine).",
+        "options": [
+          "the",
+          "a",
+          "—",
+          "an the"
+        ],
+        "correct": 1,
+        "why_en": "Any book → a.",
+        "why_id": "Buku mana saja → a."
+      },
+      {
+        "id": "ex3",
+        "stem": "They will arrive on _____ first Tuesday in July.",
+        "options": [
+          "a",
+          "an",
+          "the",
+          "—"
+        ],
+        "correct": 2,
+        "why_en": "Only one first Tuesday → the.",
+        "why_id": "Hanya satu first Tuesday → the."
+      }
+    ],
+    "checklist_id": [
+      "Noun unik / ordinal / superlatif? → the.",
+      "Sudah disebut sebelumnya? → the.",
+      "Salah satu dari banyak / tidak penting yang mana? → a/an.",
+      "the Pacific · the sun · the best model.",
+      "a book · an ocean · a Tuesday."
+    ],
+    "checklist_en": [
+      "Unique / ordinal / superlative? → the.",
+      "Already mentioned? → the.",
+      "One of many / which one does not matter? → a/an.",
+      "the Pacific · the sun · the best model.",
+      "a book · an ocean · a Tuesday."
+    ],
+    "remember_id": "**the** = spesifik/unik · **a/an** = umum. *the book we discussed* · *a book*",
+    "remember_en": "**the** = specific/unique · **a/an** = general. *the book we discussed* · *a book*"
+  },
+  {
+    "skillId": "skill-56",
+    "code": "WE56",
+    "title_en": "Recognize incorrect prepositions",
+    "title_id": "Kenali preposition yang salah (idiom)",
+    "group_en": "Problems with Prepositions",
+    "group_id": "Masalah Preposition",
+    "summary_id": "Banyak preposition di TOEFL **idiomatik** (bukan makna literal). Error umum: *called on* (harusnya *called off*) · *count in* (harusnya *count on*).",
+    "summary_en": "Many TOEFL prepositions are **idiomatic** (not literal). Common errors: *called on* (should be *called off*) · *count in* (should be *count on*).",
+    "formula": [
+      {
+        "label": "Contoh idiom",
+        "en": "call off = cancel\ncount on = rely on\nsucceed in + -ing\ndepend on · consist of · interested in · responsible for",
+        "id": "call off = batalkan\ncount on = andalkan\nsucceed in + -ing\ndepend on · consist of · interested in · responsible for"
+      },
+      {
+        "label": "Salah → benar",
+        "en": "called on* because of rain → called off\ncount in* you → count on you",
+        "id": "called on* because of rain → called off\ncount in* you → count on you"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Jangan tebak dari makna literal saja",
+        "title_en": "1. Do not rely on literal meaning alone",
+        "body_id": "call up = telephone · look up = search · put off = postpone.",
+        "body_en": "call up = telephone · look up = search · put off = postpone."
+      },
+      {
+        "title_id": "2. Verb + preposition tetap",
+        "title_en": "2. Fixed verb + preposition pairs",
+        "body_id": "depend on · insist on · consist of · result in · focus on · comply with.",
+        "body_en": "depend on · insist on · consist of · result in · focus on · comply with."
+      },
+      {
+        "title_id": "3. Adjective + preposition tetap",
+        "title_en": "3. Fixed adjective + preposition pairs",
+        "body_id": "interested in · responsible for · aware of · capable of · similar to.",
+        "body_en": "interested in · responsible for · aware of · capable of · similar to."
+      },
+      {
+        "title_id": "4. Latih mengenali pasangan yang 'terasa salah'",
+        "title_en": "4. Train recognition of pairs that 'feel wrong'",
+        "body_id": "Jika pasangan jarang/aneh di English formal, kemungkinan error preposition.",
+        "body_en": "If a pairing is rare/odd in formal English, it may be a preposition error."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "The game was called _____ because of rain.",
+        "options": [
+          "on",
+          "off",
+          "in",
+          "up"
+        ],
+        "correct": 1,
+        "why_en": "call off = cancel.",
+        "why_id": "call off = batalkan."
+      },
+      {
+        "id": "ex2",
+        "stem": "I knew I could count _____ you to finish on time.",
+        "options": [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        "correct": 1,
+        "why_en": "count on = rely on.",
+        "why_id": "count on = andalkan."
+      },
+      {
+        "id": "ex3",
+        "stem": "She succeeded _____ passing the certification.",
+        "options": [
+          "on",
+          "at",
+          "in",
+          "for"
+        ],
+        "correct": 2,
+        "why_en": "succeed in + -ing.",
+        "why_id": "succeed in + -ing."
+      }
+    ],
+    "checklist_id": [
+      "Preposition setelah verb/adj terasa aneh?",
+      "Cek idiom: call off, count on, depend on, consist of…",
+      "succeed in · interested in · responsible for.",
+      "Jangan ganti hanya karena makna literal.",
+      "Pairing jarang di formal English → kemungkinan salah."
+    ],
+    "checklist_en": [
+      "Does the preposition after verb/adj feel odd?",
+      "Check idioms: call off, count on, depend on, consist of…",
+      "succeed in · interested in · responsible for.",
+      "Do not change only for literal meaning.",
+      "Rare pairing in formal English → may be wrong."
+    ],
+    "remember_id": "**call off** · **count on** · **succeed in** · **depend on** — bukan on/in yang 'terasa' literal.",
+    "remember_en": "**call off** · **count on** · **succeed in** · **depend on** — not the 'literal-feeling' wrong preposition."
+  },
+  {
+    "skillId": "skill-57",
+    "code": "WE57",
+    "title_en": "Recognize when prepositions have been omitted",
+    "title_id": "Kenali preposition yang hilang",
+    "group_en": "Problems with Prepositions",
+    "group_id": "Masalah Preposition",
+    "summary_id": "Kadang preposition **wajib** tapi **dihilangkan**. *wait me** → *wait **for** me* · *plan attending** → *plan **on** attending*.",
+    "summary_en": "Sometimes a **required** preposition is **missing**. *wait me** → *wait **for** me* · *plan attending** → *plan **on** attending*.",
+    "formula": [
+      {
+        "label": "Contoh wajib + prep",
+        "en": "wait for · plan on · listen to · depend on · rely on\napprove of · consist of · succeed in · insist on · focus on",
+        "id": "wait for · plan on · listen to · depend on · rely on\napprove of · consist of · succeed in · insist on · focus on"
+      },
+      {
+        "label": "Salah → benar",
+        "en": "wait* me → wait for me\nplan* attending → plan on attending\nlisten* the recording → listen to the recording",
+        "id": "wait* me → wait for me\nplan* attending → plan on attending\nlisten* the recording → listen to the recording"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Verb + object orang/hal sering butuh prep",
+        "title_en": "1. Verb + person/thing object often needs a prep",
+        "body_id": "wait for someone · listen to something · look at / for · search for.",
+        "body_en": "wait for someone · listen to something · look at / for · search for."
+      },
+      {
+        "title_id": "2. Verb + -ing sering butuh prep",
+        "title_en": "2. Verb + -ing often needs a prep",
+        "body_id": "plan on attending · succeed in locking · insist on reviewing.",
+        "body_en": "plan on attending · succeed in locking · insist on reviewing."
+      },
+      {
+        "title_id": "3. Jangan hilangkan prep idiomatik",
+        "title_en": "3. Do not drop idiomatic prepositions",
+        "body_id": "depend on funding* (bukan depend funding) · approve of the change.",
+        "body_en": "depend on funding (not depend funding) · approve of the change."
+      },
+      {
+        "title_id": "4. Beberapa verb transitif tanpa prep",
+        "title_en": "4. Some verbs take a direct object (no prep)",
+        "body_id": "attend the meeting · enter the room · discuss the plan — tanpa for/in.",
+        "body_en": "attend the meeting · enter the room · discuss the plan — no for/in."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "Can you wait _____ me after the briefing?",
+        "options": [
+          "— (nothing)",
+          "for",
+          "to",
+          "on"
+        ],
+        "correct": 1,
+        "why_en": "wait for someone.",
+        "why_id": "wait for someone."
+      },
+      {
+        "id": "ex2",
+        "stem": "I plan _____ attending the steering meeting.",
+        "options": [
+          "— (nothing)",
+          "on",
+          "to",
+          "for"
+        ],
+        "correct": 1,
+        "why_en": "plan on + -ing.",
+        "why_id": "plan on + -ing."
+      },
+      {
+        "id": "ex3",
+        "stem": "Please listen _____ the full recording first.",
+        "options": [
+          "— (nothing)",
+          "to",
+          "at",
+          "for"
+        ],
+        "correct": 1,
+        "why_en": "listen to something.",
+        "why_id": "listen to something."
+      }
+    ],
+    "checklist_id": [
+      "Verb + orang/hal: apakah butuh for/to/on…?",
+      "Verb + -ing: plan on · succeed in · insist on?",
+      "wait me* · plan attending* · listen the tape* = error.",
+      "attend/discuss/enter sering tanpa prep.",
+      "depend/rely + on wajib."
+    ],
+    "checklist_en": [
+      "Verb + person/thing: need for/to/on…?",
+      "Verb + -ing: plan on · succeed in · insist on?",
+      "wait me* · plan attending* · listen the tape* = errors.",
+      "attend/discuss/enter often take no prep.",
+      "depend/rely + on is required."
+    ],
+    "remember_id": "**wait for** · **plan on** · **listen to** — jangan hilangkan prep wajib.",
+    "remember_en": "**wait for** · **plan on** · **listen to** — do not drop required prepositions."
+  },
+  {
+    "skillId": "skill-58",
+    "code": "WE58",
+    "title_en": "Distinguish make and do",
+    "title_id": "Bedakan make dan do",
+    "group_en": "Problems with Usage",
+    "group_id": "Masalah Penggunaan Kata",
+    "summary_id": "**make** ≈ menciptakan / menyusun (*make a mistake, make a plan*). **do** ≈ menyelesaikan / melakukan tugas (*do the work, do the dishes*). Banyak pasangan **idiomatik**.",
+    "summary_en": "**make** ≈ create / construct (*make a mistake, make a plan*). **do** ≈ complete / perform a task (*do the work, do the dishes*). Many pairings are **idiomatic**.",
+    "formula": [
+      {
+        "label": "MAKE (create / construct)",
+        "en": "make clothes · make a cake · make a mistake · make a response\nmake a plan · make a decision · make progress · make an effort",
+        "id": "make clothes · make a cake · make a mistake · make a response\nmake a plan · make a decision · make progress · make an effort"
+      },
+      {
+        "label": "DO (complete / perform)",
+        "en": "do the dishes · do the assignments · do the work · do the laundry\ndo research · do a job · do one's best · do harm",
+        "id": "do the dishes · do the assignments · do the work · do the laundry\ndo research · do a job · do one's best · do harm"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. make = hasil / ciptaan",
+        "title_en": "1. make = product / creation",
+        "body_id": "make a report · make changes · make a list · make an appointment.",
+        "body_en": "make a report · make changes · make a list · make an appointment."
+      },
+      {
+        "title_id": "2. do = aktivitas / tugas",
+        "title_en": "2. do = activity / task",
+        "body_id": "do the analysis · do homework · do business · do someone a favor.",
+        "body_en": "do the analysis · do homework · do business · do someone a favor."
+      },
+      {
+        "title_id": "3. Idiom tetap (hafalkan pasangan)",
+        "title_en": "3. Fixed idioms (learn the pairs)",
+        "body_id": "make a mistake (bukan do) · do research (bukan make) · make progress · do one's best.",
+        "body_en": "make a mistake (not do) · do research (not make) · make progress · do one's best."
+      },
+      {
+        "title_id": "4. Jika ragu, cek: create vs perform",
+        "title_en": "4. When unsure, ask: create vs perform",
+        "body_id": "Creating something → make. Performing a duty/task → do.",
+        "body_en": "Creating something → make. Performing a duty/task → do."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "If you _____ a mistake, correct it immediately.",
+        "options": [
+          "do",
+          "make",
+          "did",
+          "made do"
+        ],
+        "correct": 1,
+        "why_en": "make a mistake is the fixed pair.",
+        "why_id": "make a mistake = pasangan tetap."
+      },
+      {
+        "id": "ex2",
+        "stem": "The students are _____ the assignments now.",
+        "options": [
+          "making",
+          "doing",
+          "make",
+          "do"
+        ],
+        "correct": 1,
+        "why_en": "do the assignments = perform the task.",
+        "why_id": "do the assignments = melakukan tugas."
+      },
+      {
+        "id": "ex3",
+        "stem": "They hope to _____ progress before the review.",
+        "options": [
+          "do",
+          "make",
+          "did",
+          "done"
+        ],
+        "correct": 1,
+        "why_en": "make progress is idiomatic.",
+        "why_id": "make progress = idiom."
+      }
+    ],
+    "checklist_id": [
+      "Create / construct / produce? → make.",
+      "Complete / perform a task? → do.",
+      "make a mistake · make a decision · make progress.",
+      "do the work · do research · do one's best.",
+      "Jangan tukar pasangan idiom."
+    ],
+    "checklist_en": [
+      "Create / construct / produce? → make.",
+      "Complete / perform a task? → do.",
+      "make a mistake · make a decision · make progress.",
+      "do the work · do research · do one's best.",
+      "Do not swap fixed idiomatic pairs."
+    ],
+    "remember_id": "**make** = cipta · **do** = kerjakan. *make a mistake* · *do the work*",
+    "remember_en": "**make** = create · **do** = perform. *make a mistake* · *do the work*"
+  },
+  {
+    "skillId": "skill-59",
+    "code": "WE59",
+    "title_en": "Distinguish like, alike, and unlike",
+    "title_id": "Bedakan like, alike, dan unlike",
+    "group_en": "Problems with Usage",
+    "group_id": "Masalah Penggunaan Kata",
+    "summary_id": "**alike** = adjective predikat (*are alike*). **like** = adj di depan noun (*like manner*) ATAU preposition + object (*like Tom*). **unlike** = preposition “berbeda dari”.",
+    "summary_en": "**alike** = predicate adjective (*are alike*). **like** = adjective before a noun (*like manner*) OR preposition + object (*like Tom*). **unlike** = preposition meaning “different from”.",
+    "formula": [
+      {
+        "label": "Adjective",
+        "en": "alike — after linking verb only: John and Tom are alike.\nlike — before a noun: in a like manner",
+        "id": "alike — hanya setelah linking verb: John and Tom are alike.\nlike — di depan noun: in a like manner"
+      },
+      {
+        "label": "Preposition (+ object)",
+        "en": "like Tom = similar to Tom\nunlike Tom = different from Tom\nLike Tom, John is tall. / Unlike Tom, John is tall.",
+        "id": "like Tom = mirip Tom\nunlike Tom = berbeda dari Tom\nLike Tom, John is tall. / Unlike Tom, John is tall."
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. alike tidak di depan noun",
+        "title_en": "1. alike not before a noun",
+        "body_id": "alike methods* → similar methods · They are alike ✓.",
+        "body_en": "alike methods* → similar methods · They are alike ✓."
+      },
+      {
+        "title_id": "2. like / unlike prep wajib object",
+        "title_en": "2. like / unlike as preps need an object",
+        "body_id": "like the pilot · unlike the previous version.",
+        "body_en": "like the pilot · unlike the previous version."
+      },
+      {
+        "title_id": "3. Awal kalimat OK untuk prep",
+        "title_en": "3. Sentence-initial prep is fine",
+        "body_id": "Like the pilot, the full study… · Unlike last year…",
+        "body_en": "Like the pilot, the full study… · Unlike last year…"
+      },
+      {
+        "title_id": "4. like adj ≠ like prep",
+        "title_en": "4. like adj ≠ like prep",
+        "body_id": "a like response (adj) · like the control arm (prep).",
+        "body_en": "a like response (adj) · like the control arm (prep)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "John and Tom are _____.",
+        "options": [
+          "like",
+          "alike",
+          "unlike",
+          "likely"
+        ],
+        "correct": 1,
+        "why_en": "Predicate after are → alike.",
+        "why_id": "Predikat setelah are → alike."
+      },
+      {
+        "id": "ex2",
+        "stem": "They worked in a _____ manner.",
+        "options": [
+          "alike",
+          "like",
+          "unlike",
+          "likely"
+        ],
+        "correct": 1,
+        "why_en": "Adjective before noun → like.",
+        "why_id": "Adjective di depan noun → like."
+      },
+      {
+        "id": "ex3",
+        "stem": "_____ the pilot, the full study uses dual review.",
+        "options": [
+          "Alike",
+          "Like",
+          "Likely",
+          "Alikely"
+        ],
+        "correct": 1,
+        "why_en": "Preposition + object at start → Like.",
+        "why_id": "Preposition + object di awal → Like."
+      }
+    ],
+    "checklist_id": [
+      "Setelah linking verb (are/seem)? → alike.",
+      "Di depan noun (manner/response)? → like (adj).",
+      "Mirip X → like X (prep).",
+      "Berbeda dari X → unlike X.",
+      "alike methods* = error."
+    ],
+    "checklist_en": [
+      "After linking verb (are/seem)? → alike.",
+      "Before a noun (manner/response)? → like (adj).",
+      "Similar to X → like X (prep).",
+      "Different from X → unlike X.",
+      "alike methods* = error."
+    ],
+    "remember_id": "**are alike** · **like manner** · **like Tom** · **unlike Tom**",
+    "remember_en": "**are alike** · **like manner** · **like Tom** · **unlike Tom**"
+  },
+  {
+    "skillId": "skill-60",
+    "code": "WE60",
+    "title_en": "Distinguish other, another, and others",
+    "title_id": "Bedakan other, another, dan others",
+    "group_en": "Problems with Usage",
+    "group_id": "Masalah Penggunaan Kata",
+    "summary_id": "**another** = singular indefinite (*another book / another*). **others** = plural **pronoun** saja (*others*). **other** = adjective atau dengan *the* (*other books · the other · the others*).",
+    "summary_en": "**another** = singular indefinite (*another book / another*). **others** = plural **pronoun** only (*others*). **other** = adjective or with *the* (*other books · the other · the others*).",
+    "formula": [
+      {
+        "label": "Singular indefinite",
+        "en": "another book (adj) · another (pro)",
+        "id": "another book (adj) · another (pro)"
+      },
+      {
+        "label": "Singular definite",
+        "en": "the other book (adj) · the other (pro)",
+        "id": "the other book (adj) · the other (pro)"
+      },
+      {
+        "label": "Plural indefinite",
+        "en": "other books (adj) · others (pro)",
+        "id": "other books (adj) · others (pro)"
+      },
+      {
+        "label": "Plural definite",
+        "en": "the other books (adj) · the others (pro)",
+        "id": "the other books (adj) · the others (pro)"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. another = one more (singular, indefinite)",
+        "title_en": "1. another = one more (singular, indefinite)",
+        "body_id": "another sample · I need another. — bukan another samples*.",
+        "body_en": "another sample · I need another. — not another samples*."
+      },
+      {
+        "title_id": "2. others = plural pronoun only",
+        "title_en": "2. others = plural pronoun only",
+        "body_id": "Some sites joined; others declined. — bukan others sites*.",
+        "body_en": "Some sites joined; others declined. — not others sites*."
+      },
+      {
+        "title_id": "3. other + plural noun (indefinite)",
+        "title_en": "3. other + plural noun (indefinite)",
+        "body_id": "other files · other methods.",
+        "body_en": "other files · other methods."
+      },
+      {
+        "title_id": "4. the other / the others = definite",
+        "title_en": "4. the other / the others = definite",
+        "body_id": "the other endpoint · the others were archived.",
+        "body_en": "the other endpoint · the others were archived."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "I have _____ book on this shelf.",
+        "options": [
+          "other",
+          "another",
+          "others",
+          "the others"
+        ],
+        "correct": 1,
+        "why_en": "Singular indefinite → another.",
+        "why_id": "Singular indefinite → another."
+      },
+      {
+        "id": "ex2",
+        "stem": "I have _____ books on this shelf.",
+        "options": [
+          "another",
+          "other",
+          "others",
+          "an other"
+        ],
+        "correct": 1,
+        "why_en": "Plural indefinite adjective → other.",
+        "why_id": "Plural indefinite adjective → other."
+      },
+      {
+        "id": "ex3",
+        "stem": "Some files were locked; _____ were left open.",
+        "options": [
+          "other",
+          "another",
+          "others",
+          "the other"
+        ],
+        "correct": 2,
+        "why_en": "Plural pronoun → others.",
+        "why_id": "Plural pronoun → others."
+      }
+    ],
+    "checklist_id": [
+      "Singular + indefinite? → another.",
+      "Plural adjective + noun? → other (+ books).",
+      "Plural pronoun sendirian? → others.",
+      "Definite? → the other / the others / the other books.",
+      "another books* · others sites* = error."
+    ],
+    "checklist_en": [
+      "Singular + indefinite? → another.",
+      "Plural adjective + noun? → other (+ books).",
+      "Plural pronoun alone? → others.",
+      "Definite? → the other / the others / the other books.",
+      "another books* · others sites* = errors."
+    ],
+    "remember_id": "**another** (singular) · **other books** · **others** (pronoun) · **the other(s)**",
+    "remember_en": "**another** (singular) · **other books** · **others** (pronoun) · **the other(s)**"
   }
 ]
