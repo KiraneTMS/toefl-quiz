@@ -6565,5 +6565,490 @@
     ],
     "remember_id": "**another** (singular) · **other books** · **others** (pronoun) · **the other(s)**",
     "remember_en": "**another** (singular) · **other books** · **others** (pronoun) · **the other(s)**"
+  },
+  {
+    "skillId": "skill-r1",
+    "code": "R1",
+    "title_en": "Answer main idea questions correctly",
+    "title_id": "Jawab pertanyaan main idea dengan benar",
+    "group_en": "Main Idea Questions",
+    "group_id": "Pertanyaan Ide Pokok",
+    "summary_id": "Hampir setiap passage punya soal **topic / subject / title / main idea**. Jawaban biasanya di **kalimat pertama tiap paragraf**.",
+    "summary_en": "Almost every passage has a **topic / subject / title / main idea** question. The answer is usually in the **first sentence of each paragraph**.",
+    "formula": [
+      {
+        "label": "Cara kenali soal",
+        "en": "What is the topic / subject / main idea?\nWhat is the author's main point?\nWhich would be the best title?",
+        "id": "What is the topic / subject / main idea?\nWhat is the author's main point?\nWhich would be the best title?"
+      },
+      {
+        "label": "Di mana jawaban",
+        "en": "1 paragraph → first sentence\n2+ paragraphs → first sentence of EACH → common theme",
+        "id": "1 paragraf → kalimat pertama\n2+ paragraf → kalimat pertama TIAP paragraf → tema bersama"
+      },
+      {
+        "label": "Langkah jawab",
+        "en": "1. Read first line of each paragraph\n2. Find common theme\n3. Skim rest to confirm\n4. Eliminate narrow / off-topic answers",
+        "id": "1. Baca baris pertama tiap paragraf\n2. Cari tema bersama\n3. Skim sisa teks\n4. Eliminasi jawaban sempit / di luar topik"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Satu paragraf → kalimat pembuka",
+        "title_en": "1. One paragraph → opening sentence",
+        "body_id": "Topic sentence hampir selalu di awal.",
+        "body_en": "The topic sentence is almost always at the start."
+      },
+      {
+        "title_id": "2. Multi-paragraf → gabungkan topik",
+        "title_en": "2. Multi-paragraph → combine topics",
+        "body_id": "Judul terbaik mencakup SEMUA paragraf.",
+        "body_en": "Best title covers ALL paragraphs."
+      },
+      {
+        "title_id": "3. Hindari terlalu sempit / luas",
+        "title_en": "3. Avoid too narrow / too broad",
+        "body_id": "Hanya satu detail = sempit. Di luar teks = salah.",
+        "body_en": "Only one detail = too narrow. Outside the text = wrong."
+      },
+      {
+        "title_id": "4. Konfirmasi dengan skim",
+        "title_en": "4. Confirm with a skim",
+        "body_id": "Pastikan sisa passage mendukung tema.",
+        "body_en": "Make sure the rest supports your theme."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "Passage starts with distinction between intelligence and reasoning (Dewey). Best topic?",
+        "options": [
+          "The intelligence of John Dewey",
+          "Distinctions made by John Dewey",
+          "Dewey's ideas on reasoning only",
+          "How intelligence differs from reasoning in Dewey's works"
+        ],
+        "correct": 3,
+        "why_en": "First sentence states the distinction; D is complete.",
+        "why_id": "Kalimat pertama: distinction; D paling lengkap."
+      },
+      {
+        "id": "ex2",
+        "stem": "Para 1: nitrogen fixation. Para 2: denitrification. Best title?",
+        "options": [
+          "The Process of Nitrogen Fixation",
+          "Two Nitrogen Processes",
+          "Return of Nitrogen to the Air",
+          "Effect of Nitrogen on Plant Life"
+        ],
+        "correct": 1,
+        "why_en": "Title must cover both paragraphs.",
+        "why_id": "Judul harus mencakup kedua paragraf."
+      }
+    ],
+    "checklist_id": [
+      "Baca kalimat pertama tiap paragraf.",
+      "Cari tema bersama.",
+      "Skim sisa teks.",
+      "Buang jawaban detail sempit.",
+      "Pilih opsi yang mencakup seluruh passage."
+    ],
+    "checklist_en": [
+      "Read first sentence of each paragraph.",
+      "Find shared theme.",
+      "Skim the rest.",
+      "Drop narrow detail answers.",
+      "Pick option covering whole passage."
+    ],
+    "remember_id": "**Main idea ≈ topic sentences.** 1 para → baris 1. Multi → baris 1 tiap para.",
+    "remember_en": "**Main idea ≈ topic sentences.** 1 para → line 1. Multi → line 1 of each."
+  },
+  {
+    "skillId": "skill-r2",
+    "code": "R2",
+    "title_en": "Recognize the organization of ideas",
+    "title_id": "Kenali organisasi ide dalam passage",
+    "group_en": "Organization of Ideas",
+    "group_id": "Organisasi Ide",
+    "summary_id": "Soal menanyakan **bagaimana informasi disusun** atau **hubungan antar paragraf**. Jawaban dari **kalimat pertama tiap paragraf** + kata penghubung hubungan (cause–effect, contrast, example, dll.).",
+    "summary_en": "Questions ask **how information is organized** or **how paragraphs relate**. Answers come from the **first sentence of each paragraph** plus relationship words (cause–effect, contrast, example, etc.).",
+    "formula": [
+      {
+        "label": "Bentuk soal",
+        "en": "How is the information in the passage organized?\nHow is paragraph 2 related to paragraph 1?\nClick on the paragraph that…",
+        "id": "How is the information in the passage organized?\nHow is paragraph 2 related to paragraph 1?\nClick on the paragraph that…"
+      },
+      {
+        "label": "Pola organisasi umum",
+        "en": "idea → then refuted\nconcept → examples\ncause → effect\nbelief → reasons / historical background\nproblem → solution\ncomparison / contrast",
+        "id": "ide → lalu dibantah\nkonsep → contoh\nsebab → akibat\nkeyakinan → alasan / latar sejarah\nmasalah → solusi\nperbandingan / kontras"
+      },
+      {
+        "label": "Cara jawab",
+        "en": "1. Read first line of each paragraph\n2. Note relationship words (however, instead, for example, as a result…)\n3. Match the relationship to the answer choices",
+        "id": "1. Baca baris pertama tiap paragraf\n2. Catat kata hubungan (however, instead, for example, as a result…)\n3. Cocokkan hubungan dengan pilihan jawaban"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Topic sentence = peta organisasi",
+        "title_en": "1. Topic sentences map the organization",
+        "body_id": "Hubungan antar paragraf terbaca dari pembuka masing-masing paragraf.",
+        "body_en": "Paragraph relationships are readable from each paragraph's opening."
+      },
+      {
+        "title_id": "2. Para akhir sering membantah / memperluas",
+        "title_en": "2. Later paragraphs often refute or extend",
+        "body_id": "instead / however / today historians disagree → refutation.",
+        "body_en": "instead / however / today historians disagree → refutation."
+      },
+      {
+        "title_id": "3. 'Click on the paragraph' = cari yang memuat ide diminta",
+        "title_en": "3. 'Click on the paragraph' = find the paragraph with that idea",
+        "body_id": "Cocokkan kata kunci soal dengan topic sentence paragraf.",
+        "body_en": "Match the question keywords to a paragraph's topic sentence."
+      },
+      {
+        "title_id": "4. Jangan hanya fokus detail tengah paragraf",
+        "title_en": "4. Do not focus only on mid-paragraph detail",
+        "body_id": "Organisasi = kerangka besar, bukan satu fakta kecil.",
+        "body_en": "Organization is the big framework, not one small fact."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "Para 1–2: belief that Doubleday invented baseball. Para 3: historians say he did not. Organization?",
+        "options": [
+          "an idea is presented and then refuted",
+          "a concept is followed by examples",
+          "a cause is followed by an effect",
+          "a belief is supported with reasons"
+        ],
+        "correct": 0,
+        "why_en": "Final paragraph contradicts the earlier belief → presented then refuted.",
+        "why_id": "Paragraf akhir membantah keyakinan sebelumnya → presented then refuted."
+      },
+      {
+        "id": "ex2",
+        "stem": "Para 1 states a belief; para 2 explains how the belief arose in the early 1900s. Which paragraph gives historical background?",
+        "options": [
+          "Paragraph 1",
+          "Paragraph 2",
+          "Paragraph 3",
+          "None"
+        ],
+        "correct": 1,
+        "why_en": "Para 2 discusses early twentieth-century commission → historical background.",
+        "why_id": "Para 2 membahas komisi awal abad 20 → historical background."
+      }
+    ],
+    "checklist_id": [
+      "Baca kalimat pertama tiap paragraf.",
+      "Tandai hubungan: contrast / example / cause–effect / background.",
+      "Cocokkan pola dengan pilihan jawaban.",
+      "Untuk 'which paragraph': cocokkan kata kunci soal.",
+      "Abaikan detail yang tidak membentuk kerangka."
+    ],
+    "checklist_en": [
+      "Read the first sentence of each paragraph.",
+      "Mark the link: contrast / example / cause–effect / background.",
+      "Match the pattern to the answer choices.",
+      "For 'which paragraph': match question keywords.",
+      "Ignore details that do not form the framework."
+    ],
+    "remember_id": "**Organisasi = topic sentences + hubungan antar paragraf.** Ide → dibantah · sebab → akibat · konsep → contoh.",
+    "remember_en": "**Organization = topic sentences + paragraph links.** Idea → refuted · cause → effect · concept → examples."
+  },
+  {
+    "skillId": "skill-r3",
+    "code": "R3",
+    "title_en": "Answer stated detail questions correctly",
+    "title_id": "Jawab soal detail yang dinyatakan langsung",
+    "group_en": "Directly Answered Questions",
+    "group_id": "Pertanyaan Jawaban Langsung",
+    "summary_id": "Soal **stated detail** menanyakan **satu fakta** yang **ada di passage**. Jawaban sering **restatement** (ide sama, kata berbeda). Cari **kata kunci** soal, skim, baca kalimat itu hati-hati.",
+    "summary_en": "**Stated detail** questions ask for **one fact** that is **in the passage**. The correct choice is often a **restatement** (same idea, different words). Take a **key word** from the question, skim, read that sentence carefully.",
+    "formula": [
+      {
+        "label": "Ciri soal",
+        "en": "According to the passage…\nIt is stated in the passage…\nThe passage indicates that…\nWhich of the following is true…?",
+        "id": "According to the passage…\nIt is stated in the passage…\nThe passage indicates that…\nWhich of the following is true…?"
+      },
+      {
+        "label": "Langkah",
+        "en": "1. Choose a key word in the question\n2. Skim the passage for that word/idea (answers appear in order)\n3. Read the sentence carefully\n4. Eliminate traps; pick the best restatement",
+        "id": "1. Pilih kata kunci di soal\n2. Skim passage untuk kata/ide itu (jawaban berurutan)\n3. Baca kalimatnya hati-hati\n4. Eliminasi jebakan; pilih restatement terbaik"
+      },
+      {
+        "label": "Jebakan umum",
+        "en": "Wrong subject (Williamsburg facts applied to Jamestown)\nReversed time order\nExtreme words not in text\nHalf-true details",
+        "id": "Subjek tertukar (fakta Williamsburg dipakai untuk Jamestown)\nUrutan waktu terbalik\nKata ekstrem yang tidak ada di teks\nDetail setengah benar"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Jawaban langsung di teks — bukan inferensi",
+        "title_en": "1. Answer is directly in the text — not an inference",
+        "body_id": "Jika harus menebak di luar kalimat, itu bukan stated detail.",
+        "body_en": "If you must guess beyond the sentence, it is not a stated detail."
+      },
+      {
+        "title_id": "2. Restatement ≠ kata identik",
+        "title_en": "2. Restatement ≠ identical wording",
+        "body_id": "soil drainage was better ≈ the soil drained well.",
+        "body_en": "soil drainage was better ≈ the soil drained well."
+      },
+      {
+        "title_id": "3. Urutan soal ≈ urutan di passage",
+        "title_en": "3. Question order ≈ passage order",
+        "body_id": "Detail awal passage → soal lebih awal; detail akhir → soal lebih akhir.",
+        "body_en": "Early passage details → earlier questions; later details → later questions."
+      },
+      {
+        "title_id": "4. Cek subjek & waktu",
+        "title_en": "4. Check subject and time",
+        "body_id": "Jangan tempel fakta kota A ke kota B; jangan balik before/after.",
+        "body_en": "Do not attach city A's facts to city B; do not reverse before/after."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "Passage: Williamsburg settled 1633, 26 years after Jamestown, the first permanent English colony. Question: The passage indicates that Jamestown…",
+        "options": [
+          "was settled in 1633",
+          "was settled 26 years after Williamsburg",
+          "was the first permanent English colony in America",
+          "was named Middle Plantation"
+        ],
+        "correct": 2,
+        "why_en": "C is stated. A/D are about Williamsburg; B reverses the order.",
+        "why_id": "C dinyatakan. A/D tentang Williamsburg; B membalik urutan."
+      },
+      {
+        "id": "ex2",
+        "stem": "Colonists chose Williamsburg because soil drainage was better and fewer mosquitoes. Best answer?",
+        "options": [
+          "it was in England",
+          "there were no nearby rivers",
+          "there were lots of mosquitoes",
+          "the soil drained well"
+        ],
+        "correct": 3,
+        "why_en": "Restatement of better soil drainage.",
+        "why_id": "Restatement dari soil drainage was better."
+      }
+    ],
+    "checklist_id": [
+      "Ambil kata kunci dari soal.",
+      "Skim sampai ketemu di passage.",
+      "Baca kalimat penuh (bukan potongan).",
+      "Cocokkan restatement — bukan copy kata saja.",
+      "Buang opsi subjek/waktu tertukar."
+    ],
+    "checklist_en": [
+      "Take a key word from the question.",
+      "Skim until you find it in the passage.",
+      "Read the full sentence (not a fragment).",
+      "Match a restatement — not only identical words.",
+      "Drop options with swapped subject/time."
+    ],
+    "remember_id": "**Stated detail = fakta di teks.** Kata kunci → skim → restatement.",
+    "remember_en": "**Stated detail = fact in the text.** Key word → skim → restatement."
+  },
+  {
+    "skillId": "skill-r4",
+    "code": "R4",
+    "title_en": "Find \"unstated\" details",
+    "title_id": "Temukan detail yang tidak dinyatakan",
+    "group_en": "Directly Answered Questions",
+    "group_id": "Pertanyaan Jawaban Langsung",
+    "summary_id": "Soal **NOT true / NOT mentioned / except**: **tiga opsi benar** menurut teks, **satu salah atau tidak disebut**. Eliminasi yang **true**, pilih yang **tidak**.",
+    "summary_en": "**NOT true / NOT mentioned / except** questions: **three options are true** in the text, **one is false or absent**. Eliminate what **is true**, pick what **is not**.",
+    "formula": [
+      {
+        "label": "Ciri soal",
+        "en": "Which of the following is NOT stated / mentioned / discussed…?\nAll of the following are true EXCEPT…",
+        "id": "Which of the following is NOT stated / mentioned / discussed…?\nAll of the following are true EXCEPT…"
+      },
+      {
+        "label": "Dua jenis jawaban target",
+        "en": "1) NOT TRUE according to the passage\n2) NOT MENTIONED in the passage",
+        "id": "1) TIDAK BENAR menurut passage\n2) TIDAK DISEBUT di passage"
+      },
+      {
+        "label": "Langkah",
+        "en": "1. Key word from the question\n2. Scan the passage\n3. Mark options that ARE true / mentioned → eliminate\n4. Remaining option = answer",
+        "id": "1. Kata kunci dari soal\n2. Scan passage\n3. Tandai opsi yang BENAR / disebut → buang\n4. Sisa = jawaban"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Balik logika stated detail",
+        "title_en": "1. Reverse the stated-detail logic",
+        "body_id": "Bukan mencari yang benar, tapi mencari yang **tidak**.",
+        "body_en": "You are not hunting the true one; you are hunting the one that is **not**."
+      },
+      {
+        "title_id": "2. NOT true ≠ NOT mentioned",
+        "title_en": "2. NOT true ≠ NOT mentioned",
+        "body_id": "NOT true = bertentangan dengan teks. NOT mentioned = tidak ada di teks (bisa netral).",
+        "body_en": "NOT true = conflicts with the text. NOT mentioned = absent from the text (may be neutral)."
+      },
+      {
+        "title_id": "3. Detail waktu & angka sering jebakan",
+        "title_en": "3. Time and number details are frequent traps",
+        "body_id": "1850s ≠ beginning of the nineteenth century.",
+        "body_en": "1850s ≠ beginning of the nineteenth century."
+      },
+      {
+        "title_id": "4. Cek daftar di teks untuk 'not mentioned'",
+        "title_en": "4. Check lists in the text for 'not mentioned'",
+        "body_id": "Jika soal tentang daftar ekspresi, cocokkan satu per satu.",
+        "body_en": "If the question is about a list of expressions, match each option."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "gadget first used by British sailors in the 1850s, from French. Which is NOT true?",
+        "options": [
+          "Used when the name is unknown",
+          "Used at the beginning of the 19th century",
+          "Likely from French",
+          "First known use by British sailors"
+        ],
+        "correct": 1,
+        "why_en": "1850s = mid-century, not the beginning. Others are stated.",
+        "why_id": "1850s = pertengahan abad, bukan awal. Lainnya dinyatakan."
+      },
+      {
+        "id": "ex2",
+        "stem": "List includes gadget, thingamabob, doohickey. Which is NOT mentioned?",
+        "options": [
+          "a what-is-it",
+          "a gadget",
+          "a thingamabob",
+          "a doohickey"
+        ],
+        "correct": 0,
+        "why_en": "what-is-it is not in the list.",
+        "why_id": "what-is-it tidak ada di daftar."
+      }
+    ],
+    "checklist_id": [
+      "Baca soal: NOT true atau NOT mentioned?",
+      "Scan teks untuk tiap opsi.",
+      "Buang opsi yang jelas true/disebut.",
+      "Sisa satu = jawaban.",
+      "Waspadai angka & tahun yang sedikit digeser."
+    ],
+    "checklist_en": [
+      "Read the stem: NOT true or NOT mentioned?",
+      "Scan the text for each option.",
+      "Drop options that are clearly true/mentioned.",
+      "The one left is the answer.",
+      "Watch numbers and years that are slightly shifted."
+    ],
+    "remember_id": "**3 true, 1 not.** Eliminasi yang ada di teks → pilih yang tidak.",
+    "remember_en": "**3 true, 1 not.** Eliminate what is in the text → pick what is not."
+  },
+  {
+    "skillId": "skill-r5",
+    "code": "R5",
+    "title_en": "Find pronoun referents",
+    "title_id": "Temukan rujukan pronoun",
+    "group_en": "Directly Answered Questions",
+    "group_id": "Pertanyaan Jawaban Langsung",
+    "summary_id": "Pronoun (**they, it, this, these, those…**) biasanya merujuk ke **noun sebelumnya**. Cari noun yang **number-nya cocok**, lalu **uji di konteks** kalimat.",
+    "summary_en": "A pronoun (**they, it, this, these, those…**) usually refers to a **noun before it**. Find nouns that **match in number**, then **test them in the sentence context**.",
+    "formula": [
+      {
+        "label": "Ciri soal",
+        "en": "The pronoun \"…\" in line X refers to…\nLook at the word X. What does it refer to?",
+        "id": "The pronoun \"…\" in line X refers to…\nLook at the word X. What does it refer to?"
+      },
+      {
+        "label": "Langkah",
+        "en": "1. Locate the pronoun\n2. Look BEFORE it for nouns with matching number (singular/plural)\n3. Substitute each candidate into the sentence\n4. Keep the one that makes sense",
+        "id": "1. Temukan pronoun\n2. Lihat SEBELUMNYA noun dengan number yang cocok\n3. Ganti pronoun dengan tiap kandidat\n4. Pilih yang masuk akal"
+      },
+      {
+        "label": "Agreement cepat",
+        "en": "it / this / that → singular\nthey / these / those → plural",
+        "id": "it / this / that → singular\nthey / these / those → plural"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Rujukan hampir selalu sebelum pronoun",
+        "title_en": "1. The referent is almost always before the pronoun",
+        "body_id": "Jarang merujuk ke kata yang baru muncul sesudahnya.",
+        "body_en": "It rarely points to a word that only appears later."
+      },
+      {
+        "title_id": "2. Number harus cocok",
+        "title_en": "2. Number must agree",
+        "body_id": "they ≠ a single insect · it ≠ these plants.",
+        "body_en": "they ≠ a single insect · it ≠ these plants."
+      },
+      {
+        "title_id": "3. Uji konteks (substitution)",
+        "title_en": "3. Test context (substitution)",
+        "body_id": "Ganti pronoun dengan kandidat: mana yang logis?",
+        "body_en": "Replace the pronoun with each candidate: which is logical?"
+      },
+      {
+        "title_id": "4. this/these sering merujuk ke ide/noun terdekat yang relevan",
+        "title_en": "4. this/these often point to the nearest relevant idea/noun",
+        "body_id": "Baca 1–2 kalimat sebelumnya, bukan hanya satu kata.",
+        "body_en": "Read the previous 1–2 sentences, not only one word."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "…these plants have developed mechanisms… They have digestive fluids…",
+        "options": [
+          "humid areas",
+          "these plants",
+          "insects",
+          "digestive fluids"
+        ],
+        "correct": 1,
+        "why_en": "They = plural before the pronoun; plants have digestive fluids makes sense. Digestive fluids comes after.",
+        "why_id": "They = plural sebelum pronoun; plants have digestive fluids masuk akal. Digestive fluids muncul sesudah."
+      },
+      {
+        "id": "ex2",
+        "stem": "…when an insect lands on these leaves, it gets caught…",
+        "options": [
+          "a variety",
+          "the sundew",
+          "an insect",
+          "the leaf"
+        ],
+        "correct": 2,
+        "why_en": "it is singular; an insect gets caught fits the context.",
+        "why_id": "it singular; an insect gets caught sesuai konteks."
+      }
+    ],
+    "checklist_id": [
+      "Temukan pronoun di soal.",
+      "List noun SEBELUMNYA dengan number cocok.",
+      "Substitusi ke kalimat.",
+      "Buang yang tidak logis / muncul sesudah pronoun.",
+      "Pilih rujukan terbaik."
+    ],
+    "checklist_en": [
+      "Find the pronoun in the question.",
+      "List nouns BEFORE it with matching number.",
+      "Substitute into the sentence.",
+      "Drop what is illogical / appears only after the pronoun.",
+      "Choose the best referent."
+    ],
+    "remember_id": "**Pronoun → noun sebelumnya + number cocok + konteks logis.**",
+    "remember_en": "**Pronoun → earlier noun + matching number + logical context.**"
   }
 ]

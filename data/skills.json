@@ -528,5 +528,59 @@
     "title": "Skill berikutnya — coming soon",
     "description": "Slot untuk skill Written Expression selanjutnya.",
     "placeholder": true
+  },
+  {
+    "id": "skill-r1",
+    "code": "R1",
+    "section": "reading",
+    "group": "Main Idea Questions",
+    "title": "Answer main idea questions correctly",
+    "description": "Topic / subject / title / main idea — baca kalimat pertama tiap paragraf.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-r2",
+    "code": "R2",
+    "section": "reading",
+    "group": "Organization of Ideas",
+    "title": "Recognize the organization of ideas",
+    "description": "Bagaimana ide antar paragraf terkait — baca kalimat pertama tiap paragraf.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-r3",
+    "code": "R3",
+    "section": "reading",
+    "group": "Directly Answered Questions",
+    "title": "Answer stated detail questions correctly",
+    "description": "Detail yang langsung ada di teks — skim kata kunci, cocokkan restatement.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-r4",
+    "code": "R4",
+    "section": "reading",
+    "group": "Directly Answered Questions",
+    "title": "Find unstated details",
+    "description": "Cari yang NOT true / NOT mentioned — tiga benar, satu tidak.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-r5",
+    "code": "R5",
+    "section": "reading",
+    "group": "Directly Answered Questions",
+    "title": "Find pronoun referents",
+    "description": "Pronoun merujuk ke noun sebelumnya — cocokkan number & konteks.",
+    "placeholder": false
+  },
+  {
+    "id": "reading-skill-more",
+    "code": "R…",
+    "section": "reading",
+    "group": "Directly Answered Questions",
+    "title": "Skill Reading berikutnya — coming soon",
+    "description": "Slot untuk skill Reading selanjutnya.",
+    "placeholder": true
   }
 ]

@@ -978,9 +978,15 @@ function renderSkillsView() {
   });
   const hint = document.getElementById('skills-section-hint');
   if (hint) {
-    hint.innerHTML = section === 'structure'
-      ? '💡 Pilih skill Structure, lalu buka <strong>Materi</strong> sebelum latihan.'
-      : '✍️ Written Expression — pilih skill, buka <strong>Materi</strong>. Pack soal menyusul.';
+    if (section === 'structure') {
+      hint.innerHTML = '💡 Pilih skill Structure, lalu buka <strong>Materi</strong> sebelum latihan.';
+    } else if (section === 'written-expression') {
+      hint.innerHTML = '✍️ Written Expression — pilih skill, buka <strong>Materi</strong>, lalu seed pack.';
+    } else if (section === 'reading') {
+      hint.innerHTML = '📖 Reading — pilih skill, baca <strong>Materi</strong>, lalu latih main idea & skill lain.';
+    } else {
+      hint.innerHTML = 'Pilih skill, buka Materi, lalu seed pack.';
+    }
   }
   const pdfBtn = document.getElementById('btn-open-materi-pdf');
   if (pdfBtn) {
@@ -1474,7 +1480,7 @@ function openMateriPdfModal(preselectIds) {
   const skillMap = Object.fromEntries((state.skills || []).map(s => [s.id, s]));
   const filtered = items.filter(m => {
     const sk = skillMap[m.skillId];
-    const msec = (sk && sk.section) || (String(m.code).startsWith('WE') ? 'written-expression' : 'structure');
+    const msec = (sk && sk.section) || (String(m.code).startsWith('WE') ? 'written-expression' : (String(m.code).startsWith('R') ? 'reading' : 'structure'));
     return msec === sec || pre.size;
   });
   const useItems = filtered.length ? filtered : items;

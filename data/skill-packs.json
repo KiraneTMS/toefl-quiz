@@ -43198,5 +43198,4005 @@
         "seed": "WE60-04"
       }
     ]
+  },
+  {
+    "seed": "R1-01",
+    "skillId": "skill-r1",
+    "skillCode": "R1",
+    "packNumber": 1,
+    "title": "R1 Pack 1 — Main idea questions",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "r1-1-1",
+        "question": "What is the topic of this passage?",
+        "options": [
+          "The intelligence of John Dewey",
+          "Distinctions made by John Dewey",
+          "Dewey's ideas on the ability to reason",
+          "How intelligence differs from reasoning in Dewey's works"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D. Kalimat pertama: distinction between intelligence and reasoning.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-01",
+        "passage": "In the philosophy of John Dewey, a sharp distinction is made between intelligence and reasoning. According to Dewey, intelligence is the only absolute way to achieve a balance between realism and idealism. Intelligence involves interacting with other things and knowing them, while reasoning is merely the act of an observer. With reasoning, a level of mental certainty can be achieved, but it is through intelligence that control is taken of events that shape one's life.",
+        "passageTitle": "Dewey on intelligence"
+      },
+      {
+        "id": "r1-1-2",
+        "question": "Which of the following would be the best title for this passage?",
+        "options": [
+          "The Process of Nitrogen Fixation",
+          "Two Nitrogen Processes",
+          "The Return of Nitrogen to the Air",
+          "The Effect of Nitrogen on Plant Life"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. Para 1 fixation + para 2 denitrification.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-01",
+        "passage": "Nitrogen fixation is a process by which nitrogen is continuously fed into biological circulation. In this process, certain algae and bacteria convert nitrogen into ammonia. This newly created ammonia is then for the most part absorbed by plants.\n\nThe opposite process of denitrification returns nitrogen to the air. During denitrification, bacteria cause some of the nitrates from the soil to convert into gaseous nitrogen or nitrous oxide. In this gaseous form, the nitrogen returns to the atmosphere.",
+        "passageTitle": "Nitrogen processes"
+      },
+      {
+        "id": "r1-1-3",
+        "question": "What is the author's main point in this passage?",
+        "options": [
+          "Coral reefs cover most of the ocean floor",
+          "Coral reefs are valuable but increasingly threatened",
+          "Bleaching is caused only by destructive fishing",
+          "Marine species do not depend on reefs"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. Nilai ekosistem + ancaman.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-01",
+        "passage": "Coral reefs are among the most diverse ecosystems on Earth. They provide habitat for roughly one-quarter of all marine species even though they cover less than one percent of the ocean floor. Reefs also protect coastlines from storm surge and support fisheries that feed millions of people.\n\nDespite their importance, coral reefs face severe threats from rising sea temperatures, ocean acidification, and destructive fishing. When water temperatures rise only one or two degrees above normal for prolonged periods, corals expel the algae that give them color and energy, a process known as bleaching.",
+        "passageTitle": "Coral reefs"
+      },
+      {
+        "id": "r1-1-4",
+        "question": "With what is the author primarily concerned?",
+        "options": [
+          "Gutenberg's personal biography",
+          "How the printing press changed the circulation of knowledge",
+          "Why monasteries opposed printing",
+          "The price of paper in the fifteenth century"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-01",
+        "passage": "The printing press, developed by Johannes Gutenberg in the mid-fifteenth century, transformed the spread of knowledge in Europe. Before movable type, books were copied by hand and remained scarce and expensive. After the press, texts could be reproduced quickly and relatively cheaply, allowing ideas to circulate among a wider public.\n\nThis technological shift is often linked to the Renaissance, the Reformation, and the rise of scientific inquiry. Literacy rates gradually increased as printed materials became more available outside monasteries and courts.",
+        "passageTitle": "Printing press"
+      },
+      {
+        "id": "r1-1-5",
+        "question": "What is the main idea of this passage?",
+        "options": [
+          "Chlorophyll is a type of oxygen",
+          "Photosynthesis produces food energy and sustains life systems",
+          "Animals do not need plants",
+          "Glucose is released into the atmosphere"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-01",
+        "passage": "Photosynthesis is the process by which green plants convert light energy into chemical energy. Using chlorophyll, plants capture sunlight and combine carbon dioxide with water to produce glucose and oxygen. The glucose serves as food for the plant, while oxygen is released into the atmosphere.\n\nWithout photosynthesis, most food chains on Earth would collapse. Animals depend either directly on plants or on other animals that eat plants. The oxygen produced also maintains the atmosphere that complex life requires.",
+        "passageTitle": "Photosynthesis"
+      },
+      {
+        "id": "r1-1-6",
+        "question": "Which would be the best title?",
+        "options": [
+          "Why Rural Areas Are Always Cooler at Night",
+          "Urban Heat Islands: Causes, Effects, and Remedies",
+          "The History of City Pavement",
+          "How Trees Block All Sunlight"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-01",
+        "passage": "Urban heat islands form when cities replace natural land cover with pavement, buildings, and other surfaces that absorb and re-emit heat. As a result, urban areas can be several degrees warmer than surrounding rural regions, especially at night.\n\nHigher urban temperatures increase energy demand for cooling, worsen air quality, and raise heat-related health risks. Strategies such as reflective roofs, urban trees, and permeable surfaces can reduce the intensity of heat islands.",
+        "passageTitle": "Urban heat islands"
+      },
+      {
+        "id": "r1-1-7",
+        "question": "What is the topic of this passage?",
+        "options": [
+          "Tourism in Antarctica",
+          "Antarctic ice and its importance for global sea level",
+          "How to drill ice cores",
+          "The discovery of Antarctica"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-01",
+        "passage": "Antarctica holds about ninety percent of the world's ice and roughly seventy percent of its fresh water. The continent's ice sheets influence global sea level; if large portions melted, coastal cities worldwide would face severe flooding.\n\nScientists monitor Antarctic ice using satellites, ice cores, and on-site measurements. Recent data show accelerated melting in parts of West Antarctica, raising concerns about long-term sea-level rise.",
+        "passageTitle": "Antarctic ice"
+      },
+      {
+        "id": "r1-1-8",
+        "question": "What is the author's primary concern?",
+        "options": [
+          "How to extract honey commercially",
+          "The role of bees in food production and threats to their populations",
+          "Why all insects are disappearing",
+          "Climate stress only affects tropical bees"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-01",
+        "passage": "Bees pollinate many of the crops that humans rely on for food, including fruits, nuts, and vegetables. Their activity increases both yield and quality for numerous plant species.\n\nIn recent decades, bee populations have declined in several regions due to habitat loss, pesticides, disease, and climate stress. Protecting pollinators has therefore become an agricultural and environmental priority.",
+        "passageTitle": "Bees"
+      },
+      {
+        "id": "r1-1-9",
+        "question": "What is the main idea?",
+        "options": [
+          "The Rosetta Stone was found in Greece",
+          "The stone enabled the decipherment of hieroglyphs",
+          "Demotic is easier than Greek",
+          "Museums should not display ancient objects"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-01",
+        "passage": "The Rosetta Stone, discovered in 1799, carried the same text in three scripts: Greek, Demotic, and hieroglyphic. Because scholars could read Greek, they used it to decode Egyptian hieroglyphs.\n\nThis breakthrough opened ancient Egyptian literature, administration, and religion to modern study. Museums and universities still treat the stone as a symbol of linguistic decipherment.",
+        "passageTitle": "Rosetta Stone"
+      },
+      {
+        "id": "r1-1-10",
+        "question": "Which best states the topic?",
+        "options": [
+          "Why offices will disappear completely",
+          "Remote work's growth and the debate over its effects",
+          "How to build collaboration software",
+          "Internet access in rural areas only"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-01",
+        "passage": "Remote work expanded rapidly when organizations adopted digital collaboration tools. Employees could join meetings, share documents, and track projects without being in the same building.\n\nSupporters argue that remote work can improve flexibility and reduce commuting. Critics warn about isolation, blurred work-life boundaries, and unequal access to quiet space and reliable internet.",
+        "passageTitle": "Remote work"
+      }
+    ]
+  },
+  {
+    "seed": "R1-02",
+    "skillId": "skill-r1",
+    "skillCode": "R1",
+    "packNumber": 2,
+    "title": "R1 Pack 2 — Main idea questions",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "r1-2-1",
+        "question": "What is the subject of this passage?",
+        "options": [
+          "How to measure GPS accuracy",
+          "Plate tectonics and evidence that supports the theory",
+          "Why fossils are only found in mountains",
+          "The temperature of the mantle"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-02",
+        "passage": "Plate tectonics describes the large-scale motion of Earth's lithosphere. The surface is divided into rigid plates that move slowly over the more ductile mantle. Their interactions create earthquakes, volcanoes, and mountain ranges along boundaries.\n\nEvidence for the theory includes matching fossil distributions across continents, magnetic striping on the seafloor, and precise GPS measurements of modern plate motion.",
+        "passageTitle": "Plate tectonics"
+      },
+      {
+        "id": "r1-2-2",
+        "question": "What is the main idea?",
+        "options": [
+          "Vaccines always cause the full disease",
+          "Vaccines prepare immunity and have reduced major diseases",
+          "Polio cannot be prevented",
+          "Only children receive vaccines"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-02",
+        "passage": "Vaccines train the immune system to recognize pathogens without causing the full disease. By presenting antigens in a controlled way, they enable faster responses if the real microbe appears later.\n\nWidespread vaccination has sharply reduced diseases such as measles and polio in many countries. Public health agencies continue to monitor coverage rates and emerging variants.",
+        "passageTitle": "Vaccines"
+      },
+      {
+        "id": "r1-2-3",
+        "question": "Which would be the best title?",
+        "options": [
+          "Egyptian Architecture in the Third Century",
+          "The Library of Alexandria and the Vulnerability of Knowledge",
+          "How to Catalog Modern Books",
+          "Medicine Without Libraries"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-02",
+        "passage": "The Library of Alexandria, founded in the third century BCE, aimed to collect the world's knowledge. Scholars there edited texts, developed early cataloging methods, and advanced fields from mathematics to medicine.\n\nIts eventual decline and loss of collections became a lasting symbol of how fragile accumulated knowledge can be when institutions fail.",
+        "passageTitle": "Library of Alexandria"
+      },
+      {
+        "id": "r1-2-4",
+        "question": "What is the author's main point?",
+        "options": [
+          "Glaciers only exist at the poles",
+          "Glaciers reshape land and are currently shrinking with climatic effects",
+          "Fjords are formed by rivers alone",
+          "Meltwater is never used by humans"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-02",
+        "passage": "Glaciers shape landscapes by eroding rock and depositing sediment as they advance and retreat. U-shaped valleys, moraines, and fjords are among the landforms left behind.\n\nToday many glaciers are shrinking as global temperatures rise. Their meltwater contributes to sea-level rise and can alter regional freshwater supplies.",
+        "passageTitle": "Glaciers"
+      },
+      {
+        "id": "r1-2-5",
+        "question": "With what is the passage primarily concerned?",
+        "options": [
+          "Pavlov's childhood",
+          "How classical conditioning creates learned associations",
+          "Why advertising is illegal",
+          "Therapies that ignore learning"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-02",
+        "passage": "Classical conditioning, demonstrated by Ivan Pavlov, shows how a neutral stimulus can become associated with a meaningful one. After repeated pairing, the neutral stimulus alone can trigger a response.\n\nThe principle helps explain aspects of learning, advertising, and certain therapies that aim to change unwanted associations.",
+        "passageTitle": "Classical conditioning"
+      },
+      {
+        "id": "r1-2-6",
+        "question": "What is the topic?",
+        "options": [
+          "Desert plants",
+          "Mangrove ecosystems, benefits, and threats from clearing",
+          "Only carbon storage in forests",
+          "Fish that never use coastal waters"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-02",
+        "passage": "Mangrove forests grow in salty coastal waters in tropical and subtropical regions. Their tangled roots stabilize shorelines, store carbon, and nursery many fish species.\n\nClearing mangroves for development removes these buffers and can increase flood damage and fishery losses. Restoration projects now try to replant mangroves where conditions still allow.",
+        "passageTitle": "Mangroves"
+      },
+      {
+        "id": "r1-2-7",
+        "question": "Which best expresses the main idea?",
+        "options": [
+          "Light is slower in a vacuum than in water",
+          "The speed of light is a fundamental limit with practical scientific uses",
+          "GPS does not need physics",
+          "Einstein rejected constants"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-02",
+        "passage": "The speed of light in a vacuum is a fundamental constant of nature, approximately 300,000 kilometers per second. Einstein's relativity treats this speed as an upper limit for ordinary matter and information.\n\nExperiments from astronomy to particle physics rely on this constant. GPS systems even correct for relativistic effects so that positioning remains accurate.",
+        "passageTitle": "Speed of light"
+      },
+      {
+        "id": "r1-2-8",
+        "question": "What is the primary idea of the passage?",
+        "options": [
+          "All seeds are identical",
+          "Heirloom seeds preserve diversity that industrial strains may not",
+          "Flavor is unimportant in crops",
+          "Seed banks only store industrial strains"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-02",
+        "passage": "Heirloom seeds are traditional crop varieties maintained across generations rather than bred primarily for industrial uniformity. Growers value them for flavor, regional adaptation, and genetic diversity.\n\nIndustrial agriculture often favors a few high-yield strains, which can narrow the genetic base of food crops. Seed banks and community exchanges work to keep older varieties available.",
+        "passageTitle": "Heirloom seeds"
+      },
+      {
+        "id": "r1-2-9",
+        "question": "What is the topic of this passage?",
+        "options": [
+          "Tourism near the equator",
+          "How auroras form and why space weather is monitored",
+          "Why gases leave the atmosphere permanently",
+          "Power grids that never fail"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-02",
+        "passage": "Auroras occur when charged particles from the solar wind excite gases in Earth's upper atmosphere. The resulting glows—often green or red—are most visible near the magnetic poles.\n\nSolar storms can intensify auroras and also disrupt radio signals and power grids. Agencies monitor space weather to warn operators of high-risk periods.",
+        "passageTitle": "Auroras"
+      },
+      {
+        "id": "r1-2-10",
+        "question": "Which is the best title?",
+        "options": [
+          "Why Merchants Avoided Records",
+          "Double-Entry Bookkeeping and Its Role in Trade and Modern Accounting",
+          "Inventory Without Numbers",
+          "Renaissance Art Techniques"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-02",
+        "passage": "Double-entry bookkeeping records each transaction in at least two accounts, keeping the accounting equation balanced. The method improved merchants' ability to track debts, inventory, and profit.\n\nIts adoption in Renaissance Europe supported more complex trade. Modern financial statements still rest on the same core logic.",
+        "passageTitle": "Double-entry bookkeeping"
+      }
+    ]
+  },
+  {
+    "seed": "R1-03",
+    "skillId": "skill-r1",
+    "skillCode": "R1",
+    "packNumber": 3,
+    "title": "R1 Pack 3 — Main idea questions",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "r1-3-1",
+        "question": "What is the main idea?",
+        "options": [
+          "Bees cannot communicate",
+          "The waggle dance conveys food location to other bees",
+          "The sun is irrelevant to bees",
+          "Only distance is encoded"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-03",
+        "passage": "Honeybees communicate the location of food sources through the waggle dance. The angle and duration of the dance encode direction and distance relative to the sun.\n\nThis symbolic communication allows the hive to exploit scattered resources efficiently. Researchers still study how precisely recruits follow the encoded information.",
+        "passageTitle": "Waggle dance"
+      },
+      {
+        "id": "r1-3-2",
+        "question": "What is the author's main point?",
+        "options": [
+          "Concrete is rarely used",
+          "Concrete is essential yet environmentally costly, prompting cleaner alternatives",
+          "Water is not used in concrete",
+          "Recycled aggregate never works"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-03",
+        "passage": "Concrete is the world's most widely used building material after water. Mixing cement, aggregate, and water produces a substance that hardens into a durable solid.\n\nIts production, however, releases substantial carbon dioxide. Engineers are testing lower-carbon cements, recycled aggregates, and designs that use less material overall.",
+        "passageTitle": "Concrete"
+      },
+      {
+        "id": "r1-3-3",
+        "question": "With what is the author primarily concerned?",
+        "options": [
+          "Why hypotheses should never change",
+          "How the scientific method structures inquiry and reduces error",
+          "Peer review as the only step needed",
+          "Observation without experiments"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-03",
+        "passage": "The Scientific Method emphasizes observation, hypothesis, experiment, and revision. Claims are expected to be testable and open to falsification by new evidence.\n\nThis approach does not guarantee truth in a single step, but it systematically reduces error over time. Peer review and replication further filter unreliable results.",
+        "passageTitle": "Scientific method"
+      },
+      {
+        "id": "r1-3-4",
+        "question": "Which would be the best title?",
+        "options": [
+          "Only Volcanoes Cause Tsunamis",
+          "Tsunamis: Causes, Coastal Behavior, and Warning Systems",
+          "Why Earthquakes Never Occur Under the Sea",
+          "Deep-Water Waves That Never Reach Shore"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-03",
+        "passage": "Tsunamis are long ocean waves usually generated by undersea earthquakes, though landslides and volcanic activity can also trigger them. In deep water they may pass almost unnoticed; near shore they slow and grow dramatically in height.\n\nEarly-warning systems use seismic data and ocean sensors to alert coastal populations. Evacuation planning remains critical because arrival times can be short for nearby sources.",
+        "passageTitle": "Tsunamis"
+      },
+      {
+        "id": "r1-3-5",
+        "question": "What is the topic?",
+        "options": [
+          "Adult second-language classrooms only",
+          "How children acquire language and what influences the process",
+          "Why babble is meaningless",
+          "Innate structure without any exposure"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-03",
+        "passage": "Language acquisition in children proceeds rapidly in the early years. Infants distinguish speech sounds, then produce babble, single words, and eventually complex sentences.\n\nWhile exposure is essential, researchers debate how much structure is innate versus learned. Most agree that rich interaction accelerates progress.",
+        "passageTitle": "Language acquisition"
+      },
+      {
+        "id": "r1-3-6",
+        "question": "What is the main idea?",
+        "options": [
+          "Permafrost never thaws",
+          "Permafrost stores carbon and poses risks when it thaws",
+          "Only roads are affected",
+          "Organic carbon is absent in Arctic soils"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-03",
+        "passage": "Permafrost is ground that remains frozen for at least two consecutive years. It stores large amounts of organic carbon locked in frozen soil.\n\nAs Arctic temperatures rise, thawing permafrost can release greenhouse gases and destabilize buildings and roads built on formerly solid ground.",
+        "passageTitle": "Permafrost"
+      },
+      {
+        "id": "r1-3-7",
+        "question": "What is the primary concern of the passage?",
+        "options": [
+          "Why code should always stay secret",
+          "What open-source software is and how it is used in practice",
+          "Licenses that ban all sharing",
+          "Bug fixes that never happen"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-03",
+        "passage": "Open-source software publishes its source code so others can inspect, modify, and redistribute it under defined licenses. Collaboration can speed bug fixes and feature development.\n\nCompanies and governments increasingly use open-source components, while still managing security review and license compliance.",
+        "passageTitle": "Open-source"
+      },
+      {
+        "id": "r1-3-8",
+        "question": "Which best states the main idea?",
+        "options": [
+          "Sirens never change pitch",
+          "The Doppler effect links wave frequency shifts to motion, with uses from sirens to astronomy",
+          "Light never changes wavelength",
+          "Only sound waves show Doppler shifts"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-03",
+        "passage": "The Doppler effect is the change in observed frequency of a wave when the source or observer moves. A common example is the pitch shift of a passing siren.\n\nAstronomy applies the same principle: light from objects moving away is shifted toward longer wavelengths, evidence used to study the expanding universe.",
+        "passageTitle": "Doppler effect"
+      },
+      {
+        "id": "r1-3-9",
+        "question": "What is the topic of this passage?",
+        "options": [
+          "Flat plains farming only",
+          "Agricultural terracing: benefits and maintenance challenges",
+          "Why mountains cannot grow crops",
+          "Drainage that always fails"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-03",
+        "passage": "Terracing transforms steep slopes into stepped fields that hold soil and water. The practice has supported agriculture in mountainous regions from Asia to the Andes.\n\nWhen poorly maintained, terraces can collapse and increase erosion. Community labor and careful drainage are often required to keep them effective.",
+        "passageTitle": "Terracing"
+      },
+      {
+        "id": "r1-3-10",
+        "question": "What is the author's main point?",
+        "options": [
+          "Antibiotics cure all viruses",
+          "Antibiotics are powerful against bacteria but resistance is a growing problem",
+          "Resistance is unrelated to overuse",
+          "Stewardship programs are unnecessary"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-03",
+        "passage": "Antibiotics kill or inhibit bacteria but are ineffective against viruses. Their overuse in medicine and agriculture has accelerated the evolution of resistant bacterial strains.\n\nStewardship programs encourage appropriate prescribing, while researchers seek new antimicrobial strategies. Without changes, common infections could become harder to treat.",
+        "passageTitle": "Antibiotics"
+      }
+    ]
+  },
+  {
+    "seed": "R1-04",
+    "skillId": "skill-r1",
+    "skillCode": "R1",
+    "packNumber": 4,
+    "title": "R1 Pack 4 — Main idea questions",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "r1-4-1",
+        "question": "What is the main idea?",
+        "options": [
+          "Earth has no atmosphere",
+          "The greenhouse effect warms Earth and human emissions are intensifying it",
+          "Infrared radiation never leaves the planet",
+          "Policy responses ignore carbon sinks"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-04",
+        "passage": "The greenhouse effect keeps Earth warm enough for liquid water. Greenhouse gases allow sunlight in but slow the escape of infrared radiation.\n\nHuman emissions have strengthened this effect, driving observed global warming. Reducing emissions and protecting carbon sinks are central policy responses.",
+        "passageTitle": "Greenhouse effect"
+      },
+      {
+        "id": "r1-4-2",
+        "question": "Which would be the best title?",
+        "options": [
+          "Only Mammals Are Chordates",
+          "Chordates and the Features Used to Classify Them",
+          "Why Fossils Are Irrelevant",
+          "Birds Without Nerve Cords"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-04",
+        "passage": "Chordates include animals with a notochord at some life stage, among them vertebrates such as fish, birds, and mammals. This shared feature helps biologists classify evolutionary relationships.\n\nFossil and genetic data refine the branching order within the group. Comparative anatomy still relies on structures like the notochord and nerve cord.",
+        "passageTitle": "Chordates"
+      },
+      {
+        "id": "r1-4-3",
+        "question": "What is the topic?",
+        "options": [
+          "Only large corporations receive loans",
+          "Microfinance: purpose and the need for careful program design",
+          "Banks that never lend",
+          "Interest rates that are always zero"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-04",
+        "passage": "Microfinance provides small loans and related services to people who lack access to traditional banks. The goal is to support microenterprises and smooth household cash flow.\n\nResults vary by region and program design. Careful assessment of interest rates, repayment pressure, and client protection remains essential.",
+        "passageTitle": "Microfinance"
+      },
+      {
+        "id": "r1-4-4",
+        "question": "What is the author's primary concern?",
+        "options": [
+          "Igneous rocks only",
+          "How sedimentary rocks form and what their layers reveal",
+          "Fossils that never form in sediment",
+          "Sea level that never changes"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-04",
+        "passage": "Sedimentary rocks form from deposited particles or precipitated minerals that harden over time. Layers can preserve fossils and record past environments.\n\nGeologists read these strata to reconstruct climate, sea level, and biological change across Earth's history.",
+        "passageTitle": "Sedimentary rocks"
+      },
+      {
+        "id": "r1-4-5",
+        "question": "What is the main idea?",
+        "options": [
+          "Working memory is unlimited",
+          "Cognitive load theory guides instructional design to respect memory limits",
+          "Diagrams always increase load",
+          "Long-term knowledge cannot be built"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-04",
+        "passage": "Cognitive load theory examines limits on working memory during learning. When instructional materials swamp limited capacity, learning suffers.\n\nDesigners reduce extraneous load by clarifying explanations, segmenting content, and aligning text with diagrams. The aim is to free capacity for building long-term knowledge.",
+        "passageTitle": "Cognitive load"
+      },
+      {
+        "id": "r1-4-6",
+        "question": "Which best expresses the topic?",
+        "options": [
+          "Dams with no environmental effects",
+          "Hydroelectric power and its trade-offs",
+          "Fish that ignore rivers",
+          "Irrigation without water"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-04",
+        "passage": "Hydroelectric dams generate electricity from falling or flowing water. They can provide low-carbon power and water storage for irrigation.\n\nThey also alter river ecosystems, block fish migration, and may displace communities. Modern planning weighs energy benefits against social and environmental costs.",
+        "passageTitle": "Hydroelectric dams"
+      },
+      {
+        "id": "r1-4-7",
+        "question": "What is the subject of this passage?",
+        "options": [
+          "Only metals appear in the table",
+          "How the periodic table organizes elements and aids prediction",
+          "Electron configurations that never repeat",
+          "Medicine without chemistry"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-04",
+        "passage": "The periodic table organizes elements by atomic number and recurring chemical properties. Rows and columns reflect electron configurations that govern bonding behavior.\n\nIts predictive power helped chemists identify elements before they were isolated in pure form. Updated tables still guide research in materials and medicine.",
+        "passageTitle": "Periodic table"
+      },
+      {
+        "id": "r1-4-8",
+        "question": "What is the main idea?",
+        "options": [
+          "Only professionals can collect data",
+          "Citizen science can extend research if quality controls are in place",
+          "Training is unnecessary",
+          "Public engagement harms science"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-04",
+        "passage": "Citizen science invites non-professionals to collect or classify data—counting birds, labeling galaxies, or reporting local pollution. Projects can expand geographic coverage beyond what small research teams achieve.\n\nData quality depends on training, validation, and clear protocols. When well designed, such projects both advance science and public engagement.",
+        "passageTitle": "Citizen science"
+      },
+      {
+        "id": "r1-4-9",
+        "question": "With what is the passage primarily concerned?",
+        "options": [
+          "Energy that cannot change form",
+          "Kinetic and potential energy and their practical relevance",
+          "Friction that always dominates",
+          "Structures without engineering"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-04",
+        "passage": "Kinetic energy is energy of motion; potential energy is stored energy related to position or configuration. Mechanical systems continually convert between the two forms when friction is small.\n\nUnderstanding these forms helps engineers design safer vehicles, efficient machines, and stable structures.",
+        "passageTitle": "Energy forms"
+      },
+      {
+        "id": "r1-4-10",
+        "question": "Which is the best title?",
+        "options": [
+          "Why Wetlands Should Always Be Drained",
+          "Wetland Services, Losses, and Restoration",
+          "Biodiversity Only in Deserts",
+          "Floods That Never Occur Near Wetlands"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r1",
+        "difficulty": "hard",
+        "skillId": "skill-r1",
+        "seed": "R1-04",
+        "passage": "Wetlands filter pollutants, buffer floods, and support biodiversity. Despite these services, many have been drained for agriculture or development.\n\nProtection and restoration policies now recognize wetlands as infrastructure that provides economic as well as ecological value.",
+        "passageTitle": "Wetlands"
+      }
+    ]
+  },
+  {
+    "seed": "R2-01",
+    "skillId": "skill-r2",
+    "skillCode": "R2",
+    "packNumber": 1,
+    "title": "R2 Pack 1 — Organization of ideas",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "r2-1-1",
+        "question": "How is the information in the passage organized?",
+        "options": [
+          "An idea is presented and then refuted",
+          "A concept is followed by examples",
+          "A cause is followed by an effect",
+          "A belief is supported with reasons"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. Para 1–2 keyakinan Doubleday; para 3 membantah.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-01",
+        "passage": "If asked who invented the game of baseball, most Americans would probably reply that it was Abner Doubleday. They believe this because the story about Doubleday is part of the tradition of baseball.\n\nDoubleday was given credit for this invention early in the twentieth century when sporting-goods manufacturer Spaulding inaugurated a commission to research who invented baseball. In 1908, a report published by the commission credited Abner Doubleday, a U.S. Army officer from Cooperstown, New York. The National Baseball Hall of Fame was established in Cooperstown in honor of Doubleday.\n\nToday, most sports historians agree that Doubleday really did not have much to do with the development of baseball. Instead, baseball seems to be a close relative of the English game of rounders and probably has English rather than American roots.",
+        "passageTitle": "Baseball origins"
+      },
+      {
+        "id": "r2-1-2",
+        "question": "Which paragraph gives the historical background of the belief about Doubleday?",
+        "options": [
+          "Paragraph 1",
+          "Paragraph 2",
+          "Paragraph 3",
+          "None of the paragraphs"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. Para 2: komisi awal abad 20 dan laporan 1908.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-01",
+        "passage": "If asked who invented the game of baseball, most Americans would probably reply that it was Abner Doubleday. They believe this because the story about Doubleday is part of the tradition of baseball.\n\nDoubleday was given credit for this invention early in the twentieth century when sporting-goods manufacturer Spaulding inaugurated a commission to research who invented baseball. In 1908, a report published by the commission credited Abner Doubleday, a U.S. Army officer from Cooperstown, New York. The National Baseball Hall of Fame was established in Cooperstown in honor of Doubleday.\n\nToday, most sports historians agree that Doubleday really did not have much to do with the development of baseball. Instead, baseball seems to be a close relative of the English game of rounders and probably has English rather than American roots.",
+        "passageTitle": "Baseball origins"
+      },
+      {
+        "id": "r2-1-3",
+        "question": "How is the third paragraph related to the first two?",
+        "options": [
+          "It provides examples supporting them",
+          "It contradicts or refutes them",
+          "It defines a key term from them",
+          "It describes a cause of the earlier events"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. Historians disagree — refutation.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-01",
+        "passage": "If asked who invented the game of baseball, most Americans would probably reply that it was Abner Doubleday. They believe this because the story about Doubleday is part of the tradition of baseball.\n\nDoubleday was given credit for this invention early in the twentieth century when sporting-goods manufacturer Spaulding inaugurated a commission to research who invented baseball. In 1908, a report published by the commission credited Abner Doubleday, a U.S. Army officer from Cooperstown, New York. The National Baseball Hall of Fame was established in Cooperstown in honor of Doubleday.\n\nToday, most sports historians agree that Doubleday really did not have much to do with the development of baseball. Instead, baseball seems to be a close relative of the English game of rounders and probably has English rather than American roots.",
+        "passageTitle": "Baseball origins"
+      },
+      {
+        "id": "r2-1-4",
+        "question": "How is the information organized?",
+        "options": [
+          "A claim is made, questioned with data, then followed by a practical response",
+          "Only success stories are listed",
+          "A single cause produces one effect",
+          "Definitions without evaluation"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. Klaim → data yang menantang → respons perencanaan.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-01",
+        "passage": "Many cities promote bike-sharing programs as a clean transport option. Officials often claim that shared bikes reduce car trips and lower emissions.\n\nProgram data, however, sometimes show that many rides replace walking or public transit rather than driving. In those cases, the net environmental gain is smaller than advertised.\n\nPlanners therefore combine bike-share with protected lanes and transit discounts so the system supports genuine mode shift.",
+        "passageTitle": "Bike-share"
+      },
+      {
+        "id": "r2-1-5",
+        "question": "How is paragraph 2 related to paragraph 1?",
+        "options": [
+          "It contradicts paragraph 1",
+          "It provides examples of the process introduced in paragraph 1",
+          "It describes a historical debate",
+          "It lists unrelated technologies"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. for example + tree/phytoplankton = examples.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-01",
+        "passage": "Photosynthesis converts light energy into chemical energy stored in sugars. The process occurs mainly in chloroplasts of green plants and algae.\n\nFor example, a single tree can fix many kilograms of carbon over a growing season, while phytoplankton perform a large share of oceanic photosynthesis.\n\nThese examples illustrate why disruptions to plant and algal systems can alter global carbon cycles.",
+        "passageTitle": "Photosynthesis examples"
+      },
+      {
+        "id": "r2-1-6",
+        "question": "How is the information organized?",
+        "options": [
+          "A problem's cause is followed by effects and responses",
+          "A biography of a scientist",
+          "Random facts about oceans",
+          "Only a definition of saltwater"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. cause (overpumping) → effects → responses.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-01",
+        "passage": "When groundwater is pumped faster than it is recharged, aquifers decline. Wells must be drilled deeper, and in coastal zones saltwater may intrude.\n\nAs a result, farming costs rise and some communities lose reliable drinking water. Policy responses include pumping limits and managed recharge.",
+        "passageTitle": "Aquifers"
+      },
+      {
+        "id": "r2-1-7",
+        "question": "How is paragraph 2 related to paragraph 1?",
+        "options": [
+          "It extends the definition with more jargon only",
+          "It presents concerns and policy responses related to the idea in paragraph 1",
+          "It denies that open science exists",
+          "It lists lab equipment"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. critics + policies related to openness.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-01",
+        "passage": "The term \"open science\" refers to practices that make methods, data, and publications more accessible. Advocates argue that openness speeds discovery and improves reproducibility.\n\nCritics worry about privacy, dual-use risks, and unfunded mandates on researchers. Journals and funders have begun issuing nuanced policies that encourage sharing with safeguards.",
+        "passageTitle": "Open science"
+      },
+      {
+        "id": "r2-1-8",
+        "question": "How is the information organized?",
+        "options": [
+          "A chronological development of methods",
+          "A refutation of all mapping",
+          "A single recipe for vaccines",
+          "A list of unrelated inventions"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. early → later → now = chronological development.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-01",
+        "passage": "Early maps of disease focused on where cases clustered. Snow's mid-nineteenth-century cholera map linked cases to a contaminated pump.\n\nLater, statistical models estimated risk factors across populations. Geographic information systems now combine layers of environment, mobility, and health data.\n\nTogether these approaches show an evolution from simple spatial plots to integrated risk analysis.",
+        "passageTitle": "Disease mapping"
+      },
+      {
+        "id": "r2-1-9",
+        "question": "How is the second paragraph related to the first?",
+        "options": [
+          "It gives examples that prove the first view",
+          "It presents an opposing view",
+          "It defines standardized tests",
+          "It changes the topic to sports"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. Others contend = opposing view.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-01",
+        "passage": "Some educators favor standardized tests because scores allow comparison across schools. They argue that shared metrics highlight gaps that need funding.\n\nOthers contend that narrow tests distort teaching and overlook creativity. Alternative assessments such as portfolios are proposed as supplements or replacements.\n\nThe debate continues in policy circles without a single dominant model.",
+        "passageTitle": "Testing debate"
+      },
+      {
+        "id": "r2-1-10",
+        "question": "How is paragraph 2 related to paragraph 1?",
+        "options": [
+          "It refutes paragraph 1",
+          "It gives a specific example of the process in paragraph 1",
+          "It discusses only local tourism",
+          "It defines sunlight"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. Pinatubo = example.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-01",
+        "passage": "Volcanic eruptions can inject aerosols into the stratosphere. Those particles reflect sunlight and can cool the surface for a year or more.\n\nThe 1991 Mount Pinatubo eruption, for instance, was followed by a measurable global temperature dip. Climate models use such events to test how the atmosphere responds to sudden forcing.",
+        "passageTitle": "Volcanic cooling"
+      }
+    ]
+  },
+  {
+    "seed": "R2-02",
+    "skillId": "skill-r2",
+    "skillCode": "R2",
+    "packNumber": 2,
+    "title": "R2 Pack 2 — Organization of ideas",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "r2-2-1",
+        "question": "How is the information organized?",
+        "options": [
+          "An older belief is presented and then replaced by a better-supported model",
+          "Only laboratory chemistry is discussed",
+          "A recipe for telescopes",
+          "A list of planet names"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-02",
+        "passage": "Belief in a static universe was common before the twentieth century. Many assumed galaxies stayed roughly fixed in space.\n\nObservations of redshift later indicated that distant galaxies are receding. The expanding-universe model replaced the older static picture for most cosmologists.\n\nAlternative ideas still appear, but they remain minority views against the bulk of observational evidence.",
+        "passageTitle": "Expanding universe"
+      },
+      {
+        "id": "r2-2-2",
+        "question": "How is paragraph 2 related to paragraph 1?",
+        "options": [
+          "It ignores the problem",
+          "It describes policy responses to the harm described in paragraph 1",
+          "It argues lead is beneficial",
+          "It changes the subject to nutrition only"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-02",
+        "passage": "Lead exposure damages developing nervous systems. Even low levels are linked to reduced cognitive scores in children.\n\nBecause of these effects, many countries banned lead in gasoline and tightened rules on paint and plumbing. Blood-lead surveillance tracks whether policies work.",
+        "passageTitle": "Lead exposure"
+      },
+      {
+        "id": "r2-2-3",
+        "question": "How is the information organized?",
+        "options": [
+          "Definitions of interaction types with an example and a contrast",
+          "A single undiscussed species",
+          "Only human agriculture",
+          "A timeline of extinctions without definitions"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-02",
+        "passage": "A mutualistic relationship benefits both species involved. Pollination by bees, for example, feeds the insect while helping the plant reproduce.\n\nParasitism, by contrast, benefits one species at the other's expense. Comparing these interaction types clarifies how species shape each other's survival.",
+        "passageTitle": "Species interactions"
+      },
+      {
+        "id": "r2-2-4",
+        "question": "How is the information organized?",
+        "options": [
+          "A plan is introduced, results are reported, then a limited decision follows",
+          "Only marketing slogans",
+          "A history of labor law",
+          "A list of unrelated products"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-02",
+        "passage": "Company A announced a four-day workweek pilot. Managers hoped productivity would hold while burnout fell.\n\nInternal metrics later showed mixed results: some teams improved output, others missed deadlines. The firm kept the pilot only for roles with clear deliverables.",
+        "passageTitle": "Workweek pilot"
+      },
+      {
+        "id": "r2-2-5",
+        "question": "How is paragraph 2 related to paragraph 1?",
+        "options": [
+          "It describes consequences of losing the services in paragraph 1 and a response",
+          "It defines a different planet",
+          "It praises drainage without costs",
+          "It lists bird names only"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-02",
+        "passage": "Wetlands store floodwater and filter pollutants. Coastal mangroves also buffer storm surge.\n\nWhen wetlands are drained, flood peaks rise and water quality often declines. Restoration projects aim to recover those lost services.",
+        "passageTitle": "Wetlands"
+      },
+      {
+        "id": "r2-2-6",
+        "question": "How is the information organized?",
+        "options": [
+          "A popular claim is presented and then challenged with evidence",
+          "Only shopping advice",
+          "A biography of one patient",
+          "A list of grocery stores"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-02",
+        "passage": "The claim that vitamin megadoses prevent all disease is popular in some marketing. Sellers emphasize dramatic anecdotes.\n\nControlled trials, however, often fail to support such broad claims and sometimes show harm at high doses. Health agencies therefore recommend evidence-based amounts rather than extreme supplementation.",
+        "passageTitle": "Vitamin claims"
+      },
+      {
+        "id": "r2-2-7",
+        "question": "How is the information organized?",
+        "options": [
+          "A sequential process from data prep to interpretation",
+          "A random set of jokes",
+          "Only hardware specifications",
+          "A single undefined acronym"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-02",
+        "passage": "First, raw data are cleaned and coded. Next, analysts fit statistical models and check assumptions.\n\nFinally, results are interpreted with uncertainty estimates and limitations. Skipping earlier steps often undermines the final conclusions.",
+        "passageTitle": "Data analysis steps"
+      },
+      {
+        "id": "r2-2-8",
+        "question": "How is paragraph 2 related to paragraph 1?",
+        "options": [
+          "It offers an opposing concern and a way to test the idea",
+          "It repeats paragraph 1 word for word",
+          "It discusses only aviation",
+          "It denies that buses exist"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-02",
+        "passage": "Some cities cut highway lanes to add bus corridors. Advocates say buses then move more people per hour.\n\nOpponents argue car delay will harm businesses. Pilot projects measure ridership and retail activity before permanent redesigns.",
+        "passageTitle": "Bus corridors"
+      },
+      {
+        "id": "r2-2-9",
+        "question": "How is paragraph 2 related to paragraph 1?",
+        "options": [
+          "It gives practical techniques related to the memory types in paragraph 1",
+          "It rejects all memory research",
+          "It lists only sports scores",
+          "It defines unrelated chemistry"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-02",
+        "passage": "Memory is often divided into short-term and long-term stores. Short-term capacity is limited; long-term storage can hold vast amounts.\n\nTechniques such as chunking and spaced practice help move information into longer-term retention. Education research applies these findings to study design.",
+        "passageTitle": "Memory"
+      },
+      {
+        "id": "r2-2-10",
+        "question": "How is the information organized?",
+        "options": [
+          "An action is followed by regulatory response and a broader lesson",
+          "Only positive advertising",
+          "A cookbook",
+          "A weather forecast"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-02",
+        "passage": "A startup marketed a device as medically diagnostic without regulatory review. Sales grew through social media testimonials.\n\nRegulators later ordered claims to be withdrawn and required proper trials. The episode is cited in discussions of digital health oversight.",
+        "passageTitle": "Device claims"
+      }
+    ]
+  },
+  {
+    "seed": "R2-03",
+    "skillId": "skill-r2",
+    "skillCode": "R2",
+    "packNumber": 3,
+    "title": "R2 Pack 3 — Organization of ideas",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "r2-3-1",
+        "question": "How is the information organized?",
+        "options": [
+          "A misconception is presented and then corrected",
+          "A list of ocean species",
+          "A construction manual",
+          "A single recipe"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-03",
+        "passage": "Many people once assumed deserts were empty of complex life. Popular images showed only sand and heat.\n\nEcological surveys later documented specialized plants, insects, and mammals adapted to scarce water. The \"empty desert\" idea did not survive closer study.",
+        "passageTitle": "Desert ecology"
+      },
+      {
+        "id": "r2-3-2",
+        "question": "How is paragraph 2 related to paragraph 1?",
+        "options": [
+          "It describes longer-term effects and responses after the short-term process in paragraph 1",
+          "It denies stress exists",
+          "It discusses only astronomy",
+          "It lists capital cities"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-03",
+        "passage": "Stress activates hormonal pathways that prepare the body for short-term challenge. Heart rate and alertness rise.\n\nChronic activation, however, is linked to sleep problems and immune changes. Management strategies include sleep hygiene, exercise, and cognitive techniques.",
+        "passageTitle": "Stress"
+      },
+      {
+        "id": "r2-3-3",
+        "question": "How is paragraph 2 related to paragraph 1?",
+        "options": [
+          "It supplies an example and conditions related to the approach in paragraph 1",
+          "It refutes the entire industry",
+          "It changes the topic to painting",
+          "It defines only concrete chemistry"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-03",
+        "passage": "Modular construction builds sections off-site and assembles them on location. Proponents cite speed and quality control.\n\nProjects in dense cities, for example, have cut on-site schedules by months. Cost savings depend on transport logistics and design standardization.",
+        "passageTitle": "Modular construction"
+      },
+      {
+        "id": "r2-3-4",
+        "question": "How is the information organized?",
+        "options": [
+          "A cause is followed by effects relevant to policy",
+          "A celebrity biography",
+          "Only sports statistics",
+          "A dictionary of unrelated words"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-03",
+        "passage": "When interest rates rise, borrowing becomes more expensive. Households and firms may delay large purchases.\n\nConsequently, demand for durable goods can cool and inflation pressure may ease. Central banks watch these channels when setting policy.",
+        "passageTitle": "Interest rates"
+      },
+      {
+        "id": "r2-3-5",
+        "question": "How is paragraph 2 related to paragraph 1?",
+        "options": [
+          "It contrasts an alternative approach with the traditional one in paragraph 1",
+          "It repeats the lecture definition",
+          "It discusses only cafeteria food",
+          "It denies that students take notes"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-03",
+        "passage": "Traditional lectures present information in a continuous oral stream. Students mainly listen and take notes.\n\nActive-learning formats intersperse problem-solving and discussion. Comparative studies often find higher short-term performance for active methods, though implementation quality matters.",
+        "passageTitle": "Teaching formats"
+      },
+      {
+        "id": "r2-3-6",
+        "question": "How is the information organized?",
+        "options": [
+          "Older methods are described, then a newer method and its impact",
+          "Only underwater photography",
+          "A list of modern cities",
+          "A denial of all dating"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-03",
+        "passage": "Archaeologists once dated sites mainly by pottery styles and written records. Sequences were relative rather than absolute.\n\nRadiocarbon methods later provided calendar estimates for organic remains. Cross-checking styles with radiocarbon refined many chronologies.",
+        "passageTitle": "Dating methods"
+      },
+      {
+        "id": "r2-3-7",
+        "question": "How is paragraph 2 related to paragraph 1?",
+        "options": [
+          "It describes a threat to the benefits in paragraph 1 and a response",
+          "It celebrates cuts without cost",
+          "It lists only desert parks",
+          "It defines molecular biology"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-03",
+        "passage": "Public parks offer recreation and urban cooling. Tree canopy can lower local temperatures on hot days.\n\nBudget cuts sometimes reduce maintenance, leading to unsafe equipment and fewer visitors. Advocacy groups document usage to defend funding.",
+        "passageTitle": "Public parks"
+      },
+      {
+        "id": "r2-3-8",
+        "question": "How is the information organized?",
+        "options": [
+          "A capability is introduced, then limits and governance issues",
+          "Only marketing promises",
+          "A history of one hospital building",
+          "A sports schedule"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-03",
+        "passage": "Some AI systems classify medical images with high average accuracy in tests. Hospitals pilot tools to triage routine cases.\n\nErrors still occur on rare conditions, so human oversight remains required. Liability and training protocols are under active discussion.",
+        "passageTitle": "Medical AI"
+      },
+      {
+        "id": "r2-3-9",
+        "question": "How is paragraph 2 related to paragraph 1?",
+        "options": [
+          "It explains a human-driven problem affecting the systems in paragraph 1",
+          "It denies that deltas exist",
+          "It discusses only mountain peaks",
+          "It lists unrelated minerals"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-03",
+        "passage": "River deltas form where sediment settles as currents slow near the sea. Fertile soils attract dense settlement.\n\nUpstream dams can trap sediment, causing delta land to sink relative to sea level. Adaptation includes sediment management and protective infrastructure.",
+        "passageTitle": "River deltas"
+      },
+      {
+        "id": "r2-3-10",
+        "question": "How is the information organized?",
+        "options": [
+          "A conventional sequence of report sections",
+          "A random collage",
+          "Only a glossary",
+          "A denial of peer review"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-03",
+        "passage": "The first paragraph of a lab report states the research question. Methods and results follow in order.\n\nDiscussion then interprets findings against prior work. Readers expect this conventional organization to navigate the paper quickly.",
+        "passageTitle": "Lab reports"
+      }
+    ]
+  },
+  {
+    "seed": "R2-04",
+    "skillId": "skill-r2",
+    "skillCode": "R2",
+    "packNumber": 4,
+    "title": "R2 Pack 4 — Organization of ideas",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "r2-4-1",
+        "question": "How is the information organized?",
+        "options": [
+          "A popular story is presented and then revised by a more complex account",
+          "Only stock prices",
+          "A cooking show script",
+          "A list of unrelated patents without comment"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-04",
+        "passage": "Folk history credited a single inventor with the light bulb's practical form. Popular stories centered on one laboratory breakthrough.\n\nEngineering histories instead emphasize incremental improvements by many workers in materials, vacuum technique, and power distribution. The lone-genius narrative is now treated as oversimplified.",
+        "passageTitle": "Light bulb history"
+      },
+      {
+        "id": "r2-4-2",
+        "question": "How is paragraph 2 related to paragraph 1?",
+        "options": [
+          "It presents solutions to the problem outlined in paragraph 1",
+          "It claims erosion is beneficial",
+          "It discusses only deep ocean trenches",
+          "It defines a single chemical formula"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-04",
+        "passage": "Soil erosion removes fertile top layers needed for crops. Steep slopes and bare fields accelerate loss during heavy rain.\n\nContour plowing, cover crops, and terraces reduce runoff. Extension services promote these practices where erosion risk is high.",
+        "passageTitle": "Soil erosion"
+      },
+      {
+        "id": "r2-4-3",
+        "question": "How is the information organized?",
+        "options": [
+          "Two designs are defined and contrasted",
+          "Only one patient's story",
+          "A weather map",
+          "A denial of statistics"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-04",
+        "passage": "A randomized trial assigns participants to treatment or control by chance. The design aims to balance unknown confounders.\n\nObservational studies, by contrast, watch outcomes without assignment. They are useful when trials are impractical but require careful adjustment for bias.",
+        "passageTitle": "Study designs"
+      },
+      {
+        "id": "r2-4-4",
+        "question": "How is the information organized?",
+        "options": [
+          "A problem is described, then mitigation attempts and mixed results",
+          "Only printer manuals",
+          "A sports rulebook",
+          "A single joke"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-04",
+        "passage": "Online misinformation can spread faster than corrections. Emotional content often receives more shares.\n\nPlatforms test labels, friction, and downranking to slow virality. Effectiveness varies by topic and user community.",
+        "passageTitle": "Misinformation"
+      },
+      {
+        "id": "r2-4-5",
+        "question": "How is later material related to the opening?",
+        "options": [
+          "It applies the opening definition to examples",
+          "It deletes the definition",
+          "It discusses only music theory",
+          "It denies that terms matter"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-04",
+        "passage": "The opening section of the passage defines a technical term. Later sections apply the term to case studies.\n\nReaders who skip the definition often misread the cases. Pedagogically, definitions before examples support comprehension.",
+        "passageTitle": "Definitions and cases"
+      },
+      {
+        "id": "r2-4-6",
+        "question": "How is the information organized?",
+        "options": [
+          "Past practice is contrasted with current monitoring and enforcement use",
+          "Only fashion trends",
+          "A poem without data",
+          "A list of river names"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-04",
+        "passage": "Factory emissions once went largely unmonitored. Local air quality suffered near industrial corridors.\n\nSensor networks and satellite data now track plumes in near real time. Regulators use the data to target inspections.",
+        "passageTitle": "Emissions monitoring"
+      },
+      {
+        "id": "r2-4-7",
+        "question": "How is paragraph 2 related to paragraph 1?",
+        "options": [
+          "It introduces an opposing priority and a proposed middle path",
+          "It agrees completely without change",
+          "It changes the topic to astronomy",
+          "It denies that birds nest"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-04",
+        "passage": "Team A argued for expanding the park to protect nesting birds. They cited survey counts and migration maps.\n\nTeam B prioritized housing on the same land. Mediators proposed a smaller reserve plus building-height limits as a compromise.",
+        "passageTitle": "Park debate"
+      },
+      {
+        "id": "r2-4-8",
+        "question": "How is paragraph 2 related to paragraph 1?",
+        "options": [
+          "It explains a use of the collections described in paragraph 1 and a governance note",
+          "It argues seed banks should close",
+          "It lists only sports teams",
+          "It defines unrelated physics"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-04",
+        "passage": "Seed banks store diverse crop varieties at low temperature. The collections are insurance against disease and climate shocks.\n\nWhen a strain fails in the field, researchers can request stored material for breeding. International treaties govern access and benefit sharing.",
+        "passageTitle": "Seed banks"
+      },
+      {
+        "id": "r2-4-9",
+        "question": "How is the information organized?",
+        "options": [
+          "A practice leads to a problem, then a revised practice and trade-off",
+          "Only hardware catalogs",
+          "A travel itinerary",
+          "A denial of software"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-04",
+        "passage": "At first the software team released features weekly. Users complained about instability.\n\nThe team switched to longer test cycles and staged rollouts. Crash rates fell, though new features arrived more slowly.",
+        "passageTitle": "Release cycles"
+      },
+      {
+        "id": "r2-4-10",
+        "question": "How is the information organized?",
+        "options": [
+          "Hypothesis, then results, then limitations",
+          "Only advertisements",
+          "A random quote board",
+          "A single undefined chart"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r2",
+        "difficulty": "hard",
+        "skillId": "skill-r2",
+        "seed": "R2-04",
+        "passage": "Paragraph 1 of the article states a hypothesis about sleep and memory. Paragraph 2 summarizes experimental results.\n\nParagraph 3 discusses limitations and next studies. The structure mirrors a standard scientific argument from claim to evidence to caveats.",
+        "passageTitle": "Article structure"
+      }
+    ]
+  },
+  {
+    "seed": "R3-01",
+    "skillId": "skill-r3",
+    "skillCode": "R3",
+    "packNumber": 1,
+    "title": "R3 Pack 1 — Stated detail questions",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "r3-1-1",
+        "question": "The passage indicates that Jamestown",
+        "options": [
+          "was settled in 1633",
+          "was settled twenty-six years after Williamsburg",
+          "was the first permanent English colony in America",
+          "was originally named Middle Plantation"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. Langsung dinyatakan. A/D = Williamsburg; B urutan terbalik.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-01",
+        "passage": "Williamsburg is a historic city in Virginia that was settled by English colonists in 1633, twenty-six years after the first permanent English colony in America was settled at Jamestown. In the beginning, the colony at Williamsburg was named Middle Plantation because of its location in the middle of a peninsula between two rivers, the York and the James. The site for Williamsburg had been selected by the colonists because the soil drainage was better there than at the Jamestown location, and there were fewer mosquitoes.",
+        "passageTitle": "Williamsburg"
+      },
+      {
+        "id": "r3-1-2",
+        "question": "According to the passage, the colonists chose Williamsburg because",
+        "options": [
+          "it was in England",
+          "there were no nearby rivers",
+          "there were lots of mosquitoes",
+          "the soil drained well"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D. Restatement: soil drainage was better.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-01",
+        "passage": "Williamsburg is a historic city in Virginia that was settled by English colonists in 1633, twenty-six years after the first permanent English colony in America was settled at Jamestown. In the beginning, the colony at Williamsburg was named Middle Plantation because of its location in the middle of a peninsula between two rivers, the York and the James. The site for Williamsburg had been selected by the colonists because the soil drainage was better there than at the Jamestown location, and there were fewer mosquitoes.",
+        "passageTitle": "Williamsburg"
+      },
+      {
+        "id": "r3-1-3",
+        "question": "It is stated in the passage that Williamsburg was first named",
+        "options": [
+          "Jamestown",
+          "Middle Plantation",
+          "York",
+          "Virginia City"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-01",
+        "passage": "Williamsburg is a historic city in Virginia that was settled by English colonists in 1633, twenty-six years after the first permanent English colony in America was settled at Jamestown. In the beginning, the colony at Williamsburg was named Middle Plantation because of its location in the middle of a peninsula between two rivers, the York and the James. The site for Williamsburg had been selected by the colonists because the soil drainage was better there than at the Jamestown location, and there were fewer mosquitoes.",
+        "passageTitle": "Williamsburg"
+      },
+      {
+        "id": "r3-1-4",
+        "question": "Which of the following is true according to the passage?",
+        "options": [
+          "Williamsburg sits between the York and the James",
+          "Jamestown had better soil drainage",
+          "Colonists avoided all rivers",
+          "Williamsburg was settled before Jamestown"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-01",
+        "passage": "Williamsburg is a historic city in Virginia that was settled by English colonists in 1633, twenty-six years after the first permanent English colony in America was settled at Jamestown. In the beginning, the colony at Williamsburg was named Middle Plantation because of its location in the middle of a peninsula between two rivers, the York and the James. The site for Williamsburg had been selected by the colonists because the soil drainage was better there than at the Jamestown location, and there were fewer mosquitoes.",
+        "passageTitle": "Williamsburg"
+      },
+      {
+        "id": "r3-1-5",
+        "question": "According to the passage, the Amazon River",
+        "options": [
+          "is the longest river in Asia",
+          "discharges more water than any other river",
+          "has no floodplain agriculture",
+          "supports only a few species"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-01",
+        "passage": "The Amazon River discharges more water than any other river on Earth. Its drainage basin covers much of northern South America and supports extraordinary biodiversity. Seasonal floods deposit nutrients on the floodplain, which local farmers have long used for agriculture.",
+        "passageTitle": "Amazon"
+      },
+      {
+        "id": "r3-1-6",
+        "question": "The passage indicates that penicillin",
+        "options": [
+          "cures viral infections only",
+          "was widely used in WWII for bacterial infections",
+          "eliminated all resistance",
+          "was never used on soldiers"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-01",
+        "passage": "Penicillin was first widely used during World War II to treat bacterial infections in wounded soldiers. Before antibiotics, even minor wounds could lead to fatal sepsis. Resistance has since emerged, so physicians reserve certain drugs for severe cases.",
+        "passageTitle": "Penicillin"
+      },
+      {
+        "id": "r3-1-7",
+        "question": "It is stated in the passage that Kilimanjaro",
+        "options": [
+          "is Africa's highest peak",
+          "has no ice at all",
+          "is located at the South Pole",
+          "grew taller in the twentieth century"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-01",
+        "passage": "Mount Kilimanjaro is Africa's highest peak. Although it lies near the equator, permanent ice has existed on its summit for centuries. Recent surveys show that the ice fields have shrunk substantially since the early twentieth century.",
+        "passageTitle": "Kilimanjaro"
+      },
+      {
+        "id": "r3-1-8",
+        "question": "According to the passage, the Library of Congress",
+        "options": [
+          "is closed to the public",
+          "serves as the research arm of the U.S. Congress",
+          "holds only maps",
+          "has no digital collections"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-01",
+        "passage": "The Library of Congress in Washington, D.C., holds millions of books, recordings, and maps. It serves as the research arm of the U.S. Congress and is open to the public for on-site research. Digital collections now allow remote access to many items.",
+        "passageTitle": "Library of Congress"
+      },
+      {
+        "id": "r3-1-9",
+        "question": "The passage indicates that the duration of the waggle dance",
+        "options": [
+          "indicates the color of flowers",
+          "correlates with distance",
+          "has no meaning",
+          "replaces the need for the sun"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-01",
+        "passage": "Honeybees communicate food locations through the waggle dance. The angle of the dance relative to gravity indicates direction with respect to the sun, and the duration correlates with distance. Other bees use this information to fly to the resource.",
+        "passageTitle": "Waggle dance"
+      },
+      {
+        "id": "r3-1-10",
+        "question": "Which of the following is true according to the passage?",
+        "options": [
+          "Concrete needs no water",
+          "Aggregate can include sand or gravel",
+          "Concrete never hardens",
+          "Carbon dioxide is unrelated to production"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-01",
+        "passage": "Concrete is made by mixing cement, water, and aggregate such as sand or gravel. When the mixture hardens, it forms a durable building material. Its production emits significant carbon dioxide, prompting research into lower-carbon alternatives.",
+        "passageTitle": "Concrete"
+      }
+    ]
+  },
+  {
+    "seed": "R3-02",
+    "skillId": "skill-r3",
+    "skillCode": "R3",
+    "packNumber": 2,
+    "title": "R3 Pack 2 — Stated detail questions",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "r3-2-1",
+        "question": "According to the passage, the Rosetta Stone was discovered",
+        "options": [
+          "in 1899 in Greece",
+          "in 1799 near Rashid in Egypt",
+          "only in digital form",
+          "by accident in Rome"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-02",
+        "passage": "The Rosetta Stone displays the same text in Greek, Demotic, and hieroglyphic scripts. Because scholars could read Greek, they used the stone to decipher hieroglyphs. It was discovered in 1799 near Rashid (Rosetta) in Egypt.",
+        "passageTitle": "Rosetta Stone"
+      },
+      {
+        "id": "r3-2-2",
+        "question": "The passage indicates that a reliable three-dimensional fix typically needs",
+        "options": [
+          "one satellite",
+          "at least four satellites",
+          "no satellites",
+          "only ground clocks"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-02",
+        "passage": "GPS receivers calculate position by timing signals from multiple satellites. At least four satellites are typically needed for a reliable three-dimensional fix. Atmospheric delays can introduce small errors that differential corrections reduce.",
+        "passageTitle": "GPS"
+      },
+      {
+        "id": "r3-2-3",
+        "question": "It is stated in the passage that elevated sea temperatures",
+        "options": [
+          "never affect corals",
+          "are a common trigger for bleaching",
+          "always kill fish first",
+          "increase algae inside corals"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-02",
+        "passage": "Coral bleaching occurs when stressed corals expel the symbiotic algae that provide them with energy and color. Elevated sea temperatures are a common trigger. Severe bleaching can lead to coral death if stress continues.",
+        "passageTitle": "Coral bleaching"
+      },
+      {
+        "id": "r3-2-4",
+        "question": "According to the passage, elements in the same column often",
+        "options": [
+          "have unrelated properties",
+          "share similar chemical properties",
+          "lack electrons",
+          "cannot be synthesized"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-02",
+        "passage": "The periodic table arranges elements by increasing atomic number. Elements in the same column often share similar chemical properties because of related electron configurations. The table has been expanded as new elements were synthesized.",
+        "passageTitle": "Periodic table"
+      },
+      {
+        "id": "r3-2-5",
+        "question": "The passage indicates that Machu Picchu",
+        "options": [
+          "was built in the fifteenth century under Inca rule",
+          "lies at sea level",
+          "has no terraces",
+          "was a modern capital"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-02",
+        "passage": "Machu Picchu sits high in the Andes of Peru. Built in the fifteenth century under Inca rule, the site includes temples, terraces, and residential areas. It remained largely unknown to outsiders until early twentieth-century expeditions.",
+        "passageTitle": "Machu Picchu"
+      },
+      {
+        "id": "r3-2-6",
+        "question": "Which of the following is true according to the passage?",
+        "options": [
+          "Vaccines always cure active viral infections like all drugs",
+          "Vaccines train immunity for faster later responses",
+          "Coverage rates never matter",
+          "Antigens are never used"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-02",
+        "passage": "Vaccines present antigens so the immune system can respond faster upon later exposure to the real pathogen. They do not treat active viral infections the way antiviral drugs sometimes do. Coverage rates influence whether outbreaks remain controlled.",
+        "passageTitle": "Vaccines"
+      },
+      {
+        "id": "r3-2-7",
+        "question": "According to the passage, by the late fifteenth century printed books",
+        "options": [
+          "had disappeared",
+          "had spread across Europe",
+          "were only in Asia",
+          "cost more than manuscripts always"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-02",
+        "passage": "The Gutenberg press used movable metal type to print texts far faster than hand copying. By the late fifteenth century, printed books had spread across Europe. Literacy and the circulation of ideas both increased as costs fell.",
+        "passageTitle": "Printing press"
+      },
+      {
+        "id": "r3-2-8",
+        "question": "The passage indicates that permafrost",
+        "options": [
+          "never contains carbon",
+          "stays frozen for at least two consecutive years",
+          "exists only at the equator",
+          "improves all building foundations when it thaws"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-02",
+        "passage": "Permafrost is ground that stays frozen for at least two consecutive years. Large carbon stores are locked in frozen Arctic soils. Thaw can release greenhouse gases and damage infrastructure built on once-solid ground.",
+        "passageTitle": "Permafrost"
+      },
+      {
+        "id": "r3-2-9",
+        "question": "It is stated in the passage that double-entry bookkeeping",
+        "options": [
+          "uses only one account per transaction",
+          "records each transaction in at least two accounts",
+          "ignored profit tracking",
+          "was never used by merchants"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-02",
+        "passage": "Double-entry bookkeeping records each transaction in at least two accounts so debits equal credits. The method improved merchants' ability to track profit and debt. It remains the foundation of modern financial statements.",
+        "passageTitle": "Bookkeeping"
+      },
+      {
+        "id": "r3-2-10",
+        "question": "According to the passage, a rising pitch can occur",
+        "options": [
+          "only in space",
+          "as a siren approaches",
+          "when nothing moves",
+          "without any waves"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-02",
+        "passage": "The Doppler effect is a change in observed wave frequency when the source or observer moves. A rising pitch can occur as a siren approaches. Astronomers use redshift—a related effect for light—to study distant galaxies.",
+        "passageTitle": "Doppler effect"
+      }
+    ]
+  },
+  {
+    "seed": "R3-03",
+    "skillId": "skill-r3",
+    "skillCode": "R3",
+    "packNumber": 3,
+    "title": "R3 Pack 3 — Stated detail questions",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "r3-3-1",
+        "question": "The passage indicates that Jamestown was founded in",
+        "options": [
+          "1633",
+          "1607",
+          "1900",
+          "1799"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-03",
+        "passage": "Jamestown was founded in 1607. Williamsburg later became Virginia's capital for a period and was restored as a living-history site in the twentieth century. Tourists today walk reconstructed streets and public buildings.",
+        "passageTitle": "Virginia sites"
+      },
+      {
+        "id": "r3-3-2",
+        "question": "According to the passage, denitrification",
+        "options": [
+          "only creates ammonia for plants",
+          "returns nitrogen gases to the air",
+          "stops all bacterial activity",
+          "removes oxygen from water permanently"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-03",
+        "passage": "Nitrogen fixation converts atmospheric nitrogen into forms plants can use. Certain bacteria and algae perform this conversion. Denitrification returns nitrogen gases to the air, completing a cycle.",
+        "passageTitle": "Nitrogen cycle"
+      },
+      {
+        "id": "r3-3-3",
+        "question": "It is stated in the passage that GPS systems",
+        "options": [
+          "ignore relativity",
+          "apply relativistic corrections",
+          "do not use satellites",
+          "measure only sound speed"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-03",
+        "passage": "The speed of light in a vacuum is about 300,000 kilometers per second. Relativity treats this speed as a limit for ordinary matter. GPS systems apply relativistic corrections to stay accurate.",
+        "passageTitle": "Speed of light"
+      },
+      {
+        "id": "r3-3-4",
+        "question": "Which of the following is true according to the passage?",
+        "options": [
+          "Mangrove roots can stabilize shorelines",
+          "Mangroves grow only in deserts",
+          "Clearing mangroves always improves fisheries",
+          "Juvenile fish avoid mangroves"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-03",
+        "passage": "Mangroves grow in salty coastal zones. Their roots stabilize shorelines and shelter juvenile fish. Clearing mangroves for development can increase flood risk and fishery losses.",
+        "passageTitle": "Mangroves"
+      },
+      {
+        "id": "r3-3-5",
+        "question": "According to the passage, good citizen science projects",
+        "options": [
+          "skip all training",
+          "include training and data validation",
+          "ban volunteers",
+          "never expand geographic coverage"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-03",
+        "passage": "Citizen science projects invite volunteers to count birds, classify galaxies, or report pollution. Good projects include training and data validation. Results can expand coverage beyond what small professional teams achieve alone.",
+        "passageTitle": "Citizen science"
+      },
+      {
+        "id": "r3-3-6",
+        "question": "The passage indicates that hydroelectric dams",
+        "options": [
+          "never affect ecosystems",
+          "can block fish migration",
+          "produce only heat without electricity",
+          "require no water flow"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-03",
+        "passage": "Hydroelectric dams generate power from flowing water and can store water for irrigation. They may also block fish migration and alter ecosystems. Planners weigh energy benefits against social and environmental costs.",
+        "passageTitle": "Dams"
+      },
+      {
+        "id": "r3-3-7",
+        "question": "It is stated in the passage that poor maintenance of terraces can",
+        "options": [
+          "always increase yields",
+          "lead to collapses and increased erosion",
+          "remove the need for water",
+          "flatten all mountains"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-03",
+        "passage": "Terracing turns steep slopes into stepped fields that hold soil and water. The method has long supported farming in mountainous regions. Poor maintenance can lead to collapses and increased erosion.",
+        "passageTitle": "Terracing"
+      },
+      {
+        "id": "r3-3-8",
+        "question": "According to the passage, open-source licenses often allow",
+        "options": [
+          "no inspection of code",
+          "inspection and modification of source code",
+          "only secret military use",
+          "deletion of all licenses"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-03",
+        "passage": "Open-source software publishes source code under licenses that allow inspection and modification. Companies use open-source components widely while managing security reviews. License compliance remains an important legal concern.",
+        "passageTitle": "Open source"
+      },
+      {
+        "id": "r3-3-9",
+        "question": "The passage indicates that strong solar storms can",
+        "options": [
+          "only dim all auroras permanently",
+          "disrupt radio signals",
+          "remove Earth's atmosphere",
+          "stop all space-weather alerts"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-03",
+        "passage": "Auroras appear when charged solar particles excite atmospheric gases near the poles. Strong solar storms can intensify displays and disrupt radio signals. Agencies issue space-weather alerts for operators of power and communication systems.",
+        "passageTitle": "Auroras"
+      },
+      {
+        "id": "r3-3-10",
+        "question": "Which of the following is true according to the passage?",
+        "options": [
+          "Working memory is unlimited",
+          "Segmenting content can reduce extraneous load",
+          "Diagrams always increase load without benefit",
+          "Detail never hurts learning"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-03",
+        "passage": "Cognitive load theory notes that working memory is limited. Instruction that overloads learners with unnecessary detail can hurt learning. Segmenting content and aligning text with diagrams can reduce extraneous load.",
+        "passageTitle": "Cognitive load"
+      }
+    ]
+  },
+  {
+    "seed": "R3-04",
+    "skillId": "skill-r3",
+    "skillCode": "R3",
+    "packNumber": 4,
+    "title": "R3 Pack 4 — Stated detail questions",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "r3-4-1",
+        "question": "According to the passage, human emissions have",
+        "options": [
+          "eliminated the greenhouse effect",
+          "intensified the greenhouse effect",
+          "removed all carbon sinks",
+          "stopped infrared radiation entirely"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-04",
+        "passage": "The greenhouse effect traps heat when greenhouse gases slow outgoing infrared radiation. Human emissions have intensified the effect. Policy responses include cutting emissions and protecting carbon sinks such as forests.",
+        "passageTitle": "Greenhouse effect"
+      },
+      {
+        "id": "r3-4-2",
+        "question": "The passage indicates that fossils are often preserved in",
+        "options": [
+          "only molten lava",
+          "sedimentary layers",
+          "empty space without rock",
+          "pure metals exclusively"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-04",
+        "passage": "Sedimentary rocks form from deposited particles or chemical precipitates that harden over time. Fossils are often preserved in sedimentary layers. Geologists use those layers to reconstruct past environments.",
+        "passageTitle": "Sedimentary rocks"
+      },
+      {
+        "id": "r3-4-3",
+        "question": "It is stated in the passage that microfinance programs aim to",
+        "options": [
+          "replace all large banks overnight",
+          "support microenterprises and household cash flow",
+          "ban all small loans",
+          "ignore repayment design"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-04",
+        "passage": "Microfinance offers small loans to people without traditional bank access. Programs aim to support microenterprises and household cash flow. Outcomes depend on interest rates, repayment design, and client protection.",
+        "passageTitle": "Microfinance"
+      },
+      {
+        "id": "r3-4-4",
+        "question": "According to the passage, vertebrates such as fish, birds, and mammals",
+        "options": [
+          "are not chordates",
+          "are chordates",
+          "never have a notochord stage",
+          "lack evolutionary relationships"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-04",
+        "passage": "Chordates include animals with a notochord at some stage of life. Vertebrates such as fish, birds, and mammals are chordates. Comparative anatomy uses shared features to study evolutionary relationships.",
+        "passageTitle": "Chordates"
+      },
+      {
+        "id": "r3-4-5",
+        "question": "Which of the following is true according to the passage?",
+        "options": [
+          "Potential energy is only energy of motion",
+          "Kinetic energy is energy of motion",
+          "Friction always increases total mechanical energy",
+          "Engineers ignore energy forms"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-04",
+        "passage": "Kinetic energy is energy of motion; potential energy is stored energy related to position. Mechanical systems convert between these forms when friction is low. Engineers apply the concepts in vehicle and machine design.",
+        "passageTitle": "Energy"
+      },
+      {
+        "id": "r3-4-6",
+        "question": "The passage indicates that many wetlands have been",
+        "options": [
+          "created only last year worldwide",
+          "drained for agriculture or building",
+          "proven useless for flood control",
+          "banned from all research"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-04",
+        "passage": "Wetlands filter pollutants and buffer floods. Many wetlands have been drained for agriculture or building. Restoration policies treat wetlands as valuable ecological infrastructure.",
+        "passageTitle": "Wetlands"
+      },
+      {
+        "id": "r3-4-7",
+        "question": "According to the passage, antibiotics",
+        "options": [
+          "treat all viruses effectively",
+          "target bacteria and do not treat viruses",
+          "never face resistance",
+          "replace stewardship programs"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-04",
+        "passage": "Antibiotics target bacteria and do not treat viruses. Overuse has accelerated resistance. Stewardship programs promote appropriate prescribing to preserve drug effectiveness.",
+        "passageTitle": "Antibiotics"
+      },
+      {
+        "id": "r3-4-8",
+        "question": "It is stated in the passage that astronomers use redshift to",
+        "options": [
+          "study the expanding universe",
+          "measure only ocean depth",
+          "stop all motion",
+          "replace telescopes"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-04",
+        "passage": "The Doppler effect for light appears as redshift when objects move away. Astronomers use redshift to study the expanding universe. Sound examples, such as a passing siren, illustrate the same underlying principle.",
+        "passageTitle": "Redshift"
+      },
+      {
+        "id": "r3-4-9",
+        "question": "According to the passage, growers value heirloom seeds for",
+        "options": [
+          "only industrial uniformity",
+          "flavor and genetic diversity",
+          "having no history",
+          "banning seed banks"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-04",
+        "passage": "Heirloom seeds are traditional varieties kept across generations. Growers value flavor and genetic diversity. Seed banks store many such varieties against disease and climate risk.",
+        "passageTitle": "Heirloom seeds"
+      },
+      {
+        "id": "r3-4-10",
+        "question": "The passage indicates that earthquakes and volcanoes often occur",
+        "options": [
+          "only at the center of plates with no boundaries",
+          "at plate boundaries",
+          "never near oceans",
+          "without any relation to plates"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r3",
+        "difficulty": "hard",
+        "skillId": "skill-r3",
+        "seed": "R3-04",
+        "passage": "Plate tectonics describes rigid plates moving over the mantle. Earthquakes and volcanoes often occur at plate boundaries. GPS measurements help quantify present-day plate motions.",
+        "passageTitle": "Plate tectonics"
+      }
+    ]
+  },
+  {
+    "seed": "R4-01",
+    "skillId": "skill-r4",
+    "skillCode": "R4",
+    "packNumber": 1,
+    "title": "R4 Pack 1 — Unstated details",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "r4-1-1",
+        "question": "Which of the following is NOT true about the word gadget?",
+        "options": [
+          "It is used to name something when the name is not known",
+          "It was used at the beginning of the nineteenth century",
+          "It most likely came from a word in the French language",
+          "Its first known use was by British sailors"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. Teks: 1850s (pertengahan abad), bukan awal abad 19.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-01",
+        "passage": "In English, there are many different kinds of expressions that people use to give a name to anything whose name is unknown or momentarily forgotten. The word gadget is one such word. It was first used by British sailors in the 1850s and probably came from the French word gachette, which was a small hook. In everyday use, the word has a more general meaning. Other words are also used to give a name to something unnamed or unknown, and these words tend to be somewhat imaginative. Some of the more commonly used expressions are a what-d'ye-call-it, a whatsis, a thingamabob, a thingamajig, a doodad, or a doohickey.",
+        "passageTitle": "Gadget"
+      },
+      {
+        "id": "r4-1-2",
+        "question": "Which of the following is NOT mentioned as an expression for something unknown?",
+        "options": [
+          "a what-is-it",
+          "a gadget",
+          "a thingamabob",
+          "a doohickey"
+        ],
+        "correct": 0,
+        "explanation": "Jawaban benar: A. what-is-it tidak ada di daftar.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-01",
+        "passage": "In English, there are many different kinds of expressions that people use to give a name to anything whose name is unknown or momentarily forgotten. The word gadget is one such word. It was first used by British sailors in the 1850s and probably came from the French word gachette, which was a small hook. In everyday use, the word has a more general meaning. Other words are also used to give a name to something unnamed or unknown, and these words tend to be somewhat imaginative. Some of the more commonly used expressions are a what-d'ye-call-it, a whatsis, a thingamabob, a thingamajig, a doodad, or a doohickey.",
+        "passageTitle": "Gadget"
+      },
+      {
+        "id": "r4-1-3",
+        "question": "All of the following are true EXCEPT",
+        "options": [
+          "gadget may come from French gachette",
+          "British sailors used gadget in the 1850s",
+          "gadget originally meant a large ship",
+          "thingamajig is listed as a related expression"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. Tidak dinyatakan; gachette = small hook.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-01",
+        "passage": "In English, there are many different kinds of expressions that people use to give a name to anything whose name is unknown or momentarily forgotten. The word gadget is one such word. It was first used by British sailors in the 1850s and probably came from the French word gachette, which was a small hook. In everyday use, the word has a more general meaning. Other words are also used to give a name to something unnamed or unknown, and these words tend to be somewhat imaginative. Some of the more commonly used expressions are a what-d'ye-call-it, a whatsis, a thingamabob, a thingamajig, a doodad, or a doohickey.",
+        "passageTitle": "Gadget"
+      },
+      {
+        "id": "r4-1-4",
+        "question": "Which of the following is NOT true according to the passage?",
+        "options": [
+          "Williamsburg was settled in 1633",
+          "Williamsburg was settled before Jamestown",
+          "Middle Plantation was an early name for Williamsburg",
+          "Better drainage attracted colonists"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. Jamestown lebih dulu (26 years after).",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-01",
+        "passage": "Williamsburg was settled by English colonists in 1633, twenty-six years after Jamestown. It was first named Middle Plantation because it lay between the York and James rivers. Colonists preferred the site for better soil drainage and fewer mosquitoes.",
+        "passageTitle": "Williamsburg"
+      },
+      {
+        "id": "r4-1-5",
+        "question": "Which of the following is NOT mentioned in the passage?",
+        "options": [
+          "Chlorophyll captures light",
+          "Glucose is produced",
+          "Nitrogen fixation by bacteria",
+          "Food chains depend on the process"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. Nitrogen fixation tidak disebut.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-01",
+        "passage": "Photosynthesis uses chlorophyll to capture light and produce glucose and oxygen. Without it, most food chains would collapse. Animals depend on plants either directly or indirectly.",
+        "passageTitle": "Photosynthesis"
+      },
+      {
+        "id": "r4-1-6",
+        "question": "All of the following are true EXCEPT",
+        "options": [
+          "Warm water can trigger bleaching",
+          "Algae are expelled during bleaching",
+          "Bleaching always increases fish populations",
+          "Ongoing stress can kill coral"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. Tidak dinyatakan / bertentangan dengan fokus ancaman.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-01",
+        "passage": "Coral bleaching happens when stressed corals expel symbiotic algae. Warm water is a common trigger. Severe bleaching can kill coral if stress continues.",
+        "passageTitle": "Bleaching"
+      },
+      {
+        "id": "r4-1-7",
+        "question": "Which of the following is NOT stated?",
+        "options": [
+          "Three scripts appear on the stone",
+          "It was found in 1899 in Greece",
+          "Greek helped with decipherment",
+          "The discovery was near Rashid"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. Tahun dan lokasi salah vs teks.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-01",
+        "passage": "The Rosetta Stone shows Greek, Demotic, and hieroglyphic text. It was found in 1799 near Rashid in Egypt. Greek knowledge helped decode hieroglyphs.",
+        "passageTitle": "Rosetta Stone"
+      },
+      {
+        "id": "r4-1-8",
+        "question": "Which of the following is NOT mentioned?",
+        "options": [
+          "Multiple satellites are used",
+          "Four satellites are typical for a 3-D fix",
+          "Atmospheric delays can cause errors",
+          "GPS was invented in the 1700s"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D. Sejarah abad 18 tidak ada.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-01",
+        "passage": "GPS needs signals from multiple satellites; at least four are typically used for a 3-D fix. Atmospheric delays can cause errors. Differential corrections reduce those errors.",
+        "passageTitle": "GPS"
+      },
+      {
+        "id": "r4-1-9",
+        "question": "All of the following are true EXCEPT",
+        "options": [
+          "Penicillin was used in WWII for bacterial infections",
+          "Sepsis could follow minor wounds before antibiotics",
+          "Resistance has emerged",
+          "Penicillin cures all viral diseases"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D. Tidak dinyatakan; fokus bakteri.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-01",
+        "passage": "Penicillin treated bacterial infections in WWII. Before antibiotics, minor wounds could lead to fatal sepsis. Resistance later emerged, so some drugs are reserved for severe cases.",
+        "passageTitle": "Penicillin"
+      },
+      {
+        "id": "r4-1-10",
+        "question": "Which of the following is NOT true according to the passage?",
+        "options": [
+          "Mangroves can stabilize shorelines",
+          "Juvenile fish may use mangroves",
+          "Clearing can increase flood risk",
+          "Mangroves grow only in polar ice"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D. Tidak sesuai teks (coastal/salty zones implied by context; polar ice not stated and contradicts).",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-01",
+        "passage": "Mangroves stabilize shorelines and shelter juvenile fish. Clearing them can raise flood risk and harm fisheries. Restoration projects replant mangroves where conditions allow.",
+        "passageTitle": "Mangroves"
+      }
+    ]
+  },
+  {
+    "seed": "R4-02",
+    "skillId": "skill-r4",
+    "skillCode": "R4",
+    "packNumber": 2,
+    "title": "R4 Pack 2 — Unstated details",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "r4-2-1",
+        "question": "Which of the following is NOT mentioned as a pressure on bees?",
+        "options": [
+          "Habitat loss",
+          "Pesticides",
+          "Volcanic ash blocking all flights permanently",
+          "Disease"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-02",
+        "passage": "Bees pollinate crops such as fruits and nuts. Habitat loss, pesticides, disease, and climate stress have reduced some bee populations. Protecting pollinators is an agricultural priority.",
+        "passageTitle": "Bees"
+      },
+      {
+        "id": "r4-2-2",
+        "question": "All of the following are true EXCEPT",
+        "options": [
+          "Aggregate is used in concrete",
+          "Concrete hardens into a durable material",
+          "Production can emit significant CO₂",
+          "Concrete is made without water"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-02",
+        "passage": "Concrete mixes cement, water, and aggregate. It hardens into a durable material. Production emits significant CO₂, so lower-carbon alternatives are researched.",
+        "passageTitle": "Concrete"
+      },
+      {
+        "id": "r4-2-3",
+        "question": "Which of the following is NOT true?",
+        "options": [
+          "It is Africa's highest peak",
+          "Ice has long existed on the summit",
+          "Ice has grown continuously since 1900",
+          "It lies near the equator"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. Teks: ice fields have shrunk.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-02",
+        "passage": "Kilimanjaro is Africa's highest peak. Ice has existed on its summit for centuries despite its equatorial location. Surveys show substantial ice loss since the early twentieth century.",
+        "passageTitle": "Kilimanjaro"
+      },
+      {
+        "id": "r4-2-4",
+        "question": "Which of the following is NOT mentioned?",
+        "options": [
+          "Source code can be inspected",
+          "Licenses may allow modification",
+          "Security review matters",
+          "Open source is illegal in all countries"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-02",
+        "passage": "Open-source software publishes source code under licenses allowing inspection and modification. Firms use such components widely. License compliance and security review remain important.",
+        "passageTitle": "Open source"
+      },
+      {
+        "id": "r4-2-5",
+        "question": "All of the following are true EXCEPT",
+        "options": [
+          "Permafrost stays frozen at least two years",
+          "Organic carbon can be stored in frozen soils",
+          "Thaw can damage infrastructure",
+          "Permafrost exists only under tropical rainforests"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-02",
+        "passage": "Permafrost stays frozen at least two consecutive years and stores much organic carbon. Thaw can release greenhouse gases and damage infrastructure.",
+        "passageTitle": "Permafrost"
+      },
+      {
+        "id": "r4-2-6",
+        "question": "Which of the following is NOT stated?",
+        "options": [
+          "It holds maps",
+          "It serves Congress as a research arm",
+          "Public on-site research is possible",
+          "It is closed permanently to all researchers"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-02",
+        "passage": "The Library of Congress holds books, recordings, and maps. It serves as the research arm of the U.S. Congress and allows on-site public research. Digital collections expand remote access.",
+        "passageTitle": "Library of Congress"
+      },
+      {
+        "id": "r4-2-7",
+        "question": "Which of the following is NOT mentioned?",
+        "options": [
+          "Electricity generation",
+          "Possible irrigation storage",
+          "Possible fish-migration blockage",
+          "Dams that run only on wind"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-02",
+        "passage": "Hydroelectric dams generate electricity and may store irrigation water. They can block fish migration and alter ecosystems. Planning weighs benefits against social and environmental costs.",
+        "passageTitle": "Dams"
+      },
+      {
+        "id": "r4-2-8",
+        "question": "All of the following are true EXCEPT",
+        "options": [
+          "Volunteers may collect data",
+          "Training can improve quality",
+          "Coverage can expand",
+          "Professional teams are banned from all science"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-02",
+        "passage": "Citizen science uses volunteers to collect or classify data. Training and validation improve quality. Projects can expand geographic coverage beyond small professional teams.",
+        "passageTitle": "Citizen science"
+      },
+      {
+        "id": "r4-2-9",
+        "question": "Which of the following is NOT true according to the passage?",
+        "options": [
+          "Infrared escape can be slowed",
+          "Human emissions have intensified the effect",
+          "Protecting carbon sinks is a response",
+          "The greenhouse effect has been permanently eliminated"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-02",
+        "passage": "The greenhouse effect slows outgoing infrared radiation. Human emissions have intensified the effect. Responses include cutting emissions and protecting carbon sinks.",
+        "passageTitle": "Greenhouse"
+      },
+      {
+        "id": "r4-2-10",
+        "question": "Which of the following is NOT mentioned?",
+        "options": [
+          "At least two accounts per transaction",
+          "Help tracking profit and debt",
+          "Use in modern statements",
+          "Invention by a single baseball player in 1908"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-02",
+        "passage": "Double-entry bookkeeping records each transaction in at least two accounts. It helped merchants track profit and debt. Modern statements still rely on this logic.",
+        "passageTitle": "Bookkeeping"
+      }
+    ]
+  },
+  {
+    "seed": "R4-03",
+    "skillId": "skill-r4",
+    "skillCode": "R4",
+    "packNumber": 3,
+    "title": "R4 Pack 3 — Unstated details",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "r4-3-1",
+        "question": "Which of the following is NOT stated?",
+        "options": [
+          "Solar particles can excite atmospheric gases",
+          "Displays are often near the poles",
+          "Storms can disrupt radio",
+          "Auroras only occur at the equator"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-03",
+        "passage": "Auroras form when solar particles excite atmospheric gases near the poles. Solar storms can intensify displays and disrupt radio. Agencies issue space-weather alerts.",
+        "passageTitle": "Auroras"
+      },
+      {
+        "id": "r4-3-2",
+        "question": "All of the following are true EXCEPT",
+        "options": [
+          "Terraces can hold soil and water",
+          "They support farming on slopes",
+          "Poor maintenance can increase erosion",
+          "Terraces remove the need for any water forever"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-03",
+        "passage": "Terraces hold soil and water on steep slopes. They support mountain farming. Poor maintenance can cause collapse and more erosion.",
+        "passageTitle": "Terracing"
+      },
+      {
+        "id": "r4-3-3",
+        "question": "Which of the following is NOT mentioned?",
+        "options": [
+          "Antibiotics target bacteria",
+          "They do not treat viruses",
+          "Overuse relates to resistance",
+          "Antibiotics cure every known virus"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-03",
+        "passage": "Antibiotics target bacteria, not viruses. Overuse speeds resistance. Stewardship encourages appropriate prescribing.",
+        "passageTitle": "Antibiotics"
+      },
+      {
+        "id": "r4-3-4",
+        "question": "Which of the following is NOT true?",
+        "options": [
+          "Deposits can harden into sedimentary rock",
+          "Fossils may be preserved in layers",
+          "Layers help reconstruct past environments",
+          "Sedimentary rocks form only from pure molten gold"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-03",
+        "passage": "Sedimentary rocks form from deposits that harden over time. Fossils are often preserved in them. Geologists reconstruct past environments from the layers.",
+        "passageTitle": "Sedimentary rocks"
+      },
+      {
+        "id": "r4-3-5",
+        "question": "All of the following are true EXCEPT",
+        "options": [
+          "Small loans are central",
+          "Microenterprises may be supported",
+          "Client protection matters for outcomes",
+          "Microfinance replaces all central banks worldwide"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-03",
+        "passage": "Microfinance provides small loans without traditional bank access. Goals include supporting microenterprises. Outcomes depend on rates, repayment design, and client protection.",
+        "passageTitle": "Microfinance"
+      },
+      {
+        "id": "r4-3-6",
+        "question": "Which of the following is NOT stated?",
+        "options": [
+          "A notochord appears at some stage",
+          "Fish can be chordates",
+          "Shared features aid classification",
+          "Only insects are chordates"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-03",
+        "passage": "Chordates have a notochord at some life stage. Fish, birds, and mammals are vertebrates within chordates. Shared features help study evolutionary relationships.",
+        "passageTitle": "Chordates"
+      },
+      {
+        "id": "r4-3-7",
+        "question": "Which of the following is NOT mentioned?",
+        "options": [
+          "Kinetic energy as motion energy",
+          "Potential energy related to position",
+          "Conversion when friction is low",
+          "Energy forms that ban all engineering"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-03",
+        "passage": "Kinetic energy is energy of motion; potential energy relates to position. Systems convert between them when friction is low. Engineers use both concepts in design.",
+        "passageTitle": "Energy"
+      },
+      {
+        "id": "r4-3-8",
+        "question": "All of the following are true EXCEPT",
+        "options": [
+          "Wetlands can filter pollutants",
+          "They can buffer floods",
+          "Many have been drained",
+          "Wetlands never provide any ecological value"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-03",
+        "passage": "Wetlands filter pollutants and buffer floods. Many have been drained for farming or building. Restoration treats them as valuable infrastructure.",
+        "passageTitle": "Wetlands"
+      },
+      {
+        "id": "r4-3-9",
+        "question": "Which of the following is NOT true according to the passage?",
+        "options": [
+          "They are kept across generations",
+          "Flavor can be valued",
+          "Seed banks store varieties",
+          "Heirloom seeds are identical to only one industrial strain worldwide"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-03",
+        "passage": "Heirloom seeds are traditional varieties kept across generations. Growers value flavor and diversity. Seed banks store varieties against disease and climate risk.",
+        "passageTitle": "Heirloom seeds"
+      },
+      {
+        "id": "r4-3-10",
+        "question": "Which of the following is NOT mentioned?",
+        "options": [
+          "Earthquakes near boundaries",
+          "Volcanoes near boundaries",
+          "GPS measuring motion",
+          "Plates that never move and have no boundaries"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-03",
+        "passage": "Plate boundaries often host earthquakes and volcanoes. GPS helps measure plate motion. Matching fossils across continents support the broader theory.",
+        "passageTitle": "Plates"
+      }
+    ]
+  },
+  {
+    "seed": "R4-04",
+    "skillId": "skill-r4",
+    "skillCode": "R4",
+    "packNumber": 4,
+    "title": "R4 Pack 4 — Unstated details",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "r4-4-1",
+        "question": "Which of the following is NOT stated?",
+        "options": [
+          "It discharges more water than any other river",
+          "The basin supports high biodiversity",
+          "Floods can deposit nutrients",
+          "It is a desert river with no floods"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-04",
+        "passage": "The Amazon discharges more water than any other river. Its basin supports high biodiversity. Seasonal floods deposit nutrients used in floodplain farming.",
+        "passageTitle": "Amazon"
+      },
+      {
+        "id": "r4-4-2",
+        "question": "All of the following are true EXCEPT",
+        "options": [
+          "Fifteenth-century construction under Inca rule",
+          "Presence of terraces",
+          "Early twentieth-century wider outside awareness",
+          "It was founded as a modern European capital in 1800"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-04",
+        "passage": "Machu Picchu was built in the fifteenth century under Inca rule. It includes temples, terraces, and residences. It became widely known to outsiders in the early twentieth century.",
+        "passageTitle": "Machu Picchu"
+      },
+      {
+        "id": "r4-4-3",
+        "question": "Which of the following is NOT mentioned?",
+        "options": [
+          "Frequency can change with motion",
+          "Siren pitch can rise on approach",
+          "Redshift is used in astronomy",
+          "The effect applies only to cooking recipes"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-04",
+        "passage": "The Doppler effect changes observed frequency when source or observer moves. A siren's pitch can rise on approach. Astronomers use redshift for distant galaxies.",
+        "passageTitle": "Doppler"
+      },
+      {
+        "id": "r4-4-4",
+        "question": "Which of the following is NOT true?",
+        "options": [
+          "Books spread across Europe by the late 1400s",
+          "Hand copying was slower",
+          "Idea circulation increased",
+          "Printing made all books more expensive than ever"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-04",
+        "passage": "Printing with movable type spread books across Europe by the late fifteenth century. Costs fell compared with hand copying. Literacy and idea circulation increased.",
+        "passageTitle": "Printing"
+      },
+      {
+        "id": "r4-4-5",
+        "question": "All of the following are true EXCEPT",
+        "options": [
+          "Antigens can train later responses",
+          "Coverage rates matter for control",
+          "Vaccines differ from some active treatments",
+          "Vaccines require zero public coverage to work best"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-04",
+        "passage": "Vaccines present antigens for faster later immune response. They are not the same as treating active infection with all drug types. Coverage rates affect outbreak control.",
+        "passageTitle": "Vaccines"
+      },
+      {
+        "id": "r4-4-6",
+        "question": "Which of the following is NOT stated?",
+        "options": [
+          "Working memory is limited",
+          "Unnecessary detail can hurt learning",
+          "Segmenting can help",
+          "Working memory has infinite capacity"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-04",
+        "passage": "Cognitive load theory stresses limited working memory. Extra unnecessary detail can hurt learning. Segmenting and aligned diagrams can reduce extraneous load.",
+        "passageTitle": "Cognitive load"
+      },
+      {
+        "id": "r4-4-7",
+        "question": "Which of the following is NOT mentioned?",
+        "options": [
+          "Microbes can fix nitrogen",
+          "Denitrification returns gases to the air",
+          "Plants absorb much fixed nitrogen",
+          "Nitrogen fixation occurs only on the Moon"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-04",
+        "passage": "Nitrogen fixation feeds usable nitrogen into biological systems via certain microbes. Denitrification returns nitrogen gases to the air. Plants absorb much of the fixed nitrogen.",
+        "passageTitle": "Nitrogen"
+      },
+      {
+        "id": "r4-4-8",
+        "question": "All of the following are true EXCEPT",
+        "options": [
+          "Built surfaces can re-emit heat",
+          "Cities can be warmer at night",
+          "Trees can help reduce intensity",
+          "Heat islands make rural areas always hotter than cities"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-04",
+        "passage": "Urban heat islands form when built surfaces replace natural cover and re-emit heat. Cities can be warmer than rural areas, especially at night. Trees and reflective roofs can reduce intensity.",
+        "passageTitle": "Heat islands"
+      },
+      {
+        "id": "r4-4-9",
+        "question": "Which of the following is NOT true according to the passage?",
+        "options": [
+          "Direction can relate to the sun",
+          "Duration correlates with distance",
+          "Other bees may use the information",
+          "The dance encodes only the color of the queen"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-04",
+        "passage": "The waggle dance encodes direction relative to the sun and distance via duration. Other bees use the information to find food. It is a form of symbolic communication in the hive.",
+        "passageTitle": "Waggle dance"
+      },
+      {
+        "id": "r4-4-10",
+        "question": "Which of the following is NOT mentioned?",
+        "options": [
+          "Harm to developing nervous systems",
+          "Bans related to gasoline lead",
+          "Surveillance of blood lead",
+          "Lead as a required daily vitamin for infants"
+        ],
+        "correct": 3,
+        "explanation": "Jawaban benar: D.",
+        "section": "reading",
+        "category": "skill-r4",
+        "difficulty": "hard",
+        "skillId": "skill-r4",
+        "seed": "R4-04",
+        "passage": "Lead exposure can harm developing nervous systems. Many countries banned lead in gasoline and tightened paint rules. Blood-lead surveillance checks whether policies work.",
+        "passageTitle": "Lead"
+      }
+    ]
+  },
+  {
+    "seed": "R5-01",
+    "skillId": "skill-r5",
+    "skillCode": "R5",
+    "packNumber": 1,
+    "title": "R5 Pack 1 — Pronoun referents",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "r5-1-1",
+        "question": "In the passage, the pronoun They (in \"They have digestive fluids\") refers to",
+        "options": [
+          "humid areas",
+          "these plants",
+          "insects",
+          "digestive fluids"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. They plural; plants have digestive fluids. Digestive fluids muncul sesudah.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-01",
+        "passage": "Carnivorous plants, such as the sundew and the Venus flytrap, are generally found in humid areas where there is an inadequate supply of nitrogen in the soil. In order to survive, these plants have developed mechanisms to trap insects within their foliage. They have digestive fluids to obtain the necessary nitrogen from the insects. These plants trap the insects in a variety of ways. The sundew has sticky hairs on its leaves; when an insect lands on these leaves, it gets caught up in the sticky hairs, and the leaf wraps itself around the insect. The leaves of the Venus flytrap function more like a trap, snapping suddenly and forcefully shut around an insect.",
+        "passageTitle": "Carnivorous plants"
+      },
+      {
+        "id": "r5-1-2",
+        "question": "In the passage, the pronoun it (in \"it gets caught up in the sticky hairs\") refers to",
+        "options": [
+          "a variety of ways",
+          "the sundew",
+          "an insect",
+          "nitrogen"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. it singular; an insect gets caught.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-01",
+        "passage": "Carnivorous plants, such as the sundew and the Venus flytrap, are generally found in humid areas where there is an inadequate supply of nitrogen in the soil. In order to survive, these plants have developed mechanisms to trap insects within their foliage. They have digestive fluids to obtain the necessary nitrogen from the insects. These plants trap the insects in a variety of ways. The sundew has sticky hairs on its leaves; when an insect lands on these leaves, it gets caught up in the sticky hairs, and the leaf wraps itself around the insect. The leaves of the Venus flytrap function more like a trap, snapping suddenly and forcefully shut around an insect.",
+        "passageTitle": "Carnivorous plants"
+      },
+      {
+        "id": "r5-1-3",
+        "question": "The word their in \"within their foliage\" refers to",
+        "options": [
+          "humid areas",
+          "these plants",
+          "insects",
+          "mechanisms"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. foliage of the plants.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-01",
+        "passage": "Carnivorous plants, such as the sundew and the Venus flytrap, are generally found in humid areas where there is an inadequate supply of nitrogen in the soil. In order to survive, these plants have developed mechanisms to trap insects within their foliage. They have digestive fluids to obtain the necessary nitrogen from the insects. These plants trap the insects in a variety of ways. The sundew has sticky hairs on its leaves; when an insect lands on these leaves, it gets caught up in the sticky hairs, and the leaf wraps itself around the insect. The leaves of the Venus flytrap function more like a trap, snapping suddenly and forcefully shut around an insect.",
+        "passageTitle": "Carnivorous plants"
+      },
+      {
+        "id": "r5-1-4",
+        "question": "The pronoun its in \"because of its location\" refers to",
+        "options": [
+          "1633",
+          "the colony",
+          "Middle Plantation as a river",
+          "Jamestown only as a name without a site"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. the colony's location.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-01",
+        "passage": "Williamsburg was settled by English colonists in 1633. In the beginning, the colony was named Middle Plantation because of its location between two rivers. The site had better soil drainage than Jamestown, and there were fewer mosquitoes there.",
+        "passageTitle": "Williamsburg"
+      },
+      {
+        "id": "r5-1-5",
+        "question": "The pronoun them in \"protecting them\" refers to",
+        "options": [
+          "crops",
+          "bee populations / bees",
+          "decades",
+          "regions only without bees"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-01",
+        "passage": "Bees pollinate many crops. Their activity increases yield and quality. In recent decades, bee populations have declined in several regions, and protecting them has become a priority.",
+        "passageTitle": "Bees"
+      },
+      {
+        "id": "r5-1-6",
+        "question": "The pronoun them in \"corrections reduce them\" refers to",
+        "options": [
+          "receivers",
+          "satellites",
+          "errors",
+          "fixes as people"
+        ],
+        "correct": 2,
+        "explanation": "Jawaban benar: C. reduce errors.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-01",
+        "passage": "GPS receivers time signals from satellites. At least four satellites are typically needed for a reliable fix. Atmospheric delays can introduce errors, and differential corrections reduce them.",
+        "passageTitle": "GPS"
+      },
+      {
+        "id": "r5-1-7",
+        "question": "The pronoun they in \"they used the stone\" refers to",
+        "options": [
+          "scripts",
+          "scholars",
+          "hieroglyphs",
+          "symbols"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-01",
+        "passage": "The Rosetta Stone carries the same text in three scripts. Because scholars could read Greek, they used the stone to decode hieroglyphs. It remains a symbol of decipherment.",
+        "passageTitle": "Rosetta Stone"
+      },
+      {
+        "id": "r5-1-8",
+        "question": "The pronoun it in \"it can kill the coral\" refers to",
+        "options": [
+          "algae only as a food product",
+          "continued stress / the process under ongoing stress",
+          "temperatures as a number without stress",
+          "tourists"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B. ongoing stress/process killing coral.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-01",
+        "passage": "Coral bleaching occurs when stressed corals expel symbiotic algae. Elevated temperatures often trigger the process. If stress continues, it can kill the coral.",
+        "passageTitle": "Bleaching"
+      },
+      {
+        "id": "r5-1-9",
+        "question": "The first They in the passage refers to",
+        "options": [
+          "shorelines",
+          "mangroves",
+          "roots as a separate species",
+          "floods"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-01",
+        "passage": "Mangroves stabilize shorelines with tangled roots. They also shelter juvenile fish. Clearing them increases flood risk.",
+        "passageTitle": "Mangroves"
+      },
+      {
+        "id": "r5-1-10",
+        "question": "The pronoun they in \"when they are most needed\" refers to",
+        "options": [
+          "wounds",
+          "certain drugs",
+          "physicians",
+          "cases as buildings"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-01",
+        "passage": "Penicillin was widely used in WWII to treat bacterial infections. Before antibiotics, minor wounds could lead to sepsis. Resistance has since emerged, so physicians reserve certain drugs for severe cases when they are most needed.",
+        "passageTitle": "Penicillin"
+      }
+    ]
+  },
+  {
+    "seed": "R5-02",
+    "skillId": "skill-r5",
+    "skillCode": "R5",
+    "packNumber": 2,
+    "title": "R5 Pack 2 — Pronoun referents",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "r5-2-1",
+        "question": "The pronoun it in \"Plants use it to produce glucose\" refers to",
+        "options": [
+          "chemical energy only as a brand name",
+          "photosynthesis / the conversion process",
+          "animals",
+          "food chains as objects"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-02",
+        "passage": "Photosynthesis converts light into chemical energy. Plants use it to produce glucose and oxygen. Animals depend on this process indirectly or directly for food.",
+        "passageTitle": "Photosynthesis"
+      },
+      {
+        "id": "r5-2-2",
+        "question": "The pronoun they in \"they can be several degrees warmer\" refers to",
+        "options": [
+          "trees",
+          "cities / urban areas",
+          "roofs only",
+          "degrees"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-02",
+        "passage": "Urban heat islands form when cities replace natural cover with pavement. As a result, they can be several degrees warmer than rural areas. Trees and reflective roofs can reduce the effect.",
+        "passageTitle": "Heat islands"
+      },
+      {
+        "id": "r5-2-3",
+        "question": "The pronoun them in \"access many of them\" refers to",
+        "options": [
+          "users",
+          "items / collections",
+          "Congress members only",
+          "arms"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-02",
+        "passage": "The Library of Congress holds millions of items. It serves as the research arm of the U.S. Congress. Digital collections allow remote users to access many of them.",
+        "passageTitle": "Library of Congress"
+      },
+      {
+        "id": "r5-2-4",
+        "question": "The pronoun they in \"how fast they move\" refers to",
+        "options": [
+          "earthquakes",
+          "plates",
+          "volcanoes only",
+          "GPS devices as the moving plates"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-02",
+        "passage": "Plate tectonics describes rigid plates moving over the mantle. Their boundaries often host earthquakes and volcanoes. GPS helps measure how fast they move.",
+        "passageTitle": "Plates"
+      },
+      {
+        "id": "r5-2-5",
+        "question": "The pronoun it in \"modify it under defined licenses\" refers to",
+        "options": [
+          "licenses as code",
+          "source code",
+          "companies",
+          "reviews"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-02",
+        "passage": "Open-source projects publish source code. Developers inspect and modify it under defined licenses. Companies rely on these components while managing security reviews for them.",
+        "passageTitle": "Open source"
+      },
+      {
+        "id": "r5-2-6",
+        "question": "The pronoun it in \"When it thaws\" refers to",
+        "options": [
+          "carbon as a gas only",
+          "permafrost",
+          "buildings",
+          "ground as a separate planet"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-02",
+        "passage": "Permafrost stores large amounts of organic carbon. When it thaws, greenhouse gases may be released. Buildings on once-solid ground can shift as a result.",
+        "passageTitle": "Permafrost"
+      },
+      {
+        "id": "r5-2-7",
+        "question": "The pronoun they in \"when they include training\" refers to",
+        "options": [
+          "volunteers only without projects",
+          "projects",
+          "results as people",
+          "teams as data points"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-02",
+        "passage": "Citizen science invites volunteers to collect data. Projects can expand coverage when they include training and validation. Professional teams still analyze many results.",
+        "passageTitle": "Citizen science"
+      },
+      {
+        "id": "r5-2-8",
+        "question": "Both uses of they in the passage refer primarily to",
+        "options": [
+          "fish",
+          "dams",
+          "critics",
+          "irrigation channels as speakers"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-02",
+        "passage": "Hydroelectric dams generate electricity from flowing water. They may also store water for irrigation. Critics note that they can block fish migration.",
+        "passageTitle": "Dams"
+      },
+      {
+        "id": "r5-2-9",
+        "question": "The pronoun they in \"how precisely they follow\" refers to",
+        "options": [
+          "cues as dancers",
+          "other bees / recruits",
+          "researchers",
+          "food items walking"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-02",
+        "passage": "The waggle dance encodes direction and distance. Other bees use this information to find food. Researchers study how precisely they follow the encoded cues.",
+        "passageTitle": "Waggle dance"
+      },
+      {
+        "id": "r5-2-10",
+        "question": "The pronoun it in \"Tourists now visit it\" refers to",
+        "options": [
+          "the fifteenth century",
+          "Machu Picchu / the site",
+          "outsiders",
+          "numbers"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-02",
+        "passage": "Machu Picchu includes temples and terraces. Built in the fifteenth century, it remained little known to outsiders until the early twentieth century. Tourists now visit it in large numbers.",
+        "passageTitle": "Machu Picchu"
+      }
+    ]
+  },
+  {
+    "seed": "R5-03",
+    "skillId": "skill-r5",
+    "skillCode": "R5",
+    "packNumber": 3,
+    "title": "R5 Pack 3 — Pronoun referents",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "r5-3-1",
+        "question": "The pronoun They at the start of the second sentence refers to",
+        "options": [
+          "antigens as the whole immune system",
+          "vaccines",
+          "pathogens",
+          "outbreaks"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-03",
+        "passage": "Vaccines present antigens to the immune system. They enable faster responses if the real pathogen appears later. Coverage rates influence whether outbreaks stay controlled.",
+        "passageTitle": "Vaccines"
+      },
+      {
+        "id": "r5-3-2",
+        "question": "The pronoun they in \"As they advance and retreat\" refers to",
+        "options": [
+          "valleys",
+          "glaciers",
+          "temperatures",
+          "moraines as moving agents primarily"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-03",
+        "passage": "Glaciers erode rock and deposit sediment. As they advance and retreat, they leave U-shaped valleys and moraines. Many are now shrinking as temperatures rise.",
+        "passageTitle": "Glaciers"
+      },
+      {
+        "id": "r5-3-3",
+        "question": "The pronoun them in \"keep them effective\" refers to",
+        "options": [
+          "viruses",
+          "antibiotics",
+          "programs",
+          "bacteria as the drugs"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-03",
+        "passage": "Antibiotics target bacteria. They are ineffective against viruses. Stewardship programs try to keep them effective by limiting overuse.",
+        "passageTitle": "Antibiotics"
+      },
+      {
+        "id": "r5-3-4",
+        "question": "The pronoun them in \"Researchers request them\" refers to",
+        "options": [
+          "treaties",
+          "stored varieties / materials from seed banks",
+          "field failures as objects requested",
+          "researchers"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-03",
+        "passage": "Seed banks store diverse crop varieties. Researchers request them when field strains fail. International treaties govern access to these collections.",
+        "passageTitle": "Seed banks"
+      },
+      {
+        "id": "r5-3-5",
+        "question": "Both uses of it refer to",
+        "options": [
+          "profit only",
+          "double-entry bookkeeping / the method",
+          "merchants",
+          "statements as the method name"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-03",
+        "passage": "Double-entry bookkeeping records each transaction twice. Merchants used it to track debt and profit. Modern statements still rest on it.",
+        "passageTitle": "Bookkeeping"
+      },
+      {
+        "id": "r5-3-6",
+        "question": "The pronoun them in \"systems detect them\" refers to",
+        "options": [
+          "sensors",
+          "tsunamis",
+          "shores",
+          "sources as people"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-03",
+        "passage": "Tsunamis grow near shore as they slow in shallow water. Early-warning systems detect them using seismic and ocean sensors. Evacuation remains critical for nearby sources.",
+        "passageTitle": "Tsunamis"
+      },
+      {
+        "id": "r5-3-7",
+        "question": "The phrase this principle refers to",
+        "options": [
+          "unwanted associations only",
+          "classical conditioning / the pairing process described",
+          "therapists",
+          "responses without stimuli"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-03",
+        "passage": "Classical conditioning pairs a neutral stimulus with a meaningful one. After training, the neutral stimulus alone can trigger a response. Therapists apply this principle to change unwanted associations.",
+        "passageTitle": "Conditioning"
+      },
+      {
+        "id": "r5-3-8",
+        "question": "The pronoun them in \"Many of them have been drained\" refers to",
+        "options": [
+          "pollutants",
+          "wetlands",
+          "policies",
+          "floods"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-03",
+        "passage": "Wetlands buffer floods and filter pollutants. Many of them have been drained for development. Restoration policies treat wetlands as infrastructure.",
+        "passageTitle": "Wetlands"
+      },
+      {
+        "id": "r5-3-9",
+        "question": "The pronoun it in \"rely on it to predict\" refers to",
+        "options": [
+          "a single electron",
+          "the periodic table",
+          "behavior as a tool",
+          "chemists"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-03",
+        "passage": "The periodic table orders elements by atomic number. Elements in the same column often share properties because of related electron configurations. Chemists still rely on it to predict behavior.",
+        "passageTitle": "Periodic table"
+      },
+      {
+        "id": "r5-3-10",
+        "question": "Both uses of it refer to",
+        "options": [
+          "documents only",
+          "remote work",
+          "critics",
+          "boundaries as the work system"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-03",
+        "passage": "Remote work uses digital tools for meetings and documents. Supporters say it increases flexibility. Critics warn that it can blur work-life boundaries.",
+        "passageTitle": "Remote work"
+      }
+    ]
+  },
+  {
+    "seed": "R5-04",
+    "skillId": "skill-r5",
+    "skillCode": "R5",
+    "packNumber": 4,
+    "title": "R5 Pack 4 — Pronoun referents",
+    "questionCount": 10,
+    "questions": [
+      {
+        "id": "r5-4-1",
+        "question": "The pronoun it in \"banned it in gasoline\" refers to",
+        "options": [
+          "exposure as a liquid poured in tanks",
+          "lead",
+          "systems",
+          "countries"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-04",
+        "passage": "Lead exposure harms developing nervous systems. Many countries banned it in gasoline. Surveillance checks whether policies reduce blood-lead levels.",
+        "passageTitle": "Lead"
+      },
+      {
+        "id": "r5-4-2",
+        "question": "Both uses of it refer to",
+        "options": [
+          "water only",
+          "concrete",
+          "builders",
+          "CO₂ as the building material"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-04",
+        "passage": "Concrete hardens after cement, water, and aggregate are mixed. Builders value it for durability. Researchers seek ways to lower the CO₂ from producing it.",
+        "passageTitle": "Concrete"
+      },
+      {
+        "id": "r5-4-3",
+        "question": "The pronoun it in \"have strengthened it\" refers to",
+        "options": [
+          "liquid water only",
+          "the greenhouse effect",
+          "emissions as the effect itself without context",
+          "policy"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-04",
+        "passage": "The greenhouse effect keeps Earth warm enough for liquid water. Human emissions have strengthened it. Policy aims to limit further intensification of the effect.",
+        "passageTitle": "Greenhouse"
+      },
+      {
+        "id": "r5-4-4",
+        "question": "Both uses of them refer to",
+        "options": [
+          "generations",
+          "heirloom seeds / traditional varieties",
+          "growers",
+          "failures"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-04",
+        "passage": "Heirloom seeds are kept across generations. Growers prize them for flavor and diversity. Banks store them against future crop failure.",
+        "passageTitle": "Heirloom seeds"
+      },
+      {
+        "id": "r5-4-5",
+        "question": "The pronoun they in \"when they know monitoring is continuous\" refers to",
+        "options": [
+          "sensors",
+          "companies",
+          "inspections",
+          "releases as decision-makers"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-04",
+        "passage": "Sensors track factory emissions in near real time. Regulators use the data to target inspections. Companies may reduce releases when they know monitoring is continuous.",
+        "passageTitle": "Emissions monitoring"
+      },
+      {
+        "id": "r5-4-6",
+        "question": "The pronoun they in \"when they design study schedules\" refers to",
+        "options": [
+          "stores",
+          "educators",
+          "schedules",
+          "findings as people"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-04",
+        "passage": "Memory research divides short-term and long-term stores. Chunking helps move information into longer-term retention. Educators apply these findings when they design study schedules.",
+        "passageTitle": "Memory"
+      },
+      {
+        "id": "r5-4-7",
+        "question": "The pronoun it in \"dams can trap it\" refers to",
+        "options": [
+          "sea level",
+          "sediment",
+          "land",
+          "adaptation"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-04",
+        "passage": "River deltas form where sediment settles. Upstream dams can trap it, causing land to sink relative to sea level. Adaptation includes sediment management.",
+        "passageTitle": "Deltas"
+      },
+      {
+        "id": "r5-4-8",
+        "question": "The pronoun they in \"so they need careful bias adjustment\" refers to",
+        "options": [
+          "people in treatment only",
+          "observational studies",
+          "confounders as studies",
+          "chances"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-04",
+        "passage": "A randomized trial assigns people to treatment or control by chance. The design aims to balance confounders. Observational studies lack assignment, so they need careful bias adjustment.",
+        "passageTitle": "Trials"
+      },
+      {
+        "id": "r5-4-9",
+        "question": "The phrase this approach refers to",
+        "options": [
+          "logistics only",
+          "modular / off-site construction",
+          "proponents",
+          "transport trucks as the method name"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-04",
+        "passage": "Modular construction builds sections off-site. Proponents cite speed as a benefit of this approach. Cost savings depend on logistics when modules are transported.",
+        "passageTitle": "Modular construction"
+      },
+      {
+        "id": "r5-4-10",
+        "question": "The pronoun they in \"when they are applied consistently\" refers to",
+        "options": [
+          "hormones only as strategies",
+          "management strategies",
+          "sleep problems",
+          "challenges"
+        ],
+        "correct": 1,
+        "explanation": "Jawaban benar: B.",
+        "section": "reading",
+        "category": "skill-r5",
+        "difficulty": "hard",
+        "skillId": "skill-r5",
+        "seed": "R5-04",
+        "passage": "Stress hormones prepare the body for short challenges. Chronic activation is linked to sleep problems. Management strategies help when they are applied consistently.",
+        "passageTitle": "Stress"
+      }
+    ]
   }
 ]
