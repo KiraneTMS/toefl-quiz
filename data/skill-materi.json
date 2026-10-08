@@ -7050,5 +7050,878 @@
     ],
     "remember_id": "**Pronoun → noun sebelumnya + number cocok + konteks logis.**",
     "remember_en": "**Pronoun → earlier noun + matching number + logical context.**"
+  },
+  {
+    "skillId": "skill-r6",
+    "code": "R6",
+    "title_en": "Answer implied detail questions correctly",
+    "title_id": "Jawab soal implied detail dengan benar",
+    "group_en": "Indirectly Answered Questions",
+    "group_id": "Pertanyaan Jawaban Tidak Langsung",
+    "summary_id": "Soal **implied / inferred / likely / probably** tidak menyalin kalimat teks. Ada **detail di passage**, lalu kamu **menyimpulkan** — bukan menebak bebas.",
+    "summary_en": "**Implied / inferred / likely / probably** questions do not copy a sentence. Some **detail is in the passage**, then you **draw a conclusion** — not a guess from nowhere.",
+    "formula": [
+      {
+        "label": "Ciri soal",
+        "en": "It is implied in the passage that…\nIt can be inferred that…\nIt is most likely that…\nWhat probably happened…?",
+        "id": "It is implied in the passage that…\nIt can be inferred that…\nIt is most likely that…\nWhat probably happened…?"
+      },
+      {
+        "label": "Langkah",
+        "en": "1. Key word in the question\n2. Scan for that detail in the passage\n3. Read the sentence carefully\n4. Choose what could be true based on that sentence",
+        "id": "1. Kata kunci di soal\n2. Scan detail itu di passage\n3. Baca kalimatnya hati-hati\n4. Pilih yang bisa benar berdasarkan kalimat itu"
+      },
+      {
+        "label": "Contoh logika",
+        "en": "\"two consonants never appear together\" → meklea (kl) is probably NOT Hawaiian\n\"luau where everyone eats too much\" → luau is probably a feast",
+        "id": "\"two consonants never appear together\" → meklea (kl) probably BUKAN kata Hawaii\n\"luau where everyone eats too much\" → luau probably = pesta makan"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Bukan stated, bukan fantasi",
+        "title_en": "1. Not stated, not fantasy",
+        "body_id": "Jawaban didukung teks, tapi tidak ditulis eksplisit dengan kata yang sama.",
+        "body_en": "The answer is supported by the text but not written with the same explicit words."
+      },
+      {
+        "title_id": "2. Satu detail cukup untuk inferensi sempit",
+        "title_en": "2. One detail can support a narrow inference",
+        "body_id": "Jangan perlu seluruh passage jika soal menunjuk satu fakta.",
+        "body_en": "You need not use the whole passage if the question points to one fact."
+      },
+      {
+        "title_id": "3. Buang opsi yang bertentangan dengan detail",
+        "title_en": "3. Drop options that conflict with the detail",
+        "body_id": "Jika teks bilang consonants never together, opsi dengan kl/tr di tengah curiga.",
+        "body_en": "If the text says consonants never cluster, options with kl/tr clusters are suspect."
+      },
+      {
+        "title_id": "4. probably / likely = kesimpulan wajar, bukan 100% pasti di luar teks",
+        "title_en": "4. probably / likely = reasonable conclusion, not certainty beyond the text",
+        "body_id": "Pilih yang paling masuk akal dari informasi yang ada.",
+        "body_en": "Pick what is most reasonable from the given information."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "Hawaiian: two consonants never appear together. Which is probably NOT Hawaiian?",
+        "options": [
+          "mahalo",
+          "mahimahi",
+          "meklea",
+          "moana"
+        ],
+        "correct": 2,
+        "why_en": "meklea has kl together → conflicts with the rule.",
+        "why_id": "meklea punya kl berurutan → melanggar aturan."
+      },
+      {
+        "id": "ex2",
+        "stem": "a luau where everyone eats too much. It is implied that a luau is",
+        "options": [
+          "a dance",
+          "a feast",
+          "a concert",
+          "a language"
+        ],
+        "correct": 1,
+        "why_en": "eats too much → feast/meal event.",
+        "why_id": "eats too much → pesta makan."
+      }
+    ],
+    "checklist_id": [
+      "Cari kata implied / inferred / likely / probably.",
+      "Temukan detail pendukung di teks.",
+      "Simpulkan satu langkah saja (jangan lompat jauh).",
+      "Buang yang bertentangan dengan detail.",
+      "Pilih kesimpulan paling wajar."
+    ],
+    "checklist_en": [
+      "Spot implied / inferred / likely / probably.",
+      "Find the supporting detail in the text.",
+      "Infer only one step (do not leap far).",
+      "Drop what conflicts with the detail.",
+      "Pick the most reasonable conclusion."
+    ],
+    "remember_id": "**Implied = detail di teks + satu langkah kesimpulan.** Bukan stated, bukan tebak bebas.",
+    "remember_en": "**Implied = detail in the text + one-step conclusion.** Not stated, not a free guess."
+  },
+  {
+    "skillId": "skill-r7",
+    "code": "R7",
+    "title_en": "Answer transition questions correctly",
+    "title_id": "Jawab soal transisi antar paragraf",
+    "group_en": "Indirectly Answered Questions",
+    "group_id": "Pertanyaan Jawaban Tidak Langsung",
+    "summary_id": "Soal **preceding / following paragraph**: topik paragraf **sebelum** atau **sesudah** tidak ditulis — simpulkan dari **baris pertama** (sebelum) atau **baris terakhir** (sesudah).",
+    "summary_en": "**Preceding / following paragraph** questions: the nearby paragraph is not shown — infer from the **first line** (what came before) or the **last line** (what comes next).",
+    "formula": [
+      {
+        "label": "Ciri soal",
+        "en": "The paragraph preceding this passage most probably discusses…\nWhat is most likely in the paragraph following the passage?",
+        "id": "The paragraph preceding this passage most probably discusses…\nWhat is most likely in the paragraph following the passage?"
+      },
+      {
+        "label": "Di mana jawaban",
+        "en": "Preceding → FIRST line of the passage\nFollowing → LAST line of the passage",
+        "id": "Preceding → baris PERTAMA passage\nFollowing → baris TERAKHIR passage"
+      },
+      {
+        "label": "Sinyal transisi",
+        "en": "Another myth… → previous paragraph was a different myth\n…treasures located there. → next paragraph may discuss those treasures",
+        "id": "Another myth… → paragraf sebelumnya mitos lain\n…treasures located there. → paragraf berikutnya mungkin membahas harta itu"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Preceding = baca pembuka",
+        "title_en": "1. Preceding = read the opening",
+        "body_id": "Kata seperti another, also, this second… menunjuk ke topik sebelumnya.",
+        "body_en": "Words like another, also, this second… point back to the prior topic."
+      },
+      {
+        "title_id": "2. Following = baca penutup",
+        "title_en": "2. Following = read the closing",
+        "body_id": "Kalimat akhir sering memperkenalkan ide yang akan dikembangkan.",
+        "body_en": "The final sentence often introduces an idea to be developed next."
+      },
+      {
+        "title_id": "3. Jangan pilih topik dari tengah passage saja",
+        "title_en": "3. Do not pick a topic only from the middle",
+        "body_id": "Transisi = ujung paragraf, bukan detail tengah.",
+        "body_en": "Transition = the edge of the paragraph, not a mid-detail."
+      },
+      {
+        "title_id": "4. Kesimpulan satu langkah dari frasa transisi",
+        "title_en": "4. One-step inference from the transition phrase",
+        "body_id": "another myth of the oceans → previous = a different ocean myth.",
+        "body_en": "another myth of the oceans → previous = a different ocean myth."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "Passage starts: \"Another myth of the oceans concerns Davy Jones…\" Preceding paragraph most probably discusses?",
+        "options": [
+          "the youth of Davy Jones",
+          "Davy Jones's career as a sailor",
+          "a different traditional story from the sea",
+          "preparing to travel on the ocean"
+        ],
+        "correct": 2,
+        "why_en": "Another myth → previous was a different ocean myth/story.",
+        "why_id": "Another myth → sebelumnya mitos/cerita laut yang lain."
+      },
+      {
+        "id": "ex2",
+        "stem": "Passage ends: \"…considering all the treasures located there.\" Following paragraph most likely is about?",
+        "options": [
+          "valuable items at the bottom of the ocean",
+          "where Davy Jones lives today",
+          "Jonah and the whale",
+          "preventing objects from falling overboard"
+        ],
+        "correct": 0,
+        "why_en": "Last idea = treasures in the locker / ocean bottom.",
+        "why_id": "Ide terakhir = harta di dasar laut."
+      }
+    ],
+    "checklist_id": [
+      "Preceding atau following?",
+      "Preceding → baris pertama + kata another/also/this…",
+      "Following → baris terakhir + ide yang masih terbuka.",
+      "Buang detail tengah yang tidak di ujung.",
+      "Pilih topik yang paling natural menyambung."
+    ],
+    "checklist_en": [
+      "Preceding or following?",
+      "Preceding → first line + another/also/this…",
+      "Following → last line + an idea left open.",
+      "Drop mid-passage details not at the edge.",
+      "Pick the topic that links most naturally."
+    ],
+    "remember_id": "**Preceding = baris 1 · Following = baris akhir.** Another… / …treasures there.",
+    "remember_en": "**Preceding = line 1 · Following = last line.** Another… / …treasures there."
+  },
+  {
+    "skillId": "skill-r8",
+    "code": "R8",
+    "title_en": "Find definitions from structural clues",
+    "title_id": "Temukan definisi dari petunjuk struktur",
+    "group_en": "Vocabulary Questions",
+    "group_id": "Pertanyaan Kosakata",
+    "summary_id": "Arti kata sering **ada di teks** lewat petunjuk: **tanda baca** (—, (), ,), **restatement** (*or, that is, i.e.*), **contoh** (*such as, for example, e.g.*). Baca **setelah** petunjuk itu.",
+    "summary_en": "Word meaning is often **in the passage** via clues: **punctuation** (—, (), ,), **restatement** (*or, that is, i.e.*), **examples** (*such as, for example, e.g.*). Read **after** the clue.",
+    "formula": [
+      {
+        "label": "Jenis petunjuk",
+        "en": "Punctuation: dash — · parentheses ( ) · comma ,\nRestatement: or · that is · in other words · i.e.\nExamples: such as · for example · e.g.",
+        "id": "Tanda baca: dash — · kurung ( ) · koma ,\nRestatement: or · that is · in other words · i.e.\nContoh: such as · for example · e.g."
+      },
+      {
+        "label": "Langkah",
+        "en": "1. Find the word\n2. Locate the structural clue nearby\n3. Read carefully after the clue\n4. Match definition / example / synonym",
+        "id": "1. Temukan kata\n2. Cari petunjuk struktur di dekatnya\n3. Baca hati-hati setelah petunjuk\n4. Cocokkan definisi / contoh / sinonim"
+      },
+      {
+        "label": "Contoh",
+        "en": "behaviorism — the belief that… study behavior, which is observable\npositive reinforcement such as praise, food, or money → a reward\nnegative reinforcement, or punishment → punishment ≈ negative reinforcement",
+        "id": "behaviorism — the belief that… study behavior, which is observable\npositive reinforcement such as praise, food, or money → reward\nnegative reinforcement, or punishment → punishment ≈ negative reinforcement"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Dash / kurung sering = definisi",
+        "title_en": "1. Dash / parentheses often = definition",
+        "body_id": "X — definition… atau X (definition).",
+        "body_en": "X — definition… or X (definition)."
+      },
+      {
+        "title_id": "2. or / i.e. = restatement",
+        "title_en": "2. or / i.e. = restatement",
+        "body_id": "negative reinforcement, or punishment → arti setara di konteks itu.",
+        "body_en": "negative reinforcement, or punishment → roughly equivalent in that context."
+      },
+      {
+        "title_id": "3. such as = induksi dari contoh",
+        "title_en": "3. such as = induct from examples",
+        "body_id": "praise, food, money → reward (bukan penalty).",
+        "body_en": "praise, food, money → reward (not a penalty)."
+      },
+      {
+        "title_id": "4. Jawaban biasanya SETELAH petunjuk",
+        "title_en": "4. The answer is usually AFTER the clue",
+        "body_id": "Jangan hanya menebak dari pengetahuan umum jika teks memberi definisi.",
+        "body_en": "Do not only guess from general knowledge if the text supplies a definition."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "behaviorism — the belief that the psychologist studies behavior, which is observable… In behaviorism a psychologist is concerned with",
+        "options": [
+          "conscious thought patterns",
+          "unconscious thought patterns",
+          "observable actions",
+          "unobservable actions"
+        ],
+        "correct": 2,
+        "why_en": "Dash definition: behavior which is observable.",
+        "why_id": "Definisi setelah dash: behavior which is observable."
+      },
+      {
+        "id": "ex2",
+        "stem": "positive reinforcement such as praise, food, or money. Positive reinforcement might take the form of",
+        "options": [
+          "a gift",
+          "a reward",
+          "a bribe",
+          "a penalty"
+        ],
+        "correct": 1,
+        "why_en": "Examples are rewards for good behavior.",
+        "why_id": "Contoh = bentuk reward."
+      }
+    ],
+    "checklist_id": [
+      "Cari kata yang ditanyakan di passage.",
+      "Lihat —, (), koma, or, i.e., such as di dekatnya.",
+      "Baca bagian SETELAH petunjuk.",
+      "Cocokkan definisi / sinonim / kategori contoh.",
+      "Buang opsi yang bertentangan dengan contoh di teks."
+    ],
+    "checklist_en": [
+      "Find the tested word in the passage.",
+      "Look for —, (), commas, or, i.e., such as nearby.",
+      "Read the part AFTER the clue.",
+      "Match definition / synonym / example category.",
+      "Drop options that conflict with the text's examples."
+    ],
+    "remember_id": "**—, or, such as** = petunjuk arti. Baca **setelah** petunjuk.",
+    "remember_en": "**—, or, such as** = meaning clues. Read **after** the clue."
+  },
+  {
+    "skillId": "skill-r9",
+    "code": "R9",
+    "title_en": "Determine meanings from word parts",
+    "title_id": "Tentukan arti dari bagian kata (word parts)",
+    "group_en": "Vocabulary Questions",
+    "group_id": "Pertanyaan Kosakata",
+    "summary_id": "Kata panjang yang tidak dikenal bisa diurai: **prefix / root / suffix**. Contoh: **viv** = life → *vividly* ≈ lifelike; **mis** = error → *misspelled* ≈ written incorrectly; **dic** = speak → *diction* ≈ speech.",
+    "summary_en": "Unknown long words can be split into **prefix / root / suffix**. Example: **viv** = life → *vividly* ≈ lifelike; **mis** = error → *misspelled* ≈ written incorrectly; **dic** = speak → *diction* ≈ speech.",
+    "formula": [
+      {
+        "label": "Word parts (Longman short list)",
+        "en": "contra=against · dic=say · mal=bad · domin=master · mis=error\njud=judge · sub=under · mor=death · dec=ten · spec=see\nmulti=many · terr=earth · sol=one · ver=turn · tri=three · viv=live",
+        "id": "contra=against · dic=say · mal=bad · domin=master · mis=error\njud=judge · sub=under · mor=death · dec=ten · spec=see\nmulti=many · terr=earth · sol=one · ver=turn · tri=three · viv=live"
+      },
+      {
+        "label": "Contoh soal",
+        "en": "vividly (viv=life) → in a lifelike way\nmisspelled (mis=error) → incorrectly written\ndiction (dic=speak) → speech",
+        "id": "vividly (viv=life) → in a lifelike way\nmisspelled (mis=error) → incorrectly written\ndiction (dic=speak) → speech"
+      },
+      {
+        "label": "Langkah",
+        "en": "1. Spot familiar parts inside the word\n2. Recall the core meaning\n3. Match the closest option\n4. Check that context does not contradict",
+        "id": "1. Temukan bagian familiar di dalam kata\n2. Ingat arti inti\n3. Cocokkan opsi terdekat\n4. Cek konteks tidak bertentangan"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Root sering membawa makna inti",
+        "title_en": "1. The root often carries the core meaning",
+        "body_id": "viv / dict / spect / terr — hidup / bilang / lihat / bumi.",
+        "body_en": "viv / dict / spect / terr — live / say / see / earth."
+      },
+      {
+        "title_id": "2. Prefix mengubah arah/nilai",
+        "title_en": "2. Prefixes change direction or value",
+        "body_id": "mis- error · mal- bad · sub- under · contra- against · multi- many.",
+        "body_en": "mis- error · mal- bad · sub- under · contra- against · multi- many."
+      },
+      {
+        "title_id": "3. Tetap cek konteks passage",
+        "title_en": "3. Still check passage context",
+        "body_id": "Word part memberi petunjuk kuat, bukan jaminan 100% tanpa kalimat.",
+        "body_en": "Word parts are strong clues, not a guarantee without the sentence."
+      },
+      {
+        "title_id": "4. Latihan daftar pendek dulu",
+        "title_en": "4. Practice the short list first",
+        "body_id": "Hafalkan 15–20 parts yang sering muncul di TOEFL reading.",
+        "body_en": "Memorize 15–20 high-frequency parts for TOEFL reading."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "Lardner vividly creates the language… The word vividly is closest in meaning to",
+        "options": [
+          "in a cultured way",
+          "in a correct way",
+          "in a lifelike way",
+          "in a brief way"
+        ],
+        "correct": 2,
+        "why_en": "viv = life → lifelike.",
+        "why_id": "viv = life → lifelike."
+      },
+      {
+        "id": "ex2",
+        "stem": "misspelled words… This word is closest in meaning to",
+        "options": [
+          "highly improper",
+          "incorrectly written",
+          "quite vulgar",
+          "extremely long"
+        ],
+        "correct": 1,
+        "why_en": "mis = error + spell → incorrectly written.",
+        "why_id": "mis = error + spell → incorrectly written."
+      }
+    ],
+    "checklist_id": [
+      "Pecah kata: prefix / root / suffix?",
+      "Cocokkan dengan daftar arti (viv, mis, dic…).",
+      "Pilih opsi yang selaras dengan root/prefix.",
+      "Skim kalimat untuk konfirmasi.",
+      "Buang opsi yang tidak berhubungan dengan part itu."
+    ],
+    "checklist_en": [
+      "Split the word: prefix / root / suffix?",
+      "Match the short meaning list (viv, mis, dic…).",
+      "Pick the option aligned with the root/prefix.",
+      "Skim the sentence to confirm.",
+      "Drop options unrelated to that part."
+    ],
+    "remember_id": "**viv=life · mis=error · dic=say · sub=under · mal=bad · multi=many · terr=earth**",
+    "remember_en": "**viv=life · mis=error · dic=say · sub=under · mal=bad · multi=many · terr=earth**"
+  },
+  {
+    "skillId": "skill-r10",
+    "code": "R10",
+    "title_en": "Use context to determine meanings of difficult words",
+    "title_id": "Pakai konteks untuk arti kata sulit",
+    "group_en": "Vocabulary Questions",
+    "group_id": "Pertanyaan Kosakata",
+    "summary_id": "Kata yang **tidak diharapkan kamu hafal** biasanya **dijelaskan oleh konteks**: definisi tersirat, kontras (*unknown* vs *prominence*), atau sinonim di kalimat yang sama/berikutnya.",
+    "summary_en": "Words you are **not expected to know** are usually **explained by context**: implied definition, contrast (*unknown* vs *prominence*), or a nearby synonym.",
+    "formula": [
+      {
+        "label": "Ciri soal",
+        "en": "What is the meaning of X?\nX is closest in meaning to…\nClick on the word closest in meaning to…",
+        "id": "What is the meaning of X?\nX is closest in meaning to…\nClick on the word closest in meaning to…"
+      },
+      {
+        "label": "Jenis petunjuk konteks",
+        "en": "Explanation: a person who is already in office → incumbent\nContrast: prominence vs unknown → fame\nSubstitution test: tendency fits where proclivity is",
+        "id": "Penjelasan: a person who is already in office → incumbent\nKontras: prominence vs unknown → fame\nUji substitusi: tendency pas di tempat proclivity"
+      },
+      {
+        "label": "Langkah",
+        "en": "1. Find the word\n2. Read the full sentence (and neighbors)\n3. Use contrast / explanation / substitution\n4. Pick the option the context supports",
+        "id": "1. Temukan kata\n2. Baca kalimat penuh (+ sekitarnya)\n3. Pakai kontras / penjelasan / substitusi\n4. Pilih opsi yang didukung konteks"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Jangan panik jika kata asing",
+        "title_en": "1. Do not panic if the word is unfamiliar",
+        "body_id": "TOEFL sering memberi cukup konteks tanpa kamus.",
+        "body_en": "TOEFL often supplies enough context without a dictionary."
+      },
+      {
+        "title_id": "2. Kontras sangat kuat",
+        "title_en": "2. Contrast is powerful",
+        "body_id": "already in office vs newcomer · prominence vs unknown.",
+        "body_en": "already in office vs newcomer · prominence vs unknown."
+      },
+      {
+        "title_id": "3. Uji ganti kata (substitution)",
+        "title_en": "3. Try substitution",
+        "body_id": "Ganti X dengan tiap opsi — mana yang paling natural?",
+        "body_en": "Replace X with each option — which sounds most natural?"
+      },
+      {
+        "title_id": "4. Baca satu kalimat sebelum & sesudah",
+        "title_en": "4. Read one sentence before and after",
+        "body_id": "Petunjuk sering di kalimat penjelasan berikutnya.",
+        "body_en": "The clue is often in the next explanatory sentence."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "…the incumbent… A person who is already in office… An incumbent is most likely",
+        "options": [
+          "a special type of election",
+          "a political party",
+          "a beneficial comment",
+          "a current office-holder"
+        ],
+        "correct": 3,
+        "why_en": "Context defines: already in office.",
+        "why_id": "Konteks: already in office."
+      },
+      {
+        "id": "ex2",
+        "stem": "prominence … someone who is unknown. Prominence is closest to",
+        "options": [
+          "fame",
+          "timeliness",
+          "youthfulness",
+          "novelty"
+        ],
+        "correct": 0,
+        "why_en": "Contrast with unknown → fame/being known.",
+        "why_id": "Kontras dengan unknown → fame."
+      }
+    ],
+    "checklist_id": [
+      "Temukan kata di passage.",
+      "Baca kalimat + 1 sebelum/sesudah.",
+      "Cari definisi tersirat / kontras / sinonim.",
+      "Uji substitusi opsi.",
+      "Pilih yang paling cocok konteks (bukan tebak kamus)."
+    ],
+    "checklist_en": [
+      "Find the word in the passage.",
+      "Read the sentence + one before/after.",
+      "Look for implied definition / contrast / synonym.",
+      "Test options by substitution.",
+      "Pick what fits the context (not a dictionary guess)."
+    ],
+    "remember_id": "**Konteks > kamus.** *already in office* → incumbent · *vs unknown* → prominence ≈ fame",
+    "remember_en": "**Context > dictionary.** *already in office* → incumbent · *vs unknown* → prominence ≈ fame"
+  },
+  {
+    "skillId": "skill-r11",
+    "code": "R11",
+    "title_en": "Use context for secondary meanings of simple words",
+    "title_id": "Arti sekunder kata sederhana dari konteks",
+    "group_en": "Vocabulary Questions",
+    "group_id": "Pertanyaan Kosakata",
+    "summary_id": "Kata **sehari-hari** di reading sering dipakai **bukan arti utama**: *steps* ≠ stairs, *crop* ≠ hasil panen, *chair* ≠ kursi. Pilih arti yang **pas di kalimat**.",
+    "summary_en": "Everyday words in reading often use a **secondary meaning**: *steps* ≠ stairs, *crop* ≠ farm produce, *chair* ≠ furniture. Pick what **fits the sentence**.",
+    "formula": [
+      {
+        "label": "Contoh klasik",
+        "en": "taking steps → actions (not stairs)\na new crop of trainees → group (not produce)\nchair the committee → lead (not sit on a chair)",
+        "id": "taking steps → actions (bukan tangga)\na new crop of trainees → group (bukan panen)\nchair the committee → lead (bukan duduk di kursi)"
+      },
+      {
+        "label": "Langkah",
+        "en": "1. Notice the word is common\n2. Reject the primary/literal meaning if it fails in context\n3. Test each option in the sentence\n4. Keep the one that sounds natural",
+        "id": "1. Sadari kata itu umum\n2. Tolak arti utama/literal jika tidak pas\n3. Uji tiap opsi di kalimat\n4. Pertahankan yang natural"
+      },
+      {
+        "label": "Ciri soal",
+        "en": "could best be replaced by…\nClick on the word that could best be replaced by X",
+        "id": "could best be replaced by…\nClick on the word that could best be replaced by X"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Arti utama sering jebakan",
+        "title_en": "1. The primary meaning is often a trap",
+        "body_id": "stairs / produce / furniture — masuk akal di kamus, salah di konteks company/committee.",
+        "body_en": "stairs / produce / furniture — fine in a dictionary, wrong for company/committee context."
+      },
+      {
+        "title_id": "2. Substitusi = tes terbaik",
+        "title_en": "2. Substitution is the best test",
+        "body_id": "taking stairs to improve outlook? Tidak. taking actions? Ya.",
+        "body_en": "taking stairs to improve outlook? No. taking actions? Yes."
+      },
+      {
+        "title_id": "3. Banyak kata kerja/noun ganda di formal English",
+        "title_en": "3. Many formal uses are secondary",
+        "body_id": "run a program · address a problem · field questions · table a motion.",
+        "body_en": "run a program · address a problem · field questions · table a motion."
+      },
+      {
+        "title_id": "4. Jangan terpaku pada gambar mental pertama",
+        "title_en": "4. Do not lock onto the first mental image",
+        "body_id": "Baca full phrase: crop of trainees, chair the committee.",
+        "body_en": "Read the full phrase: crop of trainees, chair the committee."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "The company is taking steps to improve its outlook. steps could best be replaced by",
+        "options": [
+          "stairs",
+          "walks",
+          "actions",
+          "footprints"
+        ],
+        "correct": 2,
+        "why_en": "taking actions fits; stairs/walks/footprints do not.",
+        "why_id": "taking actions pas; stairs/walks/footprints tidak."
+      },
+      {
+        "id": "ex2",
+        "stem": "a new crop of trainees. crop could best be replaced by",
+        "options": [
+          "produce",
+          "group",
+          "situation",
+          "plantation"
+        ],
+        "correct": 1,
+        "why_en": "group of trainees; not farm produce.",
+        "why_id": "group of trainees; bukan hasil panen."
+      }
+    ],
+    "checklist_id": [
+      "Apakah arti utama terdengar aneh di kalimat?",
+      "Uji tiap opsi dengan substitusi.",
+      "Buang literal stairs/produce/kursi jika konteks formal.",
+      "Pilih yang paling natural dalam frase penuh.",
+      "Konfirmasi dengan kalimat sebelum/sesudah."
+    ],
+    "checklist_en": [
+      "Does the primary meaning sound odd in the sentence?",
+      "Test each option by substitution.",
+      "Drop literal stairs/produce/chair if the context is formal.",
+      "Pick what is most natural in the full phrase.",
+      "Confirm with neighboring sentences."
+    ],
+    "remember_id": "**Simple word, secondary sense.** *steps*=actions · *crop*=group · *chair*=lead",
+    "remember_en": "**Simple word, secondary sense.** *steps*=actions · *crop*=group · *chair*=lead"
+  },
+  {
+    "skillId": "skill-r12",
+    "code": "R12",
+    "title_en": "Determine where specific information is found",
+    "title_id": "Tentukan di mana informasi spesifik berada",
+    "group_en": "Overall Review Questions",
+    "group_id": "Pertanyaan Tinjauan Keseluruhan",
+    "summary_id": "Soal **Where in the passage…?** / **Click on the sentence that…** — cari **kata kunci** soal, skim passage, cocokkan **baris atau kalimat** yang memuat ide itu (sering sinonim: *made of* ≈ composition, *visible* ≈ can be seen).",
+    "summary_en": "**Where in the passage…?** / **Click on the sentence that…** — take a **key word** from the question, skim, match the **line or sentence** that holds that idea (often a synonym: *made of* ≈ composition, *visible* ≈ can be seen).",
+    "formula": [
+      {
+        "label": "Ciri soal",
+        "en": "Where in the passage does the author discuss…?\nClick on the sentence that mentions…",
+        "id": "Where in the passage does the author discuss…?\nClick on the sentence that mentions…"
+      },
+      {
+        "label": "Langkah",
+        "en": "1. Key word/idea from the question\n2. Skim listed lines or the full paragraph\n3. Match synonym if exact word is missing\n4. Pick the location that contains it",
+        "id": "1. Kata kunci/ide dari soal\n2. Skim baris yang dilist atau paragraf penuh\n3. Cocokkan sinonim jika kata persis tidak ada\n4. Pilih lokasi yang memuatnya"
+      },
+      {
+        "label": "Contoh sinonim",
+        "en": "composition → made of\ncan be seen → visible\ndistance → ten miles / how far",
+        "id": "composition → made of\ncan be seen → visible\ndistance → ten miles / how far"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Ini soal lokasi, bukan isi mendalam",
+        "title_en": "1. This is location, not deep content",
+        "body_id": "Cukup temukan di mana; tidak perlu interpretasi panjang.",
+        "body_en": "Just find where; no long interpretation needed."
+      },
+      {
+        "title_id": "2. Skim cepat dengan kata kunci",
+        "title_en": "2. Skim fast with key words",
+        "body_id": "Jangan baca ulang seluruh passage pelan-pelan.",
+        "body_en": "Do not reread the whole passage slowly."
+      },
+      {
+        "title_id": "3. Siap dengan sinonim / parafrase",
+        "title_en": "3. Expect synonyms / paraphrase",
+        "body_id": "Soal bilang composition; teks bilang made of nickel and iron.",
+        "body_en": "Question says composition; text says made of nickel and iron."
+      },
+      {
+        "title_id": "4. Opsi baris = batasi area skim",
+        "title_en": "4. Line options limit the skim area",
+        "body_id": "Pada paper-style, cukup cek rentang baris A–D.",
+        "body_en": "On paper-style items, only check the listed line ranges."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "Where does the author discuss the composition of the meteor? (made of nickel and iron in lines 4–5)",
+        "options": [
+          "Lines 1-3",
+          "Lines 4-5",
+          "Lines 6-8",
+          "Lines 9-11"
+        ],
+        "correct": 1,
+        "why_en": "made of = composition → lines 4-5.",
+        "why_id": "made of = composition → baris 4-5."
+      },
+      {
+        "id": "ex2",
+        "stem": "Which sentence mentions the distance from which the crater can be seen?",
+        "options": [
+          "impact 50,000 years ago",
+          "made of nickel and iron",
+          "mile in diameter",
+          "visible for more than ten miles"
+        ],
+        "correct": 3,
+        "why_en": "visible + ten miles = seen + distance.",
+        "why_id": "visible + ten miles = seen + distance."
+      }
+    ],
+    "checklist_id": [
+      "Ambil kata kunci dari soal.",
+      "Skim opsi baris / kalimat.",
+      "Cari kata sama atau sinonim.",
+      "Pastikan ide benar-benar ada di lokasi itu.",
+      "Jangan pilih lokasi yang hanya topik mirip tanpa detail diminta."
+    ],
+    "checklist_en": [
+      "Take a key word from the question.",
+      "Skim the line/sentence options.",
+      "Find the same word or a synonym.",
+      "Confirm the idea is really there.",
+      "Do not pick a similar topic without the requested detail."
+    ],
+    "remember_id": "**Where? = skim kata kunci + sinonim.** *composition*↔*made of* · *seen*↔*visible*",
+    "remember_en": "**Where? = skim key word + synonym.** *composition*↔*made of* · *seen*↔*visible*"
+  },
+  {
+    "skillId": "skill-r13",
+    "code": "R13",
+    "title_en": "Determine the tone, purpose, or course",
+    "title_id": "Tentukan tone, purpose, atau course",
+    "group_en": "Overall Review Questions",
+    "group_id": "Pertanyaan Tinjauan Keseluruhan",
+    "summary_id": "Tiga jenis soal review: **tone** (emosi penulis / netral faktual), **purpose** (tujuan menulis — sering lebih umum dari main idea), **course** (mata kuliah yang mungkin assign bacaan ini).",
+    "summary_en": "Three review types: **tone** (author emotion / neutral factual), **purpose** (why written — often more general than the main idea), **course** (which class might assign this reading).",
+    "formula": [
+      {
+        "label": "Tone",
+        "en": "Most TOEFL passages: informational / factual / explanatory\nWith emotion: humorous · sarcastic · impassioned · critical",
+        "id": "Kebanyakan passage TOEFL: informational / factual / explanatory\nAda emosi: humorous · sarcastic · impassioned · critical"
+      },
+      {
+        "label": "Purpose",
+        "en": "From main idea + organization of details\nOften more GENERAL than the specific topic",
+        "id": "Dari main idea + organisasi detail\nSering LEBIH UMUM dari topik spesifik"
+      },
+      {
+        "label": "Course",
+        "en": "From topic + supporting details (history dates → American history; government → political science)",
+        "id": "Dari topik + detail pendukung (tanggal sejarah → American history; pemerintahan → political science)"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Tone: cari indikasi emosi",
+        "title_en": "1. Tone: look for emotion cues",
+        "body_id": "Hanya fakta + time expressions → informational.",
+        "body_en": "Only facts + time expressions → informational."
+      },
+      {
+        "title_id": "2. Purpose lebih umum dari main idea sempit",
+        "title_en": "2. Purpose is more general than a narrow main idea",
+        "body_id": "Generalisasi dari pola detail.",
+        "body_en": "Generalize from the detail pattern."
+      },
+      {
+        "title_id": "3. Course: cocokkan disiplin dengan jenis detail",
+        "title_en": "3. Course: match discipline to detail type",
+        "body_id": "Kronologi medali → history; lab → science.",
+        "body_en": "Medal chronology → history; lab → science."
+      },
+      {
+        "title_id": "4. Buang emosi ekstrem jika teks datar",
+        "title_en": "4. Drop extreme emotion if text is flat",
+        "body_id": "angered/outraged jarang untuk narasi netral.",
+        "body_en": "angered/outraged rare for neutral narration."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "U.S. military awards passage with dates only. Tone?",
+        "options": [
+          "angered",
+          "humorous",
+          "outraged",
+          "informational"
+        ],
+        "correct": 3,
+        "why_en": "Facts only → informational.",
+        "why_id": "Hanya fakta → informational."
+      },
+      {
+        "id": "ex2",
+        "stem": "Anti-awards because awards symbolize royalty. Purpose?",
+        "options": [
+          "describe awards only before Civil War",
+          "demonstrate an effect of attitude toward royalty",
+          "personal opinion only",
+          "outline all royal symbols"
+        ],
+        "correct": 1,
+        "why_en": "Generalizes the causal link.",
+        "why_id": "Generalisasi hubungan sebab-akibat."
+      }
+    ],
+    "checklist_id": [
+      "Tone: emosi atau fakta?",
+      "Purpose: lebih umum dari topik?",
+      "Course: topik + jenis bukti?",
+      "Buang marah/lucu jika netral.",
+      "Course harus cocok detail."
+    ],
+    "checklist_en": [
+      "Tone: emotion or facts?",
+      "Purpose: more general than topic?",
+      "Course: topic + evidence type?",
+      "Drop angry/funny if neutral.",
+      "Course must fit details."
+    ],
+    "remember_id": "**Tone** = emosi/netral · **Purpose** = tujuan umum · **Course** = kelas dari topik+detail",
+    "remember_en": "**Tone** = emotion/neutral · **Purpose** = general aim · **Course** = class from topic+details"
+  },
+  {
+    "skillId": "skill-r14",
+    "code": "R14",
+    "title_en": "Determine where to insert a piece of information",
+    "title_id": "Tentukan di mana menyisipkan sebuah kalimat",
+    "group_en": "Overall Review Questions",
+    "group_id": "Pertanyaan Tinjauan Keseluruhan",
+    "summary_id": "Soal **insert sentence**: baca kalimat sisipan (kata di awal/akhir), lalu cocokkan dengan **konteks sebelum & sesudah** tiap kotak ■. Pronoun (*this expression*, *one brother*) harus punya **antecedent** yang jelas.",
+    "summary_en": "**Insert sentence** questions: read the sentence to insert (words at start/end), then match **context before & after** each ■ box. Pronouns (*this expression*, *one brother*) need a clear **antecedent**.",
+    "formula": [
+      {
+        "label": "Ciri soal",
+        "en": "The following sentence could be added…\nWhere would it best fit?\nClick on the square…",
+        "id": "The following sentence could be added…\nWhere would it best fit?\nClick on the square…"
+      },
+      {
+        "label": "Langkah",
+        "en": "1. Key words at start/end of the new sentence\n2. Read before/after each insertion mark\n3. Match pronouns, examples, transitions\n4. Pick the most related square",
+        "id": "1. Kata kunci di awal/akhir kalimat baru\n2. Baca sebelum/sesudah tiap tanda sisipan\n3. Cocokkan pronoun, contoh, transisi\n4. Pilih kotak paling terkait"
+      },
+      {
+        "label": "Contoh",
+        "en": "two royal brothers → insert about one brother / remaining brother after that sentence\ncheckmate expression → insert explanation of this expression after checkmate is named",
+        "id": "two royal brothers → sisipkan tentang one brother setelah kalimat itu\nungkapan checkmate → sisipkan penjelasan this expression setelah checkmate disebut"
+      }
+    ],
+    "rules": [
+      {
+        "title_id": "1. Pronoun butuh antecedent di depan",
+        "title_en": "1. Pronouns need an antecedent before them",
+        "body_id": "this expression / these legends / one brother harus merujuk ke sesuatu yang sudah ada.",
+        "body_en": "this expression / these legends / one brother must point to something already present."
+      },
+      {
+        "title_id": "2. Transisi harus logis",
+        "title_en": "2. Transitions must be logical",
+        "body_id": "Another / For example / As a result harus menyambung topik sekitarnya.",
+        "body_en": "Another / For example / As a result must connect to nearby topic."
+      },
+      {
+        "title_id": "3. Jangan putus alur yang sudah rapat",
+        "title_en": "3. Do not break a tight sequence",
+        "body_id": "Jika A→B sudah nyambung sempurna, sisipan di tengah sering salah.",
+        "body_en": "If A→B already connects perfectly, a mid insertion is often wrong."
+      },
+      {
+        "title_id": "4. Baca SEBELUM dan SESUDAH kotak",
+        "title_en": "4. Read BEFORE and AFTER the box",
+        "body_id": "Konteks dua arah.",
+        "body_en": "Two-direction context."
+      }
+    ],
+    "examples": [
+      {
+        "id": "ex1",
+        "stem": "Insert: When one brother was killed, the remaining brother had the game invented… Best after mention of two royal brothers.",
+        "options": [
+          "before all legends",
+          "after two royal brothers sentence",
+          "after Sassa only",
+          "after checkmate only"
+        ],
+        "correct": 1,
+        "why_en": "one brother / remaining brother need two royal brothers first.",
+        "why_id": "one brother butuh two royal brothers dulu."
+      },
+      {
+        "id": "ex2",
+        "stem": "Insert: This expression is used… to indicate the king is on the verge of losing. Best after checkmate is defined.",
+        "options": [
+          "before Persian terms",
+          "after rook only",
+          "after Shahmat… checkmate",
+          "at the very start"
+        ],
+        "correct": 2,
+        "why_en": "this expression → checkmate just named.",
+        "why_id": "this expression → checkmate baru disebut."
+      }
+    ],
+    "checklist_id": [
+      "Baca kalimat sisipan dulu.",
+      "Tandai pronoun/transisi.",
+      "Cek tiap ■: sebelum + sesudah.",
+      "Antecedent harus sudah muncul.",
+      "Alur tetap natural."
+    ],
+    "checklist_en": [
+      "Read the insert sentence first.",
+      "Mark pronouns/transitions.",
+      "Check each ■: before + after.",
+      "Antecedent must already appear.",
+      "Flow stays natural."
+    ],
+    "remember_id": "**Insert = cocokkan kunci kalimat dengan konteks ■.** Pronoun → antecedent di depan.",
+    "remember_en": "**Insert = match sentence keys to ■ context.** Pronoun → antecedent before."
   }
 ]

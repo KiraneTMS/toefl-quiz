@@ -575,10 +575,91 @@
     "placeholder": false
   },
   {
+    "id": "skill-r6",
+    "code": "R6",
+    "section": "reading",
+    "group": "Indirectly Answered Questions",
+    "title": "Answer implied detail questions correctly",
+    "description": "inferred / implied / likely / probably — simpulkan dari detail di teks.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-r7",
+    "code": "R7",
+    "section": "reading",
+    "group": "Indirectly Answered Questions",
+    "title": "Answer transition questions correctly",
+    "description": "Paragraf sebelum/sesudah — baca baris pertama atau terakhir passage.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-r8",
+    "code": "R8",
+    "section": "reading",
+    "group": "Vocabulary Questions",
+    "title": "Find definitions from structural clues",
+    "description": "Dash, or, such as, i.e. — definisi/contoh di dekat kata sulit.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-r9",
+    "code": "R9",
+    "section": "reading",
+    "group": "Vocabulary Questions",
+    "title": "Determine meanings from word parts",
+    "description": "Prefix/root/suffix: viv=life, mis=error, dic=speak, sub=under…",
+    "placeholder": false
+  },
+  {
+    "id": "skill-r10",
+    "code": "R10",
+    "section": "reading",
+    "group": "Vocabulary Questions",
+    "title": "Use context for difficult words",
+    "description": "Arti kata sulit dari kalimat sekitar — kontras, penjelasan, sinonim kontekstual.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-r11",
+    "code": "R11",
+    "section": "reading",
+    "group": "Vocabulary Questions",
+    "title": "Secondary meanings of simple words",
+    "description": "steps≠stairs · crop≠produce · chair≠furniture — arti kontekstual.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-r12",
+    "code": "R12",
+    "section": "reading",
+    "group": "Overall Review Questions",
+    "title": "Where specific information is found",
+    "description": "Where in the passage…? — skim kata kunci, cocokkan baris/kalimat.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-r13",
+    "code": "R13",
+    "section": "reading",
+    "group": "Overall Review Questions",
+    "title": "Tone, purpose, or course",
+    "description": "Tone (informational/humorous…) · purpose · course yang mungkin assign passage.",
+    "placeholder": false
+  },
+  {
+    "id": "skill-r14",
+    "code": "R14",
+    "section": "reading",
+    "group": "Overall Review Questions",
+    "title": "Where to insert a sentence",
+    "description": "Kalimat sisipan — cocokkan kata kunci dengan konteks sebelum/sesudah kotak.",
+    "placeholder": false
+  },
+  {
     "id": "reading-skill-more",
     "code": "R…",
     "section": "reading",
-    "group": "Directly Answered Questions",
+    "group": "Overall Review Questions",
     "title": "Skill Reading berikutnya — coming soon",
     "description": "Slot untuk skill Reading selanjutnya.",
     "placeholder": true
